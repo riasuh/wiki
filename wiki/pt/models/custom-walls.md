@@ -4,7 +4,7 @@
 :::tip NOTA As paredes precisam ser feitas especificamente para Quest ou PC e não podem ser trocadas entre as duas. Você pode dizer para qual plataforma uma parede se destina pela extensão do arquivo. `Arquivos .pixie` são para o PC enquanto o Quest usa arquivos `.zip`. :::
 
 ### PC Walls
-A última versão do Custom Walls pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [Mod Assistant](https://github.com/Assistant/ModAssistant).
+The latest Custom Walls mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant).
 
 Uma vez instalado, você deve ver uma pasta `CustomWalls` na [sua pasta de instalação](/faq/install-folder.md). Esta pasta é onde você colocará os arquivos `*.pixie`.
 

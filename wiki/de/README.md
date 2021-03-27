@@ -6,7 +6,7 @@ tagline: Willkommen zu der Beat Saber Modding Group Wiki!
 description: Willkommen zu der Beat Saber Modding Group Wiki!
 actionText: Anfänger Guide →
 actionLink: ./beginners-guide.md
-footer: Copyright © 2019-2020 Beat Saber Modding Group | Lizenziert unter CC BY-NC-SA 4.0
+footer: Copyright © 2019-2021 Beat Saber Modding Group | Lizenziert unter CC BY-NC-SA 4.0
 tags:
   - bsmg
   - Beat Saber
@@ -51,13 +51,14 @@ tags:
 ## Externe Links
 
 * [Tritt unserem Discord Server bei!](https://discord.gg/beatsabermods)
+* [Kontaktiere uns](http://bit.ly/MessageBSMG) - Biete uns deine Fähigkeiten an, sponser uns, lege Einspruch gegen einen Server-Mute/Ban ein, melde einen Benutzer usw.
 * [BSMG Patreon](https://www.patreon.com/beatsabermods) - Unterstütze die BSMG Services!
-* [BeatMods](https://beatmods.com) - Repository für alle PC Mods die in Installern wir Mod Assistant angezeigt werden
+* [BeatMods](https://beatmods.com) - Repository für alle PC Mods die in Installern wie Mod Assistant angezeigt werden
 * [BeatSaver](https://beatsaver.com/) - Lade eigene Songs hier herunter
 * [BeastSaber](https://bsaber.com/) - Bewertungen, Artikel, Playlists und mehr!
 * [ModelSaber](https://modelsaber.com/) - Lade eigene Saber, Avatare, Bloqs und Plattformen herunter!
-* [Qosmetics Discord](https://discord.gg/qosmetics) - Downloade eigene Schwerter, Wände und Blöcke für die Quest!
-* [ScoreSaber](https://scoresaber.com/) - Ranglisten für eigene Songs
-* [Bewerbe dich hier mitzuhelfen die Wiki zu übersetzen!](https://forms.gle/e3BqA3poMjESARe76) - Lokalisiere die Wiki in deine Sprache!
-* [Steam Store Seite](https://store.steampowered.com/app/620980/Beat_Saber/)
-* [Oculus Store Seite](https://www.oculus.com/experiences/rift/1304877726278670/)
+* [Qosmetics Discord](https://discord.gg/qosmetics) - Downloade eigene Saber, Walls und Blöcke für die Quest!
+* [ScoreSaber](https://scoresaber.com/) - Ranglisten für Custom Songs
+* [Bewerbe dich hier mitzuhelfen um das BSMG Wiki zu übersetzen!](https://forms.gle/e3BqA3poMjESARe76) - Lokalisiere die Wiki in deine Sprache!
+* [Steam-Shopseite](https://store.steampowered.com/app/620980/Beat_Saber/)
+* [Oculus-Shopseite](https://www.oculus.com/experiences/rift/1304877726278670/)

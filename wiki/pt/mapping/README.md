@@ -173,7 +173,7 @@ Here are some mods that might make your mapping workflow a little easier.
 * [SiraUtil](./basic-lighting.md#in-game-with-fpfc) by **auros**  
   With the First Person Flying Controller (FPFC) launch parameter, this allows you to control the game while a map is playing with your keyboard and mouse without using a headset. See the section in [Basic Lighting](./basic-lighting.md#in-game-with-fpfc) for links to the mods and how to set it up.
 * [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) by **Kyle1413**  
-  Plugin for Beat Saber to control playback speed, seek through songs and set up looping sections. Install the latest version from [ModAssistant](https://github.com/Assistant/ModAssistant#readme)!
+  Mod for Beat Saber to control playback speed, seek through songs and set up looping sections. Install the latest version from [Mod Assistant](https://github.com/Assistant/ModAssistant#readme)!
 * [ReLoader](https://github.com/Kylemc1413/ReLoader) by **Kyle1413**  
   Allows you to hot reload beatmaps in practice mode without needing to return to the menu to refresh. Really convenient for wall mapping.
 

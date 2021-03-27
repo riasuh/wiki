@@ -4,7 +4,7 @@
 
 :::warning Custom Avatars is a PC only mod. :::
 
-La dernière version de l'extension Custom Avatar peut être trouvée dans le [canal textuel #pc-mods](https://discord.gg/beatsabermods) du Discord BSMG ou dans [Mod Assistant](https://github.com/Assistant/ModAssistant). Une fois installée, vous trouverez un fichier nommé `CustomAvatar.dll` dans votre dossier `Plugins`. You should also see a folder called `CustomAvatars` in [your install folder](/faq/install-folder.md) — this is where you will be placing the `*.avatar` files you want to use.
+The latest Custom Avatar mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Une fois installée, vous trouverez un fichier nommé `CustomAvatar.dll` dans votre dossier `Plugins`. You should also see a folder called `CustomAvatars` in [your install folder](/faq/install-folder.md) — this is where you will be placing the `*.avatar` files you want to use.
 
 Vous pouvez télécharger plus d'avatars sur [ModelSaber](https://modelsaber.com/Avatars/).
 

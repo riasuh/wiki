@@ -35,7 +35,7 @@ Tillämplig hårdvara inkluderar:
 Lär dig hur du skapar din egen nivå genom att följa vår [mappning](./mapping/) guide!
 
 ### Skapa Mods
-Kom igång med att skapa plugin för spelet genom att följa vår [modskapnings](./modding/) guide!
+Get started creating mods for the game by following our [mod creation](./modding/) guide!
 
 ### Skapa 3D-modeller
 Lär dig hur man skapar 3D-modeller för spelet!

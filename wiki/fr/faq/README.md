@@ -12,10 +12,8 @@ Si vous téléchargez des maps manuellement depuis BeatSaver, décompressez le f
 [Beast Saber](https://www.bsaber.com) est un site de critique qui a pour but de rendre plus accessible toutes les chansons présentes sur BeatSaver. Vous pouvez aussi y télécharger des playlists, suivre des mappeurs, trouver des chansons grâce à des méthodes de tri et filtre, etc.
 
 ### Outils de gestion de chansons
-Les programmes suivants peuvent être utilisés sur votre ordinateur pour vous aider à télécharger des chansons personnalisées, avec des fonctionnalités supplémentaires.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view), un téléchargeur de maps par Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) est une application pour gérer des playlists et des beatmaps par Alaanor.
+There are no working song management apps available at this time.
 
 ## Comment installer des playlists ?
 
@@ -24,8 +22,8 @@ Vous devez installer le mod [PlaylistManager](https://github.com/rithik-b/Playli
 
 Ensuite, vous pouvez soit :
 
-* Utiliser l'outil `Installer une playlist` dans l'onglet Options de Mod Assistant.
-* Placer le fichier de playlist dans `Beat Saber/Playlists` et sélectionnez la en jeu, puis appuyez sur le bouton *Download*.
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Vous devriez maintenant voir la playlist à côté de l'album des niveaux personnalisés (Custom Levels) en jeu. Le mod prend également en charge la gestion des playlists depuis le jeu.
 
@@ -47,7 +45,7 @@ Officiellement, le multijoueur se limite aux joueurs de la même version du jeu 
 Le mod BeatTogether est la solution actuelle permettant le multiplateforme entre les versions moddées du jeu. Rejoignez leur [serveur Discord](https://discord.com/invite/gezGrFG4tz) (anglophone) et consultez le salon `#install-instructions` pour plus d'informations.
 
 ## Mon jeu a été mis à jour et mes mods ne fonctionnent plus !
-À chaque fois que le jeu est mis à jour, il est possible *(et très probable)* que vos mods ne fonctionnent plus et doivent être mis à jour. Les développeurs du jeu l'ont réalisé, donc quand le jeu est mis à jour et que vous le lancez pour la première fois, tout ce qui se trouve dans le dossier `Plugins` est déplacé dans un nouveau dossier nommé `Old 1.xx.x Plugins`. **Laissez-les à cet emplacement !**
+À chaque fois que le jeu est mis à jour, il est possible *(et très probable)* que vos mods ne fonctionnent plus et doivent être mis à jour. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
 
 Pour récupérer vos mods, **lancez simplement l'installateur de mods.**  
 Vous y trouverez les mods qui fonctionnent pour la dernière version du jeu, qui sont inclus dans le dépôt BeatMods !

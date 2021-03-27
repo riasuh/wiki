@@ -1,5 +1,5 @@
 # Staff
-_Of het nu gaat om projectbeheer, mod goedkeuring, het beheer van de kerndiensten, de coördinatie van gebeurtenissen of veel van de andere geheime projecten. Er is altijd veel werk te doen. De community zou niet bestaan zonder de ontelbare uren die zijn bijgedragen door deze ongelooflijke personen, geef hun dus een virtueel applaus (en help met het betalen van de diensten als u kunt)._
+_Of het nu gaat om projectbeheer, plugin/mod goedkeuring, het beheer van de kerndiensten, de coördinatie van gebeurtenissen of veel van de andere geheime projecten. Er is altijd veel werk te doen. De community zou niet bestaan zonder de ontelbare uren die zijn bijgedragen door deze ongelooflijke personen, geef hun dus een virtueel applaus (en help met het betalen van de diensten als u kunt)._
 
 ## +1 Rabbit
 De maker van de [in-browser level previewer](https://skystudioapps.com/bs-viewer/) en diverse [level makers programma's](https://skystudioapps.com/mapping-tools/).
@@ -24,19 +24,11 @@ Herinner hem eraan zijn glucose in de gaten te houden.
 
 Zorg ervoor dat hij zijn glucose in de gaten houdt. [Belangrijk](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Doneer](https://ko-fi.com/bobbievr)
 
-## elliotttate (gepensioneerd)
-De officiële BSMG PR man. Evenementen zoals de 100k wedstrijd zouden niet mogelijk zijn geweest zonder zijn inspanningen en netwerkvaardigheden. Hij beheert ook BeastSaber om je te helpen de beste curated levels te vinden.
-
-**Rollen:** Staff, BSMG PR.   
-**Bijdragen:** BeastSaber en Wedstrijd Beheer.
-
-[Patreon](https://www.patreon.com/beastsaber)
-
 ## Lillie
 Maakt in haar vrije tijd mods voor de Quest en vind het leuk om in haar vrije tijd PP te winnen.   
 *Lillie is niet de schattigste.*
 
-**Rollen:** Modder, Moderator, Staff.   
+**Rollen:** Staff, Modder, Moderator.   
 **Bijdragen:** QuestSounds, QSettings+ en FPSCounter.
 
 [GitHub](https://github.com/Rugtveit)
@@ -76,7 +68,7 @@ De eerste professionele Beat Saber speler, die Team Gravity vertegenwoordigt. Vo
 Eigenaar van de BSMG server en rythm game fanatiek. We zouden hier vandaag niet zijn zonder deze zeer speciale jongen.
 
 **Rollen:** Admin, Staff, Modder.   
-**Bijdragen:** Server Eigenaar, Custom Sabers en PodCasts.
+**Bijdragen:** Server Eigenaar, Custom Sabers, PodCasts.
 
 [GitHub](https://github.com/reaxt) | [Twitch](https://twitch.tv/reaxt)
 
@@ -107,14 +99,14 @@ ScoreSaber opper leider, maker van het custom leaderbord/rang systeem. Probeert 
 Projectmanager, wiki onderhouder, brood bakker. Ondanks wat iedereen zegt, val ik op meisjes.
 
 **Rollen:** Staff, Support.   
-**Bijdragen:** Wiki Onderhoud, Moderatie, Wedstrijd Management en BeatMods Approvals.
+**Bijdragen:** Wiki Onderhoud, Moderatie, Wedstrijd Management, BeatMods Approvals.
 
 [Twitch](https://www.twitch.tv/williums/) | [Doneer](https://ko-fi.com/williums)
 
 ## Assistant (Gepensioneerd)
 Toezichthouder van kerndiensten, waaronder de BeatSaver en BeatMods servers. De originele Support en maker van de custom avatar gids, Mod Assistant en ModelSaber.
 
-**Rollen:** Staff, Support, 3D Artist.   
+**Rollen:** Staff, Support, 3D Artists.   
 **Bijdragen:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, BeatSaver Admin en BSMG Podcasts.
 
 [GitHub](https://github.com/Assistant) | [Doneer](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
@@ -122,7 +114,15 @@ Toezichthouder van kerndiensten, waaronder de BeatSaver en BeatMods servers. De 
 ## Balsa (Gepensioneerd)
 Hij is de reden dat we een plek hebben om onze custom levels te krijgen. Hij verschijnt eens in de zoveel tijd om BeatSaver nummers te tonen, ons nerds te noemen en zijn collectie van fijne oude memes te presenteren. Hij heeft sindsdien zijn afscheid genomen van het staff team, maar we zouden niet hier zijn zonder hem.
 
-**Bijdragen:** BeatSaver Creator.
+**Bijdrage:** BeatSaver Creator.
+
+## elliotttate (Gepensioneerd)
+De officiële BSMG PR Man. Evenementen zoals de 100k wedstrijd zouden niet mogelijk zijn geweest zonder zijn inspanningen en netwerkvaardigheden. Hij beheert ook BeastSaber om je te helpen de beste curated levels te vinden.
+
+**Rollen:** Staff, BSMG PR.   
+**Bijdragen:** BeastSaber en Wedstrijd Beheer.
+
+[Patreon](https://www.patreon.com/beastsaber)
 
 ## Klouder (Gepensioneerd)
 Langdurig server lid en actieve bijdrager. Zij was de moeder van de server!

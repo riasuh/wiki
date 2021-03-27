@@ -3,7 +3,7 @@ description: Installation, Usage, and Creation Guides for Model Mods!
 ---
 
 # 3D модели
-Все пользовательские моды для загрузки моделей были созданы разными пользователями. Each mod has its own dedicated page detailing installation and usage instructions. Они перечислены ниже и в боковой панели.
+All custom model mods were created separately by different people. Each mod has its own dedicated page detailing installation and usage instructions. Они перечислены ниже и в боковой панели.
 
 * [Пользовательские модели мечей](./custom-sabers.md)
 * [Пользовательские модели аватаров](./custom-avatars.md)

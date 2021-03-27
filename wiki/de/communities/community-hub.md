@@ -44,7 +44,7 @@ Ein Ort zum Planen, Posten, Diskutieren und Erhalten von Benachrichtigungen für
 ## Beat Saber League
 Ein Turnier im Liga-Stil für Beat Saber!
 
-[Discord](https://discord.gg/nFJDVqS) | [Website](https://beatsaberleague.com/)
+[Discord](https://discord.gg/rNmazdz) | [Website](https://beatsaberleague.com/)
 
 ---
 

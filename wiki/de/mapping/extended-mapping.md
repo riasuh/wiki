@@ -37,7 +37,7 @@ Every editor is unique in both their setup and support for Mapping Extensions (M
 ::: warning NOTE This section assumes you are using the `CustomWIPLevels` folder in a Beat Saber install. Follow the [without Beat Saber Installed](#me-setup-for-mma2-without-beat-saber-installed) instructions if you store your maps in a different location. :::
 
 1. Start Beat Saber and then close out after the game finishes loading. This is to ensure the game is ready for mods to be installed.
-2. Open [ModAssistant](https://github.com/Assistant/ModAssistant/releases/latest)
+2. Open [Mod Assistant](https://github.com/Assistant/ModAssistant/releases/latest)
 3. Make sure the version selected in the dropdown is compatible with the Beat Saber version installed on your computer.
 4. Check the checkbox for MappingExtensions. (You can select additional mods to install as well.)
 5. Click Install and Update and make sure there are no errors.
@@ -52,7 +52,7 @@ Here you will need to "trick" Mediocre Map Assistant 2 that your folder is a Bea
 
 Option 1:
 
-1. Download this zip for pre-formatted folders and Mapping Extensions Plugin [here](https://git.bsmg.dev/bloodcloak/mapping-qstart/releases/latest).
+1. Download this zip for pre-formatted folders and Mapping Extensions Mod [here](https://git.bsmg.dev/bloodcloak/mapping-qstart/releases/latest).
 2. Extract the zip to a location of your choice.
 3. Enter the path to the CustomLevels and CustomWIPLevels folder near the bottom of the Settings Bar.
     * Example Path: `C:\Users\bsmg\Documents\Beat Saber\Beat Saber_Data\CustomWIPLevels`

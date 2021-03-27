@@ -274,7 +274,7 @@ Créateur original de SongLoader et CameraPlus, et un contributeur majeur de l'e
 
 **Roles:** Modder **Contributions:** SongLoader, CameraPlus
 
-[GitHub](https://github.com/xyonico/) | [Faire un don](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+[GitHub](https://github.com/xyonico/) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 ---
 

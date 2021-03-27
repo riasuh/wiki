@@ -35,7 +35,7 @@ Is één van je favoriete nummers niet beschikbaar? Heb je een idee voor een mod
 Leer hoe je je eigen level maakt door onze [levels maken](./mapping/) gids te volgen!
 
 ### Het maken van mods
-Begin met het maken van plugins voor het spel door onze [mod creatie](./modding/) gids te volgen!
+Begin met het maken van mods voor het spel door onze [mod creatie](./modding/) gids te volgen!
 
 ### 3D modellen maken
 Leer hoe je 3D-modellen voor het spel kan maken!

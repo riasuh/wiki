@@ -24,7 +24,9 @@ Als je geen toegang hebt tot een PC kan je een [Android telefoon](#het-installer
 
 * [BMBF apk](https://bmbf.dev/stable) ::warning Het installeren van BMBF en het modden van je spel zal de officiële multiplayer, en het bekijken en uploaden van scores op de standaard scoreborden van het spel uitschakelen. Als je modded multiplayer wilt spelen, heb je de `Beat Together` mod nodig, hiermee kan je samen spelen met mensen op een pc. En op de Quest is het mogelijk om custom levels te spelen als iedereen dat level heeft geïnstalleerd. De mod kan worden gevonden in de Beat Saber Modding Group in `#quest-mods` of op de [Questboard](https://questmodding.com) website.
 
-Om scoreborden op custom levels te krijgen en Performance Points (PP) van gerangschikte nummers te krijgen, heb je de [ScoreSaber](https://new.scoresaber.com/quest) mod nodig. [Deze link](https://new.scoresaber.com/quest) brengt je naar de ScoreSaber pagina om het in te stellen. Scoresaber vervangt de de standaard scoreborden van het spel niet, het voegt alleen scoreborden voor custom levels toe. **Opmerking:** Scoresaber is nog NIET bijgewerkt voor Beat saber 1.13.2. :::
+Om scoreborden op custom levels te krijgen en Performance Points (PP) van gerangschikte nummers te krijgen, heb je de [ScoreSaber](https://new.scoresaber.com/quest) mod nodig. [Deze link](https://new.scoresaber.com/quest) zal je naar de ScoreSaber pagina brengen om het in te stellen. ScoreSaber vervangt de de standaard scoreborden van het spel niet, het voegt alleen scoreborden voor custom levels toe.
+
+**Opmerking:** Controleer het updates kanaal in de [ScoreSaber discord](https://discord.gg/WpuDMwU) om te zien of de mod beschikbaar is voor de huidige versie van het spel. :::
 
 ### Het instaleren van BMBF met SideQuest
 Download en stel [SideQuest](https://sidequestvr.com/#/setup-howto) in als je dat nog niet gedaan hebt.
@@ -184,7 +186,7 @@ Een makkelijke manier om verschillende soorten levels te downloaden, is door `Sy
 Een andere methode is het gebruik van de `Bookmark` functie op [Beastsaber](https://bsaber.com/). Nadat je een account hebt aangemaakt kan je op het kleine bookmark icoon van een level klikken, en als je later je al je levels verwijderd van je Quest kan je al de levels die je gebookmarkt hebt opnieuw downloaden met OneClick™.
 
 ### Met behulp van jouw PC
-Als je geen nummers kunt installeren vanuit je Quest, kan je nummers installeren met behulp van je computer, vergelijkbaar met het installeren van mods.
+Als je geen levels kunt installeren vanuit je Quest, kan je levels installeren met behulp van je computer, wat vergelijkbaar is met het installeren van mods.
 
 1. Ga naar [BeastSaber](https://bsaber.com/) of [BeatSaver](https://beatsaver.com/) op je computer.
 2. Download de zip.
@@ -205,12 +207,12 @@ Word lid van de [Qosmetics Community](https://discord.gg/qosmetics) om te verand
 * [Qosmetics Community](https://discord.gg/qosmetics) - server gericht op het maken en gebruiken van sabers, blokken en muren voor de Quest.
 * [Qosmetics Creatie gidsen](https://github.com/RedBrumbler/Qosmetics/wiki) - Handleidingen om je eigen custom sabers, blokken en muren voor de Quest te maken.
 * [Questboard website](https://questmodding.com) - Een plek om gerelateerd nieuws en informatie te krijgen over Beat Saber samen met de nieuwste mods releases!
-* [Quesboard discord server](https://discord.gg/P7sUKVnP) - Een Quest community om in te hangen en te praten over Beat Saber gerelateerde zaken, je kan ook een rol krijgen om een melding te krijgen wanneer er een nieuwe mod wordt vrijgegeven!
+* [Questboard discord server](https://discord.gg/P7sUKVnP) - Een Quest community om in te hangen en te praten over Beat Saber gerelateerde zaken, je kan ook een rol krijgen om een melding te krijgen wanneer er een nieuwe mod wordt vrijgegeven!
 * [Het oplossen van gedesynchroniseerde audio.](https://bsaber.com/quest-out-of-sync/)
 * [ScoreSaber](https://new.scoresaber.com/quest) - In-game scoreborden voor custom levels.
 
 ## Probleemoplossing
-:::warning Ik heb deze video van Elite Eric gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van BSMG raden het **sterk** af om video's van Elite Eric te gebruiken. Na het beoordelen van veel van zijn content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hem te bereiken en deze fouten te herstellen hebben helaas enkel stilte en nieuwe (ook incorrecte) video's opgeleverd.
+:::warning Ik heb deze video van Elite Eric gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric te gebruiken. Na het beoordelen van veel van zijn content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hem te bereiken en deze fouten te herstellen hebben helaas enkel stilte en nieuwe (ook incorrecte) video's opgeleverd.
 
 In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wiki beschikbaar zijn, of om hulp te vragen in de [BSMG Discord](https://discord.gg/beatsabermods). :::
 
@@ -258,7 +260,7 @@ Als geen van deze dingen werken, start dan je Quest opnieuw op en probeer het no
 ---
 
 ### BMBF laad het configuratie scherm niet na een paar minuten
-Dit komt waarschijnlijk door het gebruik van BMBF op een spelversie waar het niet voor gemaakt is. Zoals het gebruik van BMBF voor Beat Saber versie `1.13.0` wanneer de versie van het spel geïnstalleerd is op de headset `1.12.2` is.  
+Dit is waarschijnlijk te wijten aan het gebruik van BMBF op een spelversie waar het niet voor gebouwd is. Zoals het gebruik van BMBF voor Beat Saber versie `1.13.0` wanneer de versie van het spel geïnstalleerd is op de headset `1.12.2` is.  
 Als de spel versie overeenkomt met wat de BMBF release pagina zegt, probeer dan je headset opnieuw op te starten. Als het nog steeds niet werkt, gebruik dan de [BMBF Web Interface](#met-behulp-van-jouw-pc) en klik op `Quick Fix` in het Tools tabblad.
 
 ### Beat Saber is zwart na het opstarten

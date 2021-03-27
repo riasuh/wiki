@@ -41,30 +41,30 @@ Een simpel Beat Saber mod installatie programma vergelijkbaar met mod manager, m
 :: tip De meeste levels in de "Top All", "Rating", "Downloads" of "Plays" sorteerfilters werden gemaakt voordat er goede praktijken voor het maken van levels werden vastgesteld. Probeer levels van tussen eind 2019 en nu te downloaden voor de beste custom levels ervaring. :::
 
 ### In-game Downloader
-Met de `BeatSaver Downloader` plugin kan je nummers downloaden terwijl je in het spel bent met de `MORE SONGS` menu knop op het `MODS` scherm. Dit haalt nummers rechtstreeks van [BeatSaver](https://beatsaver.com)
+Met de `BeatSaver Downloader` mod kan je nummers downloaden terwijl je in het spel bent met de `MORE SONGS` menu knop op het `MODS` scherm. Dit haalt nummers rechtstreeks van [BeatSaver](https://beatsaver.com)
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) is de hoofd database van custom levels gemaakt door de community. Veel andere programma's en websites verbeteren de ervaring van het downloaden van custom levels, maar deze website is de plek waar ze opgeslagen worden. Om de nummers te installeren die van de site zijn gedownload, pak deze nummers uit in een map en plaats deze map in `Beat Saber/Beat Saber_Data/CustomLevels`. Je kan ook gebruik maken van de in-game downloader plugin, BeatList, of Mod Assistant's OneClick™ Install functie.
+[BeatSaver](https://beatsaver.com) is de hoofd database van custom levels gemaakt door de community. Veel andere programma's en websites verbeteren de ervaring van het downloaden van custom levels, maar deze website is de plek waar ze opgeslagen worden. Om de nummers te installeren die van de site zijn gedownload, pak deze nummers uit in een map en plaats deze map in `Beat Saber/Beat Saber_Data/CustomLevels`. Je kan ook gebruik maken van de in-game downloader mod, of Mod Assistant's OneClick™ Install functie.
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) (bsaber.com) is een website die probeert het vinden van fantastische nummers om te spelen veel makkelijker te maken. Het doet dit door de duizenden nummers van BeatSaver te categoriseren en laat je deze sorteren op het genre en vele andere attribuut labels. Ook heeft het een volledig sociale functie waar spelers nummers kunnen bekijken en hierop commentaar kunnen geven. Een van de meest gebruikte functies is de "Curator Recommended" functie waar een team de meeste nummers die elke dag uitkomen spelen en de nummers die het meest opvallen aanbevelen om deze [automatisch in het spel downloaden](https://bsaber.com/beatsync/).
 
 ### Apps voor het beheren van je nummers
 
-* [BeatList](https://github.com/Alaanor/beatlist) is een app waarmee je je playlists en nummers kan beheren.
+Er zijn op dit moment geen werkende apps voor het beheren van je nummers beschikbaar.
 
 ### Afspeellijsten
-Je moet de [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod installeren.
+Hiervoor moet je de [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod installeren.
 
-Daarna kan je een van deze twee dingen doen:
+Daarna kan je één van de onderstaande twee dingen doen:
 
-* Het `Install playlists` hulpmiddel in het Opties tabblad in Mod Assistant gebruiken.
-* Plaats de afspeellijst in `Beat Saber/Playlists`, selecteer het in het spel en klik dan op download all songs.
+* Gebruik de `Install playlists` knop in het Opties tabblad in Mod Assistant.
+* Plaats de afspeellijst in `Beat Saber/Playlists` en selecteer de titel van de afspeellijst in het spel en klik dan op download all songs.
 
 Je zou in het spel de afspeellijst naast de custom levels albums moeten zien. De mod ondersteunt ook het beheren van afspeellijsten in het spel.
 
 ## Installatie Map
-_Waar is beat saber geïnstalleerd?_
+_Waar is Beat Saber geïnstalleerd?_
 
 ### Standaard locatie
 |        |                                                                                      |
@@ -73,14 +73,14 @@ _Waar is beat saber geïnstalleerd?_
 | Oculus | `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ### Andere locaties
-**Als je de installatiemap hebt verplaatst naar een andere schijf, kan het op de onderstaande locatie staan.** Vervang de schijf letter `F` door de schijf waar je spel is op geïnstalleerd.
+**Als je de installatiemap hebt verplaatst naar een andere schijf, dan kan het op de onderstaande locatie staan.** Vervang de schijfletter `F` door degene van de schijf waarop je spel is geïnstalleerd.
 |        |                                                                       |
 | ------ | --------------------------------------------------------------------- |
 | Steam  | `F:\SteamLibrary\steamapps\common\Beat Saber\`                 |
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Handmatige installatie
-Een mod installatie programma is de aanbevolen manier om mods te installeren. Zie de sectie [hierboven](#installatieprogramma's). Als je het spel al hebt gemod en alleen plugins wil installeren die niet in het installatieprogramma beschikbaar zijn, ga dan direct door naar stap 4.
+Een mod installatie programma is de aanbevolen manier om mods te installeren. Zie de sectie [hierboven](#installatieprogramma's). Als je het spel al hebt gemod en alleen mods wil installeren die niet in de installer beschikbaar zijn, ga dan direct door naar stap 4.
 
 **Start het spel op zijn minst 1 keer** voordat je probeert het spel te modden! Dit geldt ook voor het opnieuw installeren van je spel.
 
@@ -100,7 +100,7 @@ Verwijder de .dll van de `Plugins` map, of klik op de `Uninstall` knop in Mod As
 
 ## Waar kan je verder gaan
 
-* [Grepen en trucks](./grips-and-tricks.md)
+* [Grepen en Trucs](./grips-and-tricks.md)
 * [Nummers maken](/mapping/)
 * [Custom Sabers](/models/custom-sabers.md)
 * [Custom Avatars](/models/custom-avatars.md)

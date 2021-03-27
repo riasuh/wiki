@@ -28,7 +28,7 @@ Hij speelt graag Beat Saber. Hij houdt er ook van mensen te helpen hun problemen
 **Rol:** Support.
 
 ## Kolezan
-Hij zal je leren om je plugins te fixen en je vreselijke off-beat allereerste level te verbeteren. We zijn er allemaal geweest.
+Hij zal je leren om je mods te fixen en je vreselijke off-beat allereerste level te verbeteren. We zijn er allemaal geweest.
 
 **Rollen:** Support, Mapping Support, Mapper.
 

@@ -1,6 +1,11 @@
 # Moderators
 Met een server die zo groot is, is veel moderatie nodig om alles onder controle te houden. Je kan dit team bedanken voor het feit dat alles schoon blijft.
 
+## 24Kings
+"Doe mee met de Qvolution. Owja, Pink is schattig"
+
+**Rol:** Moderator.
+
 ## Caeden117
 Hoeveel statistieken kunnen we in één counters mod passen? Blijkbaar zijn dat best wel veel. Hij is ook verantwoordelijk voor de modding handleidingen op deze wiki en ChroMapper, en een binnenkort verkrijgbare level editor met Chroma RGB verlichtingsondersteuning.
 
@@ -14,7 +19,7 @@ brrrrrr
 
 **Rollen:** Support, 3D Artists, Moderator.
 
-[Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere)
+[Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
 ## Eradawn
 "Findus zegt hai."
@@ -66,7 +71,7 @@ Een BeastSaber admin die de meeste inhoud schreef voor [Hoe test je een level](.
 ## RangeValley
 > Mijn vader werkte al jaren als admin, maar hij werd ontslagen toen bots de macht overnamen. Hij kwam die nacht thuis en vertelde me dat we in de bus moesten gaan. Aangezien we ons geen huur meer konden betalen, toen sloeg hij me helemaal verrot met jumperkabels. Shitposting zou legaal moeten zijn.
 
-**Rollen:** Moderator.
+**Rol:** Moderator.
 
 ## Razor
 Letterlijk geen idee wat hij doet als het om programmeren gaat, maar hij kan plugins fixen.
@@ -78,9 +83,14 @@ Letterlijk geen idee wat hij doet als het om programmeren gaat, maar hij kan plu
 ## Shad
 "Elk kanaal is gewoon #pc-mod-support"
 
-**Rollen:** Moderator, Mapper.
+**Rollen:** Moderator, Mapper, Mapping Support.
 
 [Levels](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
+
+## Zion
+Lekker aan t hangen.
+
+**Rol:** Moderator.
 
 ## BeigeAnimal (Gepensioneerd)
 We moesten deze jongen een beetje in vorm slaan, maar hij was een van de meest effectieve moderators. Hij is niet echt gespecialiseerd in een veld, maar hij is wel bereid om hulp te lenen **mits ze dat in het juiste kanaal vragen.** haat links van sketchfab.

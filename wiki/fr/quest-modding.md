@@ -24,7 +24,9 @@ Si vous n'avez pas accès à un ordinateur, vous pouvez utiliser [un téléphone
 
 * [APK BMBF](https://bmbf.dev/stable) :::warning ATTENTION Installer BMBF et modifier votre jeu désactive le multijoueur officiel, ainsi que l'affichage et l'envoi de scores dans les classements du jeu de base. Si vous souhaitez jouer en multijoueur en étant moddé, vous aurez besoin du mod `Beat Together` qui permet de jouer en multijoueur avec des joueurs PC et Quest, et permet de jouer des chansons personnalisées si tous les joueurs les ont installées. Le mod peut être trouvé dans `#quest-mods` dans le Discord BSMG, ou bien sur [Questboard](https://questmodding.com).
 
-Pour obtenir les classements sur les chansons personnalisées et gagner des points de performance (PP) sur les chansons classées, vous avez besoin du mod [ScoreSaber](https://new.scoresaber.com/quest). [Ce lien](https://new.scoresaber.com/quest) (en anglais) vous enverra sur la page du site ScoreSaber vous permettant de l'installer. ScoreSaber ne remplace pas les classements du jeu de base, il ne fait qu'ajouter les classements pour les chansons personnalisées. **Note :** ScoreSaber n'a PAS encore été mis à jour pour Beat Saber 1.13.2. :::
+Pour obtenir les classements sur les chansons personnalisées et gagner des points de performance (PP) sur les chansons classées, vous avez besoin du mod [ScoreSaber](https://new.scoresaber.com/quest). [Ce lien](https://new.scoresaber.com/quest) (en anglais) vous enverra sur la page du site ScoreSaber vous permettant de l'installer. ScoreSaber ne remplace pas les classements du jeu de base, il ne fait qu'ajouter les classements pour les chansons personnalisées.
+
+**Note:** Check the updates channel in the [ScoreSaber discord](https://discord.gg/WpuDMwU) to see if the mod is available for the current game version. :::
 
 ### Installer BMBF avec SideQuest
 Si ce n'est pas déjà fait, téléchargez et installez [SideQuest](https://sidequestvr.com/#/setup-howto) (site en anglais).
@@ -100,7 +102,7 @@ Ouvrez-le et autorisez l'accès au stockage si vous y êtes invité. Suivez ensu
 
 Si à tout moment pendant l'installation vous voyez la pop-up "Restaurer l'app", cliquez sur Fermer. Cet avertissement est principalement à l'intention des personnes qui ont piraté le jeu, il n'y a donc pas de quoi s'inquiéter si vous possédez une copie légitime du jeu.
 
-Vous pouvez maintenant continuer à l'étape [Mods principaux](#mods-principaux) du processus d'installation.
+Continuez à l'étape [Mods essentiels](#mods-essentiels) du processus d'installation.
 
 ## Gérer les données de sauvegarde
 
@@ -210,7 +212,7 @@ Rejoignez la [communauté Qosmetics](https://discord.gg/qosmetics) (en anglais) 
 * [ScoreSaber](https://new.scoresaber.com/quest) - classements en jeu pour les chansons personnalisées
 
 ## Dépannage
-:::warning J'ai regardé cette vidéo d'Elite Eric, mais je me suis retrouvé coincé / ça n'a pas fonctionné. Pourquoi ? Nous, chez BSMG, nous **déconseillons fortement** de suivre les tutoriels d'Elite Eric. Après avoir examiné une bonne partie de son contenu, il y a une grande quantité d'informations incomplètes, erronées ou complètement fausses. Nos tentatives de le contacter pour corriger ces erreurs n'ont malheureusement pas reçu de réponse et d'autres tutoriels (incorrects également) sont apparus.
+:::warning ATTENTION J'ai regardé cette vidéo par Elite Eric, mais je me suis retrouvé coincé/ça n'a pas fonctionné. Pourquoi ? Nous, chez BSMG, nous **déconseillons fortement** de suivre les tutoriels d'Elite Eric. Après avoir examiné une bonne partie de son contenu, il y a une grande quantité d'informations incomplètes, erronées ou complètement fausses. Nos tentatives de le contacter pour corriger ces erreurs n'ont malheureusement pas reçu de réponse et d'autres tutoriels (incorrects également) sont apparus.
 
 À la place, vous devriez suivre les guides écrits ici sur le wiki, regarder les tutoriels vérifiés par le BSMG au-dessus, ou aller chercher de l'aide sur le [Discord BSMG](https://discord.gg/beatsabermods). :::
 
@@ -219,7 +221,7 @@ La raison pour laquelle ajouter des mods de [BeatMods](https://beatmods.com/) ou
 
 Vous trouverez des mods compatibles Quest dans `#quest-mods` dans le Discord Beat Saber Modding Group , et les sabres, les bloqs et les murs compatibles Quest dans [Qosmetics Community](https://discord.gg/qosmetics). Une fois que vous avez votre mod ou modèle au format .zip, utilisez [l'interface web de BMBF](#installer-les-mods) pour l'installer.
 
-### L'installation de BMBF ne fonctionne pas
+### BMBF refuse de s'installer
 Si à l'installation de BMBF avec SideQuest, vous obtenez l'erreur `INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.weloveoculus.BMBF signatures do not match the previously installed version; ignoring!`
 
 Vous devrez désinstaller la version installée de BMBF de votre Quest. Vous pouvez faire ça depuis le menu `My Apps` de SideQuest.
@@ -257,7 +259,7 @@ Si rien de tout ça ne fonctionne, redémarrez votre Quest et suivez les étapes
 ---
 
 ### BMBF ne charge pas la configuration après quelques minutes
-C'est généralement dû à l'utilisation d'une version de BMBF non conçue pour la version de Beat Saber actuellement installée. Par exemple, utiliser BMBF pour la version `1.13.0` de Beat Saber alors que la version du jeu installé est `1.12.2`.  
+C'est généralement dû à l'utilisation d'une mauvaise version de Beat Saber avec BMBF. Par exemple, utiliser BMBF pour la version `1.13.0` de Beat Saber alors que la version du jeu installé est `1.12.2`.  
 ne fonctionnera pas. Si la version du jeu correspond à ce que la page de téléchargement de BMBF indique, essayez de redémarrer votre casque. Si cela ne fonctionne toujours pas, utilisez [l'interface web BMBF](#installer-les-mods) et cliquez sur `Quick Fix` dans l'onglet Tools.
 
 ### Beat Saber est noir quand je le lance

@@ -4,7 +4,7 @@
 :::tip ANMERKUNG Noten müssen speziell für die Quest oder PC erstellt werden. Du kannst also keine PC-Noten auf deiner Quest verwenden oder umgekehrt. Anhand des Dateiformats findest Du heraus, für welche Plattform die Noten erstellt wurden. `.bloq` Dateien sind für den PC, `.zip` Dateien sind für die Quest. :::
 
 ### PC-Noten
-Das neueste CustomNotes-Plugin findest Du im [#pc-mods Kanal](https://discord.gg/beatsabermods) im BSMG-Discord oder im [Mod Assistant](https://github.com/Assistant/ModAssistant).
+Das neueste Custom Avatars Plugin kann im [#pc-mods channel](https://discord.gg/beatsabermods) im BSMG Discord oder im [Mod Assistant](https://github.com/Assistant/ModAssistant) gefunden werden.
 
 Einmal installiert, solltest du einen `CustomNotes` Ordner in deinem [Installationsordner](/faq/install-folder.md) mit einigen vorinstallierten Noten sehen. In diesen Ordner müssen auch deine `*.bloq` Dateien gezogen werden.
 

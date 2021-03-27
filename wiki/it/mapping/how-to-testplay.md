@@ -58,7 +58,7 @@ If you want to adjust the settings of the recording, press <kbd>Win+x</kbd> then
 
 * **PracticePlugin**
   * Can be found in Mod Assistant under the Practice/Training category that gives you the option to replay sections of a map, and adjust NJS and offset while in game. If it is not there, you can try to ask in `#mapping-discussion` if any other testplayers have a beta version of the mod. You’ll be seeing a lot of 12 NJS maps from new mappers, so this mod is a real help!
-* **CameraPlus**
+* **Camera2**
   * Can be found in Mod Assistant under the Core category allows for various perspectives and tuning, such as a main third person perspective, and a secondary first person perspective in the corner.
 * [OBSControl](https://github.com/Zingabopp/OBSControl#readme)
   * A plugin for OBS users that can automatically start and stop recording when you begin the map, and leave/complete the map. You can pause as many times as you like with no issues. I always pause my playthrough at the very beginning to briefly discuss the difficulty and NJS, as you do not have any time spent in the menu to discuss these aspects with this mod installed.

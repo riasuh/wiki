@@ -1,5 +1,5 @@
 # Staff
-_Seja em relação ao gerenciamento de projetos, aprovação de plugin, gerenciamento de serviços centrais, coordenação de eventos, ou muitos de outros projetos secretos, há sempre muito trabalho a ser feito. A comunidade não existiria sem as incontáveis horas contribuídas por esses indivíduos incríveis, então, por favor, dê a eles uma rodada virtual de aplausos (e ajude a pagar pelos serviços, se puder)._
+_Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. A comunidade não existiria sem as incontáveis horas contribuídas por esses indivíduos incríveis, então, por favor, dê a eles uma rodada virtual de aplausos (e ajude a pagar pelos serviços, se puder)._
 
 ## +1 Rabbit
 Criador do [in-browser map previewer](https://skystudioapps.com/bs-viewer/) e várias [mapping tools](https://skystudioapps.com/mapping-tools/)
@@ -19,24 +19,16 @@ A mapper that is really into Japanese and EDM music with the occasional K-pop so
 ## Bobbie
 Remind him to watch his glucose.
 
-**Roles:** Staff, Modder, 3D Artist, Moderator  
+**Roles:** Staff, Modder, 3D Artists, Moderator  
 **Contributions:** Custom Notes, ModelSaber Admin
 
 Make sure he watches his glucose [Important](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Donate](https://ko-fi.com/bobbievr)
-
-## elliotttate
-Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. He also runs BeastSaber to help you find the best curated maps.
-
-**Roles:** Staff, BSMG PR  
-**Contributions:** BeastSaber, Contest Management
-
-[Patreon](https://www.patreon.com/beastsaber)
 
 ## Lillie
 Makes mods for quest and likes to PP farm in her free time.  
 *Lillie not cutest*
 
-**Roles:** Modder, Moderator  
+**Roles:** Staff, Modder, Moderator  
 **Contributions:** QuestSounds, QSettings+, FPSCounter.
 
 [GitHub](https://github.com/Rugtveit)
@@ -120,9 +112,17 @@ Overseeer of core services, including BeatSaver and BeatMods servers. The origin
 [GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 
 ## Balsa (Retired)
-Ele é o motivo pelo qual temos um lugar para ter nossas custom songs em primeiro lugar. Ele aparece de vez em quando para exibir os números do BeatSaver, nos chama de nerds e apresenta sua coleção de memes velhos. Desde então, ele desapareceu do time da equipe mas não estariamos aqui sem ele.
+He's the reason we have somewhere to get our custom songs in the first place. He shows up in once in a while to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes. He's since stepped down from the staff team, but we wouldn't be here without him.
 
-**Contribuições:** Criador de BeatSaver.
+**Contributions:** BeatSaver Creator.
+
+## elliotttate (Retired)
+Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. He also runs BeastSaber to help you find the best curated maps.
+
+**Roles:** Staff, BSMG PR  
+**Contributions:** BeastSaber, Contest Management
+
+[Patreon](https://www.patreon.com/beastsaber)
 
 ## Klouder (Retired)
 Membro do servidor por muito tempo e colaboradora ativa. Ela era a mãe do servidor!

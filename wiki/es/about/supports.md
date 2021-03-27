@@ -28,7 +28,7 @@ Le gusta jugar Beat Saber. También le gusta ayudar a la gente a arreglar sus pr
 **Roles:** Soporte
 
 ## Kolezan
-Te enseñará a reparar tus plugins y tu primer mapa terriblemente desincronizado. Todos hemos estado ahí.
+He'll teach you to fix your mods and your terribly off-beat first map. Todos hemos estado ahí.
 
 **Roles:** Soporte, Mapeo de Soporte, Mapeo
 

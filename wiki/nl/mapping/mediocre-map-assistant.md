@@ -64,6 +64,7 @@ Al jouw bestanden gaan naar een map met naam van het nummer in deze CustomWIPLev
 
 1. Download MMA2.zip van de [BSMG Git](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest).
 2. Pak het bestand uit en plaats de uitgepakte map waar je wilt.
+3. Follow the Proton installation steps for your Linux Distribution.
 3. Open Steam. Ga aan de bovenkant van het venster naar `Steam > Settings > Steam Play`. In het `Advanced` gedeelte, vink dan `Enable Steam Play for all other titles` aan als dat nog niet het geval is. Start Steam opnieuw als er naar gevraagd word.
 3. Klik op `Add a Game` wat linksonderin van het Steam hoofdvenster staat, en klik dan op `Add a Non-Steam Games`. Een venster wordt geopend, klik dan onderin op `Browse`. Selecteer `All files` als bestandstype. Zoek `MediocreMapAssistant2.exe`, en voeg het toe.
 4. Zoek naar `Proton` in de Steam zoekbalk, en installeer dan de nieuwste versie.
@@ -122,12 +123,12 @@ Dit geld ook voor de autosaves map. Wees er alstublieft zeker van en houd eventu
 Onder het levelselectie scherm kan je een nieuwe lege map maken in `CustomWIPLevels` door de gewenste naam van jouw map (meestal naam van het nummer of artiest - naam van het nummer) in te voeren en door op <kbd>Create Level</kbd> te klikken.
 
 #### Instellingen
-The settings pane includes global settings for autosaving, zip packaging, folder paths, and more.
+Het instellingenpaneel bevat algemene instellingen voor automatisch opslaan, zip comprimeren, mappaden en meer.
 
-* **Autosave Settings:** Autosave is enabled by default at an interval of 300 seconds (5 minutes). This is generally fine for most users unless you are doing a light-heavy map. Autosave while playing the song in the editor is also enabled by default.
+* **Autosave Settings:** Autosave is standaard ingeschakeld met een interval van 300 seconden (5 minuten). Dit is voor de meeste gebruikers over het algemeen prima, tenzij je een zwaar verlichte level maken. Autosave tijdens het spelen van het level in de editor is ook standaard ingeschakeld.
 * **Mapping & Lighting Settings:**
-  * No lighting is off by default, meaning that any lighting events placed on the lighting track will play. Check to prevent lights from playing while mapping.
-  * You have the option to provide MMA2 with an alternate folder to save your packaged songs. By default the packaged song will be found in the same folder where the uncompressed map lives.
+  * No lighting is standaard uit, wat betekend dat alle verlichtingsevenementen die geplaatst zijn op het verlichting track zichtbaar zullen zijn tijdens het afspelen. Schakel het in om de verlichtingsevenementen uit te zetten tijdens het maken van het level.
+  * Je hebt nu de mogelijkheid om MMA2 een alternatievete geven om jouw gecomprimeerde levels in op te slaan. Standaard zal het gecomprimeerde level worden gevonden in de map waar het ongecomprimeerde level zich bevind.
 * **Beta Settings:** If you have the Mapping Extensions mod installed you will have additional checkboxes enabled for "extended" mapping features like precision placement, precision rotation, and six-lane. New mappers are encouraged to skip this until they're more comfortable with the basics.
 * **Legacy Settings:** If you have the Chroma mod installed you can check this box to enable the Chroma lighting toolbar but it has been unsupported for some time.
 * **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?</kbd> button to delete your config file.

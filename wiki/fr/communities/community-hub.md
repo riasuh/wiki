@@ -44,7 +44,7 @@ Un endroit pour organiser, poster, discuter et être notifié des évènements d
 ## Beat Saber League
 Un tournoi au format ligue pour Beat Saber !
 
-[Discord](https://discord.gg/nFJDVqS) (serveur anglophone) [Website](https://beatsaberleague.com/)
+[Discord](https://discord.gg/rNmazdz) | [Website](https://beatsaberleague.com/)
 
 ---
 

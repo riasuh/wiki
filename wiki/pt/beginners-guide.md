@@ -35,7 +35,7 @@ Uma das tuas músicas favoritas não está disponível? Tens uma ideia de um mod
 Aprende como criar os teus próprios níveis seguindo o nosso guia de [mapping](./mapping/)!
 
 ### Criando Mods
-Começa a criar plugins para o jogo seguindo o nosso guia de [criação de mods](./modding/)!
+Get started creating mods for the game by following our [mod creation](./modding/) guide!
 
 ### Criando modelos 3D
 Aprende como criar modelos 3D para o jogo!

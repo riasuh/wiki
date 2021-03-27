@@ -2,14 +2,14 @@
 
 ## Installation
 
-:::warning Custom Platforms is a PC only mod. :::
+:::warning Custom Platforms ist ein PC-Only Mod. :::
 
-The latest Custom Platforms plugin can be found in the can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Once you've installed it you will see a folder called `CustomPlatforms` in [your install folder](/faq/install-folder.md). This is where you should place the `*.plat` files you want to use.
+Die neueste Version des Custom Platforms Mod kann im [#pc-mods channel](https://discord.gg/beatsabermods) im BSMG Discord oder im [Mod Assistant](https://github.com/Assistant/ModAssistant) gefunden werden. Nach der Installation siehst du einen Ordner namens `CustomPlatforms` in [deinem Installationsordner](/faq/install-folder.md). Hier solltest du die `*.plat` Dateien ablegen, die du verwenden möchtest.
 
-You can download more platforms on [ModelSaber](https://modelsaber.com/Platforms/).
+Weitere Plattformen kannst du auf [ModelSaber](https://modelsaber.com/Platforms/) herunterladen.
 
-## Usage
-Inside the game in the main menu you will see a `PLATFORMS` button at the top left of the Mods menu over by the release notes. Pressing it will open up the menu you can use to select which platform you want to use. Note that if you intend to use Progress Counter from Counters+, most platforms will block the center song timer.
+## Verwendung
+Im Spiel siehst du im Hauptmenü oben links im Menü Mods bei den Versionshinweisen eine Schaltfläche namens `PLATFORMS`. Wenn du darauf drückst, öffnet sich das Menü, mit dem du die gewünschte Plattform auswählen kannst. Beachte, dass, wenn du beabsichtigst, den Fortschrittszähler von CountersPlus verwendest, die meisten Plattformen den Timer für den mittleren Song blockieren werden.
 
-## Creating Platforms
-[Emma's Platform Guide](./platforms-guide.md) is a great resource for learning how to make your own platforms.
+## Plattformen erstellen
+[Emma's Platform Guide](./platforms-guide.md) ist eine großartige Ressource, um zu lernen, wie du deine eigenen Plattformen erstellen können.

@@ -6,7 +6,7 @@
 ## Кто мы
 
 ### [Staff](./staff.md)
-Команда, которая управляет процессами на сцене и за кулисами. Whether it comes to project management, plugin approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+Команда, которая управляет процессами на сцене и за кулисами. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
 
 ### [Moderators](./moderators.md)
 На таком большом сервером требуется серьезная модерация для того, чтобы держать все под контролем. Вы можете поблагодарить эту команду за сохранение сервера в чистоте.

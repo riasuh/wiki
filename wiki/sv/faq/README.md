@@ -12,10 +12,8 @@ Om du laddar ner banor manuellt från BeatSaver, extrahera dem till en mapp och 
 [Beast Saber](https://www.bsaber.com) är en recensionssida som syftar till att kurera alla låtar på BeatSaver. Du kan också ladda ner spellistor, följa mappare, hitta låtar med hjälp av avancerade sorteringsmetoder och mycket mer.
 
 ### Verktyg för låthantering
-Följande är program som kan användas för att hjälpa dig att ladda ner banor, med några andra medföljande funktioner.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view), ett nedladdningsprogram av Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) är en app som hanterar spellistor och beatmaps, av Alaanor.
+There are no working song management apps available at this time.
 
 ## Hur installerar jag spellistor?
 
@@ -24,8 +22,8 @@ Du behöver installera moddet [PlaylistManager](https://github.com/rithik-b/Play
 
 Sen kan du antingen:
 
-* Använda verktyget `Install Playlist` som finns i ModAssistants Options-flik.
-* Placera spellistefilen i `Beat Saber/Playlists`, välja den i spelet och tryck på Download all.
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Du bör nu se spellistan bredvid Custom Levels albumet i spelet. Moddet stöder också hantering av spellistor i spelet.
 
@@ -37,7 +35,7 @@ Du kan använda [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/p
 ## Hur skapar jag mina egna banor?
 Se [mappning](/mapping/)!
 
-## Hur laddar jag in plugins som inte finns i ModAssistant?
+## How do I load PC mods that aren't in Mod Assistant?
 Se [denna sektion](/pc-modding.md#manual-installation) i nybörjarguiden.
 
 ## Har multiplayer crossplay?
@@ -46,7 +44,7 @@ Officiellt är multiplayer begränsad till att spela med andra människor i den 
 Moddet BeatTogether är den nuvarande lösningen för cross-platform mellan de olika moddade spelversionerna. Gå med i deras [Discord-server](https://discord.com/invite/gezGrFG4tz) och se kanalen `#install-instructions` för mer information.
 
 ## My game updated and now none of my mods are working
-Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. The game developers realized this, so when the game updates and you run it for the first time, everything in the `Plugins` folder is moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins in there!**
+Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
 
 To get mods back, simply **run the installer again.**  
 The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!

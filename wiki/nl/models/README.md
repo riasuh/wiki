@@ -3,7 +3,7 @@ description: Installatie, gebruik en creatie gidsen voor model mods!
 ---
 
 # 3D modellen
-Alle plugins voor custom modellen zijn afzonderlijk door verschillende personen gemaakt. Elke mod heeft zijn eigen specifieke pagina met instructies voor installatie en gebruik. Deze staan hieronder en zijn in de zijbalk vermeld.
+Alle mods voor custom modellen zijn afzonderlijk door verschillende personen gemaakt. Elke mod heeft zijn eigen specifieke pagina met instructies voor installatie en gebruik. Deze staan hieronder en zijn in de zijbalk vermeld.
 
 * [Custom Sabers](./custom-sabers.md)
 * [Custom Avatars](./custom-avatars.md)

@@ -48,14 +48,15 @@ tags:
 
 ## Liens externes
 
-* [[Rejoignez le serveur Discord !](https://discord.gg/beatsabermods) (anglophone)](https://discord.gg/beatsabermods)
+* [Rejoignez le serveur Discord ! (anglophone)](https://discord.gg/beatsabermods)
+* [Nous contacter](http://bit.ly/MessageBSMG) - Offrez vos compétences, sponsorisez-nous, faites appel d'une décision administrative (ban, mise au silence), etc.
 * [Patreon BSMG](https://www.patreon.com/beatsabermods) - Soutenez les services BSMG !
-* [BeatMods](https://beatmods.com) - Dépôt des mods sur PC que l'on retrouve dans les installateurs comme ModAssistant
-* [BeatSaver](https://beatsaver.com/) - Téléchargez les custom songs ici
+* [BeatMods](https://beatmods.com) - Dépôt des mods sur PC que l'on retrouve dans les installateurs comme Mod Assistant
+* [BeatSaver](https://beatsaver.com/) - Téléchargez les chansons personnalisées ici
 * [BeastSaber](https://bsaber.com/) - Critiques, articles, playlists, et bien plus !
 * [ModelSaber](https://modelsaber.com/) - Téléchargez des sabres personnalisés, des avatars, des bloqs et des plateformes !
 * [Discord Qosmetics](https://discord.gg/qosmetics) - Téléchargez des sabres, murs et bloqs pour Quest !
-* [ScoreSaber](https://scoresaber.com/) - Classements pour les maps personnalisées
+* [ScoreSaber](https://scoresaber.com/) - Classements pour les chansons personnalisées
 * [Postulez pour aider à traduire le wiki !](https://forms.gle/e3BqA3poMjESARe76) - Traduisez le wiki dans votre langue !
 * [Page du magasin Steam](https://store.steampowered.com/app/620980/Beat_Saber/)
 * [Page du magasin Oculus](https://www.oculus.com/experiences/rift/1304877726278670/)

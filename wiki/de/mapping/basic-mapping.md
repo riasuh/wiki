@@ -13,7 +13,7 @@ _Wenn du noch wenig Erfahrung im Mapping hast, lese die gesamte Seite. Bis aufs 
 ## Bereit zum Mappen?
 **Hast du...**
 
-1. [x] [Audacity](https://www.audacityteam.org/) und einen der [Map-Editoren](./#hilfsmittel-für-mapping) heruntergeladen?
+1. [x] [Audacity](https://www.audacityteam.org/) und einen der [Map-Editor](./#hilfsmittel-für-mapping) heruntergeladen?
 2. [x] [Deine Audio-Datei vorbereitet](./basic-audio.md) und überprüft, dass die eingestellte BPM stimmt und du ein passendes Intro/Outro hast?
 3. [x] Deine Songdatei als OGG <a href="./basic-audio.md#exportieren>exportiert</a>?
 
@@ -36,7 +36,7 @@ Einige Editoren erstellen zusätzlich den Ordner `Autosaves`. In diesem befinden
 
 ### Arten von Blöcken
 <!-- markdownlint-disable MD013 -->
-|                          Pfeil-Blöcke                          |                  Punkt-Blöcke                  |                                                   Bomben                                                    |                                                 Wände                                                 |
+|                        Richtungsblöcke                         |                  Punkt-Blöcke                  |                                                   Bomben                                                    |                                                 Wände                                                 |
 |:--------------------------------------------------------------:|:----------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|
 |        ![Pfeil-Block](~@images/mapping/arrow-block.png)        | ![Punkt-Block](~@images/mapping/dot-block.png) |                                     ![Bombe](~@images/mapping/bomb.png)                                     |                                  ![Wand](~@images/mapping/wall.png)                                   |
 | Müssen in die Richtung des<br />Pfeils geschlagen werden |  Können aus jeder Richtung geschlagen werden   | Ziehen Leben ab, wenn sie mit dem Saber geschlagen werden,<br /> reagieren aber nicht auf den Spieler | Ziehen Leben ab, wenn sich der Spieler darin befindet,<br /> reagieren aber nicht auf die Saber |
@@ -51,7 +51,7 @@ Einige Editoren erstellen zusätzlich den Ordner `Autosaves`. In diesem befinden
 
 **Anmerkungen zu Bomben:**
 
-* Die Hitbox der Bomben ist kleiner als die eines Blocks, und sogar kleiner als die Bombe selbst.
+* Die Hitbox der Bomben ist kleiner als die eines Blocks, und sogar kleiner als das Model selbst.
 * Bomben sind schwer zu erkennen, wenn keine Licht-Effekte benutzt werden. Stelle sicher, dass es nicht dunkel ist, wenn Bomben auftauchen. Weitere Informationen unter [Lighting-Grundlagen](./basic-lighting.md).
 * Bomben können auch getroffen werden, nachdem sie an dem Spieler vorbei geflogen sind.
 
@@ -83,26 +83,26 @@ Wenn deine Waveform nicht richtig ausgerichtet ist, wird es **sehr** schwierig s
 |                            Audio nicht richtig ausgerichtet                            |                                  Audio korrekt synchronisiert                                  |
 |:--------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 | ![Editor-Ansicht mit falsch synchronisiertem Audio](~@images/mapping/audio-broken.png) | ![Editor-Ansicht mit zur Editorspur synchronisiertem Audio](~@images/mapping/audio-synced.png) |
-|      Benötigt Audiobearbeitung, Start Offset, oder du verwendest die falsche BPM       |                                   Du bist bereit, zu Mappen!                                   |
+|      Benötigt Audiobearbeitung, Start Offset, oder du verwendest die falsche BPM       |                                   Du bist bereit zu Mappen!                                    |
 
 ### Timing-Noten
-Überlege dir, den Mapping-Prozess mit Platzhalter- oder "Timing"-Noten zu starten. Mit "Punkt-Blöcken" als Platzhalter kannst du leicht sehen, ob deine Map richtig getimed ist und ob du zusäzliche Betonung benutzten willst, **bevor** du eine Menge Zeit mit den Patterns verbringst. Listen to make sure the editor hit sounds are in time with the beat.
+Überlege dir, den Mapping-Prozess mit Platzhalter- oder "Timing"-Noten zu starten. Mit "Punkt-Blöcken" als Platzhalter kannst du leicht sehen, ob deine Map richtig getimed ist und ob du zusäzliche Betonung benutzten willst, **bevor** du eine Menge Zeit mit den Patterns verbringst. Achte darauf, dass die Schlaggeräusche des Editors im Takt des Beats sind.
 
 ::: tip  
-Not everyone uses timing notes but they can be a helpful way to ensure your maps are timed correctly as a new mapper. :::
+Nicht jeder verwendet Timing Notizen, aber sie können eine hilfreiche Methode sein, um sicherzustellen, dass deine Maps als neuer Mapper richtig getimt sind. :::
 
 ### Overmapping & Undermapping
-Deliberately place blocks that match the music. Don't place more blocks than necessary just for the sake of making the map difficult. Some songs were never meant to be super-dense ExpertPlus maps and that’s ok.
+Platziere bewusst Blöcke, die zur Musik passen. Platziere nicht mehr Blöcke als nötig, nur um die Karte schwierig zu gestalten. Einige Songs waren nie dazu gedacht, superdichte ExpertPlus Maps zu sein, und das ist ok.
 
-* **Overmapping** is the (bad) practice of placing more blocks than there are sounds. Don’t do it.
-* **Undermapping** is the very acceptable practice of skipping some notes/beats (especially at lower difficulties).
+* **Overmapping** ist die (schlechte) Praxis, mehr Blöcke zu platzieren als Töne vorhanden sind. Tue es nicht.
+* **Undermapping** ist die sehr akzeptable Praxis des Überspringens einiger Noten/Schläge (besonders bei niedrigeren Schwierigkeiten).
 
 ### Betonung & Konsistenz
-We’ll go into more detail on this in [Intermediate Mapping](./intermediate-mapping.md) but, as a new mapper you should understand at least the basic ideas of emphasis and consistency and how they impact your map.
+Wir gehen in [Intermediate Mapping](./intermediate-mapping.md) näher darauf ein, aber als neuer Mapper solltest du zumindest die grundlegenden Ideen von Betonung und Konsistenz verstehen und wie sie sich auf die Map auswirken.
 
-**Emphasis** is how much "weight" you give each hit.
+**Emphasis** ist, wie viel "Gewicht" du jedem Treffer gibst.
 
-* Consider the base sound your mapping to to be a single hit (one block), including quiet or chill sections
+* Betrachte den Basis-Sound deines Mappings als einen einzelnen Hit (einen Block), einschließlich leiser oder chilligere Abschnitte
 * When the sound is "bigger" or you have two different instruments hitting on the same beat you can think about using a double hit or a stack (two blocks).
 * For only the biggest sounds in the song you could use a double tower (four blocks, two for each hand) or other heavyweight pattern, but many songs never need this amount of emphasis.
 

@@ -64,6 +64,7 @@ All of your working map files will go into a song name folder within this Custom
 
 1. Download MMA2.zip from [BSMG Git](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest).
 2. Unzip the file and place the extracted folder wherever you like on your hard drive.
+3. Follow the Proton installation steps for your Linux Distribution.
 3. Open Steam. At the top of the window, go to `Steam > Settings > Steam Play`. In the `Advanced` section, check `Enable Steam Play for all other titles` if it isn't already. Restart Steam if you are prompted to do so.
 3. On the bottom left of Steam's main window, click `Add a Game`, then `Add a Non-Steam Games`. A window opens, click `Browse` at the bottom. Select `All Files` as the file type. Find where `MediocreMapAssistant2.exe` is, and add it.
 4. Search for `Proton` in the Steam search bar, then install the latest version.

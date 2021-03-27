@@ -12,10 +12,8 @@ Si descargas mapas manualmente desde BeatSaver, extraelos en una carpeta y coloc
 [Beast Saber](https://www.bsaber.com) es un sitio de reseñas que tiene como objetivo curar todas las canciones en BeatSaver. También puedes descargar listas de reproducción, seguir mappers, encontrar canciones usando métodos avanzados de ordenación, y mucho más.
 
 ### Herramientas de administración de canciones
-Los siguientes son programas que se usarán en el escritorio para ayudarte a descargar canciones personalizadas, con algunas otras características también.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view) un descargador de mapas, hecho por Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) es una aplicación para administrar las listas de reproducción y los mapas personalizados, hecho por Alaanor.
+There are no working song management apps available at this time.
 
 ## ¿Cómo puedo instalar listas de reproducción?
 
@@ -24,8 +22,8 @@ Necesitas instalar el mod [PlaylistManager](https://github.com/rithik-b/Playlist
 
 Después las opciones serán:
 
-* Utilice la herramienta `Instalar lista de reproducción` en la pestaña Opciones del asistente de mods.
-* Colocar el archivo de la lista de reproducción en `Beat Saber/Playlists` y seleccionarlo en el juego y luego pulsar descargar todas las canciones.
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Deberías ver la lista de reproducción junto al álbum de niveles personalizados dentro del juego. El mod también soporta la gestión de listas de reproducción dentro del juego.
 
@@ -37,7 +35,7 @@ Puedes usar [Editor de lista de reproducción Pro](https://beatsaberquest.com/bm
 ## ¿Cómo creo mis propios niveles personalizados?
 ¡Echa un vistazo a [mapeo](/mapping/)!
 
-## ¿Cómo puedo cargar plugins que no están en Mod Assistant?
+## How do I load PC mods that aren't in Mod Assistant?
 Mira [esta sección](/pc-modding.md#manual-installation) en la guía de principiantes.
 
 ## ¿El multijugador tiene crossplay?
@@ -46,7 +44,7 @@ Oficialmente, el multijugador se limita a jugar con otras personas en la versió
 El mod BeatTogether es la solución actual para el juego multiplataforma entre las versiones del juego. Únete a su [servidor de Discord](https://discord.com/invite/gezGrFG4tz) y revisa el canal `#install-instructions` para más información.
 
 ## ¡Mi juego se actualizo y ahora ninguno de mis mods está funcionando!
-Cada vez que el juego se actualiza es posible *(y muy probablemente)* que tus mods actuales dejen de funcionar y necesiten ser actualizados. Los desarrolladores se dieron cuenta de esto, así que cuando el juego se actualiza y lo ejecutas por primera vez, todo en la carpeta `Plugins` se mueve a la carpeta `Plugins Antiguos`. **¡Deja esos plugins ahí!**
+Cada vez que el juego se actualiza es posible *(y muy probablemente)* que tus mods actuales dejen de funcionar y necesiten ser actualizados. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
 
 Para recuperar tus mods simplemente **ejecuta el instalador de nuevo.**  
 ¡El repositorio de BeatMods sólo incluye mods que han sido confirmados para trabajar en la última versión del juego!

@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-description: List of all the people who contributed to the Mapping Resources!
+description: Lijst van alle mensen die hebben bijgedragen aan de Mapping Resources!
 ---
 
 # Mapping Resources Contributors
@@ -64,11 +64,11 @@ De plushie koningin die het grootste deel van deze middelen heeft georganiseerd.
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c8553d2) | [BeastSaber](https://bsaber.com/members/helencarnate/) | [Etsy Shop](https://www.etsy.com/shop/HelenCarnateDesigns)
 
 ## Hexagonial
-Wrote a guide on forbidden patterns in E+ maps that was integrated into the [Basic Mapping: Gauging Difficulty & Down-Mapping](./basic-mapping.md#gauging-difficulty-down-mapping) section. Is ook een lid van het ranking team!   
+Heeft een gids gemaakt over verboden patronen in E+ levels die in de [Beginners mapping: niveau inschatten & down-mapping](./basic-mapping.md#gauging-difficulty-down-mapping) sectie is geïntegreerd. Is ook een lid van het ranking team!   
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84f2fb) | [BeastSaber](https://bsaber.com/members/hexagonial/)
 
 ## Kival Evan
-Contributed to the [360&deg;/90&deg; best practices](./extended-mapping.md#_360°-90°-best-practices) thanks to extensive experimentation with the new mode.  
+Heeft bijgedragen aan de [360&deg;/90&deg; beste praktijken](./extended-mapping.md#_360°-90°-best-practices) dankzij uitgebreide experimenten met de nieuwe modus.   
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c855af3) | [BeastSaber](https://bsaber.com/members/kivalevan/)
 
 ## Kolezan
@@ -96,7 +96,7 @@ Heeft *Beginner's Lighting Guideline* geschreven, een gids dat geïntegreerd is 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85380d) | [BeastSaber](https://bsaber.com/members/puds/)
 
 ## Pyrowarfare
-A Bsaber curator who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md) and contibuted on various other pages.  
+Een Bsaber curator dat een groot deel van de inhoud schreef voor [Hoe test je een level](./how-to-testplay.md), [Mapping angst](./mapping-anxiety.md) en heeft bijgedragen aan vele andere paginas.   
 [BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
 
 ## Ris
@@ -112,15 +112,15 @@ Heeft de originele mapping extensions muren gids geschreven.
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c851beb) | [BeastSaber](https://bsaber.com/members/scrappy/)
 
 ## Silent Caay
-Wrote the original "Quick Start Guide" on mapping on BeastSaber.  
+Heeft de originele "snelstartgids" over mapping op BeastSaber geschreven.   
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84ed71) | [BeastSaber](https://bsaber.com/members/silentcaay/)
 
 ## Skeelie
 Veroorzaker van oogschade met zijn flitsende lightshows, hij kan je helpen je level te laten schijnen! Heeft bijgedragen aan [Geavanceerde verlichting](./advanced-lighting.md). [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85507f) | [BeastSaber](https://bsaber.com/members/skeelie/) | [YouTube](https://www.youtube.com/user/xSkeelie) | [Twitch](https://www.twitch.tv/skeelie)
 
 ## Skyler Wallace
-Managed the first anniversary pack and a founder of Bloq Busters. Skyler makes it a point to do full spread mapping.  
-Authored *The Ultimate Beat Saber Mapping Guide* which has been integrated across many of the resources.  
+Beheerde het de eerste anniversary pack en een oprichter van Bloq Busters. Skyler maakt het een punt om full spread mapping te doen.   
+Heeft *The Ultimate Beat Saber Mapping Guide* geschreven, dat is geïntegreerd in veel van de bronnen.   
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7298cc5a672c84ea67) | [BeastSaber](https://bsaber.com/members/skylerwallace/)
 
 ## Spooky Ghost

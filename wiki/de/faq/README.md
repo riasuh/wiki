@@ -12,10 +12,8 @@ Solltest du Maps manuell von BeatSaver downloaden, entpacke diese in einen eigen
 [Beast Saber](https://www.bsaber.com) ist eine Rezensions-Seite, die sich zum Ziel gesetzt hat, alle Songs auf BeatSaver zu organisieren und zu bewerten. Du kannst Playlists downloaden, Mappern folgen und Lieder mit erweiterten Sortiermethoden finden.
 
 ### Song Verwaltungstools
-Folgende Programme können auf dem Desktop verwendet werden, um dir beim Herunterladen von Custom Songs zu helfen, mit einigen anderen Features.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view) ist ein Map Downloading-Tool von Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) ist eine App zum Verwalten von Playlists und BeatMaps, von Alaanor.
+Zurzeit gibt es keine funktionierenden Apps zur Songverwaltung.
 
 ## Wie installiere ich Playlists?
 
@@ -24,7 +22,7 @@ Du musst den [PlaylistManager](https://github.com/rithik-b/PlaylistManager/relea
 
 Dazu kannst du entweder:
 
-* Das `Playlist installieren` Tool in den Optionen des Mod Assistant verwenden.
+* Das `Install Playlist` Tool in den Optionen des Mod Assistant verwenden.
 * Platziere die Playlist-Datei in `Beat Saber/Playlists` und wähle diese im Spiel aus. Klicke dann auf Download.
 
 Du solltest die Playlist jetzt neben den Custom Levels im Spiel sehen. Der Mod unterstützt auch die Verwaltung von Playlists im Spiel.
@@ -46,7 +44,7 @@ Ofiziell beschränkt sich der offizielle Multiplayer auf das Spielen mit anderen
 Der BeatTogether Mod ist die aktuellste Lösung für Crossplay-Gaming zwischen den verschiedenen Plattformen. Trete dem [Discord Server](https://discord.com/invite/gezGrFG4tz) bei und sehe dir den `#install-instructions`-Channel für weitere Informationen an.
 
 ## Mein Spiel wurde aktualisiert und meine Mods funktionieren nicht mehr
-Jedes mal, wenn das Spiel aktualisiert wird, ist es möglich *(Und sehr wahrscheinlich)* dass deine aktuellen Mods nicht mehr funktionieren und aktualisiert werden müssen. Die Entwickler haben dies gemerkt. Deswegen wird beim ersten Spielstart nach einem Update alles im `Plugins` Ordner in einem neuen Ordner namens `Old 1.xx.x Plugins` verschoben. **Lasse diese Plugins in diesem Ordner!**
+Jedes mal, wenn das Spiel aktualisiert wird, ist es möglich *(Und sehr wahrscheinlich)* dass deine aktuellen Mods nicht mehr funktionieren und aktualisiert werden müssen. Um sicherzustellen, dass deine Installation nicht kaputt geht, wenn das Spiel mit einem neuen Update zum ersten Mal läuft, wird alles im Ordner `Plugins` automatisch in einen neuen Ordner namens `Old 1.xx.x Plugins` verschoben. **Lasse diese Plugins in diesem Ordner**
 
 Um Mods zurückzubekommen, **führe den Installer erneut aus.**  
 Das BeatMods Repository enthält nur bestätigte Mods, die auch mit der aktuellen Version funktionieren!

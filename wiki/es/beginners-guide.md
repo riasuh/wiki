@@ -35,7 +35,7 @@ El hardware aplicable incluye:
 ¡Aprende a crear tu propio nivel siguiendo nuestra guía de [mapeo](./mapping/)!
 
 ### Haciendo Mods
-¡Empieza a crear complementos para el juego siguiendo nuestra [guía de creación de mod](./modding/)!
+Get started creating mods for the game by following our [mod creation](./modding/) guide!
 
 ### Haciendo modelos 3D
 ¡Aprende cómo crear modelos 3D para el juego!

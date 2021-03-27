@@ -6,7 +6,7 @@ Vous êtes-vous déjà demandé qui faisait votre mod favori ou créé l'install
 ## Qui sommes-nous ?
 
 ### [Staff](./staff.md)
-L'équipe qui mène le bal sur scène et en coulisse. Que ce soit la gestion des projets, la validation des extensions, la gestion des services principaux, la gestion d'évènements, ou bien d'autres projets secrets, il y a toujours beaucoup de travail à faire. La communauté n'existerait pas sans ces indénombrables heures de contributions fournies par ces individus géniaux, alors, s'il-vous-plaît, offrez-leur une ovation virtuelle (et aidez à payer les services si vous pouvez...).
+L'équipe qui mène le bal sur scène et en coulisse. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. La communauté n'existerait pas sans ces indénombrables heures de contributions fournies par ces individus géniaux, alors, s'il-vous-plaît, offrez-leur une ovation virtuelle (et aidez à payer les services si vous pouvez...).
 
 ### [Modérateurs](./moderators.md)
 Avec un serveur aussi vaste, énormément de modération est nécessaire pour faire respecter l'ordre. Vous pouvez remercier cette équipe pour garder les rues propres.

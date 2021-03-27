@@ -14,7 +14,7 @@ sidebar: auto
 5. [J'ai encore des problèmes](#5-j-ai-encore-des-problemes)
 
 ## 0. Mises à jour
-Après une mise à jour, le salon `#server-announcements` du Discord BSMG devrait avoir les instructions les plus récentes sur le statut des mods. Ce qui suit sont des instructions plus détaillées sur la procédure la plus courante.
+Après une mise à jour, le salon `#modding-announcements` du Discord BSMG devrait avoir les instructions les plus récentes sur le statut des mods. Ce qui suit sont des instructions plus détaillées sur la procédure la plus courante.
 
 ### La mise à jour a cassé mes mods
 **Lancez le jeu une fois** après la nouvelle mise à jour. Puis, réinstallez les mods en utilisant un installateur mentionné dans le [guide du Débutant](/fr/beginners-guide), tel que Mod Assistant.
@@ -41,7 +41,7 @@ Si les pré-requis détaillés dans la section 1.1 sont valides, essayez les sol
 
 ##### Solution 2 (Steam uniquement)
 
-* [Vérifiez vos fichiers du jeu](#verifier-les-fichiers-du-jeu-sur-steam)
+* [Vérifiez les fichiers du jeu](#verifier-les-fichiers-du-jeu-sur-steam)
 * Mettez à jour BSIPA à la dernière version
 * Allez dans votre dossier d'installation de Beat Saber
 * Lancez `IPA.exe`
@@ -95,14 +95,14 @@ Si la [section 2.3](#2-3-le-jeu-ralentit-beaucoup-apres-avoir-installe-les-mods)
 * Vérifiez si NVIDIA GeForce Experience a défini l'échelle de rendu pour Beat Saber au delà de la valeur par défaut de 1.0. Il est possible qu'il aie défini une valeur plus élevée telle que 1.4 ou 1.8, qui augmente considérablement la charge GPU.
 * Utilisez un avatar personnalisé moins complexe.
 * Les sabres personnalisés **Plasma Katanas** ont de nombreux évènements personnalisés et sont connus pour créer du lag en cas de note ratée.
-* CameraPlus peut être très gourmand, en particulier si vous avez plusieurs caméras et agrandissez le champ de vision (ou FOV).
+* Camera2/CameraPlus peuvent être très gourmands en ressources, en particulier si vous avez plusieurs caméras et agrandissez le champ de vision (ou FOV).
 * Baissez l'échelle de rendu (Render Scale), l'anticrénelage (Anti-Aliasing), le miroir (Mirror), le brouillard (Smoke) dans les paramètres de base du jeu.
 * Pour les joueurs Oculus Rift CV1 : pensez à utiliser 2 capteurs au lieu de 3 ou plus.
 * Réduisez votre nombre de mods et de chansons.
 * Réalisez une [réinstallation propre](#installation-propre) du jeu.
 * De faibles performances peuvent aussi être causées par quelque chose qui ne va pas dans le dossier des données d'application, pour y remédier référez vous à [comment supprimer le dossier BeatSaber dans votre AppData](#supprimer-les-sauvegardes-dans-appdata).
-* Désactivez des compteurs CountersPlus tels que Score Counter et Swing Speed, car ils peuvent être gourmands en ressources.
-* Le mod HTTPStatus peut causer des pics de ralentissement (*lag spikes*). Testez le jeu sans ce mod pour voir si les pics de ralentissement disparaissent.
+* Désactivez des compteurs Counters+ tels que Score Counter et Swing Speed, car ils peuvent être gourmands en ressources.
+* HTTPStatus/DataPuller peuvent créer des saccades. Testez le jeu sans ce mod pour voir si les pics de ralentissement disparaissent.
 
 La réalité virtuelle est très gourmande en processeur (CPU), surtout si vous ajoutez des mods. Si vous avez du mal à faire fonctionner le jeu avec les mods que vous voulez utiliser, pensez à améliorer votre matériel. Notez que Beat Saber n'utilise que peu de ressources graphiques (GPU) puisqu'il s'agit d'un jeu aux graphismes particulièrement simples.
 
@@ -159,12 +159,13 @@ Cliquez sur le point d'interrogation (?) bleu dans le coin en haut à droite. Ce
 Si cela ne se produit que sur certaines maps, vous n'avez peut-être pas les mods nécessaires, ou cette map peut être corrompue. Si cela se produit sur toutes vos maps, supprimez votre dossier `Plugins` et réinstallez vos mods.
 
 ### CameraPlus
+:::warning NOTE Ce mod n'est plus maintenant et a été remplacé par [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2). :::
 
 #### 3.9 Camera Plus ne fonctionne pas / après l'écran Santé
 Assurez-vous que l'option "Smooth Camera" (Caméra lisse) du jeu de base est désactivée. Si cela ne fonctionne pas, essayez de réinstaller CameraPlus et ses dépendances.
 
 #### 3.10 Ma vue sur le PC ne prend qu'une petite portion de l'écran
-Votre affichage CameraPlus ne remplit pas tout votre écran. Tirez les coins de la fenêtre pour l'agrandir, ou cliquez droit sur la fenêtre et sélectionnez "Fit To Canvas" (Agrandir à l'écran).
+Votre affichage CameraPlus ne remplit pas votre écran. Tirez les coins de la fenêtre pour l'agrandir, ou cliquez droit sur la fenêtre et sélectionnez "Fit To Canvas" (Agrandir à l'écran).
 
 ### BeatSaver Downloader
 
@@ -178,6 +179,26 @@ Les potentielles causes d'erreur de BeatSaver Downloader sont :
 2. Votre antivirus ou pare-feu bloque l'accès à BeatSaver.
 3. Vous avez atteint le taux limite de BeatSaver et devrez attendre avant de réessayer.
 
+### Codes d'erreur multijoueur
+Voici une liste des codes d'erreurs connus, ce qu'ils représentent, et ce que vous pouvez faire pour résoudre le problème correspondant.
+
+<!-- Disable line length rule because of table -->
+<!-- markdownlint-disable MD013 -->
+| Code&nbsp; | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|:---------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CFR-1      | Une erreur inconnue s'est produite. Essayez de redémarrer le jeu.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| CFR-2      | La connexion au multijoueur a été annulée.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| CFR-3      | Serveur indisponible. Il peut y avoir un problème avec votre connexion internet ou avec les serveurs relais de Beat Saber. Vérifiez que vous n'êtes pas hors ligne et que votre pare-feu permet à Beat Saber de se connecter à internet. <details><summary>**Informations supplémentaires**</summary>Le multijoueur de Beat Saber fonctionne en pair à pair : vous vous connectez donc directement à chaque joueur dans le salon multijoueur. Lorsque cela n'est pas possible, Beat Saber ouvre un serveur "relais" auquel envoyer les données. Cette erreur signifie que ces deux méthodes ont échoué.</details> |
+| CFR-4      | Le serveur existe déjà.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| CFR-5      | Le serveur n’existe pas. Il est possible que le salon multijoueur auquel vous essayiez de vous connecter a été fermé pendant que vous vous connectiez.                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| CFR-6      | Le serveur est plein. Choisissez un salon multijoueur différent.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-7      | Vous êtes sur une version du jeu qui n'est pas compatible avec les serveurs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| CFR-8      | Le mot de passe du salon multijoueur est incorrect. Vérifiez que vous entrez le bon mot de passe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| CFR-9      | Les serveurs de matchmaking de Beat Games, qui permettent de gérer les salons multijoueur publics et privés, sont hors ligne. Réessayez plus tard.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-10     | Votre clé de session Steam ou Oculus est invalide. Si vous jouez sur Quest et avez moddé votre jeu, allez voir [ici](/fr/faq/README.md#est-ce-que-le-multijoueur-est-multiplateforme) pour contourner le problème. Sinon, vous êtes sur une version piratée du jeu, qui n'est pas prise en charge.                                                                                                                                                                                                                                                                                      |
+| CFR-11     | Vous ne semblez pas être connecté à internet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+<!-- markdownlint-enable MD013 -->
+
 ## 4. Dépannage divers
 
 ### Comprendre les logs
@@ -186,7 +207,7 @@ Si vous êtes sur Steam vous pouvez vous rendre dans :
 
 Si vous êtes sur Oculus, faites un clic droit sur Beat Saber.exe et créez un raccourci. Modifiez la Cible pour ajouter `--verbose` à la fin, par exemple : `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-Après avoir ajouté la verbosité à votre jeu, cela devrait afficher toute erreur liée à vos avatars, sabres et chansons
+Après avoir effectué cette opération, le jeu devrait afficher toute erreur liée à vos avatars, sabres et chansons.
 
 * Cela peut ne pas s'afficher 100 % du temps pour les avatars et les sabres, et vous aurez peut-être à supprimer tous vos avatars / sabres et les essayer un à un pour voir lequel casse votre jeu.
 
@@ -228,7 +249,7 @@ Voici [un court guide vidéo (texte en anglais)](https://www.youtube.com/watch?v
 (Facultatif) Si vous voulez aller plus loin dans la démarche, référez-vous à : [Supprimer le dossier BeatSaber dans AppData](#supprimer-les-sauvegardes-dans-appdata)
 
 ### Supprimer les sauvegardes dans AppData
-Cela va supprimer vos scores et données locales, mais pas vos statistiques ni votre classement personnalisé ScoreSaber. Vous pouvez trouver le dossier à l'emplacement suivant :
+Cela va supprimer vos scores et données locales, mais pas vos statistiques ni vos classements sur ScoreSaber. Vous pouvez trouver le dossier à l'emplacement suivant :
 > `%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
 Dans votre explorateur de fichiers, copiez et collez le chemin ci-dessus dans la barre de navigation en haut et supprimez le dossier.
@@ -238,7 +259,7 @@ Vous pouvez aussi vous rendre dans ce dossier en affichant les éléments masqu�
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning ATTENTION Supprimer le dossier de AppData supprimera aussi vos scores locaux et statistiques de jeu. :::
+::: warning Supprimer le dossier des données locales supprimera aussi vos scores locaux et statistiques de jeu. :::
 
 #### Mesures désespérées
 ::: warning ATTENTION Désactiver votre antivirus comporte des risques de sécurité, soyez sûr de ce que vous faites (c'est-à-dire ne téléchargez pas et n'ouvrez pas de fichier suspect tant qu'il est désactivé) et n'oubliez pas de le réactiver dès que vous en avez terminé. :::
@@ -259,6 +280,4 @@ Si cette page ne couvre pas les bases, n'hésitez pas à poser une question sur 
 
 ::: tip NOTE Les personnes avec le rôle `Support` sont des bénévoles qui peuvent choisir de vous aider sur leur temps libre. Ce rôle est une reconnaissance de la connaissance et des efforts qu'ils ont fournis jusque là, mais ça ne veut pas nécessairement dire qu'ils sont disponibles pour aider juste parce qu'ils sont en ligne. :::
 
-Merci !
-
-> Merci à Saber-Chan pour son dur labeur sur cette page.
+Merci à Saber-Chan pour son dur labeur sur cette page.

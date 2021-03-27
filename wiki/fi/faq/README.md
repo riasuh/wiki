@@ -12,10 +12,8 @@ If you download maps manually from BeatSaver, extract them into a folder and pla
 [Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on BeatSaver. You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
 
 ### Song Management Tools
-The following are programs to be used on the desktop to help you download custom songs, with some other features as well.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view) a map downloader by Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) is an app to manage playlist and beatmaps, by Alaanor.
+There are no working song management apps available at this time.
 
 ## How do I install playlists?
 
@@ -25,7 +23,7 @@ You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistMa
 Then you can either:
 
 * Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select it in-game, then hit download all songs.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
 
@@ -37,7 +35,7 @@ You can use [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playl
 ## How do I make my own custom levels?
 See [mapping](/mapping/)!
 
-## How do I load plugins that aren't in Mod Assistant?
+## How do I load PC mods that aren't in Mod Assistant?
 See [this section](/pc-modding.md#manual-installation) in the beginners guide.
 
 ## Does multiplayer have crossplay?
@@ -46,7 +44,7 @@ Officially, multiplayer is limited to playing with other people in the store ver
 The BeatTogether mod is the current solution for cross-platform play between the modded game versions. Join their [Discord server](https://discord.com/invite/gezGrFG4tz) and check the `#install-instructions` channel for more information.
 
 ## My game updated and now none of my mods are working
-Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. The game developers realized this, so when the game updates and you run it for the first time, everything in the `Plugins` folder is moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins in there!**
+Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
 
 To get mods back, simply **run the installer again.**  
 The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!

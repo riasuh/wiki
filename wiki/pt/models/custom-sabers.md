@@ -4,7 +4,7 @@
 :::tip NOTA Sabres precisam ser feitos especificamente para a Quest ou PC e não podem ser trocados entre os dois. Você pode dizer para qual plataforma um sabor serve pela extensão do arquivo. Arquivos `.saber` são para o PC enquanto o Quest usa arquivos `.zip`. :::
 
 ### PC Sabers
-A última versão do plugin Custom Sabers pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [Mod Assistant](https://github.com/Assistant/ModAssistant). Execute ModAssistant, selecione o plugin Custom Saber e clique em Instalar. Uma vez instalado, você verá uma pasta chamada `CustomSabers` na [sua pasta de instalação](/faq/install-folder.md), aqui é onde você deve colocar os arquivos `*.saber` que você deseja usar.
+The latest Custom Saber mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Run Mod Assistant, select the Custom Saber mod, and click Install. Uma vez instalado, você verá uma pasta chamada `CustomSabers` na [sua pasta de instalação](/faq/install-folder.md), aqui é onde você deve colocar os arquivos `*.saber` que você deseja usar.
 
 Você pode baixar mais sabres no [ModelSaber](https://modelsaber.com/Sabers/).
 

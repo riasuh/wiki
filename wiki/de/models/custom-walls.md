@@ -1,25 +1,25 @@
 # Custom Walls
 
 ## Installation
-:::tip NOTE Walls need to be made specifically for Quest or PC and are not interchangeable between the two. You can tell which platform a wall is for by the file extension. `.pixie` files are for PC while Quest uses `.zip` files. :::
+:::tip HINWEIS Die Walls müssen speziell für Quest oder PC angefertigt werden und sind nicht zwischen beiden austauschbar. Für welche Plattform eine Wall bestimmt ist, erkennst du an der Dateierweiterung. `.pixie` Dateien sind für PC, während Quest `.zip` Dateien verwendet. :::
 
 ### PC Walls
-The latest Custom Walls plugin can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant).
+Den neuesten Custom Walls Mod findest du im [#pc-mods Channel](https://discord.gg/beatsabermods) im BSMG Discord oder im [Mod Assistant](https://github.com/Assistant/ModAssistant).
 
-Once installed, you should see a `CustomWalls` folder in [your install folder](/faq/install-folder.md). This folder is where you will place `*.pixie` files.
+Nach der Installation solltest du einen `CustomWalls` Ordner in [deinem Installationsordner](/faq/install-folder.md) sehen. In diesem Ordner werden die `*.pixie` Dateien abgelegt.
 
-You can download more walls from the [#pc-walls channel](https://discord.gg/beatsabermods) in the BSMG Discord.
+Du kannst mehr Walls aus dem [#pc-walls Channel](https://discord.gg/beatsabermods) im BSMG-Discord herunterladen.
 
 ### Quest Walls
-Custom Walls for Quest are provided by the Qosmetics mod. The latest version can be found in the [#quest-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord. Walls are called `qwalls` and are currently hosted in the [Qosmetics Community Discord](https://discord.gg/qosmetics).
+Custom Wallf für Quest wird von der Qosmetics-Mod bereitgestellt. Die neueste Version kann man [#quest-mods Channel](https://discord.gg/beatsabermods) im BSMG Discord finden. Walls werden `qwalls` genannt und sind derzeit im [Qosmetics Community Discord](https://discord.gg/qosmetics) gehostet.
 
-## Usage
+## Verwendung
 
-### PC Users
-Inside the game in the main menu you will see on the left a `CUSTOM WALLS` button under the `Mods` section. Pressing it will open up the menu you can use to select which walls you want to use. There's also additional settings you can change, such as disabling the wall frames.
+### PC User
+Innerhalb des Spiels wirst du im Hauptmenü einen `CUSTOM WALLS` Knopf unter dem `Mods` Abschnitt finden. Wenn du darauf drückst, öffnet sich das Menü, mit dem du auswählen kannst, welche Wände du verwenden möchtest. Es gibt auch zusätzliche Einstellungen, die du ändern kannst, wie z. B. die Deaktivierung der Wandrahmen.
 
-### Quest Users
-Upload the wall zip file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which wall is active under the mods tab in BMBF.
+### Quest User
+Lade die Wall-Zip Datei in deine Quest über das [BMBF Web Interface](/quest-modding.md#installing-mods). Du kannst dann unter der Registerkarte Mods im BMBF auswählen, welche Wand aktiv ist.
 
-## Creating Custom Walls
-Although there's not currently a guide on how to create custom walls, one is in the works.
+## Custom Walls erstellen
+Obwohl es derzeit keine Anleitung zum Erstellen von Custom Walls gibt, ist eine solche in Arbeit.

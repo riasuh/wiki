@@ -3,7 +3,7 @@ description: Installation, utilisation, et guides de créations de modèles
 ---
 
 # Modèles 3D
-Toutes les extensions permettant l'utilisation des modèles personnalisés ont été créées par des personnes différentes. Chaque mod a sa propre page dédiée détaillant son installation et ses instructions d'utilisation. Ils sont listés ci-dessous et dans la barre de navigation.
+All custom model mods were created separately by different people. Chaque mod a sa propre page dédiée détaillant son installation et ses instructions d'utilisation. Ils sont listés ci-dessous et dans la barre de navigation.
 
 * [Sabres personnalisés](./custom-sabers.md)
 * [Avatars personnalisés](./custom-avatars.md)

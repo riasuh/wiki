@@ -44,7 +44,7 @@ Een plaats voor het plannen van, berichten over, bespreken van en tevens ook ont
 ## Beat Saber League
 Een competitie-achtig toernooi voor Beat Saber!
 
-[Discord](https://discord.gg/nFJDVqS) | [Website](https://beatsaberleague.com/)
+[Discord](https://discord.gg/rNmazdz) | [Website](https://beatsaberleague.com/)
 
 ---
 

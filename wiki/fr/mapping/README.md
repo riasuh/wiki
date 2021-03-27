@@ -167,8 +167,8 @@ Voici quelques mods qui pourraient rendre la tâche plus facile.
 
 * [SiraUtil](./basic-lighting.md#en-jeu-avec-fpfc) de **auros**  
   Avec l'option de lancement FPFC (First Person Flying Controller, ou contrôleur volant en première personne), ceci vous permet de contrôler le jeu pendant une map au clavier et à la souris sans avoir de casque VR. Voir [les bases du Lighting](./basic-lighting.md#in-game-with-fpfc) pour les liens vers le mod et comment le configurer.
-* [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) de **Kyle1413**  
-  Plugin pour Beat Saber pour contrôler la vitesse, naviguer dans la chanson et définir des sections de boucle. Installez la dernière version depuis [ModAssistant](https://github.com/Assistant/ModAssistant#readme) !
+* [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) by **Kyle1413**  
+  Mod for Beat Saber to control playback speed, seek through songs and set up looping sections. Install the latest version from [Mod Assistant](https://github.com/Assistant/ModAssistant#readme)!
 * [ReLoader](https://github.com/Kylemc1413/ReLoader) de **Kyle1413**  
   Permet de recharger à chaud les maps en mode d'entraînement sans avoir à retourner au menu pour l'actualiser. Très pratique pour le mapping des murs.
 

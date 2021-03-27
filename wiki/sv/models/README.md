@@ -3,7 +3,7 @@ description: Installation, Usage, and Creation Guides for Model Mods!
 ---
 
 # 3D-modeller
-Alla anpassade modellplugins skapades separat av olika personer. Each mod has its own dedicated page detailing installation and usage instructions. Dessa listas nedan och i sidofältet.
+All custom model mods were created separately by different people. Each mod has its own dedicated page detailing installation and usage instructions. Dessa listas nedan och i sidofältet.
 
 * [Anpassade Sablar](./custom-sabers.md)
 * [Anpassade Avatarer](./custom-avatars.md)

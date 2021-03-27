@@ -12,10 +12,8 @@ Se transferires mapas manualmente do BeatSaver, extrai-os para uma pasta e coloc
 [Beast Saber](https://www.bsaber.com) é um site de avaliação que visa curar todas as músicas no BeatSaver. Também podes transferir listas de reprodução, seguir as pessoas que criam os mapas, encontrar músicas utilizando métodos avançados de classificação e muito mais.
 
 ### Ferramentas de Gestão de Músicas
-Estes são programas que podem ser utilizados para te ajudar a transferir músicas personalizadas, com alguns outros recursos também.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view), um downloader de mapas criado por Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) é uma aplicação para gerir listas de reprodução e mapas, criada por Alaanor.
+There are no working song management apps available at this time.
 
 ## Como eu instalo playlists?
 
@@ -24,8 +22,8 @@ Você precisa instalar o mod [PlaylistManager](https://github.com/rithik-b/Playl
 
 Depois disso, podes:
 
-* Usar a ferramenta `Instalar Listas de Reprodução` no separador Opções do Mod Assistant.
-* Colocar o ficheiro da lista de reprodução em `Beat Saber/Playlists` e selecioná-la no BeatList, depois clicar em transferir tudo.
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Agora deves ver a lista de reprodução ao lado dos álbuns de Custom Levels no jogo. O mod também suporta o gerenciamento de playlists no jogo.
 
@@ -37,7 +35,7 @@ Você pode usar o [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools
 ## Como crio os meus próprios níveis personalizados?
 Veja a seção [como criar mapas](/mapping/)!
 
-## Como faço para carregar plugins que não estão no Mod Assistant?
+## How do I load PC mods that aren't in Mod Assistant?
 Vê [esta seção](/pc-modding.md#manual-installation) no guia para iniciantes.
 
 ## O multiplayer tem crossplay?
@@ -46,7 +44,7 @@ Oficialmente, o multiplayer é limitado a jogar com outras pessoas na versão da
 O mod BeatTogether é a solução atual para jogar entre as versões de jogo modificadas. Entre no [servidor do Discord](https://discord.com/invite/gezGrFG4tz) deles e verifique o canal `#install-instructions` para mais informações.
 
 ## O meu jogo atualizou e agora nenhum dos meus mods está a funcionar
-Todas as vezes que o jogo é atualizado é possível *(e muito provável)* que os mods existentes parem de funcionar e precisem de ser atualizados. Os desenvolvedores do jogo perceberam isso, portanto, quando o jogo é atualizado e você abre ele pela primeira vez, tudo na pasta `Plugins` é movido para uma nova pasta chamada `Old 1.xx.x Plugins`. **Deixa esses plugins lá!**
+Todas as vezes que o jogo é atualizado é possível *(e muito provável)* que os mods existentes parem de funcionar e precisem de ser atualizados. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
 
 Para ter os mods de volta, simplesmente **executa o instalador novamente.**  
 O repositório do BeatMods inclui apenas mods que foram confirmados para funcionar na versão mais recente do jogo!

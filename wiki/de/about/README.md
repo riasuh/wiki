@@ -6,7 +6,7 @@ Hast du dich schon mal gefragt, wer deine Lieblings Mods oder den Mod-Installer 
 ## Wer wir sind
 
 ### [Staff](./staff.md)
-Das Team, dass die Show im Vordergrund und hinter den Kulissen an laufen hält. Egal ob es um Projekt Management, Plugin Freigabe, Verwaltung von Kern Services, Event Koordination oder viele andere geheime Projekte geht: Es gibt immer viel zu tun. Die Community würde nicht existieren, ohne die zahllosen Stunden dieser unglaublichen Individuen, also bitte gib ihnen eine Virtuelle Runde Applaus (und helfe für die Services zu zahlen wenn du kannst...)
+Das Team, dass die Show im Vordergrund und hinter den Kulissen an laufen hält. Egal ob es um Projekt Management, Plugin Freigabe, Verwaltung von Kern Services, Event Koordination oder viele andere geheime Projekte geht, es gibt immer viel zu tun. Die Community würde nicht existieren, ohne die zahllosen Stunden dieser unglaublichen Individuen, also bitte gib ihnen eine Virtuelle Runde Applaus (und helfe für die Services zu zahlen wenn du kannst...)
 
 ### [Moderatoren](./moderators.md)
 Mit einem so großen Server ist sehr viel Moderation erforderlich, um alles unter Kontrolle zu halten. Du kannst diesem Team dafür danken, dass sie alles Sauber halten.

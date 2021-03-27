@@ -6,7 +6,7 @@ Har du någonsin undrat vem som skapade ditt favoritmod eller modinstallatören?
 ## Vem Vi Är
 
 ### [Personal](./staff.md)
-Teamet som driver showen i framkant och bakom kulisserna. Oavsett om det gäller projektledning, godkännande av plugins, hantering av de centrala tjänsterna, planering av evenemang, eller många av de andra hemliga projekten, finns det alltid mycket arbete att göra. Vårt community skulle inte existera utan de oräkneliga timmar som dessa otroliga individer bidragit med, så ge dem en virtuell applåd (och hjälp betala för tjänsterna om du kan...)
+Teamet som driver showen i framkant och bakom kulisserna. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. Vårt community skulle inte existera utan de oräkneliga timmar som dessa otroliga individer bidragit med, så ge dem en virtuell applåd (och hjälp betala för tjänsterna om du kan...)
 
 ### [Moderatorer](./moderators.md)
 Med en sån här stor server krävs mycket moderation för att hålla allt under kontroll. Du kan tacka detta team som håller gatorna rena.

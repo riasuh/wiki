@@ -35,13 +35,13 @@ Falls die Details in Sektion 1.1 korrekt sind, versuche die folgenden Lösungen,
 
 ##### Lösung 1
 
-* Update BSIPA auf die neueste Version (in ModAssistant oder manuell)
+* Update BSIPA auf die neueste Version (im Mod Assistant oder manuell)
 * Geh in deinen Beat Saber Ordner
 * Führe `IPA.exe` aus
 
-##### Lösung 2
+##### Lösung 2 (Nur Steam)
 
-* [Überprüfe deine Spieldateien](#Steam-Dateien-auf-Fehler-überprüfen) (nur auf Steam verfügbar, Oculus-Nutzer sollten auf Lösung Nummer 4 zurückgreifen)
+* [Verifiziere deine Spieldateien](#verify-game-files-for-steam)
 * Update BSIPA zu der neuesten Version
 * Geh in deinen Beat Saber Ordner
 * Starte `IPA.exe`
@@ -58,7 +58,7 @@ Falls die Details in Sektion 1.1 korrekt sind, versuche die folgenden Lösungen,
 
 * [Führe eine Neuinstallation durch](#Saubere-Installation)
 
-#### 1.2 Mod Assistant tut so als ob es keine Mods installieren würde
+#### 1.2 Mod Assistant scheint keine Plugins zu installieren
 Der Installer lädt Mods nach `Beat Saber/IPA/Pending`, BSIPA schiebt die Dateien in das Root-Verzeichnis wenn das Spiel gestartet wird. Falls der Plugin Ordner danach immer noch leer ist, führe `IPA.exe` noch einmal aus und stelle sicher, das nichts das Ausführen stoppt, z.B. `Antivirenprogramme, Adminrechte, etc.`
 
 ## 2. Spielfehler nach dem Modden
@@ -101,7 +101,7 @@ Falls [2.3](#2-3-Das-Spiel-stottert-unerträglich-nach-der-Installation-von-Mods
 * Reduziere deine Gesamtanzahl an Mods und Songs.
 * Führe eine [saubere Neuinstallation](#Saubere-Installation) der Spieldateien durch.
 * Eine niedrige Framerate kann auch durch Fehler in deinem Anwendungsdatenordner verursacht werden. Um das zu beheben, überlege dir, [deinen BeatSaber Ordner im AppData Verzeichnis zu löschen](#Löschen-des-Speichers-in-appdata).
-* Deaktiviere CountersPlus sowie Score Counter oder Swing Speed, da diese sehr anfordernd sein können.
+* Deaktiviere manche CountersPlus-Features, wie zum Beispiel "Score Counter" und "Swing Speed", da sie ziemlich anfordernd werden können.
 * Die HTTPStatus-Mod kann Lagspikes verursachen. Teste dies ohne die Mod, um zu sehen, ob sich deine Lagspikes reduzieren oder verschwinden.
 
 VR ist sehr CPU intensiv, erst recht, wenn man Mods hinzufügt. Wenn du Schwierigkeiten hast, das Spiel mit den Mods auszuführen die du möchtest, überlege deine Hardware zu ersetzen. Anmerkung: Beat Saber ist nicht sehr GPU intensiv, da das Spiel grafisch sehr simpel ist.
@@ -159,9 +159,10 @@ Klicke auf den glänzenden (?) Knopf oben rechts im Menü. Dieser sollte dir sag
 Falls das nur bei ein paar bestimmten Maps auftritt, kann es sein, das manche Mods fehlen oder das die Songdatei kaputt ist. Falls es bei all deinen Maps passiert, lösche deinen `Plugins` Ordner und installiere deine Mods noch einmal.
 
 ### CameraPlus
+:::warning HINWEIS Dieser Mod wird nicht mehr gepflegt und wurde durch [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2) ersetzt. :::
 
 #### 3.9 CameraPlus funktioniert nicht/nicht nach der Health & Safety Warnung
-Stelle sicher, dass die Einstellung "Smooth Camera" in den Spieleinstellungen aus ist. Wenn das nicht funktioniert, versuche die Mod und zugehörige Abhängigkeiten neu zu installieren.
+Stelle sicher, dass die Einstellung "Smooth Camera" in den Spieleinstellungen ausgeschalten ist. Wenn das nicht funktioniert, versuche die Mod und zugehörige Abhängigkeiten neu zu installieren.
 
 #### 3.10 Meine Desktop-Ansicht belegt nur einen kleinen Teil des Bildschirms
 Dein CameraPlus Display füllt nicht die gesamte Leinwand. Entweder ziehst du die Ecke so, dass es auf die Leinwand passt. Oder du klickst auf die "Fit to Canvas" Option im Rechtsklickmenü.
@@ -177,6 +178,26 @@ Die wahrscheinlichsten Ursachen für das nicht funktionieren vom BeatSaver Downl
 1. Stelle sicher, das alle deine Songs bereits geladen sind, ansonsten ist die More Songs Fläche ausgegraut.
 2. Dein Antivirus oder die Firewall blockiert deinen Zugriff auf BeatSaver.
 3. Du hast das Datenlimit von BeatSaver erreicht und musst warten, bevor du es erneut versuchen kannst.
+
+### Mehrspieler Fehlercodes
+Hier ist eine Liste der bekannten Fehlercodes, was sie bedeuten und was du tun kannst, um diese zu beheben.
+
+<!-- Disable line length rule because of table -->
+<!-- markdownlint-disable MD013 -->
+| Code&nbsp; | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|:---------- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CFR-1      | Unbekannter Fehler ist aufgetreten. Versuche das Spiel neu zu starten.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| CFR-2      | Die Mehrspieler Verbindung wurde unterbrochen.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| CFR-3      | Server ist nicht erreichbar. Möglicherweise gibt es ein Problem mit deiner Internetverbindung oder mit den Relay Servern von Beat Saber. Überprüfen, ob du nicht offline bist und deine Firewall ermöglicht Beat Saber die Internetverbindung blockiert. <details><summary>**Hintergrundinformationen**</summary>Beat Saber Multiplayer ist ein Peer-to-Peer-Spiel, bei dem du dich direkt mit jedem Spieler in der Lobby verbindest. Wenn dies nicht möglich ist, startet Beat Saber einen "Relay"-Server, um die Daten zu senden. Dieser Fehler bedeutet, dass beide Methoden fehlgeschlagen sind.</details> |
+| CFR-4      | Der Server ist bereits vorhanden.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-5      | Der Server existiert nicht. Die Lobby mit der du dich verbindest, könnte geschlossen sein, als du beigetreten bist.                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-6      | Der Server ist voll. Wähle eine andere Lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| CFR-7      | Du bist auf einer Version des Spiels, die von den Servern nicht unterstützt wird.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-8      | Dein Passwort ist falsch. Überprüfe, ob du das richtige Passwort eingegeben hast.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-9      | Die von Beat Games betriebenen Matchmaking-Server, die den Überblick über offene öffentliche und private Lobbys behalten, sind offline. Versuche es später noch einmal.                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| CFR-10     | Dein Sitzungsschlüssel von Steam oder Oculus ist nicht gültig. Wenn du auf Quest spielst und dein Spiel modifiziert hast, dies dir diese [FAQ-Antwort](/faq/README.md#hat-der-offizielle-multiplayer-eine-crossplay-funktion), um dieses Problem zu umgehen. Ansonsten bist du auf einer Raubkopie des Spiels, die nicht unterstützt wird.                                                                                                                                                                                                                                               |
+| CFR-11     | Die Internetverbindung scheint offline zu sein.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+<!-- markdownlint-enable MD013 -->
 
 ## 4. Diverse Problembehebung
 
@@ -204,7 +225,7 @@ Um die Spieldateien auf Fehler zu überprüfen musst du diese Schritte befolgen:
 5. Klicke auf "Dateien auf Fehler überprüfen".
 6. Lass die Überprüfung durchlaufen und warte bis die Verifizierung und mögliche Downloads fertig sind. Danach sollte alles wieder laufen.
 
-Hier ist ein [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) obwohl dieser noch auf einer alten Steam Version ist. Die Schritte bleiben jedoch gleich.
+Hier ist eine [Video Anleitung](https://www.youtube.com/watch?v=EBFfT4-ZiIc), obwohl diese noch auf einer alten Steam Version ist. Die Schritte bleiben jedoch gleich.
 
 ### Saubere Installation
 
@@ -227,7 +248,7 @@ Hier ist ein [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) obwohl d
 
 (Optional) Falls du noch einen Schritt weiter gehen willst, verweise auf: [Das Löschen des Beat Saber Ordners im Appdata Ordner](#Das-löschen-deines-Spielstandes-in-AppData)
 
-### Das löschen deines Spielstandes in AppData
+### Das Löschen deines Spielstandes in AppData
 Dies wird deine Ergebnisse und Lokalen Daten löschen. Jedoch nicht deine custom Leaderboard/Scoresaber Statistiken. Du kannst den Ordner hier finden
 > `%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
@@ -259,6 +280,4 @@ Falls die Seite nicht dein Problem beantwortet, dann zögere nicht und stelle ei
 
 ::: tip HINWEIS Die, die mit der `Support` Rolle sind Freiwillige, die in ihrer Freizeit mithelfen möchten. Die Support-Rolle ist eine Anerkennung für das Wissen und die Mühe, die sie investiert haben, aber es bedeutet nicht unbedingt, dass sie da sind, um zu helfen, nur weil sie online sind. :::
 
-Vielen Dank!
-
-> Vielen Dank an Saber-Chan für die Harte Arbeit an dieser Seite.
+Vielen Dank an Saber-Chan für die Harte Arbeit an dieser Seite.

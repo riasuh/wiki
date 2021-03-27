@@ -6,7 +6,7 @@ Ka olete kunagi mõelnud, kes lõi teie lemmikmodi või kes tegi mod installeri?
 ## Kes me oleme
 
 ### [Personal](./staff.md)
-Meeskond, kes korraldab kõike - nii esiplaanil kui ka "kardinate" taga. Whether it comes to project management, plugin approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+Meeskond, kes korraldab kõike - nii esiplaanil kui ka "kardinate" taga. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
 
 ### [Moderaatorid](./moderators.md)
 Serveril, mis on nii suur nagu meie oma, on vaja palju "korrapidamist", et kõike kontrolli all hoida. Seda tiimi võite tänada "tänavate korrashoiu" eest.

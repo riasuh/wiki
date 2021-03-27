@@ -2,55 +2,55 @@
 sidebar: auto
 prev: ./avatars-guide.md
 next: ./notes-guide.md
-description: Emma's Guide to making Custom Platforms!
+description: Emmas Leitfaden zur Erstellung von Custom Platforms!
 ---
 
 # Custom Platforms Guide
-_Emma's Guide to making Custom Platforms._
+_Emmas Leitfaden zur Erstellung von Custom Platforms._
 
-## Project
-Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) with [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
+## Projekt
+Öffne das aktuelle [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) mit [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
 
-## First Steps
-![Custom Platform Script](~@images/models/platforms/CustomPlatformScript.png)
+## Erste Schritte
+![Custom Platform Skript](~@images/models/platforms/CustomPlatformScript.png)
 
-Create an `Empty GameObject` by right clicking in the Hierarchy window and selecting `Create Empty`. Make sure to set its position in the Inspector to the origin (0,0,0). Search in the inspector for the `Custom Platform` script and apply it to this GameObject. Everything inside this Object will be exported when the button on the `Custom Platform` script is pressed. In the script there are also Exporting options. These disable parts of the original platform (For when you want to replace something partially).
+Erstelle ein `Leeres Spielobjekt`, indem du mit der rechten Maustaste in das Hierarchiefenster klickst und `"Leeres Objekt erstellen"` auswählst. Stelle sicher, dass seine Position im Inspektor auf den Ursprung (0,0,0) gesetzt wird. Suche im Inspektor nach dem Skript `Custom Platforms` und wende es auf dieses GameObject an. Alles, was sich in diesem Objekt befindet, wird exportiert, wenn die Schaltfläche im `Custom Platforms` Skript gedrückt wird. Im Skript gibt es auch Optionen zum Exportieren. Diese deaktivieren Teile der Originalplattform (Für den Fall, dass du etwas teilweise ersetzen möchtest).
 
-## Adding Models
-![Objects](~@images/models/platforms/Objects.png)
+## Modelle hinzufügen
+![Objekte](~@images/models/platforms/Objects.png)
 
-Drag all models you want in your Platform into the GameObject created in the second step and position them to your liking. For the materials of the models make sure to use Beat Saber compatible shaders or the ones that you can find in the Project called `_dark_replace` and `_glow_replace`. These are custom Materials that act like the Beat Saber materials, aka react to the tube lights and mist.
+Ziehe alle Modelle, die du in deiner Plattform haben möchtest, in das im zweiten Schritt erstellte GameObject und positioniere sie nach Belieben. Stelle für die Materialien der Modelle sicher, dass Beat Saber kompatible Shader verwendest oder die, die du im Projekt findest, `_dark_replace` und `_glow_replace` im Namen haben. Dies sind benutzerdefinierte Materialien, die sich wie die Beat Saber Materialien verhalten, d. h. auf die Röhrenleuchten und den Nebel reagieren.
 
 ### Track Rings
-The `Track Rings` script makes track rings like seen in the game. To achieve this, the script takes a prefab. Currently I haven't been able to figure out how to use a prefab in it, so I used a gameObject, that is part of the platform hierarchy, that I later moved off to `y = -1000`. For the ring-preview to show correctly, move this gameObject to (0,0,0) and adjust your settings and before importing move it off to somewhere offscreen.
+Das `Track Rings ` Skript macht Track Rings wie man sie im Spiel sieht. Um dies zu erreichen, nimmt das Skript ein Prefab. Momentan habe ich noch nicht herausgefunden, wie ich eine Prefab darin verwenden kann, also habe ich ein gameObject verwendet, das Teil der Plattformhierarchie ist, das ich später auf `y = -1000` verschoben habe. Damit die Ring-Vorschau korrekt angezeigt wird, verschiebe das gameObject auf (0,0,0), passe deine Einstellungen an und verschiebe es vor dem Importieren an einen Ort außerhalb des Bildschirms.
 
-Enabling the rotation effect, makes the rings rotate by the specified event, depending on the variables it's given. (I haven't played around with these yet so experiment).
+Die Aktivierung des Rotationseffekts bewirkt, dass sich die Ringe um das angegebene Ereignis drehen, abhängig von den angegebenen Variablen. (Ich habe mit den noch nicht herumgespielt, also experimentiere am besten).
 
-Enabling the step effect changes the rings spacing when the specified event is called between 2 variables.
+Das Aktivieren des Stufeneffekts ändert die Ringabstände, wenn das angegebene Ereignis zwischen 2 Variablen aufgerufen wird.
 
-![Track Rings Script](~@images/models/platforms/TrackRingsScript.png)
+![Track Rings Skript](~@images/models/platforms/TrackRingsScript.png)
 
-### Tube Light
-![Tube Light](~@images/models/platforms/TubeLightScript.png)
+### Röhren Licht
+![Röhren Licht](~@images/models/platforms/TubeLightScript.png)
 
-This script enables blinking lights. Putting this on an empty gameObject changes the background and adds a bit of color to that space, according to the light ID's. When there's also a mesh renderer on it, it'll change the meshes color according to the light ID's. When using this no color adding is needed, so I change the size on the script to 0.
+Dieses Skript aktiviert blinkende Lichter. Wenn du dies auf ein leeres gameObject legst, ändert sich der Hintergrund und fügt dem Bereich ein wenig Farbe hinzu, je nach den Licht-IDs. Wenn ein Mesh-Renderer vorhanden ist, wird er die Farbe des Meshes entsprechend der Licht-IDs ändern. Wenn du dies verwendest, ist kein Hinzufügen von Farben erforderlich, also ändere ich die Größe im Skript auf 0.
 
 ### Song Events
 ![Song Event Handler](~@images/models/platforms/SongEventHandler.png)
 
-The event manager is the most useful script. With it you can trigger an action on any beat saber event (even unused ones). For adding an event press the `+` button underneath `On Trigger ()`. Drag in the object you want to manipulate into the box that just got created. Press the dropdown menu to the right and choose what that object should do, by first selecting what component, then what action. Make sure that you only use 1 event Handler per gameObject, as only 1 will work per gameObject.
+Der Event-Manager ist das nützlichste Skript. Mit ihm kannst du bei jedem Beat Saber Event(auch bei unbenutzten) eine Aktion auslösen. Um ein Event hinzuzufügen, drücke die Taste `+` unterhalb von `Auslöser ()`. Ziehe das Objekt, das du manipulieren möchtest, in die soeben erstellte Box. Drücke das Dropdown-Menü auf der rechten Seite und wähle aus, was dieses Objekt tun soll, indem du zuerst die Komponente und dann die Aktion auswählst. Achte darauf, dass du nur 1 Event-Handler pro gameObject verwendest, da nur eins pro gameObject funktionieren wird.
 
-### Spectogram
-![Spectogram](~@images/models/platforms/Spectogram.png)
+### Spektogramm
+![Spektogramm](~@images/models/platforms/Spectogram.png)
 
-The spectrogram script works like the track rings script and also requires a prefab or gameObject. This will get stretched and shrunk according to the sound of the game and the variables provided. (Haven't played with this either).
+Das Spektrogramm Skript funktioniert wie das Skript "Track Rings" und benötigt ebenfalls ein Prefab oder gameObject. Diese wird entsprechend dem Klang des Spiels und den bereitgestellten Variablen gedehnt und geschrumpft. (Auch damit habe ich noch nicht herumgespielt).
 
-## Exporting
+## Exportieren
 
-![Saving](~@images/models/platforms/Save.png)
+![Speichern](~@images/models/platforms/Save.png)
 
-Export the platform trough the script that you previously added to the gameObject to the location of your choosing. Preferably the game's directory `Beat Saber/CustomPlatforms`.
+Exportiere die Plattform über das Skript, das du zuvor zum gameObject hinzugefügt hast, an einen Ort deiner Wahl. Vorzugsweise das Verzeichnis des Spiels `Beat Saber/CustomPlatforms`.
 
-::: tip NOTE **Once you've got your new platform working**, [upload them to ModelSaber](https://modelsaber.com) if you want to share them with the world. :::
+::: tip HINWEIS **Wenn du deine neue Plattform zum Laufen gebracht hast**, [lade sie auf ModelSaber hoch](https://modelsaber.com), wenn du sie mit der Welt teilen möchtest. :::
 
-![Cat](~@images/models/platforms/Cat.png)
+![Katze](~@images/models/platforms/Cat.png)

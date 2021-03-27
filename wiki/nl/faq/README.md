@@ -12,10 +12,8 @@ Als je de nummers handmatig download van BeatSaver, pak deze dan uit naar een ma
 [Beast Saber](https://www.bsaber.com) is een review website die probeert om alle nummers op beatsaver te cureren. Je kan ook afspeellijsten downloaden, level makers volgen, nummers vinden met geavanceerde sorteer methoden en meer.
 
 ### Hulpmiddelen Voor Nummer Management
-De volgende programma's worden gebruikt op de desktop om je te helpen met het downloaden van zelfgemaakte nummers, met enkele andere functies erbij.
 
-* [Beat Saber Downloader](https://drive.google.com/file/d/1QWedF77hWYbqcigIWa2UcpXlhqGTjwR1/view) een downloader gemaakt door Sturdyfool0.
-* [BeatList](https://github.com/Alaanor/beatlist) is een app om afspeellijsten en nummers te beheren, gemaakt door Alaanor.
+Er zijn op dit moment geen werkende apps voor het beheren van je nummers beschikbaar.
 
 ## Hoe kan ik een afspeellijst installeren?
 
@@ -24,8 +22,8 @@ Hiervoor moet je de [PlaylistManager](https://github.com/rithik-b/PlaylistManage
 
 Daarna kan je één van de onderstaande twee dingen doen:
 
-* Gebruik de `Install playlists` knop in het Opties tabblad in Mod Assistant.
-* Plaats de afspeellijst in `Beat Saber/Playlists` en selecteer het in het spel, klik dan op download.
+* Gebruik de `Install playlists` knop in het Options tabblad in Mod Assistant.
+* Plaats de afspeellijst in `Beat Saber/Playlists` en selecteer de titel van de afspeellijst in het spel en klik dan op download all songs.
 
 Je zou in het spel de afspeellijst naast de custom levels albums moeten kunnen zien. De mod ondersteunt ook het beheren van afspeellijsten in het spel.
 
@@ -37,7 +35,7 @@ Je kan [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-e
 ## Hoe maak ik mijn eigen levels?
 Zie [Levels maken](/nl/mapping/)!
 
-## Hoe laad ik plugins die niet in Mod Assistant beschikbaar zijn?
+## Hoe laad ik PC mods die niet in Mod Assistant beschikbaar zijn?
 Zie [deze sectie](/pc-modding.md#manual-installation) in de Beginners Gids.
 
 ## Heeft Multiplayer Crossplay?
@@ -46,7 +44,7 @@ Officieel is multiplayer gelimiteerd tot het spelen met mensen die het spel via 
 De BeatTogether mod is de huidige oplossing voor multiplayer tussen verschillende platformen en gemodde versies. Word lid van hun [Discord server](https://discord.com/invite/gezGrFG4tz) en bekijk het `#install-instructions` kanaal voor meer informatie.
 
 ## Mijn game is geüpdatet en nu werken de mods niet meer
-Elke keer als het spel update is het mogelijk *(en zeer waarschijnlijk)* dat je bestaande mods niet meer werken en ook moeten worden geüpdatet. De ontwikkelaars realiseerden zich dit, en dus elke keer dat het spel word geüpdatet en je het voor de eerste keer start, word alles uit de `Plugins` map verplaatst naar een nieuwe map met als een naam `Old 1.xx.x Plugins`. **Laat deze plugins daar staan!**
+Elke keer als het spel update is het mogelijk *(en zeer waarschijnlijk)* dat je bestaande mods niet meer werken en ook moeten worden geüpdatet. Om er voor te zorgen dat je installatie niet breekt als het spel voor het eerst op en nieuwe update gestart word, word alles automatisch uit de `Plugins` map verplaatst naar een nieuwe map met een naam als `Old 1.xx.x Plugins`. **Laat die plugins/mods daar in!**
 
 Om mods terug te krijgen, hoef je simpelweg **de installer opnieuw uit te voeren.**  
 De BeatMods database bevat enkel mods waarvan gecontroleerd is dat ze werken op de nieuwste versie van het spel!

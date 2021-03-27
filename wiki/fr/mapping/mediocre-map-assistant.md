@@ -64,11 +64,12 @@ Tous vos niveaux en cours d'édition iront dans le dossier CustomWIPLevels puis 
 
 1. Téléchargez MMA2.zip depuis le [Git de BSMG](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest).
 2. Décompressez l'archive zip à l'emplacement de votre choix.
-3. Ouvrez Steam. En haut de la fenêtre allez dans `Steam > Paramètres > Steam Play`. Dans la section `Avancée`, cochez `Activer Steam Play pour tous les autres titres` si ce n'est pas déjà fait. Redémarrez Steam si vous êtes invité à le faire.
-3. En bas à gauche de la fenêtre principale de Steam, cliquez sur `Ajouter un jeu`, puis `Ajouter un jeu non Steam`. Lorsque la fenêtre apparaît, cliquez sur `Parcourir` en bas. Sélectionnez `Tous les fichiers` comme type de fichier. Localisez le fichier `MediocreMapAssistant2.exe` et ajoutez-le.
-4. Recherchez `Proton` dans la barre de recherche Steam, puis installez-y la dernière version.
-5. Faites un clic droit sur le raccourci `MediocreMapAssistant2.exe` et ouvrez-y le menu Propriétés. Vérifiez `Forcer l'utilisation d'un outil de compatibilité
-Steam Play spécifique`, et sélectionnez la dernière version de Proton dans le menu déroulant. At this step, you might also want to rename and add an icon to the shortcut as Linux cannot read the built in logo for MMA2.
+3. Follow the Proton installation steps for your Linux Distribution.
+3. Open Steam. At the top of the window, go to `Steam > Settings > Steam Play`. In the `Advanced` section, check `Enable Steam Play for all other titles` if it isn't already. Restart Steam if you are prompted to do so.
+3. On the bottom left of Steam's main window, click `Add a Game`, then `Add a Non-Steam Games`. A window opens, click `Browse` at the bottom. Select `All Files` as the file type. Find where `MediocreMapAssistant2.exe` is, and add it.
+4. Search for `Proton` in the Steam search bar, then install the latest version.
+5. Right-click the `MediocreMapAssistant2.exe` shortcut, and open the Properties menu. Check `Force the use of a specific
+Steam Play compatibility tool`, and select the latest version of Proton in the dropdown menu. At this step, you might also want to rename and add an icon to the shortcut as Linux cannot read the built in logo for MMA2.
 6. You can now use MMA2 by starting it through Steam. You can also create a shortcut by right-clicking the MMA2 shortcut in Steam, then under the `Manage` section clicking `Add Desktop Shortcut`.
 
 #### Linux First Time Setup

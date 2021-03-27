@@ -6,7 +6,7 @@ Oletko ikinä miettinyt kuka on tehnyt sinun lempi modin tai on tehnyt modi asen
 ## Keitä olemme
 
 ### [Ylläpito](./staff.md)
-The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
 
 ### [Moderaattorit](./moderators.md)
 Kun palvelin on niin suuri, tarvitaan paljon moderointia että kaikki pysyy hallinnassa. Voit kiittää tätä tiimiä siitä. että se pitää kadut puhtaina.

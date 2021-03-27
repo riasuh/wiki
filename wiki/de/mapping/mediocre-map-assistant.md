@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-description: Essential information to get up and running using Mediocre Map Assistant 2
+description: Wichtige Informationen, um mit dem Mediocre Map Assistant 2 zu starten
 tags:
   - Mediocre Map Assistant 2
   - MMA2
@@ -8,118 +8,118 @@ tags:
   - Mediocre Mapper
   - wiki
   - beat saber level editor
-  - mapping
-  - make levels
-  - how are beat maps make?
-  - custom level editor
-  - make custom maps
-  - custom chart editor
+  - Mapping
+  - Level erstellen
+  - Wie werden Beat Maps gemacht?
+  - Custom Level Editor
+  - Custom Maps erstellen
+  - Custom Chart Editor
 ---
 
 # Mediocre Map Assistant 2 User Guide
-_Essential information to get up and running using Mediocre Map Assistant 2._
+_Wichtige Informationen, um mit dem Mediocre Map Assistant 2 zu starten._
 
-* [Glossary of Terms](./glossary.md)
+* [Glossar der Begriffe](./glossary.md)
 
-::: tip NOTE This guide currently supports both [Mediocre Map Assistant 2](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest) by Assistant and Mediocre Mapper Mk5 (final public release) by Squeaksies. All future public development will occur on MMA2. :::
+::: tip HINWEIS Diese Anleitung unterstützt derzeit sowohl [Mediocre Map Assistant 2](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest) von Assistant als auch Mediocre Mapper Mk5 (Endgültige öffentliche Version) von Squeaksies. Alle zukünftigen öffentlichen Entwicklungen werden auf dem MMA2 stattfinden. :::
 
-## Prefer video tutorials?
-Check out [Helen Carnate's 17 minute mapping guide](https://www.youtube.com/watch?v=6O3sXmh-kAA) or [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) lecture series.
+## Video-Anleitung bevorzugt?
+Schauen dir den [Helen Carnates 17 minütiges Mapping-Leitfaden](https://www.youtube.com/watch?v=6O3sXmh-kAA) oder [Fruheads Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) Reihe an.
 
-:::tip Remember: The text guides are always more up to date as it is easier and quicker to change. :::
+:::tip Denke daran: Die Textführungen sind immer aktueller, da sie einfacher und schneller zu ändern sind. :::
 
-## Editor Setup
+## Editor-Setup
 
-### Windows Installation
+### Windows-Installationsprogramm
 
-1. Download MMA2.zip from [BSMG Git](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest).
-2. Unzip the file and place the extracted folder wherever you like on your hard drive.
-3. Double click `mediocremapassistant2.exe` in the extracted folder to run.
+1. MMA2.zip von [BSMG Github](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest) herunterladen.
+2. Entpacke die Datei und lege den entpackten Ordner an einer beliebigen Stelle auf deiner Festplatte ab.
+3. Klicke doppelt auf `mediocremapassistant2.exe` im entpackten Ordner, um es auszuführen.
 
-::: warning It is **VERY** important to unzip the file in step 2 and only run the exe in the new folder instead of the one inside the zip as not doing so will cause issues with map creation and editing! :::
+::: warning Es ist **SEHR** wichtig, die Datei in Schritt 2 zu entpacken und die Exe nur im neuen Ordner auszuführen, anstatt in dem, der sich in der Zip-Datei befindet, da dies sonst zu Problemen bei der Kartenerstellung und -bearbeitung führt! :::
 
-#### First Time Setup
-The first time you run MMA2 you will need to direct it to the location of two folders: `CustomLevels` and `CustomWIPLevels`. You have several options available to you:
+#### Erstmalige Einrichtung
+Wenn du MMA2 zum ersten Mal ausführst, musst du es auf den Speicherort von zwei Ordnern verweisen: `CustomLevels` und `CustomWIPLevels`. Es stehen dir mehrere Möglichkeiten zur Verfügung:
 
-**If you have Beat Saber installed on the computer:**
+**Wenn du Beat Saber auf dem Computer installiert hast:**
 
-* Give MMA2 the path to the two appropriate folders
-  * Steam Example: `C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels`
-  * Oculus Example: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber_Data\CustomWIPLevels`
+* Gib MMA2 den Pfad zu den beiden entsprechenden Ordnern
+  * Steam Beispiel: `C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels`
+  * Oculus Beispiel: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber_Data\CustomWIPLevels`
 
-**If you have the Quest version -OR- don’t have Beat Saber installed on the computer:**
+**Wenn du die Quest-Version hast - ODER - Beat Saber nicht auf dem Computer installiert hast:**
 
-1. Download `mapping-folders.zip` from [BSMG Git](https://git.bsmg.dev/bloodcloak/mapping-qstart/releases/latest) which contains pre-formatted folders that mimics a game install.
-2. Extract the zip to a location of your choice.
-3. Enter the path to the CustomLevels and CustomWIPLevels folder near the bottom of the Settings Bar.
-    * Example Path: `C:\Users\bsmg\Documents\Beat Saber\Beat Saber_Data\CustomWIPLevels`
+1. Lade `mapping-folders.zip` von [BSMG Git](https://git.bsmg.dev/bloodcloak/mapping-qstart/releases/latest) herunter, das vorformatierte Ordner enthält, die eine Spielinstallation nachahmen.
+2. Entpacke die Zip-Datei an einem Ort deiner Wahl.
+3. Gib den Pfad zum Ordner "CustomLevels" und "CustomWIPLevels" unten in der Einstellungsleiste ein.
+    * Beispiel Pfad: `C:\Users\bsmg\Documents\Beat Saber\Beat Saber_Data\CustomWIPLevels`
 
-* Alternatively, you can make two folders called `CustomLevels` and `CustomWIPLevels` and then provide the path to them.
+* Alternativ kannst du zwei Ordner mit den Namen `CustomLevels` und `CustomWIPLevels` erstellen und dann den Pfad zu diesen Ordnern angeben.
 
 ::: align center ![Screenshot of Mediocre Mapper path entry](~@images/mapping/mma2-folder-path.jpg) :::
 
-All of your working map files will go into a song name folder within this CustomWIPLevels folder.
+Alle deine funktionierenden Map Files werden in einem Ordner mit Songnamen innerhalb dieses CustomWIPLevels-Ordners abgelegt.
 
 ### Linux Installation
 
-1. Download MMA2.zip from [BSMG Git](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest).
-2. Unzip the file and place the extracted folder wherever you like on your hard drive.
-3. Open Steam. At the top of the window, go to `Steam > Settings > Steam Play`. In the `Advanced` section, check `Enable Steam Play for all other titles` if it isn't already. Restart Steam if you are prompted to do so.
-3. On the bottom left of Steam's main window, click `Add a Game`, then `Add a Non-Steam Games`. A window opens, click `Browse` at the bottom. Select `All Files` as the file type. Find where `MediocreMapAssistant2.exe` is, and add it.
-4. Search for `Proton` in the Steam search bar, then install the latest version.
-5. Right-click the `MediocreMapAssistant2.exe` shortcut, and open the Properties menu. Check `Force the use of a specific
-Steam Play compatibility tool`, and select the latest version of Proton in the dropdown menu. At this step, you might also want to rename and add an icon to the shortcut as Linux cannot read the built in logo for MMA2.
-6. You can now use MMA2 by starting it through Steam. You can also create a shortcut by right-clicking the MMA2 shortcut in Steam, then under the `Manage` section clicking `Add Desktop Shortcut`.
+1. MMA2.zip von [BSMG Github](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest) herunterladen.
+2. Entpacke die Datei und lege den entpackten Ordner an einer beliebigen Stelle auf deiner Festplatte ab.
+3. Folge den Proton Installationsschritten für deine Linux Distribution.
+3. Öffne Steam. Gehe im oberen Bereich des Fensters auf `Steam > Einstellungen > Steam Play`. Aktiviere im Abschnitt `Erweitert` das Kontrollkästchen `Steam Play für alle anderen Titel aktivieren`, wenn es nicht bereits aktiviert ist. Starte Steam neu, wenn du dazu aufgefordert wirst.
+3. Klicke unten links im Hauptfenster von Steam auf `Spiel hinzufügen`, dann auf `Nicht Steam Spiele hinzufügen`. Es öffnet sich ein Fenster. Klicke unten auf `Durchsuchen`. Wähle als Dateityp `Alle Dateien`. Suche den Ort, an dem sich `MediocreMapAssistant2.exe` befindet, und füge ihn hinzu.
+4. Suche in der Suchleiste von Steam nach `Proton` und installiere dann die neueste Version.
+5. Klicke mit der rechten Maustaste auf die Verknüpfung `MediocreMapAssistant2.exe`, und öffne das Menü Eigenschaften. Aktiviere `Die Verwendung eines bestimmten Steam Play-Kompatibilitätstools erzwingen`, und wähle die neueste Version von Proton im Dropdown Menü aus. Bei diesem Schritt sollte auch die Verknüpfung umbenennen und ein Symbol hinzufügen, da Linux das eingebaute Logo für MMA2 nicht lesen kann.
+6. Du kannst MMA2 jetzt verwenden, indem du es über Steam startest. Du kannst auch eine Verknüpfung erstellen, indem du in Steam mit der rechten Maustaste auf die MMA2-Verknüpfung klickst und dann unter dem Abschnitt `Verwalten` auf `Desktop-Verknüpfung hinzufügen`.
 
-#### Linux First Time Setup
-The first time you run MMA2 you will need to direct it to the location of two folders: `CustomLevels` and `CustomWIPLevels`. You have several options available to you:
+#### Linux Erstmalige Einrichtung
+Wenn du MMA2 zum ersten Mal ausführst, musst du es auf den Speicherort von zwei Ordnern verweisen: `CustomLevels` und `CustomWIPLevels`. Es stehen dir mehrere Möglichkeiten zur Verfügung:
 
-**If you have Beat Saber installed on the computer:**
+**Wenn du Beat Saber auf dem Computer installiert hast:**
 
-* Give MMA2 the path to the two appropriate folders, prefixed by `Z:`.
-  * Example: `/home/bsmg/.local/share/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels` should be entered as `Z:/home/bsmg/.local/share/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels`.
-* To find where Beat Saber is installed, right-click Beat Saber in Steam, go to `Manage > Browse Local Files`.
-* The folders should be located under the `Beat Saber_Data` directory.
+* Gib MMA2 den Pfad zu den beiden entsprechenden Ordnern mit dem Präfix `Z:` an.
+  * Beispiel: `/home/bsmg/.local/share/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels` sollte als `Z:/home/bsmg/.local/share/Steam/steamapps/common/Beat Saber/Beat Saber_Data/CustomWIPLevels` eingegeben werden.
+* Um herauszufinden, wo Beat Saber installiert ist, klicke in Steam mit der rechten Maustaste auf Beat Saber und gehe zu `Verwalten > Lokale Dateien durchsuchen`.
+* Die Ordner sollten sich unter dem Verzeichnis `Beat Saber_Data` befinden.
 
-**If you have the Quest version -OR- don’t have Beat Saber installed on the computer:**
+**Wenn du die Quest Version hast - ODER - Beat Saber nicht auf dem Computer installiert hast:**
 
-* Make two folders called `CustomLevels` and `CustomWIPLevels` and then provide the path to them. Note that the usual Linux paths need to be prefixed with `Z:`.
-  * Example: `/home/bsmg/MMA2/CustomLevels` and `/home/bsmg/MMA2/CustomWIPLevels` should be entered as `Z:/home/bsmg/MMA2/CustomLevels` and `Z:/home/bsmg/MMA2/CustomWIPLevels`
+* Alternativ kannst du zwei Ordner mit den Namen `CustomLevels` und `CustomWIPLevels` erstellen und dann den Pfad zu diesen Ordnern angeben. Beachte hier, dass den üblichen Linux Pfaden das Präfix `Z:` vorangestellt werden muss.
+  * Example: `/home/bsmg/MMA2/CustomLevels` und `/home/bsmg/MMA2/CustomWIPLevels` sollten als `Z:/home/bsmg/MMA2/CustomLevels` and `Z:/home/bsmg/MMA2/CustomWIPLevels` eingegeben werden.
 
 ::: align center ![Screenshot of Mediocre Mapper path entry for Linux](~@images/mapping/mma2-linux-path.png) :::
 
-All of your working map files will go into a song name folder within this CustomWIPLevels folder.
+Alle deine funktionierenden Map Files werden in einem Ordner mit Songnamen innerhalb dieses CustomWIPLevels Ordners abgelegt.
 
-### Check the WIP File Path
-The path given from setup may not carry over from the main screen. Make sure the fields have the paths from your setup and are not blank. If blank, add the path(s) from [First Time Setup](#first-time-setup) and press <kbd>Enter</kbd> to confirm!
+### Überprüfe den WIP Dateipfad
+Der im Setup angegebene Pfad wird möglicherweise nicht vom Hauptbildschirm übernommen. Stelle sicher, dass die Felder die Pfade aus deiner Einrichtung haben und nicht leer sind. Wenn leer, fügen den/die Pfad(e) aus [Erstmalige Einrichtung](#erstmalige-einrichtung) hinzu und drücke <kbd>Enter</kbd> zur Bestätigung!
 
 ::: align center ![Check Paths Not Blank](~@images/mapping/mma2-checkWipSongPath.png) :::
 
-### Editor Settings
-Once you've set up your paths, these core settings are all available from the song selection page when you first open the program.
+### Editor Einstellungen
+Sobald du deine Pfade eingerichtet hast, sind diese Grundeinstellungen alle auf der Songauswahlseite verfügbar, wenn du das Programm zum ersten Mal öffnest.
 
 ::: align center ![Song Selection screen in Mediocre Map Assistant 2](~@images/mapping/mma2-song-setup.jpg) :::
 
-#### Map Selection
-The map selection pane has four tabs, each with songs listed alphabetically.
+#### Map Auswahl
+Das Map Auswahl Fenster hat vier Registerkarten, auf denen die Songs alphabetisch aufgelistet sind.
 
-* **WIP Songs:** This tab contains all of the map folders saved in your `CustomWIPLevels` folder. New maps are created here and are accessible in-game under "Custom WIP Levels."
-* **Custom Songs:** This tab contains all the downloaded custom songs saved in your `CustomLevels` folder. Maps are accessible in-game under "Custom Levels."
-* **Multi-Mapper:** This tab contains any maps being collboratively worked on via the *Mediocre Mapper Server.*
-* **Temp Loader:** This tab allows you to temporarily "quick preview" zip files online (i.e., from #testplays, BeatSaver, or BeastSaber) without downloading and extracting them.
+* **WIP-Songs:** Dieser Tab enthält alle Map Ordner, die in deinem Ordner `CustomWIPLevels` gespeichert sind. Neue Maps werden hier erstellt und sind im Spiel unter "Custom WIP Levels" zugänglich.
+* **Custom Songs:** Dieser Tab enthält alle heruntergeladenen Custom Songs, die in deinem Ordner `CustomLevels` gespeichert sind. Diese Maps sind im Spiel unter "Custom Levels" zugänglich.
+* **Multi-Mapper:** Dieser Tab enthält alle Maps, an denen über den *Mediocre Mapper Server.* gemeinsam gearbeitet wird.
+* **Temp Loader:** Dieser Tab ermöglicht dir die temporäre "Schnellvorschau" von Zip Dateien online (z. B. von #testplays, BeatSaver oder BeastSaber), ohne sie herunterzuladen und zu entpacken.
 
-There are several functions available to you on this screen:
+In diesem Bildschirm stehen dir mehrere Funktionen zur Verfügung:
 
-* The <kbd>Refresh Song List</kbd> button refreshes the songs listed.
-* The <kbd>Edit</kbd> button next to a map opens it in MMA2.
-* The <kbd>Delete</kbd> button next to a map perma-deletes it. **Note:** Once deleted this way maps are gone forever and unrecoverable.
-* The <kbd>Star</kbd> button next to a map favorites it, bumping it to the top of the list.
+* Die Schaltfläche <kbd>Refresh Song List</kbd> aktualisiert die aufgelisteten Lieder.
+* Der <kbd>Edit </kbd> Button neben einer Map öffnet diese in MMA2.
+* Der <kbd>Delete</kbd> Button neben einer Map löscht diese dauerhaft. **Hinweis:** Einmal auf diese Weise gelöschte Maps sind für immer weg und nicht wiederherstellbar.
+* Der <kbd>Star</kbd> Button neben einer Map favorisiert diese, wodurch sie an den Anfang der Liste gerückt wird.
 
-::: danger Maps deleted by the delete button in MMA2 are not sent to the Recycle Bin and are **permanently removed.**  
-This includes the autosaves folder. Please be certain and/or keep backups of your work in a separate location. :::
+::: danger Maps, die über die Löschtaste in MMA2 gelöscht werden, wandern nicht in den Papierkorb und werden **permanent entfernt.**  
+Dies gilt auch für den Autosave Ordner. Bitte achte darauf und/oder bewahre Sicherungskopien deiner Arbeit an einem separaten Ort auf. :::
 
-#### Map Creation
-Below the map selection pane you can create a new empty song folder in `CustomWIPLevels` by entering the desired name of your folder (typically Song Name or Artist - Song Name) then clicking <kbd>Create Level</kbd>.
+#### Map-Erstellung
+Unterhalb des Map Auswahl Fenster kannst du unter `CustomWIPLevels` einen neuen leeren Song-Ordner anlegen, indem du den gewünschten Namen deines Ordners eingibst (typischerweise Songname oder Artist - Songname) und dann auf <kbd>Create Level</kbd> klickst.
 
 #### Settings
 The settings pane includes global settings for autosaving, zip packaging, folder paths, and more.

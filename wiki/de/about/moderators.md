@@ -1,6 +1,11 @@
 # Moderatoren
 Mit so riesigen Servern wird einiges an Moderation benötigt, damit nichts aus dem Ruder läuft. Du kannst diesem Team dafür danken, dass alles sauber bleibt.
 
+## 24Kings
+"Join the Qvolution, also rosa cute"
+
+**Rollen:** Moderator
+
 ## Caeden117
 Wie viele Statistiken können wir in einen einzigen Zähler Mod einbauen? Offenbar eine Menge. Er ist genauso verantwortlich für die Modding Tutorials in diesem Wiki und ChroMapper, eine bald erscheinende Mapping-Software mit Chroma RGB Licht Unterstützung.
 
@@ -14,7 +19,7 @@ brrrrrr
 
 **Rollen:** Support, 3D Artists, Moderator
 
-[Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere)
+[Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
 ## Eradawn
 "Findus sagt hai"
@@ -57,7 +62,7 @@ Der einzige Moderator, der uns geghosted hat, wenn er nach einer Beschreibung f�
 **Beiträge:** Ein Haufen Quest-Mods und Modelle
 
 ## Pyrowarfare
-Ein BeastSaber-Admin, der den Großteil des Inhalts für [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md) geschrieben und an verschiedenen anderen Seiten mitgewirkt hat. Sei gewarnt: Du wirst aufgefordert werden, über deine Gefühle zu sprechen.
+Ein BeastSaber-Admin, der den Großteil des Inhalts für [How to Playtest](./how-to-testplay.md), [Mapping Angst](./mapping-anxiety.md) geschrieben und an verschiedenen anderen Seiten mitgewirkt hat. Sei gewarnt: Du wirst aufgefordert werden, über deine Gefühle zu sprechen.
 
 **Rollen:** Moderator, Mapping Support
 
@@ -69,7 +74,7 @@ Ein BeastSaber-Admin, der den Großteil des Inhalts für [How to Playtest](./how
 **Rollen:** Moderator
 
 ## Razor
-Er hat buchstäblich keinen Schimmer was er tut, wenn es um Programmierung geht, aber er kann Ploogin fixen.
+Er hat buchstäblich keinen Schimmer was er tut wenn es um Programmierung geht, aber er kann Ploogin fixen.
 
 **Rollen:** Support, Moderator
 
@@ -78,9 +83,14 @@ Er hat buchstäblich keinen Schimmer was er tut, wenn es um Programmierung geht,
 ## Shad
 "Jeder Kanal ist nur #pc-mod-support"
 
-**Rollen:** Moderator, Mapper
+**Rollen:** Moderator, Mapping Support
 
 [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
+
+## Zion
+kinda vibing
+
+**Rollen:** Moderator
 
 ## BeigeAnimal (Im Ruhestand)
 Wir mussten den Junge ein bisschen auf Vordermann bringen, aber jetzt ist er einer der effektivsten Moderatoren. Er ist nicht wirklich auf ein Gebiet spezialisiert aber er ist bereit zu helfen, **vorausgesetzt, man fragt im richtigen Kanal.** Außerdem hasst er Sketchfab Links.

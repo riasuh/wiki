@@ -24,14 +24,6 @@ Erinner ihn daran, auf seinen Blutzucker zu achten.
 
 Stelle sicher, dass er auf seinen Blutzucker achtet. [Wichtig](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Spenden](https://ko-fi.com/bobbievr)
 
-## elliotttate
-Offizieller BSMG PR Typ. Veranstaltungen wie der 100k Contest wären ohne seinen Einsatz und seine Netzwerkfähigkeiten nicht möglich gewesen. Er betreibt auch BeastSaber um dir zu helfen, die besten kuratierten Karten zu finden.
-
-**Rollen:** Staff, BSMG PR  
-**Beiträge:** BeastSaber, Contest Management
-
-[Patreon](https://www.patreon.com/beastsaber)
-
 ## Lillie
 Macht Mods für Quest und mag PP farmem in Ihrer Freizeit.  
 *Lillie ist nicht die süßeste*
@@ -111,7 +103,7 @@ Projektleiter, Wiki-Betreuer, Brotbäcker. Trotz allem was alle sagen, mag ich M
 
 [Twitch](https://www.twitch.tv/williums/) | [Spenden](https://ko-fi.com/williums)
 
-## Assistent (Im Ruhestand)
+## Assistant (Im Ruhestand)
 Betreuer der Kerndienste, einschließlich BeatSaver und BeatMods Server. Der ursprüngliche Support und Schöpfer des benutzerdefinierten Avatar-Guides, des Mod-Assistenten und von ModelSaber.
 
 **Rollen:** Staff, Support, 3D Artist  
@@ -123,6 +115,14 @@ Betreuer der Kerndienste, einschließlich BeatSaver und BeatMods Server. Der urs
 BeatSaver Gründer - Er ist der Grund warum wir überhaupt einen Ort haben, an dem wir unsere Custom Songs bekommen. Er taucht ab und zu auf um mit BeatSaver-Nummern anzugeben, uns als Nerds zu bezeichnen und seine Sammlung von fein gealterten Memes zu präsentieren. Er hat sich inzwischen aus dem Mitarbeiter-Team zurückgezogen aber ohne ihn wären wir nicht hier.
 
 **Beiträge:** BeatSaver Creator.
+
+## elliotttate (Im Ruhestand)
+Offizieller BSMG PR Typ. Veranstaltungen wie der 100k Contest wären ohne seinen Einsatz und seine Netzwerkfähigkeiten nicht möglich gewesen. Er betreibt auch BeastSaber um dir zu helfen, die besten kuratierten Karten zu finden.
+
+**Rollen:** Staff, BSMG PR  
+**Beiträge:** BeastSaber, Contest Management
+
+[Patreon](https://www.patreon.com/beastsaber)
 
 ## Klouder (Im Ruhestand)
 Langjähriges Servermitglied und aktiver Mitwirkender. Sie war die Server Mutter!

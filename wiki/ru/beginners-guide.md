@@ -4,11 +4,11 @@ sidebar: auto description: Get Started in the Right Direction!
 
 # Руководство для новичков
 
-## Modding your Game
-Beat Saber is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [PC Modding](#pc-modding) and [Quest Modding](#quest-modding).
+## Модификация игры
+Beat Saber доступен как для ПК, так и для Oculus Quest. Так как процесс модификации значительно отличается для обеих платформ, руководство для начинающих разделено на [Модификация PC версии](#pc-modding) и [Модификация Quest версии](#quest-modding).
 
-### PC Modding
-If you are using SteamVR or the PC version in the Oculus Store, follow our [PC Modding](./pc-modding.md) guide.
+### Модификация PC версии
+Если вы используете SteamVR или версию для PC в Oculus Store, обратитесь к нашему руководству [PC Modding](./pc-modding.md).
 
 Applicable hardware includes:
 
@@ -16,10 +16,10 @@ Applicable hardware includes:
 * HTC Vive/Vive Pro/Vive Pro Eye/Cosmos
 * Oculus Rift/Rift S
 * Windows Mixed Reality headsets
-* Oculus Quest/Quest 2 using [Oculus Link](https://support.oculus.com/444256562873335/)
+* Oculus Quest/Quest 2, используя [Oculus Link](https://support.oculus.com/444256562873335/)
 
-### Quest Modding
-If you are using the Oculus Quest version of the game, follow our [Quest Modding](./quest-modding.md) guide.
+### Модификации на Quest
+Если вы используете версию игры для Oculus Quest, следуйте руководству по [ Модификации Quest версии](./quest-modding.md).
 
 Applicable hardware includes:
 
@@ -35,13 +35,13 @@ One of your favorite songs is not available? Have a mod idea you want to impleme
 Learn how to create your own level by following our [mapping](./mapping/) guide!
 
 ### Making Mods
-Get started creating plugins for the game by following our [mod creation](./modding/) guide!
+Get started creating mods for the game by following our [mod creation](./modding/) guide!
 
 ### Making 3D Models
 Learn how to create 3D models for the game!
 
-* [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
+* [Мечи](./models/sabers-guide.md)
+* [Аватары](./models/avatars-guide.md)
+* [Платформы](./models/platforms-guide.md)
 * [Notes](./models/notes-guide.md)
 * **Walls** No guide is available at this time, but one is being worked on.

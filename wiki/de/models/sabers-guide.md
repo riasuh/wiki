@@ -1,32 +1,32 @@
 ---
 sidebar: auto
 next: ./avatars-guide.md
-description: MissRaynors Anleitung zum Erstellen benutzerdefinierter Saber!
+description: MissRaynors Anleitung zum Erstellen von Custom Sabern!
 ---
 
-# Custom Sabers Guide
-_MissRaynors Anleitung zum Erstellen benutzerdefinierter Saber._
+# Custom Sabers Anleitung
+_MissRaynors Anleitung zum Erstellen von Custom Sabern._
 
 ## Einführung
-Da die Leute immer noch Probleme mit der Erstellung benutzerdefinierter Saber haben denken wir, dass es am besten ist, unsere aktuelle Anleitung zu aktualisieren. Vielen Dank an angeliod0103 für die Erstellung der vorherigen Anleitung. Zusätzliche Beiträge zu dieser Anleitung von Bobbie und Mdot.
+Da die Leute immer noch Probleme mit der Erstellung von Custom Sabern haben denken wir, dass es am besten ist, unsere aktuelle Anleitung zu aktualisieren. Vielen Dank an angeliod0103 für die Erstellung der vorherigen Anleitung. Zusätzliche Beiträge zu dieser Anleitung sind von Bobbie und Mdot.
 
 ## Vorbereitung
 DAS MUSST DU HABEN:
 
-* Unity 2018.1.6f1 um eine benutzerdefinierte Saber-Datei (*.saber) zu erstellen. [HIER Downloaden](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
+* Unity 2018.1.6f1 um eine benutzerdefinierte Saber Datei (*.saber) zu erstellen. [HIER Downloaden](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
 * Das Custom Saber Unity Projekt. [HIER Downloaden](https://cdn.discordapp.com/attachments/468249466865057802/703747388556181534/Custom_Sabers-4.3.0-UnityProject.zip)
-* Eine 3D-Modelldatei des Sabers Deiner Wahl. Die gängigsten und akzeptablen Dateiformate sind .obj- und .fbx-Dateien. Du kannst Dein Saber von 3D Modell Hosting/Showcase Seiten wie Sketchfab oder Turbosquid herunterladen.
+* Eine 3D-Modell-Datei des Sabers Deiner Wahl. Die gängigsten und akzeptablen Dateiformate sind .obj- und .fbx-Dateien. Du kannst dein Saber von 3D Modell Hosting/Showcase Seiten wie Sketchfab oder Turbosquid herunterladen.
 
 Optional:
 
-* 3D-Modellierungssoftware: Blender ist eine gute kostenlose Option oder 3dsmax, wenn Du eine Lizenz dafür hast (Bildungslizenz ist in Ordnung)
-* Bildbearbeitungsprogramm: [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) oder [GIMP](https://www.gimp.org/downloads/) funktionieren, wenn Du Deine eigene Saber-Textur erstellen möchtst
-* Das Saber-Modell in diesem Tutorial. [HIER Downloaden](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
+* 3D-Modellierungssoftware: Blender ist eine gute kostenlose Option. 3dsmax, wenn du eine Lizenz dafür hast (Bildungslizenz ist ausreichend)
+* Bildbearbeitungsprogramm: [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) oder [GIMP](https://www.gimp.org/downloads/) funktionieren, wenn du deine eigene Saber Textur erstellen möchtest
+* Das Saber Modell in diesem Tutorial. [HIER Downloaden](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
 
 ## Einrichtung
-Entpacken das Custom Saber Unity Projekt an Deinem gewünschten Ort.
+Entpacke das Custom Saber Unity Projekt an deinem gewünschten Ort.
 
-Wenn Du den Unity Hub verwendest, klicke auf Hinzufügen, wählen den Ordner Custom Saber Unity Project aus und klicken dann auf den Ordner.
+Wenn du den Unity Hub verwendest, klicke auf Hinzufügen, wähle den Ordner "Custom Saber Unity Project" aus und klicke dann auf den Ordner.
 
 ![Hinzufügen eines Custom Saber Projekts](~@images/models/sabers/01.png)
 
@@ -34,7 +34,7 @@ Das Projekt "Custom Saber" sollte in der Liste erscheinen. Stelle sicher, dass d
 
 ![Überprüfe, ob die Version korrekt ist](~@images/models/sabers/02.png)
 
-Öffne das Custom Saber Projekt. Es sollte wie folgt auswählen:
+Öffne das Custom Saber Projekt. Es sollte wie folgt aussehen:
 
 ![Überprüfe, ob das Projekt richtig angezeigt wird](~@images/models/sabers/03.png)
 
@@ -44,24 +44,24 @@ Das Projekt "Custom Saber" sollte in der Liste erscheinen. Stelle sicher, dass d
 
 ![Überprüfe ob der Saber-Exporter korrekt funktioniert](~@images/models/sabers/05.png)
 
-Die aktuelle Szene sollte ein GameObject namens `TemplateSaber`.
+Die aktuelle Szene sollte ein gameObject namens `TemplateSaber` sein.
 
 ![Roter Kreis um das TemplateSaber](~@images/models/sabers/06.png)
 
-Wenn du das Projekt zum ersten Mal öffnest, ist der Einheits-Viewport sehr weit vom Saber entfernt. Um die Vorlage in der Ansicht zu sehen, doppelklicke auf das `TemplateSaber` GameObject.
+Wenn du das Projekt zum ersten Mal öffnest, ist der Einheits-Viewport sehr weit vom Saber entfernt. Um die Vorlage in der Ansicht zu sehen, klicke doppelt auf das `TemplateSaber` gameObject.
 
-Click both the `RightSaber` and `LeftSaber` GameObjects and make sure that they have an `Event Manager` component attached.
+Klicke auf die `RightSaber` und `LinksSaber` GameObjects und stelle sicher, dass sie eine `Event Manager` Komponente besitzen.
 
-![Checking that EventManager exists on the RightSaber object](~@images/models/sabers/07.png)
+![Prüfe, ob der EventManager auf dem RightSaber Objekt existiert](~@images/models/sabers/07.png)
 
-Now try exporting the Template Saber into your `CustomSabers` folder with the Saber Exporter.
+Versuche jetzt, das TemplateSaber in deinen `CustomSabers` Ordner via den Saber Exporter zu exportieren.
 
-![Exporting TemplateSaber](~@images/models/sabers/08.png)
+![Exportiere TemplateSaber](~@images/models/sabers/08.png)
 
-If the Template Saber appears and works properly ingame, setup is complete and you’re ready for the next part.
+Falls das TemplateSaber erscheint und korrekt im Spiel funktioniert, ist das Setup abgeschlossen. Du kannst jetzt mit dem nächsten Part beginnen.
 
-## Modeling
-I won’t go into detail about making a 3d model. If you don't have already have a model and want to learn how to make one, you can find tutorials here:
+## Modellierung
+Ich werde nicht ins Detail gehen, um ein 3D-Modell zu erstellen. Wenn du noch kein Modell hast und lernen möchtest, wie du eins erstellst, findest du hier verschiedene Anleitungen:
 
 ### Blender
 <YouTube url='https://www.youtube.com/watch?v=ICBP-7x7Chc' />
@@ -69,87 +69,87 @@ I won’t go into detail about making a 3d model. If you don't have already have
 ### 3DS Max
 <YouTube url='https://www.youtube.com/watch?v=DzBTcDY3_Q4' />
 
-Once the saber is done, you can export it by choosing File-Export, choosing the desired file format, and importing it into unity.
+Sobald das Saber fertig ist, kannst du ihn exportieren, indem du beim Datei-Export das gewünschte Dateiformat auswählst und die Datei bei Unity importieren.
 
-::: tip NOTE OBJ is best used for simple sabers. FBX is best used for complex sabers that have rigging or animations. :::
+::: tip HINWEIS OBJ wird am besten für einfache Saber benutzt. FBX eignet sich am besten für komplexe Saber, die Rigging oder Animationen haben. :::
 
-![Exporting saber as FBX](~@images/models/sabers/09.png)
+![Exportiere die Saber als FBX Datei](~@images/models/sabers/09.png)
 
-::: tip NOTE You don't have to export both sabers if they both have the exact same shape. If they're identical, exporting one should be good enough. ::: ::: tip NOTE Merging meshes that share the same color/glowing attributes will help a LOT in the long run. :::
+::: tip HINWEIS Du musst nicht beide Saber exportieren, wenn sie die gleiche Form haben. Wenn sie identisch sind, sollte es reichen, eins zu exportieren. ::: ::: tip HINWEIS Das Zusammenfassen von Meshes, die dieselben Farb-/Leuchtattribute haben, wird auf Dauer sehr hilfreich sein. :::
 
 ## Unity
-To import the model into unity, simply drag and drop it into the Assets window. Afterwards, line the saber up with the TemplateSaber. Video example:
+Um das Modell in Unity zu importieren, ziehe es einfach per Drag & Drop in das Assets-Fenster. Richte das Saber anschließend mit dem TemplateSaber aus. Video Beispiel:
 
 <YouTube url='https://www.youtube.com/watch?v=mphD87zOer4' />
 
-Next, you need to add Beat Saber compatible materials to your sabers.
+Als nächstes musst du Beat Saber kompatible Materialien zu deinem Saber hinzufügen.
 
-The custom sabers unity project comes with 4 different beat saber compatible shaders. Here are the main differences between them:
+Das Custom-Saber Unity Projekt kommt mit 4 verschiedenen Beat Saber kompatiblen Shadern. Hier sind die wichtigsten Unterschiede zwischen ihnen:
 
-* Lit glow is lit and has shadows. You can change the direction the light comes from and how strong it is
-* Metallic makes the material slightly darker and allows you to add a metallic reflection
-* Unlit glow is similar to lit glow but it doesn't have any lighting effects.
-* Unlit glow cutout dither is the same as unlit glow but allows you to add transparency to your material.
+* Lit glow leuchtet und hat Schatten. Du kannst die Richtung ändern, aus der das Licht kommt und wie stark es ist
+* Metallic macht das Material etwas dunkler und erlaubt dir eine metallische Reflexion hinzuzufügen
+* Unlit Glow ist ähnlich wie lit glow, hat aber keine Lichteffekte.
+* "Unlit glow cutout dither" ist dasselbe wie unlit glow aber erlaubt dir einen Transparenzeffekt zu deinem Material hinzuzufügen.
 
-The materials you use will depend on what traits you're looking for.
+Das Material, das du benutzen willst hängt von den Eigenschaften ab, die du haben willst.
 
-::: warning WARNING Make sure you *ONLY* use shaders that are compatible with beat saber. If you use a shader that isn't compatible (the Unity Standard shader, for example) your material will simply show up as white in-game. :::
+::: warning WARNUNG Stelle sicher, dass du *EXKLUSIV* Shader benutzt, die kompatibel mit Beat Saber sind. Falls du einen Shader benutzt der nicht kompatibel ist (z. B. der Unity Standard Shader), wird das Material im Spiel nur als Weiß angezeigt. :::
 
-::: tip NOTE For more information on shader compatibility, visit the Advanced Shaders Properties section of this guide. :::
+::: tip HINWEIS Weitere Informationen zur Shader-Kompatibilität findest du im Abschnitt "Erweiterte Shader-Eigenschaften" in diesem Handbuch. :::
 
-Video example of applying materials:
+Video Beispiel der Anwendung von Materialien:
 
 <YouTube url='https://www.youtube.com/watch?v=zKFCNJoQOWk' />
 
-You can add a texture to a material by dragging an image file in the texture slot.
+Du kannst eine Textur zu einem Material hinzufügen, indem du eine Bilddatei in den Texturslot ziehst.
 
-![Adding texture to saber](~@images/models/sabers/10.png)
+![Füge einem Saber eine Textur hinzu](~@images/models/sabers/10.png)
 
-::: tip NOTE The `Glow` slider modifies how bright the saber glows. Additionally, when the glow is above 0, that material will be affected by the player's custom colors. :::
+::: tip HINWEIS Der `Glow` Schiebregler verändert, wie hell das Saber leuchtet. Zusätzlich, wenn der glow Wert über 0 ist wird das Material von den Custom Farben des Spielers betroffen. :::
 
-Once you've completed all of this, you can export your saber. Open up the `Saber Exporter` in the `Window` tab and then fill in the saber's name and author.
+Sobald du alles erledigt hast, kannst du dein Saber exportieren. Öffne den `Saber Exporter `im` Window` Tab und gebe dann den Saber-Namen und -Autor an.
 
-![Exporting the saber and adding name + author](~@images/models/sabers/11.png)
+![Exportieren des Sabers und Hinzufügen von Name + Autor](~@images/models/sabers/11.png)
 
-Put your sabers in your `CustomSabers` folder and test them out in game. If they look good ingame, you're all done!
+Packe das Saber in den `CustomSabers` Ordner und teste es im Spiel aus. Wenn es gut aussieht, bist du fertig!
 
-::: tip NOTE **Once you've got your new sabers working**, [upload them to ModelSaber](https://modelsaber.com/Upload/) if you want to share them with the world. :::
+::: tip HINWEIS **Sobald deine neuen Saber funktionieren**, [lade sie bei ModelSaber hoch](https://modelsaber.com/Upload/) wenn du sie mit anderen teilen möchtest. :::
 
-## Advanced
-This section covers things that aren't included in the main tutorial, such as how to add Events and Trails.
+## Erweitert
+Dieser Abschnitt behandelt Dinge, die nicht im Haupt-Tutorial enthalten sind, wie zum Beispiel das Hinzufügen von Events und Trails.
 
-Other scripts are contained in `Assets/CustomSaber.dll`. Click on the little arrow to expand it. ![Expanding CustomSaber.dll](~@images/models/sabers/12.png)
+Andere Skripte sind in `Assets/CustomSaber.dll` enthalten. Klicke auf den kleinen Pfeil um ihn zu vergrößern. ![Erweitere CustomSaber.dll](~@images/models/sabers/12.png)
 
 ### EventManager
-This component lets you set up an action when an event condition is met. This includes when you hit a note, miss a note, when you start a level, etc...
+Mit dieser Komponente kannst du eine Aktion einrichten, wenn eine Ereignis-Bedingung erfüllt ist. Dies beinhaltet, wenn du eine Note triffst, eine Note verpasst, wenn du ein Level startest, etc...
 
-To use it, click on the plus button to create a new event, drag the gameobject performing the action in the slot, and then choose the desired action.
+Um es zu verwenden, klicke auf die Plus-Schaltfläche, um ein neues Ereignis zu erstellen. Ziehe das gameObject, welches die Aktion ausführt in den Slot und wähle dann die gewünschte Aktion aus.
 
-If you want more information on events, read the `Events` section in the Custom Avatars guide **link needed!!!**
+Wenn du mehr Informationen zu Events haben willst, lies dir die `Events` Sektion im Custom-Avatars Guide **Link benötigt!!!**
 
-![Adding an event](~@images/models/sabers/13.png)
+![Event hinzufügen](~@images/models/sabers/13.png)
 
-### Every Nth Combo Filter
-This component lets you perform an action every N combo. It works the same as the `Event Manager`, but with the only trigger being every time you hit N combo.
+### Jeder 9. Kombofilter
+Diese Komponente lässt dich jede 9. Kombo eine Aktion durchführen. Es funktioniert genauso wie der `Event Manager`. Jedoch triggert es nur wenn man eine bestimmte Combo erreicht (X Combo).
 
 ### Custom Trails
-This component lets you change the default trail for sabers. For a comprehensive tutorial on how to use custom trails, check out [MDot's custom trail guide](https://mdotamaan.github.io/BeatSaber-CustomTrailsGuide/).
+Mit dieser Komponente kannst du die Standardspur der Saber verändern. Schaue dir für eine ausführliche Anleitung zur Verwendung von Custom Trails [MDot's Custom Trail Guide](https://mdotamaan.github.io/BeatSaber-CustomTrailsGuide/) an.
 
 ### Animation
-If you want your sabers to play a certain animation, you need to use an `Animator` component.This will allow you to better manage what animation you're making, in addition to letting you control how the animation transitions/triggers using the Event Manager. [More information on the animator component can be found in the unity docs here](https://docs.unity3d.com/Manual/class-AnimatorController.html).
+Wenn du möchtest, dass deine Saber eine bestimmte Animation abspielen, musst du eine `Animator` Komponente verwenden, mit der du besser verwalten kannst, welche Animation du erstellst und mit der du steuern kannst, wie die Animation mit Hilfe des Event-Managers funktioniert/auslöst. [Weitere Informationen zur Animator Komponente findest du in den Unity-Dokumenten hier](https://docs.unity3d.com/Manual/class-AnimatorController.html).
 
-### Advanced Shader Properties
-If you want to modify your shaders to use Custom Colors without having to change the glow, it is possible to modify them support this.
+### Erweiterte Shader Eigenschaften
+Wenn du deine Shader so modifizieren möchtest, dass sie benutzerdefinierte Farben verwenden, ohne das Glühen ändern zu müssen, ist es möglich, sie so zu modifizieren, dass sie dies unterstützen.
 
-Add this snippet of code to your shader's `Properties` section. If you have another property named `_Color`, make sure to remove it!
+Füge diesen Codeschnipsel in den Abschnitt `Eigenschaften` deines Shaders ein. Wenn du eine andere Eigenschaft mit dem Namen `_Color` hast, stelle sicher, dass du diese entfernst!
 
 ```hlsl
 _Color ("Color", Color) = (1,1,1,1)
 [MaterialToggle] _CustomColors("Custom Colors", Float) = 0
 ```
 
-Now your materials should have a nice `Custom Colors` checkbox instead of custom color support depending on the currently set glow.
+Jetzt sollten deine Materialien eine nettes `Custom Colors` Kontrollkästchen haben, anstatt die Unterstützung für benutzerdefinierte Farben abhängig vom aktuell eingestellten Glühen.
 
-Similarly, if you want to import a non-beatsaber shader to use it on a saber and want it to display correctly ingame, you need to strip the `Alpha` channel out.
+Ähnlich verhält es sich, wenn du einen non-BeatSaber Shader importieren möchtest, um ihn auf einem Saber zu verwenden und willst, dass er im Spiel korrekt angezeigt wird, musst du den `Alpha` Channel entfernen.
 
-Each shader is different, so there's no universal approach to doing this. If you're not sure exactly how to do this, feel free to discuss the process in #pc-3d-modeling in the [Beat Saber Modding Group](https://discord.gg/beatsabermods).
+Jeder Shader ist anders. Daher gibt es keinen allgemeingültigen Ansatz für diesen Vorgang. Wenn du dir nicht sicher bist, wie du das machst, kannst du den Prozess in #pc-3d-modeling im [Beat Saber Modding Group](https://discord.gg/beatsabermods) Discord diskutieren.

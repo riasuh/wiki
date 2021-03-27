@@ -1,62 +1,62 @@
 ---
 sidebar: auto
 prev: ./platforms-guide.md
-description: Bobbie's guide to making Custom Notes!
+description: Bobbies Anleitung zur Erstellung von Custom Notes!
 ---
 
 # Custom Notes Guide
-_Bobbie's guide to making Custom Notes._
+_Bobbies Anleitung zur Erstellung von Custom Notes._
 
-## Intro
-This guide requires basic knowledge on 3d modeling and the Unity Engine. A few things are needed:
+## Einführung
+Diese Anleitung erfordert Grundwissen über 3D-Modellierung und die Unity Engine. Einige Dinge sind erforderlich:
 
-* The Unity Editor - specifically, [Unity version 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
-* The [custom notes Unity project](https://github.com/legoandmars/CustomNotesUnityProject/archive/master.zip)
-* If you don't already have a mesh you want to use, you'll need a 3d modeling program. I personally suggest [Blender](https://www.blender.org/)
-* Depending on what exactly you're modeling, photo editing software such as [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/downloads/) may be required.
+* Der Unity Editor - spezifisch, [Unity version 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
+* Das [Custom Notes Unity-Projekt](https://github.com/legoandmars/CustomNotesUnityProject/archive/master.zip)
+* Wenn du nicht bereits ein Mesh hast, das du verwenden kannst, benötigst du ein 3D-Modellierungsprogramm. Ich persönlich empfehle [Blender](https://www.blender.org/)
+* Je nachdem, was genau du modellierst, kann eine Bildbearbeitungssoftware wie [Photoshop](https://www.adobe.com/products/photoshop.html) oder[GIMP](https://www.gimp.org/downloads/) erforderlich sein.
 
-## Unity Project
-::: danger DISCLAIMER Make sure you're using Unity version 2018.1.6f1! ::: Open the custom notes project with Unity.
+## Unity Projekt
+::: danger DISCLAIMER Stelle sicher, dass du die Unity-Version 2018.1.6f1 verwendest! ::: Öffne das Custom Notes Projekt mit Unity.
 
 ![Unity Project](~@images/models/notes/unity_window.png)
 
-In the hierarchy window on the left, there are a few example notes.
+Im Hierarchie-Fenster auf der linken Seite findest du einige Beispiel-Noten.
 
 ![Object Hierarchy](~@images/models/notes/02.png)
 
-When you click on one of these example notes, you'll see that it has a `NoteDescriptor` attached to it.
+Wenn du auf eine dieser Beispiel-Noten klickst, siehst du, dass sie mit einem `"NoteDescriptor"` versehen ist.
 
 ![NoteDescriptor](~@images/models/notes/03.png)
 
-Let's briefly go over what each of these settings do.
+Lass uns kurz überfliegen, was jede dieser Einstellungen bewirkt.
 
-### Note Name & Author Name
-This one is simple enough. Whatever the note and author name is set to is what will appear in the Custom Notes note selection UI, as shown in the image below.
+### Note Name & Autor Name
+Dies sollte einfach sein. Der Name der Note und der des Autors wird in der Benutzeroberfläche für die Auswahl der Noten angezeigt, wie in der folgenden Abbildung dargestellt.
 
 ![Ingame example of note name and author name](~@images/models/notes/04.png)
 
 ### Icon
-This setting takes an image that will be used as an icon. The icon will display in the Custom Notes note selection UI, as seen in the image above.
+Diese Einstellung nimmt ein Bild auf, das als Symbol verwendet werden soll. Das Symbol wird in der Benutzeroberfläche für die Auswahl von Notizen angezeigt, wie in der Abbildung oben zu sehen.
 
-### Disable Base Note Arrows
-When enabled, this setting will make the default arrows present on notes invisible. Note: you must have `NoteDotLeft` and `NoteDotRight` gameobjects in your note if you want to enable this option.
+### Basisnotenpfeile deaktivieren
+Wenn diese Einstellung aktiviert ist, werden die Pfeile auf den Noten unsichtbar. Hinweis: Du musst `NoteDotLeft` und `NoteDotRight` gameobjects in deinen Noten haben, wenn du diese Option aktivieren möchtest.
 
-### Uses Note Color
-When this option is enabled, it uses the player's currently set note colors to tint your notes appropriately. This allows your notes to support `CustomColors`. If you want to use this properly, be sure to read the section dedicated to making your notes work with Custom Colors.
+### Verwende Noten Farben
+Wenn diese Option aktiviert ist, werden die aktuell eingestellten Noten-Farben des Players verwendet, um Ihre Noten entsprechend zu färben. Damit können deine Noten `CustomColors` unterstützen. Wenn du dies richtig nutzen willst, solltest du unbedingt den Abschnitt lesen, der sich damit beschäftigt, wie du deine Noten mit benutzerdefinierten Farben veränderst.
 
-### Note Color Strength
-This option is only used if `Uses Note Color` is enabled. Note Color Strength defines how strong the tint applied upon your notes is and is one by default. The lower you make this number, the more subtle the tint will be.
+### Noten-Farbe Stärke
+Diese Option wird nur verwendet, wenn `Uses Note Color` aktiviert ist. Die Stärke der Noten-Farbe legt fest, wie stark die auf die Noten angewendete Tönung ist und ist standardmäßig auf 1 eingestellt. Je niedriger du diese Zahl einstellst, desto dezenter wird die Tönung sein.
 
-## Creating a note
-You should already have a 3d model that you're going to use for your note. For this tutorial I'm going to be using a simple triangle mesh I made in blender. Go ahead and import your model into the project.
+## Noten erstellen
+Du solltest bereits ein 3D-Modell haben, das du für deine Noten verwenden möchtest. Für das Tutorial werde ich ein einfaches Dreiecks-Mesh verwenden, das ich in Blender erstellt habe. Fahre fort und importiere dein Modell in das Projekt.
 
 ![Importing into the unity project](~@images/models/notes/05.png)
 
-Once you've imported your model, create a new empty `GameObject` in the hierarchy view and name it whatever you plan on naming your note. I'll be naming mine `TriangleNote`.
+Nachdem du das Modell importiert hast, erstelle ein neues leeres `GameObject` in der Hierarchieansicht und nenne es so, wie du deine Note benennen willst. Ich nenne meine `TriangleNote`.
 
 ![Creating a new gameobject](~@images/models/notes/07.png)
 
-In your note's `GameObject`, click `Add Component` and add a `NoteDescriptor`. Don't worry about changing any of the options in the `NoteDescriptor` right now, we'll do that later.
+Klickenim `GameObject` deiner Note auf `Komponente hinzufügen` und füge einen `NoteDescriptor` hinzu. Kümmere dich jetzt nicht darum, irgendwelche Optionen im `NoteDescriptor` zu ändern, das kommt später.
 
 ![Adding a NoteDescriptor](~@images/models/notes/08.png)
 
@@ -217,7 +217,7 @@ First Person Flying Controller (FPFC) is a launch parameter that can be used by 
 
 It allows you to use WASD to "fly" around, open the pause menu by hitting the <kbd>F2</kbd> key, or exit your level by hitting the <kbd>ESC</kbd> key (otherwise you must play your song to completion).
 
-Install SiraUtil from ModAssistant and run Beat Saber to create a config json file. Edit the `SiraUtil.json` file in your `UserData` folder and change `"Enabled": false` to `"Enabled": true` under FPFCToggle and SongControl then follow the store platform specific steps below.
+Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. Edit the `SiraUtil.json` file in your `UserData` folder and change `"Enabled": false` to `"Enabled": true` under FPFCToggle and SongControl then follow the store platform specific steps below.
 
 ![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
 

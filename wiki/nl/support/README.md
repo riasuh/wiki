@@ -14,7 +14,7 @@ sidebar: auto
 5. [Er zijn nog steeds problemen](#_5-still-having-issues)
 
 ## 0. Updates
-Na een update heeft het BSMG discord `#server-announcements` kanaal de meest actuele instructies over de status van mods. Hieronder volgt een meer gedetailleerde instructies voor het meest voorkomende problemen.
+Na een update heeft het BSMG discord `#modding-announcements` kanaal de meest actuele informatie over de status van mods. Hieronder volgt een meer gedetailleerde instructies voor het meest voorkomende problemen.
 
 ### Een update brak mijn mods
 **Start spel één keer** na een nieuwe update. Installeer vervolgens je mods opnieuw met behulp van een installatieprogramma, zoals Mod Assistant, dat gelinkt is in de [gids voor beginners](/nl/beginners-guide).
@@ -39,9 +39,9 @@ Als de vermelde details in sectie 1.1 hierboven juist zijn, probeer dan de onder
 * Ga naar je Beat Saber map.
 * Start `IPA.exe`.
 
-##### Oplossing 2 (enkel voor Steam gebruikers)
+##### Oplossing 2 (alleen voor Steam)
 
-* [Verifieer je spel bestanden](#verify-game-files-for-steam).
+* [Verifieer je spelbestanden.](#verify-game-files-for-steam)
 * Update BSIPA naar de nieuwste versie.
 * Ga naar je Beat Saber map.
 * Start `IPA.exe`.
@@ -52,13 +52,13 @@ Als de vermelde details in sectie 1.1 hierboven juist zijn, probeer dan de onder
 * Maak een back-up van de `UserData` map (optioneel).
 * Verwijder de `UserData` map.
 
-::: warning Waarschuwing Dit zal alle plugin instellingen resetten! :::
+::: warning waarschuwing Dit zal alle mod instellingen resetten! :::
 
 ##### Oplossing 4
 
 * Voer een [Schone Installatie](#clean-installation) uit
 
-#### 1.2 Mod Assistant lijkt geen plugins te installeren
+#### 1.2 Mod Assistant lijkt geen mods te installeren
 De installatieprogrammas downloaden mods naar de map `Beat Saber/IPA/Pending`, BSIPA verplaatst deze bestanden naar de hoofd map tijdens het opstarten van het spel. Als je Plugins map hierna nog steeds leeg is, start dan `IPA.exe` nogmaals en zorg ervoor dat niets ervoor zorgt dat het zijn ding niet kan doen, bijvoorbeeld `Anti-virus programma's, administrator rechten, etc.`
 
 ## 2. Problemen na het modden van het spel
@@ -95,14 +95,14 @@ Als [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) je fps niet v
 * Controleer of NVIDIA GEFORCE EXPERIENCE de renderingsschaal voor Beat Saber voorbij het standaard van 1.0 ingesteld heeft. Het kan het op een hoger nummer hebben ingesteld (bijvoorbeeld 1,4 of 1,8) waardoor de belasting op de GPU aanzienlijk toeneemd.
 * Gebruik een minder complexe custom avatar.
 * De custom saber **Plasma Katanas** heeft een heleboel events en deze staan er om bekend lag te kunnen introduceren als u mist.
-* CameraPlus kan erg belastend zijn, vooral als je meerdere camera's hebt en/of de FOV is verhoogt.
+* Camera2 of CameraPlus kunnen erg belastend zijn, vooral als je meerdere camera's hebt en het FOV verhoogt.
 * Zet de renderingsschaal, Anti-Aliasing, reflecties, het misteffect, etc. op een lagere stand in de basis spel instellingen.
 * Voor Oculus Rift (CV1) spelers: overweeg om 2 sensoren te gebruiken in plaats van 3 of meer.
 * Verminder je totale hoeveelheid mods en liedjes.
 * Voer een [Nieuwe Installatie](#clean-installation) van de spelbestanden uit.
 * Lage framerate kan ook worden veroorzaakt als er iets mis is in uw AppData map, om dit op te lossen, verwijs naar [Het verwijderen van uw Beat Saber AppData map](#deleting-your-save-in-appdata).
 * Zet Counters+ opties zoals score counter en swing speed uit want deze kunnen lag veroorzaken.
-* De HTTPStatus mod kan lag veroorzaken. Test het spel zonder deze mod om te kijken of het inderdaad hierdoor werd veroorzaakt.
+* HTTPStatus of DataPulller kunnen lag veroorzaken. Test het spel zonder deze mod om te kijken of het inderdaad hierdoor werd veroorzaakt.
 
 VR is zeer CPU intensief, vooral als je mods toevoegt. Als je moeite hebt om het spel te draaien met de mods die je wil gebruiken, overweeg dan om je hardware te upgraden. Beat Saber gebruikt de GPU in mindere mate omdat het visueel gesproken een redelijk simpel spel is.
 
@@ -141,7 +141,7 @@ Dan is er een goede kans dat Beat Saber de USB-controller van je moederbord over
 Klik op de **Home** knop van je toetsenbord met het spel in focus om de zichtbaarheid in de headset in/uit te schakelen.
 
 #### 3.5 Mijn Avatars zijn kapot
-Zorg ervoor dat je Custom Avatars plugin correct is geïnstalleerd en up-to-date is, zorg er ook voor dat de afhankelijkheden dat ook zijn. Je hebt mogelijks een corrupte/kapotte avatar, zulke avatar kan tevens ook al je andere avatars ook beschadigen. Hetzelfde is ook van toepassing voor levels en sabers.
+Zorg ervoor dat jouw Custom Avatars mod correct is geïnstalleerd en de nieuwste versie is, zorg er ook voor dat de afhankelijkheden er ook zijn. Je hebt mogelijks een corrupte/kapotte avatar, zulke avatar kan tevens ook al je andere avatars ook beschadigen. Hetzelfde is ook van toepassing voor levels en sabers.
 
 ### Custom Levels
 
@@ -153,12 +153,13 @@ Zorg ervoor dat je levels zich in je`CustomLevels` map bevinden, deze kan je ter
 Als alternatief kan je ze handmatig omzetten met [Song Converter](https://github.com/lolPants/songe-converter), maar je zal geen hulp ontvangen bij het gebruiken van deze methode en je moet het programma zelf compileren.
 
 #### 3.7 Uitgeschakelde afspeelknop
-Klik op het glimmende blauwe vraagteken (?) knop rechts bovenin. Dit zou je moeten vertellen welke mods je mist, en dus moet installeren, om het level te kunnen spelen. Als het daarna nog steeds niet werkt, probeer dan de aangegeven mod(s) opnieuw te installeren. Probeer anders een [Schone Installatie](#nieuwe-installatie).
+Klik op het glimmende blauwe vraagteken (?) knop rechts bovenin. Dit zou je moeten vertellen welke mods je mist, en dus moet installeren, om het level te kunnen spelen. Als het nog steeds niet werkt, probeer dan de aangegeven mod opnieuw te installeren. Probeer anders een [Nieuwe installatie](#nieuwe-installatie).
 
 #### 3.8 Level details blijven oneindig laden
 Als dit alleen gebeurt bij bepaalde levels, missen ze mogelijks vereiste mods of zijn de bestanden kapot. Als het met al je nummers gebeurt, verwijder dan de `Plugins` map en installeer de mods opnieuw.
 
 ### CameraPlus
+:::warning NOTE Deze mod wordt niet langer onderhouden en is vervangen door [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2). :::
 
 #### 3.9 CameraPlus werkt niet na het Health & Safety menu
 Zorg ervoor dat de instelling voor "Smooth Camera" is uitgeschakeld in je instellingen van het spel. Als dat niet werkt, probeer het en de bijbehorende afhankelijkheden opnieuw te installeren.
@@ -169,7 +170,7 @@ Jouw CameraPlus display is te klein voor je scherm. Sleep de hoek om op het sche
 ### BeatSaver Downloader
 
 #### 3.11 BeatSaver Downloaders "More Songs" knop
-**De More Songs knop is te vinden aan de linkerkant onder de Mods tekst in het hoofdmenu.** Als de knop voor More Songs doorzichtig is, zorg er dan voor dat al jouw levels zijn geladen. Dit is te zien aan de hand van de regenboogkleurige vooruitgangsbalk in het hoofdmenu. Als uw Mods menu er niet is, zorg er dan voor dat uw plugins en afhankelijkheden werken en correct geïnstalleerd zijn, zie [Geen mods?](#_1-no-mods).
+**De More Songs knop is te vinden aan de linkerkant onder de Mods tekst in het hoofdmenu.** Als de knop voor More Songs doorzichtig is, zorg er dan voor dat al jouw levels zijn geladen. Dit is te zien aan de hand van de regenboogkleurige vooruitgangsbalk in het hoofdmenu. Als jouw Mods menu er niet is, zorg er dan voor dat jouw mods en afhankelijkheden werken en correct geïnstalleerd zijn, zie [Geen mods?](#_1-no-mods).
 
 #### 3.12 Niets zichtbaar in het "More Songs" menu
 De mogelijke oorzaken waardoor beatsaver downloader niet kan werken, zijn:
@@ -177,6 +178,26 @@ De mogelijke oorzaken waardoor beatsaver downloader niet kan werken, zijn:
 1. Zorg ervoor dat al je nummers zijn geladen voordat je er in gaat, want anders wordt de "More Songs" knop doorzichtig.
 2. Jouw anti-virus of firewall blokkeert de toegang tot BeatSaver.
 3. Je hebt het limiet van BeatSaver bereikt en moet wachten voordat je het opnieuw probeert.
+
+### Multiplayer foutcodes
+Hier is een lijst met bekende foutcodes, wat ze betekenen en wat je kan doen om ze op te lossen.
+
+<!-- Disable line length rule because of table -->
+<!-- markdownlint-disable MD013 -->
+| Code&nbsp; | Omschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|:---------- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CFR-1      | Er is een onbekende fout opgetreden. Probeer het spel opnieuw te starten.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| CFR-2      | De multiplayer verbinding is geannuleerd.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| CFR-3      | Server is niet bereikbaar. Er kan een probleem zijn met jouw internetverbinding of met Beat Saber's relay servers. Dubbele check dat je niet offline bent, en dat jouw firewall toe staat dat Beat Saber verbinding kan maken met het internet. <details><summary>**Achtergrondinformatie**</summary>Beat Saber Multiplayer is peer-to-peer waar je direct verbinding hebt met elke speler in de lobby. Wanneer dit niet mogelijk is, start een "relay"-server om de gegevens te verzenden. Deze fout betekent dat beide methoden zijn mislukt.</details> |
+| CFR-4      | De server bestaat al.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| CFR-5      | Server bestaat niet. De lobby waarmee je verbinding maakte zou gesloten kunnen zijn terwijl je aan het joinen was.                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| CFR-6      | De server is vol. Kies een andere lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| CFR-7      | Je hebt een versie van het spel dat niet wordt ondersteund door de servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| CFR-8      | Wachtwoord voor de lobby is incorrect. Dubbel check of je het juiste wachtwoord invult.                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| CFR-9      | De matchmaking servers die Beat Games gebruiken, die openstaande openbare en particuliere lobby's bijhouden, zijn offline. Probeer het later opnieuw.                                                                                                                                                                                                                                                                                                                                                                                  |
+| CFR-10     | Je sessiesleutel van Steam of Oculus is niet geldig. Als je op Quest speelt en je game hebt gemod, bekijk dan dit [FAQ antwoord](/faq/README.md#does-multiplayer-have-crossplay) om hier mee om te gaan. Anders heb je een illegaal verkregen kopie van het spel dat niet wordt ondersteund.                                                                                                                                                                                                                                           |
+| CFR-11     | Jouw internetverbinding is offline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+<!-- markdownlint-enable MD013 -->
 
 ## 4. Diverse probleemoplossingen
 
@@ -186,7 +207,7 @@ Als je het spel op Steam hebt kan je naar:
 
 Als je het spel op Oculus hebt dan moet je met je rechtermuisknop op Beat Saber.exe klikken en een snelkoppeling maken. Bewerk het doelwit om "--verbose" toe te voegen aan het einde van deze. b.v. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-Na het toevoegen van "--verbose" zal het spel hopelijk eventuele fouten met betrekking tot uw avatars, sabers en nummers weergeven
+Na het toevoegen van "--verbose" zal het spel hopelijk eventuele fouten met betrekking tot jouw avatars, sabers en levels weergeven.
 
 * Dit is alleen niet altijd te zijn voor avatars en sabers, en moet je misschien alle avatars/sabers verwijderen en ze één voor één toevoegen om te kijken welke jouw spel breekt.
 
@@ -228,13 +249,13 @@ Hier is een [video gids](https://www.youtube.com/watch?v=EBFfT4-ZiIc), hoewel de
 (Optioneel) Als je nog een stap verder wilt, verwijs dan naar: [Het verwijderen van jouw bestanden in AppData](#deleting-your-save-in-appdata).
 
 ### Het verwijderen van jouw bestanden in AppData
-Dit zal je scores en lokale data verwijderen, maar niet je Custom nummers scorebord / ScoreSaber statistieken. Je kan de map vinden in:
+Dit zal je scores en lokale data verwijderen, maar niet je Custom levels scorebord / ScoreSaber statistieken. je kan de map vinden in:
 > `<code>%appdata%\..\locallow\hyperbolic magnetism\beat saber`</code>
 
 Kopieer alles van de bovenstaande balk en plak het in de adresbalk in van jouw bestandsverkenner en verwijder het.
 
-Je kunt ook naar deze map komen door verborgen items te tonen en te navigeren naar:
-> ` Gebruikers &#062; "GEBRUIKER" &#062; AppData &#062; Local Low &#062; Hyperbolic-magnetism `
+Je kan ook naar deze map komen door verborgen items te tonen en te navigeren naar:
+> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
@@ -259,6 +280,4 @@ Als deze pagina de basis niet dekt, voel je dan vrij om een vraag te stellen in 
 
 ::: tip OPMERKING De mensen met de `Support` rol zijn vrijwilligers die ervoor kunnen kiezen om in hun vrije tijd te helpen. De support rol is een erkenning van de kennis en inspanningen die zij hebben verricht, maar het betekent niet automatisch dat ze er zullen zijn om te helpen simpelweg omdat ze online zijn. :::
 
-Dankjewel!
-
-> Veel dank aan Saber-Chan voor hun harde werk op deze pagina.
+Veel dank aan Saber-Chan voor hun harde werk op deze pagina.

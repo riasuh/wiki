@@ -32,7 +32,7 @@ Hieronder staan aanbevelingen, **geen** vereisten, deze zullen je helpen om je l
 
 * Kies een nummer met een duidelijke beat om je level op te maken. Sommige genres werken beter dan andere.
 * Kies een nummer met een consistent tempo (bijvoorbeeld liedjes met elektronische drums). Nummers die langzaam van tempo/BPM veranderen kunnen erg moeilijk zijn om een level op te maken.
-* Kies een nummer aan de kortere kant (minder dan 3 minuten is beter). Mapping a 10-minute epic to start with may lead to frustration and/or burn out.
+* Kies een nummer aan de kortere kant (minder dan 3 minuten is beter). Een 10 minuten durende level maken is geweldig om mee te beginnen maar kan tot frustratie en/of een burnout leiden.
 * Kies ten slotte een liedje waarvan je het niet erg vind om er steeds weer opnieuw naar te luisteren. Maar voorkom dat je je favoriete nummer als eerste maakt, wacht daarmee totdat je wat meer ervaring hebt.
 
 ## Audio Kwaliteit
@@ -50,9 +50,9 @@ Door een audiobestand van hoge kwaliteit te kopen en te gebruiken, steun je niet
 
 | OGG kwaliteit |                   YouTube Rip                   |                  MP3                  |                  WAV                  |                  FLAC                   |
 |:-------------:|:-----------------------------------------------:|:-------------------------------------:|:-------------------------------------:|:---------------------------------------:|
-|       1       |  ![YouTube Rip 1](~@images/mapping/ytrip1.jpg)  |  ![MP3 1](~@images/mapping/mp31.jpg)  |  ![WAV 1](~@images/mapping/wav1.jpg)  |  ![Flac 1](~@images/mapping/flac1.jpg)  |
-|       5       |  ![YouTube Rip 5](~@images/mapping/ytrip5.jpg)  |  ![MP3 5](~@images/mapping/mp35.jpg)  |  ![WAV 5](~@images/mapping/wav5.jpg)  |  ![Flac 5](~@images/mapping/flac5.jpg)  |
-|      10       | ![YouTube Rip 10](~@images/mapping/ytrip10.jpg) | ![MP3 10](~@images/mapping/mp310.jpg) | ![WAV 10](~@images/mapping/wav10.jpg) | ![Flac 10](~@images/mapping/flac10.jpg) |
+|       1       |  ![YouTube Rip 1](~@images/mapping/ytrip1.jpg)  |  ![MP3 1](~@images/mapping/mp31.jpg)  |  ![WAV 1](~@images/mapping/wav1.jpg)  |  ![FLAC 1](~@images/mapping/flac1.jpg)  |
+|       5       |  ![YouTube Rip 5](~@images/mapping/ytrip5.jpg)  |  ![MP3 5](~@images/mapping/mp35.jpg)  |  ![WAV 5](~@images/mapping/wav5.jpg)  |  ![FLAC 5](~@images/mapping/flac5.jpg)  |
+|      10       | ![YouTube Rip 10](~@images/mapping/ytrip10.jpg) | ![MP3 10](~@images/mapping/mp310.jpg) | ![WAV 10](~@images/mapping/wav10.jpg) | ![FLAC 10](~@images/mapping/flac10.jpg) |
 
 Kan je het verschil zien? Je kunt de audiokwaliteit niet beter maken; alleen met een audiobestand van hoge kwaliteit kan je duidelijke en precieze lijnen zien.
 

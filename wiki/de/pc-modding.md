@@ -35,7 +35,7 @@ __**Starte das Spiel mindestens einmal**** bevor du versuchst Mods zu installier
 
 Ein einfacher Beat Saber Mod Installer, ähnlich dem Mod Manager aber mit zusätzlichen Funktionen wie Deinstallation von Mods und Versionskontrolle! Hol es auf [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
 
-![ModAssistant](~@images/beginners-guide/modassistant.png)
+![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## Wie bekomme ich mehr Songs
 ::: tip Die meisten Maps in den Sortierfiltern "Top All", "Rating", "Downloads" oder "Plays" wurden erstellt, bevor gute Mapping-Praktiken etabliert wurden. Versuche Songs herunterzuladen, die zwischen Ende 2019 und jetzt veröffentlicht wurden, um die beste benutzerdefinierten Levels zu erleben. :::
@@ -51,14 +51,14 @@ Das `BeatSaver Downloader` Plugin erlaubt dir Songs im Spiel herunterzuladen, in
 
 ### Song Management Apps
 
-* [BeatList](https://github.com/Alaanor/beatlist) ist eine App zur Verwaltung von Playlisten und Beatmaps, von Alaanor.
+Zurzeit gibt es keine funktionierenden Apps zur Songverwaltung.
 
 ### Playlists
-Du musst den [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) installieren.
+Du musst den [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) Mod installieren.
 
 Dazu kannst du entweder:
 
-* Das `Playlist installieren` Tool in den Optionen des Mod Assistant verwenden.
+* Das `Install Playlist` Tool in den Optionen des Mod Assistant verwenden.
 * Platziere die Playlist-Datei in `Beat Saber/Playlists` und wähle diese im Spiel aus. Klicke dann auf Download.
 
 Du solltest die Playlist jetzt neben den Custom Levels im Spiel sehen. Der Mod unterstützt auch die Verwaltung von Playlists im Spiel.
@@ -80,7 +80,7 @@ _Wo ist Beat Saber installiert?_
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Manuelle Installation
-Ein Mod-Installer ist die empfohlene Methode, um Mods zu installieren. Siehe den Abschnitt [oben](#Installer). Solltest du das Spiel gepatched haben und Plugins installiert werden müssen, die nicht im Mod Installer sind, springe zu Schritt 4.
+Ein Mod-Installer ist die empfohlene Methode, um Mods zu installieren. Siehe den Abschnitt [oben](#installationsprogramme). Solltest du das Spiel gepatched haben und Plugins installiert werden müssen, die nicht im Mod Installer sind, springe zu Schritt 4.
 
 **Starte das Spiel mindestens einmal,** bevor du versuchst Mods zu installieren! Dies trifft auch zu, wenn du dein Spiel neu installierst.
 

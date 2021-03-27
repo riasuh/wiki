@@ -35,7 +35,7 @@ Oculus Quest バージョンのゲームを使用している場合は、 [Quest
 [マッピング](./mapping/) ガイドに従って、オリジナルの譜面を作成する方法を学びましょう！
 
 ### Modを作る
-[modの作成](./modding/) ガイドに従って、ゲーム用のプラグインを作成しましょう！
+Get started creating mods for the game by following our [mod creation](./modding/) guide!
 
 ### 3Dモデルの作成
 ゲーム用の3Dモデルの作成方法を学びましょう!

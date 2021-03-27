@@ -28,7 +28,7 @@ Ele gosta de jogar Beat Saber. Também gosta de ajudar as pessoas a resolver os 
 **Cargos:** Support
 
 ## Kolezan
-Ele vai te ensinar a consertar seus plugins e seu primeiro mapa terrivelmente off-beat. Todos estivemos lá.
+He'll teach you to fix your mods and your terribly off-beat first map. Todos estivemos lá.
 
 **Cargos:** Support, Mapping Support, Mapper
 

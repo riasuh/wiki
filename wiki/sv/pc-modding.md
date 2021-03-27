@@ -35,23 +35,23 @@ __**Kör spelet minst en gång**** innan du försöker modifiera spelet! Detta g
 
 A simple Beat Saber Mod Installer similar to the mod manager, but with additional features such as mod removal and version checking! Get it on [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
 
-![ModAssistant](~@images/beginners-guide/modassistant.png)
+![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## How to get more songs
 ::: tip Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before good mapping practices were established. Try downloading songs released between late 2019 and now to get the best custom levels experience. :::
 
 ### Nedladdare i spelet
-The `BeatSaver Downloader` Plugin allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from [BeatSaver](https://beatsaver.com)
+The `BeatSaver Downloader` mod allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from [BeatSaver](https://beatsaver.com)
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is where they are stored. To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader plugin, BeatList, or Mod Assistant's OneClick™ Install feature.
+[BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is where they are stored. To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) (bsaber.com) is a site that tries to help make finding fantastic maps to play easier. It does this by categorizing the thousands of songs on beatsaver and lets you sort by a song's genre and many other attribute tags. It also has a full social feature where players can review songs and comment on them. One of the most used features is the "Curator Recommended" feature where a team plays through most songs released each day and recommends the ones that stand out, letting you [automatically download these in-game](https://bsaber.com/beatsync/).
 
 ### Verktyg för låthantering
 
-* [BeatList](https://github.com/Alaanor/beatlist) är en app som hanterar spellistor och beatmaps, av Alaanor.
+There are no working song management apps available at this time.
 
 ### Spellistor
 You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
@@ -80,9 +80,9 @@ _Where is Beat Saber installed?_
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Manuell installation
-Ett modinstallerare är det rekommenderade sättet att installera mods. Se avsnittet [ovanför](#installers). Om du har lagat spelet och bara behöver installera plugins som inte är tillgängliga i installationsprogrammet, hoppa över till steg 4.
+A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
 
-**Kör spelet minst en gång** innan du försöker modifiera spelet! Detta gäller för ominstallation av ditt spel också.
+**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
 
 ### Installera BSIPA
 
@@ -96,17 +96,17 @@ Ett modinstallerare är det rekommenderade sättet att installera mods. Se avsni
 5. Vissa mods har installationsinstruktioner, andra inte. Generellt kan du bara dra och släppa zip-innehållet i din beat saber installationsmapp, och filerna bör gå in i motsvarande mappar.
 
 ## Hur man avinstallerar mods
-Ta antingen bort moddets .dll från `Plugins` -mappen, eller klicka på `Uninstall` -knappen i ModAssistant.
+Either remove the dll from the `Plugins` folder, or click the `Uninstall` button in Mod Assistant.
 
 ## Var man kan gå härifrån
 
-* [Grepp och Trick](./grips-and-tricks.md)
-* [Skapa Beatmaps](/mapping/)
-* [Anpassade Sablar](/models/custom-sabers.md)
-* [Anpassade Avatarer](/models/custom-avatars.md)
-* [Anpassade Plattformar](/models/custom-platforms.md)
-* [Konfigurera multiplayer](https://bs.assistant.moe/Multiplayer/)
-* [Skapa Mods](/modding/)
+* [Grips and Tricks](./grips-and-tricks.md)
+* [Making Beatmaps](/mapping/)
+* [Custom Sabers](/models/custom-sabers.md)
+* [Custom Avatars](/models/custom-avatars.md)
+* [Custom Platforms](/models/custom-platforms.md)
+* [Setup Multiplayer](https://bs.assistant.moe/Multiplayer/)
+* [Making Mods](/modding/)
 
 ## Har du frågor?
-Besök supportkanalerna i [BSMGs Discordserver](https://discord.gg/beatsabermods)!
+Visit the support channels in the [BSMG Discord](https://discord.gg/beatsabermods)!

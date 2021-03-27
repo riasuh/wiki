@@ -6,7 +6,7 @@
 ## Quienes Somos
 
 ### [Personal](./staff.md)
-El equipo que dirige el espectáculo a la vanguardia y detrás de las escenas. Si se trata de la gestión del proyecto, la aprobación del plugin, la gestión de los servicios básicos, la coordinación de eventos, o muchos de los otros proyectos secretos, siempre hay mucho trabajo por hacer. La comunidad no existiría sin las innumerables horas aportadas por estos increíbles individuos, así que por favor dales una ronda virtual de aplausos (y ayuda para pagar los servicios si puedes...)
+El equipo que dirige el espectáculo a la vanguardia y detrás de las escenas. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. La comunidad no existiría sin las innumerables horas aportadas por estos increíbles individuos, así que por favor dales una ronda virtual de aplausos (y ayuda para pagar los servicios si puedes...)
 
 ### [Moderadores](./moderators.md)
 Con un servidor tan grande, se requiere mucha moderación para mantener todo bajo control. Puedes dar las gracias a este equipo por mantener las calles limpias.

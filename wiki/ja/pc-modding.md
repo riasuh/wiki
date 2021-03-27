@@ -33,36 +33,36 @@ or contribute to translation effort [here](https://github.com/bsmg/wiki). :::
 
 Mod managerに似たシンプルなBeat Saber Modインストーラですが、Modの除去やバージョンチェックなどの追加機能があります! [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest) で取得
 
-![ModAssistant](~@images/beginners-guide/modassistant.png)
+![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## どうすれば曲が追加出来る？
 ::: tip よい譜面作成方法が作られる前に、「すべての曲から」「レイト」「ダウンロード数」「プレイ数」によってソートできます。 2019年後半から今の間にリリースされた曲をダウンロードして、最高の 創作譜面を体験してみてください。 :::
 
 ### ゲーム内ダウンローダー
-`BeatSaver Downloader` プラグインを使用すると、 `MODS` メニュー画面の `SONG` メニューボタンを使用してゲーム内でマップをダウンロードできます。 [BeatSaver](https://beatsaver.com)からも直接マップをインストールできます。
+The `BeatSaver Downloader` mod allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. [BeatSaver](https://beatsaver.com)からも直接マップをインストールできます。
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) はコミュニティによって作られたカスタム曲のまとめです。 他の多くのツールやサイトは、カスタム曲をダウンロードする方法をより詳細に説明します, しかし、この場所は、ツール作成者自らが運営しています。. サイトからダウンロードした曲をインストールするには、フォルダを解凍し、 `Beat Saber/Beat Saber_Data/CustomLevels` に配置します。 ゲーム内ダウンローダプラグイン、BeatList、Mod AssistantのOneClick™インストール機能を使用することもできます。
+[BeatSaver](https://beatsaver.com) はコミュニティによって作られたカスタム曲のまとめです。 他の多くのツールやサイトは、カスタム曲をダウンロードする方法をより詳細に説明します, しかし、この場所は、ツール作成者自らが運営しています。. サイトからダウンロードした曲をインストールするには、フォルダを解凍し、 `Beat Saber/Beat Saber_Data/CustomLevels` に配置します。 You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) (bsaber.com) は、プレイできる素晴らしいマップを見つけるのに役立つサイトです。 これは、beatsaver上の何千もの曲を分類することによって行われ、曲のジャンルや他の多くの属性タグでソートすることができます。 また、プレイヤーが曲をレビューしたり、コメントしたりできるソーシャル機能も備えています。 最も使用されている機能の一つは、リリースされたほとんどの曲をチームが再生し、素晴らしいものを推奨する「キュレーター推奨」機能です。 [ゲーム内で自動的にこれらの](https://bsaber.com/beatsync/)をダウンロードさせます。
 
 ### Song Management Apps
 
-* [BeatList](https://github.com/Alaanor/beatlist) は、Alaanorが作成したプレイリストとビートマップを管理するアプリです。
+There are no working song management apps available at this time.
 
 ### プレイリスト
-[PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) modをインストールする必要があります。
+You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
 
-次に、どちらかを選択できます。
+Then you can either:
 
-* ModAssistantのOptionsタブで `プレイリストインストール` ツールを使用します。
-* プレイリストファイルを `Beat Saber/Playlists` に配置し、BeatListで選択し、すべてダウンロードします。
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select it in-game, then hit download all songs.
 
-ゲーム内のカスタムレベルの横にプレイリストが表示されます。 MODはまた、ゲーム内のプレイリストの管理をサポートしています。
+You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
 
 ## インストール フォルダ:
-_Beat Saberはどこにインストールされていますか？_
+_Where is Beat Saber installed?_
 
 ### デフォルトの保存場所
 |        |                                                                                     |
@@ -78,7 +78,7 @@ _Beat Saberはどこにインストールされていますか？_
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## 手動でのインストール
-A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install Plugins that are not available in the installer, skip to step 4.
+A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
 

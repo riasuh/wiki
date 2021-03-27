@@ -4,7 +4,7 @@
 
 :::warning De Custom Platforms mod is alleen geschikt voor een PC. :::
 
-De nieuwste Custom Platforms plugin kan worden gevonden in het [#pc-mods kanaal](https://discord.gg/beatsabermods) in de BSMG Discord of in [Mod Assistant](https://github.com/Assistant/ModAssistant). Zodra je het hebt geïnstalleerd (en het spel één keer hebt gestart), ziet je een map met de naam `CustomPlatforms` in [jouw installatie map](/faq/install-folder.md). Dit is waar je de `*.plat` bestanden moet plaatsen die je wilt gebruiken.
+De nieuwste Custom Platforms mod kan worden gevonden in het [#pc-mods kanaal](https://discord.gg/beatsabermods) in de BSMG Discord of in [Mod Assistant](https://github.com/Assistant/ModAssistant). Zodra je het hebt geïnstalleerd (en het spel één keer hebt gestart), ziet je een map met de naam `CustomPlatforms` in [jouw installatie map](/faq/install-folder.md). Dit is waar je de `*.plat` bestanden moet plaatsen die je wilt gebruiken.
 
 Je kan meer platforms downloaden via [ModelSaber](https://modelsaber.com/Platforms/).
 

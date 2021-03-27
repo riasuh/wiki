@@ -6,7 +6,7 @@ Ever wonder who made your favorite mod or created the mod installer? This page t
 ## Who We Are
 
 ### [Staff](./staff.md)
-The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
 
 ### [Moderators](./moderators.md)
 With a server so large, a lot of moderation is required to keep everything under control. You can thank this team for keeping the streets clean.

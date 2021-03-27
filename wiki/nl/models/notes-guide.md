@@ -217,7 +217,7 @@ First Person Flying Controller (FPFC) is een startparameter wat gebruikt kan wor
 
 Hiermee kun je WASD gebruiken om rond te "vliegen", het pauzemenu openen door op de <kbd>F2</kbd> toets te drukken, of verlaat je level door op de <kbd>ESC</kbd> toets te drukken (anders moet je wachten tot het eind van het nummer).
 
-Installeer SiraUtil met ModAssistant en start Beat Saber om een configuratie .json bestand aan te maken. Bewerk het `SiraUtil.json` bestand in jouw `UserData` map en verander `"Enabled": false` naar `"Enabled": true` onder FPFCToggle en SongControl en volg vervolgens de platform specifieke stappen hieronder.
+Installeer SiraUtil met Mod Assistant en start Beat Saber om een configuratie .json bestand aan te maken. Bewerk het `SiraUtil.json` bestand in jouw `UserData` map en verander `"Enabled": false` naar `"Enabled": true` onder FPFCToggle en SongControl en volg vervolgens de platform specifieke stappen hieronder.
 
 ![SiraUtil JSON instelling](~@images/mapping/sirautil-FPFC.png)
 

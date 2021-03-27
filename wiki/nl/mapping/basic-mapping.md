@@ -2,11 +2,11 @@
 sidebar: auto
 prev: ./basic-audio.md
 next: ./intermediate-mapping.md
-description: Learn all the info and best practices you need to make a solid first map!
+description: Leer alle informatie en beste praktijken die je nodig hebt om een goede eerste level te maken!
 ---
 
-# Basic Mapping
-_If you are a new mapper, read this page from top to bottom. Elk woord. Elke afbeelding. This page will give you all the info and best practices you need to make a solid first map!_
+# Beginners mapping
+_Als je een nieuwe mapper bent, lees dan deze pagina van boven naar beneden. Elk woord. Elke afbeelding. Deze pagina zal je alle informatie en beste praktijken geven die je nodig hebt om een goede eerste level te maken!_
 
 * [Woordenlijst](./glossary.md)
 

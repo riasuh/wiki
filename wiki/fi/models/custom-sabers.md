@@ -4,7 +4,7 @@
 :::tip NOTE Sabers need to be made specifically for Quest or PC and are not interchangeable between the two. You can tell which platform a saber is for by the file extension. `.saber` files are for PC while Quest uses `.zip` files. :::
 
 ### PC Sabers
-The latest Custom Saber plugin can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Run ModAssistant, select the Custom Saber plugin, and click Install. Once you've installed it you will see a folder called `CustomSabers` in [your install folder](/faq/install-folder.md), this is where you should place the `*.saber` files you want to use.
+The latest Custom Saber mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Run Mod Assistant, select the Custom Saber mod, and click Install. Once you've installed it you will see a folder called `CustomSabers` in [your install folder](/faq/install-folder.md), this is where you should place the `*.saber` files you want to use.
 
 You can download more sabers on [ModelSaber](https://modelsaber.com/Sabers/).
 

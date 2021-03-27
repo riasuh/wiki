@@ -6,7 +6,7 @@
 ## 私たちについて
 
 ### [Staff](./staff.md)
-いくつかのシーンの最前線と裏方を運営するチームです。 プロジェクトの管理、プラグインの承認、中枢サービスの管理、イベントの調整、そのほか多くの見えないプロジェクトなどたくさんのタスクがあります。 この素晴らしい個人が貢献した膨大な時間がなければ、このコミュニティは存在しないでしょう。 彼らに感謝をしましょう。(そして、可能なら支援をお願いします)
+いくつかのシーンの最前線と裏方を運営するチームです。 Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. この素晴らしい個人が貢献した膨大な時間がなければ、このコミュニティは存在しないでしょう。 彼らに感謝をしましょう。(そして、可能なら支援をお願いします)
 
 ### [Moderators（モデレーター）](./moderators.md)
 非常に大きなサーバーでは、すべてを制御するために多くのモデレーションが必要です。 このチームがサーバーをクリーンにしてくれることに感謝します。

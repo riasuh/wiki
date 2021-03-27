@@ -4,7 +4,7 @@
 :::tip NOTA As notas precisam ser feitas especificamente para a Quest ou PC e não podem ser trocadas entre as duas. Você pode informar para qual plataforma uma nota serve pela extensão do arquivo. Arquivos `.bloq`são para PC enquanto o Quest usa arquivos `.zip`. :::
 
 ### PC Notes
-A última versão do plugin de Custom Notes pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [ModAssistant](https://github.com/Assistant/ModAssistant).
+The latest Custom Notes mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant).
 
 Uma vez instalado, você deve ver uma pasta `CustomNotes` na [sua pasta de instalação](/faq/install-folder.md), com algumas notas de exemplo instaladas para você. Esta pasta também é onde você colocará os arquivos `*.bloq`.
 

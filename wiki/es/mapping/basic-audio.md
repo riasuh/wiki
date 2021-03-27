@@ -50,9 +50,9 @@ Al comprar y utilizar un archivo de audio de alta calidad, no sólo está apoyan
 
 | Calidad OGG |                 YouTube                  |                  MP3                  |                  WAV                  |                  FLAC                   |
 |:-----------:|:----------------------------------------:|:-------------------------------------:|:-------------------------------------:|:---------------------------------------:|
-|      1      | ![YouTube](~@images/mapping/ytrip1.jpg)  |  ![MP3 1](~@images/mapping/mp31.jpg)  |  ![WAV 1](~@images/mapping/wav1.jpg)  |  ![Flac 1](~@images/mapping/flac1.jpg)  |
-|      5      | ![YouTube](~@images/mapping/ytrip5.jpg)  |  ![MP3 5](~@images/mapping/mp35.jpg)  |  ![WAV 5](~@images/mapping/wav5.jpg)  |  ![Flac 5](~@images/mapping/flac5.jpg)  |
-|     10      | ![YouTube](~@images/mapping/ytrip10.jpg) | ![MP3 10](~@images/mapping/mp310.jpg) | ![WAV 10](~@images/mapping/wav10.jpg) | ![Flac 10](~@images/mapping/flac10.jpg) |
+|      1      | ![YouTube](~@images/mapping/ytrip1.jpg)  |  ![MP3 1](~@images/mapping/mp31.jpg)  |  ![WAV 1](~@images/mapping/wav1.jpg)  |  ![FLAC 1](~@images/mapping/flac1.jpg)  |
+|      5      | ![YouTube](~@images/mapping/ytrip5.jpg)  |  ![MP3 5](~@images/mapping/mp35.jpg)  |  ![WAV 5](~@images/mapping/wav5.jpg)  |  ![FLAC 5](~@images/mapping/flac5.jpg)  |
+|     10      | ![YouTube](~@images/mapping/ytrip10.jpg) | ![MP3 10](~@images/mapping/mp310.jpg) | ![WAV 10](~@images/mapping/wav10.jpg) | ![FLAC 10](~@images/mapping/flac10.jpg) |
 
 ¿Puedes ver la diferencia? No se puede escalar la calidad del audio, solo a partir de un archivo de audio de alta calidad puede darte líneas limpias y precisas.
 

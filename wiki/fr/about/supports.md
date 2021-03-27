@@ -28,7 +28,7 @@ He likes playing Beat Saber. He also likes helping people fix their problems so 
 **Rôles :** Support
 
 ## Kolezan
-Il vous apprendra à réparer vos extensions et votre première map terriblement désynchronisée. Nous sommes tous passés par là.
+He'll teach you to fix your mods and your terribly off-beat first map. Nous sommes tous passés par là.
 
 **Rôles :** Support, Mapping Support, Mappeur
 

@@ -6,7 +6,7 @@ Vraagt u zich eens af wie uw favoriete mod heeft gemaakt of het mod installatie 
 ## Wie zijn wij.
 
 ### [Staff](./staff.md)
-Het team dat de show uitvoert op de voorgrond en achter de schermen. Of het nu gaat om projectbeheer, mod goedkeuring, het beheer van de kerndiensten, de coördinatie van gebeurtenissen of veel van de andere geheime projecten. Er is altijd veel werk te doen. De community zou niet bestaan zonder de ontelbare uren die zijn bijgedragen door deze ongelooflijke personen, geef hun dus een virtueel applaus (en help met het betalen van de diensten als u kunt...)
+Het team dat de show uitvoert op de voorgrond en achter de schermen. Of het nu gaat om projectbeheer, plugin/mod goedkeuring, het beheer van de kerndiensten, de coördinatie van gebeurtenissen of veel van de andere geheime projecten. Er is altijd veel werk te doen. De community zou niet bestaan zonder de ontelbare uren die zijn bijgedragen door deze ongelooflijke personen, geef hun dus een virtueel applaus (en help met het betalen van de diensten als u kunt...)
 
 ### [Moderators](./moderators.md)
 Met een server die zo groot is, is veel moderatie nodig om alles onder controle te houden. U kunt dit team bedanken voor het feit dat alles schoon blijft.
