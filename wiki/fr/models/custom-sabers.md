@@ -21,7 +21,7 @@ Inside the game in the main menu you will see on the left a `CUSTOM SABERS` or `
 Notez qu'une fois sélectionné, le sabre ne s'affichera que lorsqu'une musique est jouée, et non dans le menu. :::
 
 ### Quest Users
-Upload the saber zip file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which saber is active under the mods tab in BMBF.
+Upload the `.qsaber` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which saber is active from the Qosmetics menu in-game.
 
 ## Créer des sabres
 [MissRaynor's Saber Guide](./sabers-guide.md) is an excellent resource for learning how to make your own sabers.

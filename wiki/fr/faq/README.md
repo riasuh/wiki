@@ -13,7 +13,7 @@ Si vous téléchargez des maps manuellement depuis BeatSaver, décompressez le f
 
 ### Outils de gestion de chansons
 
-There are no working song management apps available at this time.
+Il n'y a pas d'application de gestion des chansons à l'heure actuelle.
 
 ## Comment installer des playlists ?
 
@@ -22,8 +22,8 @@ Vous devez installer le mod [PlaylistManager](https://github.com/rithik-b/Playli
 
 Ensuite, vous pouvez soit :
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
+* Utilisez l'outil `Installer une playlist` dans l'onglet Options de Mod Assistant.
+* Placez le fichier de playlist dans `Beat Saber/Playlists`, sélectionnez la en jeu, puis appuyez sur le bouton *Download*.
 
 Vous devriez maintenant voir la playlist à côté de l'album des niveaux personnalisés (Custom Levels) en jeu. Le mod prend également en charge la gestion des playlists depuis le jeu.
 
@@ -45,7 +45,7 @@ Officiellement, le multijoueur se limite aux joueurs de la même version du jeu 
 Le mod BeatTogether est la solution actuelle permettant le multiplateforme entre les versions moddées du jeu. Rejoignez leur [serveur Discord](https://discord.com/invite/gezGrFG4tz) (anglophone) et consultez le salon `#install-instructions` pour plus d'informations.
 
 ## Mon jeu a été mis à jour et mes mods ne fonctionnent plus !
-À chaque fois que le jeu est mis à jour, il est possible *(et très probable)* que vos mods ne fonctionnent plus et doivent être mis à jour. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+À chaque fois que le jeu est mis à jour, il est possible *(et très probable)* que vos mods ne fonctionnent plus et doivent être mis à jour. Afin de ne pas casser votre installation du jeu après une mise à jour, le contenu du dossier `Plugins` existant est déplacé dans un nouveau dossier nommé `Old 1.xx.x Plugins` lors du premier lancement. **Laissez-les à cet emplacement !**
 
 Pour récupérer vos mods, **lancez simplement l'installateur de mods.**  
 Vous y trouverez les mods qui fonctionnent pour la dernière version du jeu, qui sont inclus dans le dépôt BeatMods !

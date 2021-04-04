@@ -17,6 +17,10 @@ sidebar: auto
 
 Modに関連する問題でゲーム開発者を非難しないでください。 ただのクレーマーになってはいけません。 :::
 
+:::warning Elite Ericのビデオを見ましたが、動かなくなりました。 いったい何が起こったのでしょうか。 BSMGはElite Ericによるチュートリアルを使用しないことを**強く**お勧めします。 彼の内容の多くを見直すと、それらは不完全、誤りがあったり、または間違った情報を多く含んでいます。 これらのエラーを修正するために を達成しようとする試みは、残念ながら徒労に終わります。
+
+代わりに、ここで書かれたガイドに従うか、 [BSMG Discord](https://discord.gg/beatsabermods) のヘルプを探してください。（いくつかの日本語サイトも古い情報を含んでいるので注意してください） :::
+
 ## インストール
 現在、カスタム曲やMODをインストールする唯一の推奨方法は、SideQuestでBMBFをロードすることです。
 
@@ -24,20 +28,20 @@ PCにアクセスできない場合は、 [Android Phone](#installing-bmbf-with-
 
 * [BMBF apk](https://bmbf.dev/stable) :::warning BMBFをインストールしModを導入するとゲーム公式のマルチプレイ、リプレイの視聴、公式のリーダーボードへの更新ができなくなります。 もしModが導入された状態でマルチプレイを行いたい場合は`Beat Together`が必要になります。これはPCとQuestのクロスプレイを可能にします。また、両方とものカスタムソングで遊ぶことができます。 Modは、 #quest-mods `または` Questboard [サイトの Beat Saber](https://questmodding.com) Modding Group にあります。
 
-ランク付けされた曲からパフォーマンスポイント(PP)を得るためには、 [ScoreSaber](https://new.scoresaber.com/quest) modが必要です。 [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
+ランク付けされた曲からパフォーマンスポイント(PP)を得るためには、 [ScoreSaber](https://new.scoresaber.com/quest) modが必要です。 [このリンク](https://new.scoresaber.com/quest) では、 ScoreSaberページに移動して設定する方法が書いてあります。 Scoresaberはベースのゲームのリーダーボードを置き換えるものではなく、カスタム曲のリーダーボードだけが追加されます。
 
-**Note:** Check the updates channel in the [ScoreSaber discord](https://discord.gg/WpuDMwU) to see if the mod is available for the current game version. :::
+**注意** [ScoreSaber Discord](https://discord.gg/WpuDMwU)のサーバーでModが現在のゲームバージョンで使えるかチェックしてください。 :::
 
 ### SideQuestでBMBFをインストールする
-If you haven't already, download and setup [SideQuest](https://sidequestvr.com/#/setup-howto)
+まだ設定していない場合は、 [SideQuest](https://sidequestvr.com/#/setup-howto) をダウンロードしてセットアップしてください。
 
-Open SideQuest and connect your Quest to your PC.
+SideQuestを開き、QuestをPCに接続します。
 
-:::tip If you've previously modded Beat Saber or have scores you want to backup, [Backup your Save Data first!](#backup-save-data-using-sidequest) :::
+:::tip 以前にModが導入されたBeat Saberやスコアがあれば、バックアップしたいスコアがあれば、 [最初にデータの保存をバックアップしてください!](#backup-save-data-using-sidequest) :::
 
-If you have a modded game you also need to uninstall it by pressing the `UNINSTALL APP` button. You can later restore your save from the same menu, after modding.
+Modが導入されているのであればそれらも`UNINSTALL APP`ボタンからアンインストールする必要があります。 Mod導入後、同じメニューから復元できます。
 
-Select the `Install APK from folder` button shown below and find the latest BMBF apk you downloaded and click on it, or simply drag the BMBF apk into SideQuest. Either method will install BMBF to your Quest.
+Select the 以下に示す`Install APK from folder`ボタンを選択して最新のBMBF apkをみつけダウンロードしてください。もしくはSideQuestにドラッグしてください。 そのどちらの方法でもBMBFをクエストにインストールできます。
 
 ![InstallAPK](~@images/beginners-guide/apkfromfolder.png)
 
@@ -120,10 +124,10 @@ To restore your data, open SideQuest and connect your Quest to your PC. Go to `M
 
 Go back to the menu and press the circular arrows located beside your latest backup. Your scores and settings should now be restored.
 
-## Installing Mods
+## Modをインストール
 
-### Core Mods
-Before installing any additional mods look in the top right of the BMBF web interface, you should see a red button that says, `Sync to Beat Saber`. Click this and let it finish syncing. Then go to your `mods` tab in BMBF. Make sure that you have the 5 core mods:
+### Core mod
+追加のMODをインストールする前に、BMBFウェブインターフェースの右上を見てください 。`Beat Saberと同期`と書かれた赤いボタンが表示されます。 これをクリックして同期を完了させます。 BMBFの `mods` タブに移動します。 5つの重要なModがあることを確認してください:
 
 * Codegen
 * Goodbye bug
@@ -131,9 +135,9 @@ Before installing any additional mods look in the top right of the BMBF web inte
 * QuestUI
 * Custom Types
 
-:::danger All other mods will not work if these core mods are not listed and enabled.
+:::danger これらの重要なMODがインストールされておらず有効になっていない場合、他のMODは動作しません。
 
-If one of the core mods does not enable, delete that mod and click `Sync to Beat Saber` again to redownload it. Double check to see if it has been downloaded and enabled. If it still doesn't work, or mods are appear to be enabled, but not working in-game see [Core Mods don't work](#core-mods-don-t-work) for troubleshooting steps. :::
+重要なMODのいずれかが有効になっていない場合は、そのModを削除し、再度 `Sync to Beat Saber` をクリックして再度ダウンロードしてください。 ダウンロードして有効になっているかどうかを再確認してください。 それでも動かない場合（Modが有効になっているにもかかわらず）トラブルシューティングの[重要なModが動かない場合](#core-mods-don-t-work)を参照してください。 :::
 
 ### Inside your Quest
 :::warning Not all mods are available on QuestBoard!  
@@ -211,8 +215,8 @@ Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your 
 * [Fixing Out of Sync Audio](https://bsaber.com/quest-out-of-sync/)
 * [ScoreSaber](https://new.scoresaber.com/quest) - In-game leaderboards for custom songs
 
-## Troubleshooting
-:::warning I watched this video by Elite Eric, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+## トラブルシューティング
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 

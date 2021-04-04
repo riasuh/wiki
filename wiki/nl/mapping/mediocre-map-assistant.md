@@ -64,7 +64,7 @@ Al jouw bestanden gaan naar een map met naam van het nummer in deze CustomWIPLev
 
 1. Download MMA2.zip van de [BSMG Git](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest).
 2. Pak het bestand uit en plaats de uitgepakte map waar je wilt.
-3. Follow the Proton installation steps for your Linux Distribution.
+3. Volg de Proton installatie stappen voor jouw Linux distributie.
 3. Open Steam. Ga aan de bovenkant van het venster naar `Steam > Settings > Steam Play`. In het `Advanced` gedeelte, vink dan `Enable Steam Play for all other titles` aan als dat nog niet het geval is. Start Steam opnieuw als er naar gevraagd word.
 3. Klik op `Add a Game` wat linksonderin van het Steam hoofdvenster staat, en klik dan op `Add a Non-Steam Games`. Een venster wordt geopend, klik dan onderin op `Browse`. Selecteer `All files` als bestandstype. Zoek `MediocreMapAssistant2.exe`, en voeg het toe.
 4. Zoek naar `Proton` in de Steam zoekbalk, en installeer dan de nieuwste versie.

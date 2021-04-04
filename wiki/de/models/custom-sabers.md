@@ -21,7 +21,7 @@ Im Spiel siehst du im Hauptmen체 links unter dem Abschnitt `Mods` eine Schaltfl�
 ::: tip HINWEIS Einmal ausgew채hlt, werden die Saber nur angezeigt, w채hrend ein Song abgespielt wird und nicht, w채hrend du dich im Men체 befindest. :::
 
 ### Quest User
-Lade die Saber-Zip-Datei 체ber das [BMBF-Webinterface](/quest-modding.md#mods-installieren) in deine Quest hoch. Du kannst dann unter der Registerkarte Mods im BMBF ausw채hlen, welches Saber aktiv ist.
+Upload the `.qsaber` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which saber is active from the Qosmetics menu in-game.
 
 ## Saber erstellen
 [MissRaynor's Saber Guide](./sabers-guide.md) ist eine ausgezeichnete Quelle, um zu lernen, wie man seine eigenen Saber herstellt.

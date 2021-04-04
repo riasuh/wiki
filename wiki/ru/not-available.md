@@ -2,7 +2,8 @@
 sidebar: ложь
 ---
 
-# Перевод недоступен
+<!-- Disable header rule to hide page from search -->
+<!-- markdownlint-disable MD041 -->
 Извините, эта страница ещё не переведена.
 
 Вы можете:
@@ -13,8 +14,7 @@ sidebar: ложь
 
 [Вернуться на главную страницу](/ru/)
 
-Язык  
-Помочь улучшить эту страницу!  
-Последнее обновление  
-Главная  
+Help improve this page!  
+Last Updated  
+Home  
 BSMG Discord

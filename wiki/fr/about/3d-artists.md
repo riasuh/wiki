@@ -1,11 +1,11 @@
 # Artistes 3D
-Des sabres aux notes, les modèles personnalisés ont toujours été populaires dans nos versions moddées de Beat Saber, ce qui n'aurait pas pu être possible sans eux.
+Des sabres aux notes, les modèles personnalisés ont toujours été un aspect populaire du modding Beat Saber, ce qui ne serait pas possible sans eux.
 
 ## AkaRaiden
 **Rôles :** Artiste 3D
 
 ## angeloid0103
-A écrit le guide de création de sabres personnalisés en autres contributions extraordinaires.
+A écrit le guide de création de sabre personnalisé parmi d'autres contributions extraordinaires.
 
 **Rôles :** Artiste 3D
 
@@ -18,7 +18,7 @@ A d'impressionants shaders et n'a pas peur des les utiliser.
 **Rôles :** Artiste 3D
 
 ## Ibodan
-Le plus connu pour sa plateforme dansante incroyablement flashy et ses sabres Space Opera, mais c'est peu dire puisqu'il fait également des mods !
+Connu principalement pour sa plateforme de danse incroyablement flashy et ses sabres Space Opera, mais c'est peu dire puisqu'il fait également des mods !
 
 **Rôles :** Artiste 3D, Modder **Contributions :** Bloom Mod
 
@@ -41,9 +41,9 @@ L'un des premiers créateurs en masse d'avatars, donnant ainsi naissance à son 
 **Rôles :** Artiste 3D
 
 ## RedBrumbler
-"The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019
+"Le gars qui a fait des bites géantes luminescentes dans Beat Saber" ~Emulamer, 12 juillet 2019
 
-Tel que vous pouvez le lire je fais des sabres pour Quest, mais j'ai été généralement actif dans le modding statique de Beat Saber, j'ai aussi réalisé des mods pour d'autres jeux mais Beat Saber est mon grand amour. Si vous avez besoin d'aide pour vous aider à faire des sabres spécifiquement pour Quest vous pouvez toujours me demander dans le canal dédié à la création de modèles sur Quest (jusqu'à ce qu'on ait ce mod qsaber en tout cas). Continuez de sabrer la viande jusqu'à ce qu'elle soit vraiment tendre !
+Tel que vous pouvez le lire je fais des sabres pour Quest, mais j'ai été généralement actif dans le modding de ressources de Beat Saber, j'ai aussi réalisé des mods pour d'autres jeux mais Beat Saber est mon grand amour. Si vous avez besoin d'aide pour vous aider à faire des sabres spécifiquement pour Quest vous pouvez toujours me demander dans le canal dédié à la création de modèles sur Quest (jusqu'à ce qu'on ait ce mod qsaber en tout cas). Continuez de sabrer la viande jusqu'à ce qu'elle soit vraiment tendre !
 
 **Rôles :** Artiste 3D, Support
 
@@ -69,4 +69,6 @@ Artiste 3D et moddeur sur Quest. Je supporte la communauté VR comme je le peux 
 ---
 
 <!-- markdownlint-disable MD013 -->
-::: tip Voir aussi **Support :** [Emma](/fr/about/supports.md#emma) **Modérateurs :** [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](/fr/about/moderators.md#𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯) | [DeeJay](/fr/about/moderators.md#DeeJay) | [Pink](/fr/about/moderators.md#Pink) **Staff :** [Assistant](/fr/about/staff.md#assistant) | [bobbie](/fr/about/staff.md#bobbie) :::
+::: tip Voir aussi **Support :** [Emma](./supports.md#emma)  
+**Modérateurs :** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
+**Staff :** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) :::

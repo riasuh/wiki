@@ -27,63 +27,63 @@ Ongeacht welke editor je kiest om levels mee te maken, heeft elk level het volge
 
 * **Audiobestand:** in OGG formaat, je moet dit klaar hebben voordat je kan beginnen met het maken van een level. Noem het `song.ogg`
 * **Omslagfoto:** in JPG of PNG, moet precies vierkant zijn en het wordt aanbevolen om 512 pixels per zijde te doen. Je moet dit hebben voordat je je level kan uitbrengen.  Noem het `cover.jpg` of `cover.png`
-* **Info File:** All of the metadata for your map as a whole. Things in this file apply to ALL difficulties (i.e., song name, artist name, mapper name, song file name, cover image name, difficulty note jump speed, etc.). Dit bestand wordt automatisch gemaakt door de editor.
-* **Difficulty Files:** One per difficulty in your map. Things in this file apply to just the one difficulty (i.e., note placement, light placement, etc.). These files are automatically created by your editor.
+* **Info bestand:** Alle metadata voor jouw level als geheel. Dingen in dit bestand gelden voor ALLE niveaus (zoals, naam van het nummer, naam van de artiest, naam van de mapper, naam van het audiobestand, naam van de omslagfoto, niveau, note jump speed, enz.). Dit bestand wordt automatisch gemaakt door de editor.
+* **Niveau bestanden:** Een per niveau in jouw level. Dingen in dit bestand zijn van toepassing op slechts één niveau (zoals, blok plaatsing, verlichtingsplaatsing, enz.). Deze bestanden wordt automatisch gemaakt door de editor.
 
-Some editors will automatically create an `Autosaves` folder where you can retrieve older copies of your work if needed. When you’re ready to prepare your song for upload you must have a minimum of four files.
+Sommige editors maken automatisch een `Autosaves` map waar je oudere kopieën kunt ophalen als dit nodig is. Als je klaar bent om jouw level voor te bereiden voor het uploaden heb je een minimum van 4 bestanden nodig.
 
-::: warning Special characters in languages such as, Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinese (汉语/漢語), Arabic (اَلْعَرَبِيَّةُ‎), and accent characters (Ä/é/ó) are not fully supported by BeatSaver. Using these characters in song metadata or in bookmarks can cause problems. :::
+::: warning speciale tekens in talen zoals Japans (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinees (汉语/漢語), Arabisch (اَلْعَرَبِيَّةُ‎), en geaccentueerde karakters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ zijn niet ondersteund door BeatSaver. Het gebruik van deze tekens in metadata of in bladwijzers kan problemen veroorzaken. :::
 
-### Block Types
+### Typen blokken
 <!-- markdownlint-disable MD013 -->
-|                   Directional Blocks                   |                  Dot Blocks                  |                           Bombs                           |                      Walls                       |
-|:------------------------------------------------------:|:--------------------------------------------:|:---------------------------------------------------------:|:------------------------------------------------:|
-| ![Directional Block](~@images/mapping/arrow-block.png) | ![Dot Block](~@images/mapping/dot-block.png) |            ![Bomb](~@images/mapping/bomb.png)             |        ![Wall](~@images/mapping/wall.png)        |
-|  Must be hit in the<br />direction of the arrow  |         Can be hit in any direction          | Causes damage when struck<br />but safe for players | Damages players but<br />ok to rest sabers |
+|                    Directionele blokken                    |                 Punt blokken                 |                                          Bommen                                           |                                              Muren                                              |
+|:----------------------------------------------------------:|:--------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|
+|   ![Directional Block](~@images/mapping/arrow-block.png)   | ![Dot Block](~@images/mapping/dot-block.png) |                            ![Bomb](~@images/mapping/bomb.png)                             |                               ![Wall](~@images/mapping/wall.png)                                |
+| Moet worden geraakt in de<br />richting van de pijl. |   Kunnen in elke richting worden geraakt.    | Veroorzaken schade wanneer ze geraakt worden<br />maar zijn veilig voor de spelers. | Veroorzaken schade wanneer ze geraakt worden door de speler<br />maar sabers tellen niet. |
 <!-- markdownlint-enable MD013 -->
 
-**A few notes about walls:**
+**Enkele opmerkingen over muren:**
 
-* Standard walls can be read by any headset and have the highest compatibility. New mappers should stick with these until they’re a bit more experienced.
-* There are a few types of "hack" walls that do not require the Mapping Extensions mod: fast walls (fly by you fast), hyper walls (fly by you SUPER fast), and fake walls (look like normal walls but don’t cause damage).
-* While these wall types are supported in some editors, they exploit base game mechanics and are considered unrankable.
-* Read up more on base game walls in [Intermediate Mapping](./intermediate-mapping.md) and "fancy" mapping/noodle extensions walls in [Extended Mapping](./extended-mapping.md)
+* Standaard muren kunnen worden gelezen door elke headset en hebben de hoogste compatibiliteit. Nieuwe mappers moeten zich hieraan houden totdat ze een beetje meer ervaring hebben.
+* Er zijn een paar types van "hack" muren die de Mapping Extensions mod niet nodig hebben: snelle muren (vliegen snel langs je), Hyper muren (vliegen SUPER snel langs je), en nepwanden (zien eruit als normale muren, maar veroorzaken geen schade).
+* Hoewel deze muurtypes worden ondersteund in sommige editors, exploiteren ze hoe het spel werkt en worden ze als onrankable beschouwd.
+* Lees meer over de gewone muren in [intermediare mapping](./intermediate-mapping.md) en "fancy" mapping/noodle extensions muren in [geavanceerde mapping](./extended-mapping.md).
 
-**A few notes about bombs:**
+**Enkele opmerkingen over bommen:**
 
-* Bomb hitboxes are smaller than block hitboxes, smaller even than the bomb model itself.
-* Bombs are hard to see when there are no lighting events active. Make sure your map isn’t dark when bombs are coming up. See [Basic Lighting](./basic-lighting.md) for more tips.
-* Bombs can still be hit once they have passed the player.
+* De hitboxen van bommen zijn kleiner dan de hitboxen van blokken, zelfs kleiner dan de bommem zelf.
+* Bommen zijn moeilijk te zien als er geen verlichtingsevenementen actief zijn. Zorg ervoor dat je level niet donker is als er bommen verschijnen. Zie [basis verlichting](./basic-lighting.md) voor meer tips.
+* Bommen kunnen nog steeds geraakt worden als ze de speler gepasseerd zijn.
 
-### Block Distribution
-This varies based on the target difficulty and audience you are mapping for. For example, some players in the lower difficulties might be overwhelmed by a balanced distribution across the three rows compared to a more experienced player that can handle multiple jumps across the rows. Block distribution can also vary between mapping styles at the same difficulty level.
+### Blok distributie
+Dit varieert op basis van het niveau dat je wilt bereiken en het publiek waar je het level voor maakt. Bijvoorbeeld sommige spelers in de lagere niveaus kunnen worden overweldigd door een goed verdeelde verdeling over de drie rijen vergeleken met een meer ervaren speler die meerdere jumps over de rijen kan verwerken. Blok distributie kan ook variëren tussen mapping stijlen op hetzelfde niveau.
 
-For more on row usage in different difficulties, see [Gauging Difficulty](#gauging-difficulty-down-mapping).
+Voor meer gebruik op de rijen in verschillende niveaus, zie [niveau bepalen](#gauging-difficulty-down-mapping).
 
-::: tip If you’re using [Mediocre Map Assistant 2](./mediocre-map-assistant.md) as your editor you can hit <kbd>SHIFT</kbd>+<kbd>TAB</kbd> to open the error checker then click the <kbd>Stat Panel</kbd> button to see this breakdown. :::
+::: tip Als je [Mediocre Map Assistant 2](./mediocre-map-assistant.md) als je editor gebruikt, kan je op <kbd>SHIFT</kbd>+<kbd>TAB</kbd> drukken om de foutchecker te openen, klik vervolgens op de <kbd>Stat Panel</kbd> knop om deze uitleg te zien. :::
 
-## Timing & Rhythm
-Before you start mapping in earnest you need to think about the rhythm of the song you want to map. You’ll place blocks on one or more of the main instruments in the song: the drum beat, lead instrument, bass, synths, or even vocals.
+## Timing & ritme
+Voordat je serieus begint met het maken van levels moet je nadenken over het ritme van het nummer wat je wilt mappen. Je plaatst blokken op een of meer van de belangrijkste instrumenten in het liedje: de drum beat, lead instrument, bass, synths, of zelfs de zang.
 
-To place blocks in time with the rhythm you’ll need to change your cursor precision. Most (but not all) songs will use 1/1, 1/2, or 1/4 cursor precision to get on beat. Some songs may use "triplets" or 1/3 cursor precision which can be hard to tell from 1/4 to an inexperienced ear. You should not need to use less than 1/4 cursor precision for most songs *including* mapping to vocals.
+Om blokken op tijd te plaatsen met het ritme moet je de cursor precision wijzigen. De meeste (maar niet alle) nummers zullen 1/1, 1/2, of 1/4 cursor precision gebruiken om op de beat te komen. Sommige nummers kunnen "triplets" of 1/3 cursor precision gebruiken, wat moeilijk onderscheiden kan worden van 1/4 voor een onervaren oor. Je zou niet minder dan 1/4 cursor percision moeten gebruiken voor de meeste nummers, *dit geld ook* voor het mappen van zang.
 
-::: warning  
-90% of the time, mapping with high precision (1/8, 1/16, 1/32, or 1/64) will make your song mistimed. If you need high precision to get your notes to line up then you have an issue with your audio file setup. STOP and review [Basic Audio Setup](./basic-audio.md) to ensure you’re in sync! :::
+::: warning   
+90% van de tijd, maakt mappen met een hoge precisie (1/8, 1/16, 1/32, of 1/64) je lied gedesynchroniseerd. Als je een hoge precisie nodig hebt om je blokken goed neer te leggen, dan is er iets mis gegaan tijdens het instellen van jouw audiobestand. STOP en bekijk [Standaard audio setup](./basic-audio.md) om ervoor te zorgen dat je gesynchroniseerd bent! :::
 
 |                          1/1 Cursor Precision                          |                          1/2 Cursor Precision                          |                          1/3 Cursor Precision                          |                          1/4 Cursor Precision                          |
 |:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
 | ![1/1 Cursor precision screenshot](~@images/mapping/1-1_precision.png) | ![1/2 Cursor precision screenshot](~@images/mapping/1-2_precision.png) | ![1/3 Cursor precision screenshot](~@images/mapping/1-3_precision.jpg) | ![1/4 Cursor precision screenshot](~@images/mapping/1-4_precision.png) |
-|                            1 block per beat                            |                           2 blocks per beat                            |                           3 blocks per beat                            |                           4 blocks per beat                            |
+|                            1 blok per beat                             |                           2 blokken per beat                           |                           3 blokken per beat                           |                           4 blokken per beat                           |
 
-When timing out your map you’ll want to double check EARLY that the waveform in your editor is lined up with the major lines of the editor track. If your waveform isn't lined up, revisit the [Basic Audio Setup](./basic-audio.md) page of the wiki for tips.
+Wanneer je je level timed moet je VROEG dubbelchecken dat de golfvormen in jouw editor overeenkomen met de belangrijke lijnen van het editospoor. Als jouw golfvormen niet overeenkomen, bekijken dan de [standaard audio setup](./basic-audio.md) van de wiki opnieuw voor tips.
 
-::: danger CAUTION  
-If your waveform isn’t lined up it will make it **very** difficult to place blocks in time with the music. Get this right before you start or risk remapping later! :::
+::: danger PAS OP   
+Asl jouw golfvorm niet overeenkomt, dan zal het **erg** moeilijk zijn om de blokken op de goede plekken te zetten. Doe dit goed voordat je begint of loop het risico dat je later opnieuw moet beginnen! :::
 
-|                                Audio Not Lined Up                                |                                  Audio Properly Synced                                  |
+|                             Audio komt niet overeen                              |                                 Audio komt wel overeen                                  |
 |:--------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
 | ![Editor view with audio not properly synced](~@images/mapping/audio-broken.png) | ![Editor view with audio synced to the editor track](~@images/mapping/audio-synced.png) |
-|                Needs audio edits, start offset, or has wrong bpm                 |                                  You’re ready to map!                                   |
+|      Heeft audio bewerkingen/start offset nodig of heeft de verkeerde BPM.       |                          Je bent klaar om een level te maken!                           |
 
 ### Timing Notes
 Consider starting the mapping process with placeholder or "timing" notes. Dropping a "dot note" placeholder can help you figure out whether or not your map is on time and where you should consider using extra emphasis **before** you invest a ton of time creating patterns. Listen to make sure the editor hit sounds are in time with the beat.

@@ -2,7 +2,8 @@
 sidebar: false
 ---
 
-# 翻訳は利用できません
+<!-- Disable header rule to hide page from search -->
+<!-- markdownlint-disable MD041 -->
 申し訳ありませんが、このページは翻訳されていません。
 
 あなたができることは。。。
@@ -13,8 +14,7 @@ sidebar: false
 
 [トップページへ戻る](/)
 
-言語  
-このページの改善にご協力ください!  
+言語このページの改善にご協力ください!  
 最終更新日  
 ホーム   
 BSMG Discord

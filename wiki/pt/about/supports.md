@@ -34,6 +34,11 @@ He'll teach you to fix your mods and your terribly off-beat first map. Todos est
 
 [Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
+## male
+is too uncreative to think of a bio
+
+**Roles:** Support
+
 ## OneEyed
 2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
@@ -56,7 +61,7 @@ This guy came out of nowhere and started helping in support saying it was some k
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
 
-**Cargos:** Support
+**Roles:** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?

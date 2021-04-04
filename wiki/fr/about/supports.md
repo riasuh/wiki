@@ -34,34 +34,39 @@ He'll teach you to fix your mods and your terribly off-beat first map. Nous somm
 
 [Twitch](https://www. twitch.tv/kolezan) | [Faire un don](https://paypal.me/kolezan)
 
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+## male
+is too uncreative to think of a bio
 
 **Rôles :** Support
 
-## Pespiri
-Il vous donnera sa bio plus tard ce jour, selon lui.
+## OneEyed
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
-**Rôles :** Support, Moddeur
+**Roles:** Support
+
+## Pespiri
+He'll give me his bio later today, or so he says.
+
+**Roles:** Support, Modder
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-Ce type est arrivé de nulle part et a commencé à aider dans le support disant que c'était une sorte d'addiction, quel barje.
+This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
-**Rôles :** Support
+**Roles:** Support
 
-[Twitter](https://twitter.com/Radevirot) | [Faire un don](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 ## rui2015
-N'a pas de créativité et ne sait pas quoi mettre ici. Is a cool person though.
+Has no creativity and doesn't know what to put here. Is a cool person though.
 
 **Rôles :** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
 
-**Rôles :** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
@@ -73,17 +78,17 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 ## Squares
 I swear i'm good at Beat Saber and helping just ask Boulders!
 
-**Rôles :** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
 ## Toblersto
 I decided I wanted to help one day, and have been slightly addicted ever since.
 
-**Rôles :** Support
+**Roles:** Support
 
 ## Channel Monitor Bot
-Le robot qui maintient tout ensemble. Créé par Megalon, recréé par lolPants et personnifié par Rolo !
+The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
 
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 

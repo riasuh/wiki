@@ -6,7 +6,7 @@
 ## 私たちについて
 
 ### [Staff](./staff.md)
-いくつかのシーンの最前線と裏方を運営するチームです。 Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. この素晴らしい個人が貢献した膨大な時間がなければ、このコミュニティは存在しないでしょう。 彼らに感謝をしましょう。(そして、可能なら支援をお願いします)
+いくつかのシーンの最前線と裏方を運営するチームです。 プロジェクトの管理、プラグインの承認、中枢サービスの管理、イベントの調整、そのほか多くの見えないプロジェクトなどたくさんのタスクがあります。 この素晴らしい個人が貢献した膨大な時間がなければ、このコミュニティは存在しないでしょう。 彼らに感謝をしましょう。(そして、可能なら支援をお願いします)
 
 ### [Moderators（モデレーター）](./moderators.md)
 非常に大きなサーバーでは、すべてを制御するために多くのモデレーションが必要です。 このチームがサーバーをクリーンにしてくれることに感謝します。
@@ -30,6 +30,11 @@
 
 ### [Mapping Resources Contributors（譜面作成の知識を提供してくれた方々）](/mapping/mapping-credits.md)
 この経験豊富なマッパーのグループは、他の人が譜面作成を始めたり、改善するために自分の知識を共有してくださいました。 彼らの譜面をチェックし、彼らをサポートしてください!
+
+### [Translators（翻訳）](./translators.md)
+wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割いてくださったことに感謝いたします。 このページに記載されているものは、現在ウェブサイト上で利用可能な言語用です。
+
+あなたの言語に参加したい場合は、 [こちらから翻訳を手伝ってください！](https://forms.gle/e3BqA3poMjESARe76)
 
 ### [Event Winners（イベント受賞者）](./event-winner.md)
 Discordで開催された過去のコンテストやイベントの受賞者。 今後行われるイベントは`#server-announcements` でチェックしましょう！

@@ -19,7 +19,7 @@ Custom blokken voor de Quest worden gegeven met de Qosmetics mod. De laatste ver
 Binnen het spel in het hoofdmenu zie je aan de linkerkant de `CUSTOM NOTES` knop in het `Mods` menu. Door erop te drukken open je het menu waarin je kan kiezen welke blokken je wilt gebruiken.
 
 ### Quest gebruikers
-Upload het zip-bestand naar jouw Quest via het [BMBF Web Interface](/quest-modding.md#installing-mods). Je kan vervolgens selecteren welk blok actief is onder het tabblad mods in BMBF.
+Upload het `.qbloq` bestand naar jouw Quest via het [BMBF Web Interface](/quest-modding.md#installing-mods). Je kan vervolgens selecteren welk blok actief is in het Qostmetics menu in het spel.
 
 ## Het maken van custom blokken
 

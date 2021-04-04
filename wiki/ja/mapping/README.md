@@ -5,8 +5,8 @@ tags:
   - beat saber
   - wiki
   - 譜面作成
-  - make levels
-  - how are beat maps make?
+  - 譜面作成
+  - ビートセイバーの譜面の作り方
   - custom levels
   - make custom maps
   - custom charts
@@ -27,17 +27,17 @@ You can also visit `#mapping-discussion` on the [Beat Saber Modding Group Discor
 
 * [譜面作成の用語](./glossary.md)
 
-## Mapping Quick Start
-> The wiki is your building blocks, the community is your inspiration, and you are the creativity.
+## クイックスタート
+> wikiはあなたの構築ブロックであり、コミュニティはあなたのインスピレーションであり、あなたは創造性です。
 
-Great mappers are not made in a day. It takes dedication with no one really able to hold your hand. The best we can do is provide you the tools with this wiki and clarify any questions you have to succeed in your mapping career!
+偉大な譜面作者には一日でなれるものではありません。 だれもあなたに追いつけなくなるようになるには努力が必要です。 私ができる最大限のことはあなたにこのwikiを提供し、あなたが譜面作成を成功させるためのすべての疑問を明確に解決します。
 
-1. Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](#map-editing-resources).
-2. [Set up your audio file](#audio-editing-resources), find and confirm the BPM, and export in OGG format.
-3. Set up your song in your mapping editor (steps vary by editor but here's the [user guide](./mediocre-map-assistant.md) for MMA2).
-4. Get mapping! Review [basic mapping practices](./basic-mapping.md) before you start. [Playtest](#playtesting) your own work early and often while mapping.
-5. Get lighting! Review [basic lighting information](#lighting-practices). Simple manual lighting is easier than you think!
-6. Get your map [playtested](#playtesting)! Third-party playtesting via the [BSMG Discord](https://discord.gg/beatsabermods) is highly recommended to get constructive feedback and to get past your own "map blindness."
+1. 譜面作成に必要なツールをダウンロードします。[オーディオエディタ](https://www.audacityteam.org/)や[マップエディタ](#map-editing-resources)です。
+2. [オーディオファイル](#audio-editing-resources)を設定し、BPMを設定して確認し、OGG形式でエクスポートします。
+3. マッピングエディタで曲を設定します(ステップはエディタによって異なりますが、ここでは MMA2の[ユーザーガイド](./mediocre-map-assistant.md)に従います)
+4. 譜面を作りましょう！ 始める前に [基本的なマッピングの実践](./basic-mapping.md) を確認してください。 早めに、そして譜面作成途中などに[テストプレイ](#playtesting)してください。
+5. 照明を作りましょう！ [基本的な照明](#lighting-practices) を参照してください。 シンプルな照明は意外と簡単です!
+6. [テストプレイ](#playtesting)しましょう！ Third-party playtesting via the [BSMG Discord](https://discord.gg/beatsabermods) is highly recommended to get constructive feedback and to get past your own "map blindness."
 7. Once your song has been mapped, lighted, and playtested you’re ready to [release](#publishing-songs) your song to the world on BeatSaver.
 
 ### ビデオチュートリアル

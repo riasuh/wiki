@@ -31,8 +31,13 @@ Ognuna delle tue mappe preferite è stata creata e testata con attenzione per mo
 ### [Collaboratori delle Risorse di Mappatura](/mapping/mapping-credits.md)
 Un gruppo di mappatori esperti che hanno impiegato del tempo per annotare e condividere la propria conoscenza per aiutare gli altri a iniziare o migliorare. Guarda le loro mappe e considera di supportarli!
 
-### [Vincitore dell'Evento](./event-winner.md)
-Vincitore dei concorsi/eventi passati tenuti nel Discord. Keep up with `#server-announcements` for such events happening now, or in the future!
+### [Translators](./translators.md)
+The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.
+
+If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+
+### [Event Winners](./event-winner.md)
+Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
 
 ## Su Questa Wiki
-Questa è una wiki per tutto ciò che è relativo al modding del gioco Beat Saber. Creato originariamente per sostituire i canali `#beginners-guide` e `#faq` di [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).
+This is a wiki for all things relating to modding the game Beat Saber. It was originally created to replace the `#beginners-guide` and `#faq` channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).

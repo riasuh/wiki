@@ -2,7 +2,8 @@
 sidebar: false
 ---
 
-# Translation Not Available
+<!-- Disable header rule to hide page from search -->
+<!-- markdownlint-disable MD041 -->
 Sorry, this page has not yet been translated.
 
 You can:
@@ -13,7 +14,6 @@ You can:
 
 [Return to the Homepage](/)
 
-Language  
 Help improve this page!  
 Last Updated  
 Home  

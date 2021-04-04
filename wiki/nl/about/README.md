@@ -31,6 +31,11 @@ Elk van je favoriete nummers wordt zorgvuldig gemaakt en getest door een getalen
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
 Een groep ervaren mappers die de tijd hebben genomen om hun kennis op te schrijven en te delen om anderen te helpen beginnen of hun nummers te verbeteren. Bekijk hun nummers en overweeg deze mensen te ondersteunen!
 
+### [Vertalers](./translators.md)
+De hardwerkende mensen die de tijd hebben genomen om de inhoud van de wiki te vertalen in hun eigen taal. Hartelijk bedankt voor jouw tijd! Degene die op deze pagina vermeld zijn zijn voor de talen die op dit moment beschikbaar zijn op de website.
+
+Als je mee wilt doen met jouw taal, kan je [soliciteren voor het helpen met vertalen!](https://forms.gle/e3BqA3poMjESARe76)
+
 ### [Evenement Winnaars](./event-winner.md)
 Winnaars van wedstrijden/evenementen die gehouden worden/zijn gehouden in de discord. Houd `#server-announcements` goed in de gaten voor dit soort evenementen die nu of in te toekomst bezig zijn!
 

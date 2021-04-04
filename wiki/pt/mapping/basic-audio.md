@@ -153,7 +153,7 @@ After generating the silence you can click the dark line in the song track to ge
    ![Delete The Track](~@images/mapping/audacity-delete_track.png)
 9. Done. You can now skip to [exporting](#exporting) or go to [optional audio editing](#optional-audio-editing).
 
-> If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#tool-assisted-bpm-calculation) with the new file to get a positive offset.
+> If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#sync-using-arrow-vortex) with the new file to get a positive offset.
 
 ### Sincronizando usando um Click Track
 

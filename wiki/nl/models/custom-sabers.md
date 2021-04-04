@@ -21,7 +21,7 @@ Binnen het spel in het hoofdmenu zie je aan de linkerkant een `CUSTOM SABERS` of
 ::: tip OPMERKING Eenmaal geselecteerd, worden de sabers alleen getoond tijdens het afspelen van een level en niet in het menu. :::
 
 ### Quest gebruikers
-Upload het zip-bestand naar jouw Quest via het [BMBF Web Interface](/quest-modding.md#installing-mods). Je kan vervolgens selecteren welke saber actief is onder het tabblad mods in BMBF.
+Upload het `.qsaber` bestand naar jouw Quest via het [BMBF Web Interface](/quest-modding.md#installing-mods). Je kan vervolgens selecteren welke saber actief is in het Qostmetics menu in het spel.
 
 ## Het maken van sabers
 [MissRaynor's Saber Guide](./sabers-guide.md) is een goede gids om te leren hoe je je eigen sabers maakt.

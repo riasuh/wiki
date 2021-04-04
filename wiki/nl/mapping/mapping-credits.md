@@ -124,14 +124,14 @@ Heeft *The Ultimate Beat Saber Mapping Guide* geschreven, dat is geïntegreerd i
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7298cc5a672c84ea67) | [BeastSaber](https://bsaber.com/members/skylerwallace/)
 
 ## Spooky Ghost
-Maker van beatwalls, een command line tool om makkelijk geweldige Mapping Extensions muren te maken. Contributed content in [Extended Mapping: Wall Mapping](./extended-mapping.md#wall-mapping).  
+Maker van beatwalls, een command line tool om makkelijk geweldige Mapping Extensions muren te maken. Heeft inhoud bijgedragen in [Geavanceerde mapping: wall mapping](./extended-mapping.md#wall-mapping).   
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c8561a5) | [BeastSaber](https://bsaber.com/members/spookyghost/) | [GitHub](https://github.com/spookyGh0st)
 
 ## Sykes
-Wrote guides on what "swing" beat is, how the "shuffle" parameter would make mapping easier, and down-mapping lower difficulties. [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c854602) | [BeastSaber](https://bsaber.com/members/sykes19/)
+Heeft gidsen geschreven over wat "swing" beat is, hoe het "shuffle" parameter mapping makkelijker zou maken, en hoe je lagere niveaus down-mapped. [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c854602) | [BeastSaber](https://bsaber.com/members/sykes19/)
 
 ## Uninstaller
-Ranking team member that authored a guide on modding maps for ranked.  
+Lid van het ranking team dat een gids heeft geschreven over het modden van levels voor ranked.   
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c85248e) | [BeastSaber](https://bsaber.com/members/uninstaller/)
 
 ## Vaser888

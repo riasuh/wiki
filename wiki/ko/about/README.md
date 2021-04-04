@@ -31,6 +31,11 @@ Each of your favorite maps is carefully crafted and tested over many hours by a 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
 A group of experienced mappers that took the time to write down and share their knowledge to help others get started or improve. Checkout their maps and consider supporting them!
 
+### [Translators](./translators.md)
+The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.
+
+If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+
 ### [Event Winners](./event-winner.md)
 Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
 

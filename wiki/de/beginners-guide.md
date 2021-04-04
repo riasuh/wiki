@@ -40,8 +40,8 @@ Beginne mit der Erstellung von Plugins für das Spiel, indem du unserer [Anleitu
 ### 3D-Modelle erstellen
 Lerne, wie man 3D-Modelle für das Spiel erstellt!
 
-* [Saber](./models/sabers-guide.md)
-* [Avatare](./models/avatars-guide.md)
-* [Plattformen](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
+* [Saber](./de/models/sabers-guide.md)
+* [Avatare](./de/models/avatars-guide.md)
+* [Plattformen](./de/models/platforms-guide.md)
+* [Notes](./de/models/notes-guide.md)
 * **Custom Walls** Zurzeit ist noch keine Anleitung verfügbar, aber eine ist in Arbeit.

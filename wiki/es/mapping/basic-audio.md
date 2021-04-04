@@ -153,7 +153,7 @@ Después de generar el silencio puedes hacer clic en la línea oscura de la canc
    ![Eliminar la pista](~@images/mapping/audacity-delete_track.png)
 9. Hecho. Ahora puede saltar a [exportar](#exporting) o ir a [edición opcional de audio](#optional-audio-editing).
 
-> Si no te sientes cómodo al eliminar la cantidad exacta, puedes eliminar más de lo necesario, exporta el `.ogg` modificado y [vuelve a sincronizar usando tu herramienta](#tool-assisted-bpm-calculation) con el nuevo archivo para obtener un desplazamiento positivo.
+> If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#sync-using-arrow-vortex) with the new file to get a positive offset.
 
 ### Sincronizar usando una pista de clic
 

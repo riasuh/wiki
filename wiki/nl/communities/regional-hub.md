@@ -88,12 +88,21 @@ Officiële Beat Saber server voor mensen die "rød grød fløde" kunnen uitsprek
 
 ---
 
+### Finland
+
+#### Tahti Sapeli
+Finse Beat Saber community, iedereen is welkom!
+
+[Discord](https://discord.gg/qCtX7yBv7J)
+
+---
+
 ### Frankrijk
 
 #### Beat Saber FR
-Een privé Franse Beat Saber community voor francofonische spelers!
+Discord server voor de Franse Beat Saber community.
 
-[Applicatie](https://docs.google.com/forms/d/1Ro79QYJ83gAsT6m_hpRgCNyhKNZDlEiZJ3oSh5mwTG4)
+[Discord](https://discord.gg/8cAAa7J)
 
 ---
 
@@ -106,12 +115,30 @@ Officiële Duitse Beat Saber Discord voor Duitse spelers, maar mensen uit andere
 
 ---
 
+### Italië
+
+#### Italian Beat Saber Community
+Een chille en toegankelijke plek voor Italiaanse spelers om te hangen en elkaar te ontmoeten.
+
+[Discord](https://discord.gg/asdJZ7cTxe)
+
+---
+
 ### Nederland
 
 #### Dutch Beat Saber Group
 De Nederlandse Beat Saber Group, met multiplayerkamers, filmnachten, VRC nachten en meer! Vergelijk je ScoreSaber profiel met andere spelers met behulp van hun aangepaste BeatSaber Bot.
 
 [Discord](https://discord.gg/sDa7xrE)
+
+---
+
+### Spanje
+
+#### Beat Saber España
+Discord server voor de Spaanse Beat Saber community, mensen uit andere landen zijn ook welkom :D
+
+[Discord](https://discord.com/invite/x6mChxk)
 
 ---
 

@@ -64,15 +64,15 @@ Om het makkelijker te maken en ervoor te zorgen dat het nummer perfect gesynchro
 ### Plan je eerste blok
 Analyseer het begin van het nummer. Afhankelijk van waar in het nummer je je eerste blok wilt plaatsen, moet je zowel een *hot start* (niet genoeg tijd vóór het eerste blok) als een te lange intro vermijden. Je nummer past in een van deze drie categorieën:
 
-1. **Nummers zonder intro:** Het is cruciaal om **op zijn minst twee seconden** te wachten voordat de speler de eerste speelbare blok(ken) tegenkomt in jouw level, anders staat dit bekend als "Hot Start."
-2. **Nummers met een korte intro:** Als je nummer een korte intro heeft dat **minder dan 8 seconden** is, is het OK voor de muziek om direct te beginnen met spelen.
-3. **Nummers met een lange intro:** Als het nummer een zeer lange en oninteressante/fade-in intro heeft voor **meer dan tien seconden** wordt het sterk aangeraden om de intro korter te maken, zodat de eerste blok(ken) binnen acht seconden worden geplaatst vanaf het begin van het level.
+1. **Nummers zonder intro:** het is cruciaal om **op zijn minst twee seconden** te wachten voordat de speler de eerste speelbare blok(ken) tegenkomt in jouw level, anders staat dit bekend als een "Hot Start."
+2. **Nummers met een korte intro:** als je nummer een korte intro heeft dat **minder dan 8 seconden** is, is het OK voor de muziek om direct te beginnen met spelen.
+3. **Nummers met een lange intro:** als het nummer een zeer lange en oninteressante/fade-in intro heeft voor **meer dan tien seconden** wordt het sterk aangeraden om de intro korter te maken, zodat de eerste blok(ken) binnen acht seconden worden geplaatst vanaf het begin van het level.
 
 In alle bovenstaande gevallen zal je het nummer moeten aanpassen naar een passende tijd gebaseerd op je behoeften:
 
-1. **No intro:** Move the song back in time (to the right in the audio track), placing the first mapped note(s) after two seconds. Synchroniseer het nummer dan met de beat. Vul daarna de leegte in met stilte.
-2. **Korte Intro:** Synchroniseer het nummer met de beat en vul vervolgens de leegte met stilte, afhankelijk van wat van toepassing is.
-3. **Long intro:** Move the song forward in time (to the left in the audio track), placing the first note(s) within 8 seconds, then trim the audio before 0 seconds.
+1. **No intro:** verplaats het nummer terug in de tijd (naar rechts op het audiospoor), wat de eerste gemappte blok(ken) na twee seconden plaatst. Synchroniseer het nummer dan met de beat. Vul daarna de leegte in met stilte.
+2. **Short Intro:** synchroniseer het nummer met de beat en vul vervolgens de leegte met stilte, afhankelijk van wat van toepassing is.
+3. **Long intro:** beweeg het nummer vooruit in de tijd (naar links in het audiospoor), wat de eerste blok(ken) binnen 8 seconden plaatst, trim daarna de audio voor 0 seconden.
 
 Er zijn twee manieren om je audio te synchroniseren:
 
@@ -120,7 +120,7 @@ geen `.ogg` bestand gebruiken of het gebruik van de exportfunctie in AV **zal** 
 Als je de ervaring hebt, zie [Geavanceerde audio Bewerking: variabele BPM](./advanced-audio.md#variable-bpm) over hoe je hier mee moet werken. :::
 
 10. Geef de speler ongeveer twee seconden wachttijd door zo vaak mogelijk op de `Move first beat` knop te klikken![Arrow Vortex move beat button](~@images/mapping/av_movebeat.png) en de begintijd zo dicht mogelijk bij 2.00 seconden te krijgen, of zet het geluid waarop je het eerste blok wilt plaatsen op het eerste streepje.  
-    ![Aligned with first bar](~@images/mapping/av_aligned.png) ![Alternate Aligned with first bar](~@images/mapping/av_altAligned2.png)
+    ![Uitgelijnd met de eerste balk](~@images/mapping/av_aligned.png) ![Alternatief uitgelijnd met de eerste balk](~@images/mapping/av_altAligned2.png)
     * Na het uitlijnen moet je het liedje opnieuw controleren om te kijken of de beats nog steeds overeenkomen.
 11. Nu je de BPM en offset hebt, moet je de juiste stilte aan het nummer toevoegen of verwijderen.
 
@@ -134,28 +134,28 @@ Als je de ervaring hebt, zie [Geavanceerde audio Bewerking: variabele BPM](./adv
 4. Voer de sync `Music offset` waarde in die je kreeg van Arrow Vortex (of een andere vergelijkbare tool) en klik vervolgens op OK. ![Stilte toevoegen met Audacity](~@images/mapping/av_audacity.png)
 5. Klaar. Je kan nu verder gaan naar [exporteren](#exporteren) of [Optionele Audiobewerking](#optionele-audiobewerking).
 
-After generating the silence you can click the dark line in the song track to get rid of the cut.
+Na het genereren van de stilte kan je op de donkere lijn klikken in het nummerspoor om de cut weg te halen.
 
 ---
 
 **Als je een negatieve offset hebt**, moet je die hoeveelheid van de intro aftrekken.
 
 1. Open het nummer in Audacity als je dit nog niet gedaan hebt, schakel dan over naar de Selection Tool (![Selection Tool](~@images/mapping/selection.png)).
-2. Add a new mono track ![Add new mono track](~@images/mapping/audacity-add_new-mono-track.png)
-3. Select the new track and tap the <kbd>Home</kbd> key.
+2. Voeg een nieuw mono spoor toe.![Nieuw mono spoor toevoegen](~@images/mapping/audacity-add_new-mono-track.png)
+3. Selecteer het nieuwe spoor en drup om de <kbd>Home</kbd> knop.
 4. Klik op `Generate – > Silence…`. ![Generate Silence...](~@images/mapping/audacity-generate_silence.png)
 5. Voer de negatieve offset waarde in die je kreeg van Arrow Vortex (of een andere vergelijkbare tool) in in het Duration veld en klik vervolgens op OK.![Stilte toevoegen met Audacity](~@images/mapping/av_audacity-negative.png)
    * Het zou er ongeveer zo moeten uitzien:  
      ![Resulterende stilte](~@images/mapping/audacity-neg-generated_silence.png)
-6. Select from the end of the generated silence (yellow vertical line) to the start of the song track selecting the contents of both tracks.<br/>![Selecteer tot gegenereerde stilte](~@images/mapping/audacity-neg-select_silence.png)
+6. Selecteer vanaf het einde van de gegenereerde stilte (de gele verticale lijn) tot het begin van het nummer door de inhoud van beide sporen te selecteren.<br/>![Selecteer tot gegenereerde stilte](~@images/mapping/audacity-neg-select_silence.png)
 7. Druk op de <kbd>Delete</kbd> toets.
-8. Click the X on the newest track to delete it.  
-   ![Delete The Track](~@images/mapping/audacity-delete_track.png)
+8. Klik op de X op het nieuwste spoot om het te verwijderen.  
+   ![Het spoor verwijderen](~@images/mapping/audacity-delete_track.png)
 9. Klaar. Je kan nu verder gaan naar [exporteren](#exporteren) of [optionele audiobewerking](#optionele-audiobewerking).
 
-> Als je niet vertrouwd bent met het verwijderen van de exacte hoeveelheid, kan je meer dan nodig verwijderen, de gewijzigde `.ogg` exporteren en [re-syncen met behulp van jouw tool](#tool-assisted-bpm-calculation) met het nieuwe bestand om een positieve offset te krijgen.
+> Als je niet vertrouwd bent met het verwijderen van de exacte hoeveelheid, kan je meer dan nodig verwijderen, de gewijzigde `.ogg` exporteren en [re-syncen met behulp van jouw tool](#sync-using-arrow-vortex) met het nieuwe bestand om een positieve offset te krijgen.
 
-### Sync using a Click Track
+### Synchroniseren met een Klik Spoor
 
 #### Handmatige BPM berekening
 Als de methode hierboven niet lukt, moet je de BPM handmatig vinden, maar dit is makkelijker dan je zou denken.
@@ -165,43 +165,43 @@ Als de methode hierboven niet lukt, moet je de BPM handmatig vinden, maar dit is
 3. Met de webpagina in focus, tik op een toets (elke kwart noot) voor ongeveer 30 seconden en de tool zal de BPM van het nummer tonen.
 4. Noteer de dichtstbijzijnde hele waarde.
 
-#### Add a Click Track
-Dit om te bevestigen dat de BPM die je online of handmatig hebt gevonden overeenkomt met het audiobestand dat je hebt. This addition is temporary; you should remove the click track before [exporting your audio](#exporting).
+#### Voeg een klik spoor toe
+Dit om te bevestigen dat de BPM die je online of handmatig hebt gevonden overeenkomt met het audiobestand dat je hebt. Deze toevoeging is tijdelijk; je moet de klik spoor verwijderen voordat je [jouw audio exporteerd](#exporting).
 
 1. Open het nummer dat je wilt gebruiken in Audacity.
-2. Add a new mono track from `Tracks menu > Add New > Mono Track`
-3. Place the cursor at the start of the new track (Click on the track and press your Home key) and then click `Generate menu > Rhythm Track...`
+2. Voeg een nieuw mono spoor toe vanaf `Tracks menu > Add New > Mono Track`.
+3. Plaats de cursor aan het begin van het nieuwe spoor (Klik op het spoor en druk op de Home toets) en klik vervolgens op `Generate menu > Rhythm Track...`.
 4. Voer de dichtstbijzijnde hele BPM in dat je eerder hebt gevonden in het `Tempo (bpm)` veld en voer de duur van het nummer in in het optionele `Ritm track duration` veld (de duur wordt weergegeven rechts bovenin de tijdlijn).
 5. Kopieer de andere aanbevolen instellingen die hieronder staan: ![Audacity Rhythm Track Menu](~@images/mapping/click-track-1.png)
 
-Als alles correct is ingevuld, krijg je zoiets als dit: ![Audacity main screen showing song track and rhythm track](~@images/mapping/song_rhythm.png)
+Als alles correct is ingevuld, krijg je zoiets als dit: ![Audacity hoofdmenu dat het nummerspoor en het ritmespoor laat zien](~@images/mapping/song_rhythm.png)
 
-This click track is completely in sync with the beats in the map editor and game, but the song is currently not synced. Ga hieronder verder voor hoe je dat moet doen.
+Dit klik spoor is volledig gesynchroniseerd met de beats in de level editor en het spel, maar het nummer is nog niet gesynchroniseerd. Ga hieronder verder voor hoe je dat moet doen.
 
 #### Synchroniseer het nummer met de beat
 
 1. Selecteed de Time Shift Tool (![Time Shift Tool](~@images/mapping/timeshift.png)).
-2. Left click on the song track and hold, then drag the audio so that the first planned mapped note(s) in your song ends up within the appropriate seconds (see timeline above the track) to avoid a "Hot Start" or too long intro (See [Plan Your First Notes](#plan-your-first-note) if you haven’t already).
+2. Klik met de linkermuisknop op het nummer en sleep vervolgens de audio zodat de eerste geplande blok(ken) in jouw nummer binnen de juiste seconden eindigen, (zie de tijdlijn boven het spoor) om een "Hot Start" of te lange intro te voorkomen (zie [plan jouw eerste blokken](#plan-your-first-note) als je dat nog niet hebt gedaan).
 3. Laat los om de audio in de nieuwe positie te plaatsen.
-4. Speel de audio af in deze positie. The song will be out of sync, so find the closest beat in the click track and align your song to the beat (click track) by moving it backward or forwards in time by small increments. Zoom in voor betere nauwkeurigheid. Herhaal totdat het perfect klinkt.
-5. When you think you’ve found the beats of the song to match the Click Track review the whole song to ensure that the BPM you have is the correct one and that the song is in the same fixed BPM throughout the whole song. Als dat niet het geval is, heb je misschien de verkeerde BPM gekregen. Probeer in dat geval de BPM handmatig uit te tikken (opnieuw), zie [Handmatige BPM berekening](#Handmatige-BPM-berekening).
+4. Speel de audio af in deze positie. Het nummer zal gedesynchroniseerd zijn, dus vind de dichtstbijzijnde beat in het klik spoor en zorg er voor dat jouw nummer overeenkomt met de beat (klik spoor) door het vooruit of achteruit te bewegen in kleine tijdsintervallen. Zoom in voor betere nauwkeurigheid. Herhaal totdat het perfect klinkt.
+5. Als je denkt dat je de beats van het nummer hebt gevonden die overeenkomen met het klik spoor, review dan het hele nummer om ervoor te zorgen dat de BPM die hebt nog klopt en dat het nummer een vaste BPM heeft gedurende het hele nummer. Als dat niet het geval is, heb je misschien de verkeerde BPM gekregen. Probeer in dat geval de BPM handmatig uit te tikken (opnieuw), zie [Handmatige BPM berekening](#Handmatige-BPM-berekening).
 
 :::warning WAARSCHUWING Als de BPM correct is voor het eerste deel van het liedje, maar plotseling van nummer verandert of wegdrijft dan heb je waarschijnlijk een nummer met Variabele BPM, Zie [Geavanceerd bewerken van audio: Variabele BPM](./advanced-audio.md#variable-bpm) voor meer informatie over dit onderwerp. :::
 
-Below shows how it looks like when the first planned mapped note(s) (cursor position) are placed after 2 seconds and the beats of the song is synced to the BPM/Click Track.
+Hieronder word laten zien hoe het eruit ziet als de eerste geplande blok(ken) na twee seconden zijn geplaatst en dat de beats van het nummer gesynchroniseerd zijn met de BPM/het klik spoor.
 
-![Audacity song lined up with rhythm track](~@images/mapping/synced_rhythm.png)
+![Audacity nummer wat past met het ritmespoor](~@images/mapping/synced_rhythm.png)
 
 Als de golfvorm/audio clip een pauze heeft in het begin van de tijdlijn (0,0 seconden) moet je stilte toevoegen aan de audio, want anders exporteert Audacity vanaf het begin van de audioclip en verlies je elke synchronisatie die je hebt gedaan. Doe het volgende om stilte toe te voegen:
 
 1. Schakel over naar de Selection Tool (![Selection Tool](~@images/mapping/selection.png)).
-2. Select the empty space between the audio clip and the start of the track (Yellow vertical lines will indicate the start and end edges when you make a selection).  
+2. Selecteer de lege ruimte tussen de audioclip en het begin van het spoor (de gele verticale lijnen markeren de start en het eind wanneer je een selectie maakt).  
    ![Stilte toevoegen met Audacity](~@images/mapping/add_silence.png)
 3. Klik op `Generate menu –> Silence…`. ![Generate Silence...](~@images/mapping/audacity-generate_silence.png)
 4. De juiste hoeveelheid stilte zou al automagisch ingevoerd moeten worden, dus druk gewoon op OK.
 5. Klaar. Je kan nu verder gaan naar [exporteren](#exporteren) of [optionele audiobewerking](#optionele-audiobewerking).
 
-After generating the silence you can click the dark line in the song track to get rid of the cut.
+Na het genereren van de stilte kan je op de donkere lijn klikken in het nummerspoor om de cut weg te halen.
 
 ## Optionele Audiobewerking
 Op dit moment is je audio ingesteld en klaar om [geëxporteerd](#exporteren) te worden. Aanvullende audio-bewerking, al dan niet nodig, kan de ervaring van de speler verbeteren door:
@@ -223,7 +223,7 @@ Om de RMS waarde in jouw nummer te controleren, doe je het volgende:
 6. Als deze waarde groter is (minder negatief) dan de aanbevolen waarden, zie dan [Volumewijziging: Jouw nummer zachter maken](#jouw-nummer-zachter-maken). ![Volume van het nummer analyseren met Audacity](~@images/mapping/contrast.png)
 
 ### Volumewijziging
-Voordat je verder gaat met de volgende stappen met het bewerken van het nummer, wordt het sterk aanbevolen om je voortgang op te slaan als WAVE bestand als een back-up. Dit is om ervoor te zorgen dat als je terug moet gaan en sommige bewerkingen opnieuw moet doen, je een audiobestand van hoge kwaliteit hebt. (Laad de OGG die je hebt geëxporteerd niet in, het zal veel van de geluidskwaliteit verliezen.) Remove the Click Track if you haven’t already done so, then go to `File menu -> Export -> Export as WAV`, then save the file to a location of your choice.
+Voordat je verder gaat met de volgende stappen met het bewerken van het nummer, wordt het sterk aanbevolen om je voortgang op te slaan als WAVE bestand als een back-up. Dit is om ervoor te zorgen dat als je terug moet gaan en sommige bewerkingen opnieuw moet doen, je een audiobestand van hoge kwaliteit hebt. (Laad de OGG die je hebt geëxporteerd niet in, het zal veel van de geluidskwaliteit verliezen.) Verwijder het klik spoor als je dit nog niet hebt gedaan, ga daarna naar `File menu -> Export -> Export as WAV`, sla dan het bestand op in een locatie naar keuze.
 
 ::: tip NOTE het uitvoeren van elke vorm van audio-verwerking op een nummer zal het geluid onvermijdelijk veranderen, Maar het is een belangrijke stap om je spelers het beste level en de beste ervaring te geven. :::
 
@@ -238,7 +238,7 @@ Maar als de golflengte sterk varieert tussen zachte en luide delen, zal er waars
 
 #### Compressie
 
-1. Select the whole song by double clicking the song track.
+1. Selecteer het hele nummer door te dubbelklikken op het nummerspoor.
 2. Ga naar `Effects menu -> Compressor`.
 3. Om te beginnen, kopieer je de onderstaande instellingen en klik op OK. Zorg ervoor dat `Compress based on Peaks` is gevinkt. ![Compressie begrijpen](~@images/mapping/compression.png)
 
@@ -249,7 +249,7 @@ Controleer het nummer opnieuw en luister naar onnatuurlijke vervormingen, zoals 
 #### Begrenzer
 De compressor vermindert veel onnodige pieken en maakt de belangrijkere geluiden luider. Maar, we hebben nog steeds niet de juiste RMS volume bereikt voor het nummer. Om dit te bereiken zullen we meer ruimte verwijderen met behulp van het Limiter effect:
 
-1. Select the whole song by double clicking the song track.
+1. Selecteer het hele nummer door te dubbelklikken op het nummerspoor.
 2. Ga naar `Effects menu -> Limiter...`.
 3. Om te beginnen, kopieer je de onderstaande instellingen:  
    ![Limiter in Audacity](~@images/mapping/limiter.png)
@@ -279,7 +279,7 @@ Voordat je het volume verlaagt wil je weten met hoeveel je het ongeveer moet ver
 
 Laten we nu het Amplify effect gebruiken om het volume te verlagen:
 
-1. Select the whole song by double clicking the song track.
+1. Selecteer het hele nummer door te dubbelklikken op het nummerspoor.
 2. Ga naar `Effects menu -> Amplify...`.
 3. Voer het eerder berekende verschil waarde in (moet negatief zijn) in het `Amplification` veld. Het `Nieuw Peak Amplification` veld zal herhalen wat het eerste invoerveld zegt, Dit is normaal voor een liedje dat al op 0db piekt. ![Amplification menu](~@images/mapping/amplify.png)
 4. Klik op OK om een negatief Amplify effect toe te passen.
@@ -301,8 +301,8 @@ Ga naar het einde van je nummer en speel het laatste deel en de outro. Vanaf het
 
 Om het einde op dit punt eraf te halen doe je het volgende:
 
-1. From the paused playback position drag a selection from here to the end of the track (yellow vertical line) and press the `Delete` key to remove this part.
-2. Make a new selection from the end of the song track (yellow vertical line) and backwards about 2 to 3 seconds.
+1. Vanuit de gepauzeerde playback positie sleep je een selectie van hier tot het eind van het spoor (verticale gele lijn) en klik dan op de `Delete` knop om dit deel te verwijderen.
+2. Maak een nieuwe selectie van het eind van het nummerspoor (verticale gele lijn) en ongeveer 2 tot 3 seconden terug.
 3. Ga naar `Effects menu -> Studio Fade Out`.
 4. Klaar.
 
@@ -311,9 +311,9 @@ Het nummer zal nu vervagen net voor het einde van het level en de speler zal vee
 ### Intro bijknippen
 Deze stap kan handig zijn als je een mooiere fade-in voor je nummer moet maken.
 
-If your track has arrows pointing to the left at the start it means you’ve time shifted the audio forward in time outside the timeline. Als je dit gedaan hebt om de intro, hoewel niet nodig, korter te maken. Is het handig om de audioclip bij te snijden en een fade-in toe te voegen. To trim and add a fade in to the song (optional) do the following:
+Als jouw spoor pijlen heeft die naar links wijzen aan het begin ervan betekend het dat je de audio vooruit buiten de tijdslijn hebt geschoven. Als je dit gedaan hebt om de intro, hoewel niet nodig, korter te maken. Is het handig om de audioclip bij te snijden en een fade-in toe te voegen. Om het korter te maken en een (optionele) fade-in toe te voegen in het nummer moet je het volgende doen:
 
-1. Drag a selection from 0.0 seconds to the end of the audio track (yellow vertical lines).
+1. Sleep een selectie van 0.0 seconden naar het einde van het audiospoor (verticale gele lijnen).
 2. Klik op Trim audio outside selection (![Trim audio to selection](~@images/mapping/trim.png)). De pijlen zouden nu moeten verdwijnen.
 3. (Optioneel) Maak een selectie van het begin nummer (verticale gele lijn) tot ongeveer 0.5-1 seconden (afhankelijk van de intro).
 4. (Optioneel) Ga naar `Effect menu -> Fade In`.
@@ -328,12 +328,12 @@ We hebben nu onze gebruiksklare audio die je in de editor en het spel zult gebru
 
 Om een compatibel geluidsbestand te genereren moeten we het volgende doen:
 
-1. Delete the Click Track (if you haven’t already done so).
+1. Verwijder het Klik Spoor (als je dat nog niet hebt gedaan).
 2. Klik op `File menu -> Export -> Export as OGG`.  
    ![Exporteren als Ogg locatie](~@images/mapping/audacity-export.png)
 3. Noem jouw bestand `song.ogg`.
 4. Kies een passende OGG-kwaliteit ([meer info hier](./advanced-audio.md#choosing-appropriate-ogg-export-quality)):  
-   ![Export Quality Slider](~@images/mapping/export-quality.png)
+   ![Exporteer kwaliteit schuifbalk](~@images/mapping/export-quality.png)
    * Hoge kwaliteit audiobestand (WAVE / FLAC / MP3 / AAC): gebruik 6-9 (tenzij er problemen zijn met de bestandsgrootte).
    * Lage kwaliteit audiobestand (YouTube of vergelijkbaar): gebruik 3-5.
 5. Klik op Save.

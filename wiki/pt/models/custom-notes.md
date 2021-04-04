@@ -19,7 +19,7 @@ Custom Notes para Quest são fornecidas pelo mod Qosmetics. A versão mais recen
 Dentro do jogo no menu principal que você verá na esquerda um botão `CUSTOM NOTES` sob a seção `Mods`. Pressioná-lo abrirá o menu que você pode usar para selecionar que nota você deseja usar.
 
 ### Usuários do Quest
-Envie o arquivo zip da nota para seu Quest usando a [Interface Web do BMBF](/quest-modding.md#installing-mods). Você pode selecionar qual nota está ativa na aba mods no BMBF.
+Upload the `.qbloq` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which note is active from the Qosmetics menu in-game.
 
 ## Criando Custom Notes
 

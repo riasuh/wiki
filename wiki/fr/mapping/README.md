@@ -20,35 +20,35 @@ description: |
 Trop de maps d'anime ? Pas assez de maps d'anime ?  
 Prenez les choses en main et apprenez à créer des maps ici !
 
-:::tip INFO Si vous avez des commentaires sur la façon dont nous pouvons améliorer les ressources sur la création de maps, remplissez [ce formulaire !  
-Vous pouvez aussi consulter le canal #mapping-discussion sur le Discord Beat Saber Modding Group](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform) pour vous impliquer !
+:::tip INFO  
+Si vous avez des commentaires sur la façon dont nous pouvons améliorer les ressources sur la création de maps, remplissez [ce formulaire (en anglais) !](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)
 
-Vous pouvez également visiter `#mapping-discussion` sur le [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) pour vous impliquer ! :::
+Vous pouvez également visiter `#mapping-discussion` sur le [serveur Discord BSMG](https://discord.gg/beatsabermods) pour vous impliquer ! :::
 
 * [Glossaire des termes de mapping](./glossary.md)
 
 ## Guide rapide pour le mapping
 > Ce wiki est vos blocs de construction, la communauté votre inspiration et vous êtes la créativité.
 
-Les grands mappers ne se sont pas fait en une journée. Il faut du dévouement sans que personne ne puisse réellement vous prendre la main. Le mieux que l'on puisse faire est de vous fournir les outils avec ce wiki et de clarifier toutes les questions afin de réussir votre carrière de mapping !
+Un grand mapper ne se crée pas en une journée. Il faut du dévouement sans que personne ne puisse réellement vous prendre la main. Le mieux que l'on puisse faire est de vous fournir les outils avec ce wiki et de clarifier toutes les questions afin de réussir votre carrière de mapping !
 
 1. Téléchargez les outils nécessaires pour créer une map : un [éditeur audio](https://www.audacityteam.org/) et un [éditeur de map](#ressources-pour-l-edition-de-map).
 2. [Configurez votre fichier audio](#ressources-pour-l-edition-audio), trouvez et vérifiez le BPM, et exportez-le au format OGG.
-3. Préparez votre chanson dans votre éditeur de musique. (Les étapes vont varier par éditeur mais voici le [Guide de l'utilisateur](fr/mediocre-map-assistant.md) pour MMA2).
-4. Commencez le mapping ! Vérifiez [les pratiques de base pour mapping](fr/basic-mapping.md) avant de commencer. [Testez](#test-en-jeu) vos propre travail tôt et souvent pendant mapping.
-5. Commencez à éclairer ! Lisez les [informations de base concernant l'éclairage](#pratiques-sur-l-eclairage). Mettre des lumières basiques est plus simple que vous ne le pensez !
-6. Faites [tester](#test-en-jeu) votre map ! Tester votre map via le [Discord BSMG](https://discordapp.com/invite/beatsabermods) est fortement conseillé pour obtenir des retours constructifs d'un point de vue différent du vôtre.
-7. Une fois que votre chanson a été mappée, éclairée et testée, vous êtes prêt à la [publier](#publishing-songs) sur Beat Saver.
+3. Préparez votre chanson dans votre éditeur de musique. (Les étapes vont varier par éditeur mais voici le [Guide de l'utilisateur](./mediocre-map-assistant.md) pour MMA2).
+4. Commencez le mapping ! Vérifiez [les pratiques de base pour mapping](./basic-mapping.md) avant de commencer. [Testez](#test-en-jeu) vos propre travail tôt et souvent pendant mapping.
+5. Commencez à éclairer ! Lisez les [informations de base concernant l'éclairage](#pratiques-sur-l-eclairage). Mettre en place un éclairage basique est plus simple que vous ne le pensez !
+6. Faites [tester](#test-en-jeu) votre map ! Tester votre map via le [Discord BSMG](https://discord.gg/beatsabermods) est fortement conseillé pour obtenir des retours constructifs d'un point de vue différent du vôtre.
+7. Une fois que votre chanson a été mappée, éclairée et testée, vous êtes prêt à la [publier](#publier-des-maps) sur Beat Saver.
 
 ### Tutoriels vidéo
 Les guides écrits sont pas votre truc ? Regardez cette série de vidéos !  
-Rappelez-vous : Les guides écrits sur ce wiki sont plus à jour car ils sont plus facile et rapide à changer. :::
+:::tip Souvenez-vous : Les guides écrits sur ce wiki seront toujours plus à jour comme ils sont plus simples et rapides à changer. :::
 
 #### Série recommandée
 
-* [Helen Carnate's Mapping Tutorial](https://www.youtube.com/watch?v=6O3sXmh-kAA) - A 17 minute guide to get started mapping!
-* [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - a comprehensive lecture series on making your first map.
-* [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) - covers the most common issues discussed in [Basic Mapping](./basic-mapping.md).
+* [Helen Carnate's Mapping Tutorial](https://www.youtube.com/watch?v=6O3sXmh-kAA) - un guide de 17 minutes pour bien commencer
+* [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - A comprehensive lecture series on making your first map.
+* [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) - Covers the most common issues discussed in [Basic Mapping](./basic-mapping.md).
 * [Tutoriel aux techniques d'éclairage dans Beat Saber par TranquilizeMe](https://www.youtube.com/watch?v=EDbPRN_u3jc) (en anglais) - couvre différentes techniques et astuces générales sur l'éclairage.
 
 :::warning J'ai regardé cette vidéo d'Elite Eric, mais je me suis retrouvé coincé / ça n'a pas fonctionné. Pourquoi ? Nous, chez BSMG, nous déconseillons **fortement** d'utiliser n'importe quels tutoriels par Elite Eric. Après avoir examiné une bonne partie de son contenu, il y a une grande quantité d'informations incomplètes, erronées ou complètement fausses. Nos tentatives de le contacter pour corriger ces erreurs n'ont malheureusement pas reçu de réponse et d'autres tutoriels (incorrects également) sont apparus.

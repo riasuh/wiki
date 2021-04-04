@@ -14,6 +14,13 @@ A community for all accuracy related discussions and events. Whether you want to
 
 ---
 
+## Acc Champ Community
+We are an Acc focused community that plans to be the new hub for Acc related events, training, and a new ranking system to help give specific info on each player's strengths and weaknesses in Acc categories.
+
+[Discord](https://discord.gg/zd8W4rr)
+
+---
+
 ## BeatKhana
 We are BeatKhana, a Beat Saber community focused around pushing tournaments forward! What do we do?
 
@@ -24,6 +31,13 @@ We are BeatKhana, a Beat Saber community focused around pushing tournaments forw
 * Manage a pleasant Beat Saber community
 
 [Discord](https://discord.gg/5NjfSAC)
+
+---
+
+## Beat Saber Clan Hub
+Beat Saber Clan Hub is the hub for all things clan-related. If you want to join or create a clan, this is the server for you!
+
+[Discord](https://discord.gg/2a89Nmm3PC)
 
 ---
 
@@ -48,6 +62,13 @@ A League-style tournament for Beat Saber!
 
 ---
 
+## Beat Saber Legacy Group
+Welcome to the Beat Saber Legacy Group! Here we come together to relive the old days of Beat Saber by creating assets, mods, and tools to enhance your experience of Beat Saber! You can even downgrade your version here along with full mod support!
+
+[Discord](https://discord.gg/MrwMx5e) | [Website](https://bslegacy.com/)
+
+---
+
 ## BeatTogether Community
 Community for the BeatTogether mod. This mod allows crossplay between PC platforms and Quest. This is a place to discuss the mod and follow its progress and releases!
 
@@ -66,6 +87,13 @@ Beat Saber gameplay spotlights, scoring guides, clip compilations, community eve
 Hi! We are a small community dedicated to mapping songs for Beat Saber. Bonus points if it's a Kpop song. But we welcome anyone who is interested in mapping or wants feedback! We also update the server with Kpop themed sabers and recent Kpop maps.
 
 [Discord](https://discord.gg/c9uHGYP)
+
+---
+
+## Saber Factory
+Welcome to the Saber Factory server! Here you find all resources dedicated to the Saber Factory mod. Get help with the usage and creation of content, keep in touch with new updates, leave suggestions and much more.
+
+[Discord](https://discord.gg/PjD7WcChH3)
 
 ---
 

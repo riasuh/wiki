@@ -40,6 +40,10 @@ A simple Beat Saber Mod Installer similar to the mod manager, but with additiona
 ## How to get more songs
 ::: tip Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before good mapping practices were established. Try downloading songs released between late 2019 and now to get the best custom levels experience. :::
 
+::: warning It is a good idea to backup your `CustomLevels` folder periodically as there is a small chance it will be reset if the game updates!
+
+This folder is located in your game install: `Beat Saber/Beat Saber_Data/CustomLevels` :::
+
 ### Downloader inde i spillet
 The `BeatSaver Downloader` mod allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from [BeatSaver](https://beatsaver.com)
 
@@ -105,7 +109,7 @@ Either remove the dll from the `Plugins` folder, or click the `Uninstall` button
 * [Custom Sabers](/models/custom-sabers.md)
 * [Custom Avatars](/models/custom-avatars.md)
 * [Custom Platforms](/models/custom-platforms.md)
-* [Setup Multiplayer](https://bs.assistant.moe/Multiplayer/)
+* [Play Customs in Multiplayer](https://discord.com/invite/gezGrFG4tz)
 * [Making Mods](/modding/)
 
 ## Have questions?

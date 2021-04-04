@@ -7,17 +7,17 @@ sidebar: auto
 
 *Merci beaucoup à Flee pour avoir corrigé les erreurs grammaticales et fourni des informations utiles.*
 
-:::warning AVIS DE NON-RESPONSABILITÉ Ce guide a originalement été écrit le 7 février 2019. Il a été mis à jour plusieurs fois mais certaines informations peuvent être inexactes ou manquantes. Si vous constatez des inexactitudes ou informations manquantes dans ce guide, vous pouvez effectuer y apporter des modifications sur la page du [Wiki de BSMG sur Github](https://github.com/bsmg/wiki#readme) ou m'envoyer un message via Discord (teknoz#6900). :::
+:::warning AVIS DE NON-RESPONSABILITÉ Ce guide a originalement été écrit le 7 février 2019. Il a été mis à jour plusieurs fois mais certaines informations peuvent être inexactes ou manquantes. Si vous constatez des informations manquantes ou erronées, vous pouvez ouvrir une demande de fusion (Pull Request) sur le [dépôt GitHub du présent wiki (en anglais)](https://github.com/bsmg/wiki#readme) ou envoyer un message à teknoz#6900 sur Discord (en anglais également). :::
 
 ## Précision et score
 
 ### Multiplicateur de score
-Votre multiplicateur de score est affiché ci-dessous, entouré d'un anneau. Comme indiqué dans le nom, le multiplicateur affecte votre score. Vous commencez la chanson avec un multiplicateur de **1x** et l'anneau montre la progression du prochain multiplicateur. Quand vous touchez la note qui vous amène au prochain multiplicateur, cette note est affectée par le nouveau multiplicateur et non l'ancien. Les différents multiplicateurs sont : **1x, 2x, 4x et 8x**. Chaque fois que vous perdez le combo, c'est-à-dire louper une note, couper dans la mauvaise direction ou avec le mauvais sabre, toucher une bombe ou passer à travers un obstacle, votre multiplicateur se réduit de moitié.
+Votre multiplicateur de score est affiché ci-dessous, entouré d'un anneau. Comme indiqué dans le nom, le multiplicateur affecte votre score. Vous commencez la chanson avec un multiplicateur de **1x** et l'anneau montre la progression du prochain multiplicateur. Quand vous touchez la note qui vous amène au prochain multiplicateur, cette note est affectée par le nouveau multiplicateur et non l'ancien. Les différents multiplicateurs sont : **1x, 2x, 4x et 8x**. Chaque fois que vous perdez le combo, c'est-à-dire rater une note, couper dans la mauvaise direction ou avec le mauvais sabre, toucher une bombe ou passer à travers un obstacle, votre multiplicateur se réduit de moitié.
 
 ![Multiplicateur de score](~@images/ranking-guide/score_multiplier.png "Multiplicateur de score")
 
 ### Score
-Bien scorer dans Beat Saber n'est pas aussi simple que maintenir un combo élevé et ne pas louper des notes, c'est aussi déterminé par votre score par bloc. Le score maximum possible en découpant un bloc est de **115** (sans compter le multiplicateur de score). Lorsque vous coupez un bloc, vous devez atteindre les bons angles de rotation et le trancher au centre pour obtenir le meilleur score pour cette coupe.
+Bien scorer dans Beat Saber n'est pas aussi simple que maintenir un combo élevé et ne pas rater des notes, c'est aussi déterminé par votre score par bloc. Le score maximum possible en découpant un bloc est de **115** (sans compter le multiplicateur de score). Lorsque vous coupez un bloc, vous devez atteindre les bons angles de rotation et le trancher au centre pour obtenir le meilleur score pour cette coupe.
 
 Voici comment le score est calculé pour une coupe:
 | Élément               | Points fournis |
@@ -26,7 +26,7 @@ Voici comment le score est calculé pour une coupe:
 | Accompagnement de 60° | 30 Points      |
 | Coupe au centre       | 15 Points      |
 
-Cela montre à quel point il est important de faire des mouvements de balancier appropriés pour obtenir les bons angles et le meilleur score possible. Rappelez-vous, il vaut mieux obtenir une mauvaise coupe qu'un coup raté car un coup raté compte **0 points** et casse votre combo.
+Cela montre à quel point il est important de faire des gestes appropriés pour obtenir les bons angles et le meilleur score possible. Rappelez-vous, il vaut mieux obtenir une mauvaise coupe qu'un coup raté car un coup raté compte **0 points** et casse votre combo.
 
 ### Zones de collision
 Une idée reçue sur Beat Saber serait que la plupart des gens pensent que les zones de collision des notes sont les blocs eux-mêmes. Alors que c'était le cas auparavant, les zones de collision ont changé à plusieurs reprises à travers les différentes versions du jeu et beaucoup d'images se trompent. Voici une image montrant la zone de collision actuelle. Comme vous pouvez le voir, la zone de collision est plutôt grande et s'étend beaucoup sur les côtés et la face avant. Avec cette information, il est recommandé de frapper avec la pointe du sabre pour maximiser l'angle et obtenir la meilleure coupe possible.
@@ -62,24 +62,24 @@ Classé : Un niveau classé possède un certain niveau de difficulté mesuré en
 L'équipe de classement évalue les niveaux lors d'un processus d'évaluation communautaire. Ces niveaux sont assignés à un nombre de PP basé selon un algorithme qui détermine la difficulté du niveau une fois classé en fonction de divers facteurs. Les PP, signifiant points de performance, sont donnés lors de l'achèvement d'un niveau par rapport au score obtenu. Des détails supplémentaires sur le processus d'évaluations, les différents critères et autres FAQs peuvent être trouvés sur le [serveur Discord ScoreSaber](https://discord.com/invite/WpuDMwU).
 
 ## Le système de classement expliqué (système de PP)
-Le système de PP est probablement l'un des éléments les plus incompris en ce qui concerne le classement dans le jeu. Personnellement, je trouve que les gens font fausse piste sur le système si souvent que j'ai fini par écrire un message à ce sujet que j'ai épinglé sur le serveur Beat Saber Canadian Discord afin que je n'ai plus à l'expliquer à nouveau, donc voici "tout" ce que vous devez savoir à ce sujet.
+Le système de PP est probablement l'un des éléments les plus incompris en ce qui concerne le classement dans le jeu. Personnellement, je trouve que les gens font fausse piste sur le système si souvent que j'ai fini par écrire un message à ce sujet que j'ai épinglé sur le serveur Beat Saber Canadian Discord pour ne plus avoir à le réexpliquer, donc voici "tout" ce que vous devez savoir à ce sujet.
 
 ### Comment puis-je gagner des PP et comment fonctionne le classement global ?
 Vous pouvez trouver votre rang global sur [ScoreSaber](https://scoresaber.com/global) en insérant votre nom d'utilisateur dans la barre de recherche. Votre profil ScoreSaber est lié à votre profil Steam/Oculus sur lequel vous jouez au jeu.
 
-Comme indiqué précédemment, vous pouvez gagner des PP (points de performance) en jouant aux niveaux classés. Le montant de PP que vaut un niveau est déterminé lorsque la map est testée par l'algorithme PP. Cet algorithme est gardé secret pour empêcher les créateurs de niveaux d'outrepasser le système (en créant des niveaux pouvant valoir beaucoup de PP). Le nombre exact de PP remporté par le joueur est déterminé par sa précision sur le niveau et la courbe qu'elle représente comparé au nombre maximal de PP que ce niveau vaut. De plus amples informations peuvent être trouvées sur le [serveur Discord ScoreSaber](https://discord.com/invite/WpuDMwU).
+Comme indiqué précédemment, vous pouvez gagner des PP (points de performance) en jouant aux niveaux classés. Le montant de PP que vaut un niveau est déterminé lorsque la map est analysée par l'algorithme de PP. Cet algorithme est gardé secret pour empêcher les créateurs de niveaux d'outrepasser le système (en créant des niveaux pouvant valoir beaucoup de PP). Le nombre exact de PP remporté par le joueur est déterminé par sa précision sur le niveau et la courbe qu'elle représente comparé au nombre maximal de PP que ce niveau vaut. De plus amples informations peuvent être trouvées sur le [serveur Discord ScoreSaber](https://discord.com/invite/WpuDMwU).
 
 ### Comment fonctionne le système de PP et que sont les PP ajustés ?
-Dans l'optique d'empêcher les joueurs expérimentés d'effectuer des centaines de niveaux valant peu de PP pour monter dans le classement, une courbe est appliqué à vos parties. Cette courbe vaut **0.965^(x-1)** où **x** est la position du score dans la liste de vos niveaux classés joués pouvant être trouvé sur votre profil.
+Dans l'optique d'empêcher les joueurs expérimentés d'effectuer des centaines de niveaux valant peu de PP pour monter dans le classement, une courbe est appliqué à vos scores. Cette courbe vaut **0.965^(x-1)** où **x** est la position du score dans la liste de vos niveaux classés joués pouvant être trouvée sur votre profil.
 
-Vous avez peut-être déjà remarqué que dans votre liste, deux nombres terminant par PP apparaissent. L'un d'entre eux est **bleu** et représente le nombre brut de PP que vous avez remporté lors de la partie, avant que la courbe ne soit appliquée. L'autre nombre est (gris) et montre le nombre de PP ajustés que vous allez récupérer à l'issue de la partie après que la courbe soit appliquée.
+Vous avez peut-être déjà remarqué que dans votre liste, deux nombres terminant par PP apparaissent. L'un d'entre eux est **bleu** et représente le nombre brut de PP que vous avez remporté lors de la partie, avant que la courbe ne soit appliquée. L'autre nombre est gris et montre le nombre de PP ajustés que vous allez récupérer à l'issue de la partie après que la courbe soit appliquée.
 
-![PP brut et ajusté](~@images/ranking-guide/raw&weighted_pp.png "PP brut & ajusté")
+![PP brut et ajusté](~@images/ranking-guide/raw&weighted_pp.png "PP brut et ajusté")
 
-Comme cela a déjà été dit, la quantité de PP ajustés reçu dépend de la courbe et de la position de la chanson parmis votre liste. Par exemple, si votre meilleure partie vous a fait gagné **260 PP bruts**, vous allez recevoir **260 PP ajustés**, ce qui représente **100%** des PP bruts de cette partie. Cependant, si votre deuxième meilleure partie vous a rapporté **247 PP bruts**, vous allez recevoir **238 PP ajustés** après que la courbe soit appliquée.
+Comme cela a déjà été dit, la quantité de PP ajustés reçus dépend de la courbe et de la position de la chanson au sein de votre liste. Par exemple, si votre meilleure partie vous a fait gagner **260 PP bruts**, vous allez recevoir **260 PP ajustés**, ce qui représente **100%** des PP bruts de cette partie. Cependant, si votre deuxième meilleure partie vous a rapporté **247 PP bruts**, vous allez recevoir **238 PP ajustés** après que la courbe soit appliquée.
 
 Voici un exemple de fonctionnement de la courbe :
-| PP Brut    | **PP ajustés**                |
+| PP bruts   | **PP ajustés**                |
 | ---------- | ----------------------------- |
 | *260pp* -> | **260pp** (100% du PP brut)   |
 | *247pp* -> | **238pp** (96.5% du PP brut)  |
@@ -87,14 +87,14 @@ Voici un exemple de fonctionnement de la courbe :
 | *244pp* -> | **219pp**  (89.9% du PP brut) |
 
 ### Pourquoi mon nombre total de PP n'augmente-t-il pas autant qu'avec le nombre de PP ajustés que j'ai obtenu sur mon nouveau score ?
-Une question récurrente que les gens semblent se poser lorsqu'ils reçoivent un nouveau score est que, par exemple, s'ils obtiennent **100 PP ajustés**, pourquoi ne gagnent-ils pas **+100 PP** sur leur montant total de PP. Comme expliqué plus tôt, puisque l'effet de la courbe sur vos parties ne fait qu'augmenter au fur et à mesure que vous descendez dans la liste, lorsque vous effectuez une nouvelle partie, celle-ci prend la place d'un autre jeu plus ancien qui fait que toutes les parties en dessous descendent d'une place dans la liste. Donc, même si vous gagnez **+100 PP** dans cette nouvelle partie, toutes celles inférieures sont réajustées à la baisse et vous y perdez une certaine quantité de PP. C'est pourquoi lorsque vous jouez à une nouvelle partie ou améliorez votre score sur une ancienne partie, vous n'allez jamais (hors exception) recevoir le même montant de PP sur votre total de points de performance.
+Une question récurrente que les gens semblent se poser lorsqu'ils reçoivent un nouveau score est que, par exemple, s'ils obtiennent **100 PP ajustés**, pourquoi ne gagnent-ils pas **+100 PP** sur leur montant total de PP. Comme expliqué plus tôt, puisque l'effet de la courbe sur vos parties ne fait qu'augmenter au fur et à mesure que vous descendez dans la liste, lorsque vous effectuez une nouvelle partie, celle-ci prend la place d'un autre jeu plus ancien qui fait que toutes les parties en dessous descendent d'une place dans la liste. Donc, même si vous gagnez **+100 PP** dans cette nouvelle partie, toutes celles inférieures sont réajustées à la baisse et vous y perdez une certaine quantité de PP. C'est pourquoi lorsque vous jouez une nouvelle chansons ou améliorez votre score sur une ancienne chanson, vous n'allez jamais (hors exception) recevoir le même montant de PP sur votre total de points de performance.
 
-L'unique exception possible est si vous obtenez une meilleure précision que votre meilleur jeu actuel. Puisque votre meilleur jeu n'est pas affecté par la courbe, ce qui signifie qu'aucune de vos musiques ne changera de place dans votre liste, aucune répercussion en perte de PP n'aura lieu sur vos autres parties. Un exemple pour cela serait que si votre meilleure jeu soit sur Avalanche avec **250 PP** et que vous y réussissiez à améliorer votre précision et que cette partie vaille désormais **260 PP**, vous obtiendrez **+10 PP** sur votre montant total de PP.
+L'unique exception possible est si vous obtenez une meilleure précision que votre meilleur score actuel. Puisque votre meilleur score n'est pas affecté par la courbe, ce qui signifie qu'aucune de vos musiques ne changera de place dans votre liste, aucune répercussion en perte de PP n'aura lieu sur vos autres parties. Un exemple pour cela serait que si votre meilleure score soit sur Avalanche avec **250 PP** et que vous y réussissiez à améliorer votre précision et que ce score vaille désormais **260 PP**, vous obtiendrez **+10 PP** sur votre montant total de PP.
 
 ### Comment puis-je m'améliorer et obtenir plus de PP ?
 Afin de vous améliorer et d'obtenir un meilleur rang dans le classement général, il existe plusieurs outils capables de vous aider à trouver des musiques classées qui correspondent à votre niveau. Tout d'abord, vous pouvez vérifier votre propre profil sur [ScoreSaber](https://scoresaber.com/global) afin de voir les musiques auxquelles vous n'avez pas jouées depuis un certain moment ainsi que là où il est possible de vous améliorer, vous pouvez également vous y faire une idée de votre meilleur score. L'extension de navigateur [ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) peut étendre les fonctionnalités de votre profil. [BaliBilo's ScoreSaber site](https://scoresaber.balibalo.xyz/peepee) et [Beat Savior](https://www.beatsavior.io/) sont des sites tiers capables de vous aider à trouver des niveaux à améliorer et de garder une trace de vos performances.
 
-Pour des conseils et astuces plus précises, veuillez-vous référer au chapitre [Conseils utiles & Liens](#useful-tips-links).
+Pour des conseils et astuces plus précises, veuillez-vous référer au chapitre [Conseils utiles & Liens](#conseils-utiles-et-liens).
 
 ## Modificateurs
 
@@ -111,7 +111,7 @@ Ceci étant dit, voici une liste des modificateurs disponibles dans le jeu, leur
 | No Bombs (-0.10)            | Retire toutes les bombes du niveau.                                                                                                                                                                                      |
 | Slower Song (-0.30)         | Ralentit la musique à 85% de la vitesse originale.                                                                                                                                                                       |
 | Insta Fail (0.00)           | Fait perdre le joueur dès la première erreur.                                                                                                                                                                            |
-| Battery Energy (0.00)       | Empêche la barre de vie de se régénérer. Limite le nombre total d'erreur avant d'échouer la partie.                                                                                                                      |
+| Battery Energy (0.00)       | Empêche la barre de vie de se régénérer. Limite le nombre total d'erreurs avant d'échouer la partie.                                                                                                                     |
 | Disappearing Arrows (+0.07) | Fait disparaître les flèches des notes lorsqu'elles s'approchent de vous. Il est toujours nécessaire de se souvenir de la direction dans laquelle la note doit être coupée.                                              |
 | Faster Song (+0.08)         | Accélère la musique à 120% de la vitesse originale.                                                                                                                                                                      |
 | Ghost Notes (+0.11)         | Fait disparaître les notes et leurs flèches avant que vous ne deviez les frapper, comme avec Disappearing Arrows.                                                                                                        |
@@ -120,21 +120,21 @@ Ceci étant dit, voici une liste des modificateurs disponibles dans le jeu, leur
 ## Prises
 
 ### Quelle prise devrais-je choisir ?
-Une prise alternative peut être un réglage différent des angles de sabres par défaut, une autre méthode pour tenir les manettes ou une combinaison des deux. Il n'existe aucune prise unique qui fonctionne pour tout le monde, en utiliser une autre ne vas pas non plus vous rendre automatiquement meilleur au jeu. Ce n'est pas forcément mieux de tenir les manettes différemment que leur usage prévu, ou même d'utiliser des angles différents que ceux proposés dans Beat Saber par défaut. Malgré tout, utiliser des prises alternatives peut avoir ses avantages, du fait d'être plus à l'aise sur de longues périodes de jeu à l'optimisation de vos mouvements. Ils peuvent redistribuer le poids d'un contrôleur Vive mal équilibré, ou augmenter la portée de mouvement du poignet avec un contrôleur Touch. Voici ci-dessous quelques poignées populaires utilisées dans la communauté compétitive. N'ayez pas peur d'expérimenter et de trouvez ce qui vous convient !
+Une prise alternative peut être un réglage différent des angles de sabres par défaut, une autre méthode pour tenir les manettes ou une combinaison des deux. Il n'existe aucune prise unique qui fonctionne pour tout le monde, en utiliser une autre ne va pas non plus vous rendre automatiquement meilleur au jeu. Ce n'est pas forcément mieux de tenir les manettes différemment que leur usage prévu, ou même d'utiliser des angles différents que ceux proposés dans Beat Saber par défaut. Malgré tout, utiliser des prises alternatives peut avoir ses avantages, du fait d'être plus à l'aise sur de longues périodes de jeu à l'optimisation de vos mouvements. Ils peuvent redistribuer le poids d'un contrôleur Vive mal équilibré, ou augmenter la portée de mouvement du poignet avec un contrôleur Touch. Voici ci-dessous quelques poignées populaires utilisées dans la communauté compétitive. N'ayez pas peur d'expérimenter et de trouvez ce qui vous convient !
 
 ### Liste des prises
-Veuillez-vous référer à la section [Prises et Astuces](./grips-and-tricks.md) pour quelques exemples de prises couramment utilisées dans la communauté.
+Veuillez-vous référer à la section des prises de la page [Prises et Astuces](./grips-and-tricks.md) pour quelques exemples de prises couramment utilisées dans la communauté.
 
 ## Conseils utiles et liens
 
 ### Conseils et astuces
-Après tout ce temps passé à jouer sur Beat Saber, j'ai rencontré beaucoup de murs et barrières. Ces murs peuvent vraiment s'avérer problématiques puisqu'ils peuvent nécessiter pas mal de temps afin de savoir ce qu'il faut faire pour continuer à s'améliorer. Voici une petite liste de conseils pour s'améliorer en tant que joueur.
+Après tout ce temps passé à jouer sur Beat Saber, j'ai rencontré beaucoup de murs et barrières. Rencontrer un mur peut s'avérer particulièrement gênant comme cela peut prendre du temps pour trouver la chose à faire pour s'améliorer. Voici une petite liste de conseils pour s'améliorer en tant que joueur.
 
 #### Défiez-vous
 Bien que cela semble évident, de nombreux joueurs n'essayent jamais de s'améliorer et de jouer à des niveaux plus compliqués et se contentent simplement de jouer aux mêmes niveaux encore et encore. Élargissez votre liste de chansons et poussez-vous à apprendre des choses là où vous êtes encore mauvais.
 
 #### Jouez plus
-Vous n'allez pas devenir meilleur en jouant à un instrument sans un paquet d'expérience. Il en va de même pour Beat Saber, jouer simplement mais souvent vous permettra d'améliorer votre reconnaissance de motifs, d'entraîner votre corps et de construire une mémoire musculaire.
+Vous n'allez pas devenir meilleur en jouant à un instrument sans expérience. Il en va de même pour Beat Saber, jouer simplement mais souvent vous permettra d'améliorer votre reconnaissance de motifs, d'entraîner votre corps et de construire une mémoire musculaire.
 
 #### Évaluez vos propres parties
 S'enregistrer est une excellente façon de savoir où il est possible de s'améliorer, que cela ne soit que le jeu ou avec une webcam. S'analyser jouer peut être utile pour déceler ses erreurs courantes. Vous pouvez également regarder vos propres replays en cliquant sur l'icone d'information à côté de votre score dans le classement, puis en cliquant sur le bouton dans le coin supérieur droit de la fenêtre d'information qui apparaît.

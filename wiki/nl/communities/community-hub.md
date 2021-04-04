@@ -14,6 +14,13 @@ Een community voor alle accuracy gerelateerde discussies en evenementen. Of je n
 
 ---
 
+## Acc Champ Community
+We zijn een acc gefocuste community die het nieuwe centrum voor acc gerelateerde evenementen, training wilt zijn, en een nieuw scorebord systeem heeft om te helpen specifieke informatie te geven over de sterke en zwakke punten van elke speler in acc categorieën.
+
+[Discord](https://discord.gg/zd8W4rr)
+
+---
+
 ## BeatKhana
 Wij zijn BeatKhana, een Beat Saber community die voornamelijk gericht is op het organiseren van toernooien! Wat doen we precies?
 
@@ -24,6 +31,13 @@ Wij zijn BeatKhana, een Beat Saber community die voornamelijk gericht is op het 
 * Beheren een aangename Beat Saber community.
 
 [Discord](https://discord.gg/5NjfSAC)
+
+---
+
+## Beat Saber Clan Hub
+Beat Saber Clan Hub is de hub voor alle dingen die te maken hebben met clans. Als je lid wilt worden of een clan of er eentje wilt maken, is dit de server voor!
+
+[Discord](https://discord.gg/2a89Nmm3PC)
 
 ---
 
@@ -48,6 +62,13 @@ Een competitie-achtig toernooi voor Beat Saber!
 
 ---
 
+## Beat Saber Legacy Group
+Welkom op de Beat Saber Legacy Group! Hier komen we samen om de oude dagen van Beat Saber te herleven door assets, mods en hulpmiddelen te creëren om jouw ervaring van Beat Saber te verbeteren! Je kan hier zelfs terug gaan naar een vorige versie van het spel en volledige mod ondersteuning krijgen!
+
+[Discord](https://discord.gg/MrwMx5e) | [Website](https://bslegacy.com/)
+
+---
+
 ## BeatTogether Community
 Community van de BeatTogether mod. Deze mod maakt crossplay mogelijk tussen de verscheidene PC platformen en Quest. Dit is een plek om te discussiëren over de mod en de vooruitgang en releases te volgen!
 
@@ -66,6 +87,13 @@ Beat Saber gameplay spotlights, scorings handleidingen, clip compilaties, commun
 Hoi! Wij zijn een kleine community die zich bezighoudt met het maken van nummers voor Beat Saber. Bonus punten als het een Kpop nummer is. Maar wij verwelkomen iedereen die geïnteresseerd is in het maken van nummers of feedback wil ontvangen! We voorzien de server ook van updates, zijnde sabers in het thema van Kpop en omtrent recente Kpop nummers.
 
 [Discord](https://discord.gg/c9uHGYP)
+
+---
+
+## Saber Factory
+Welkom bij de Saber Factory server! Hier vind je alle dingen die gemaakt zijn voor de Saber Factory mod. Krijg hulp bij het gebruiken en het maken van inhoud, blijf op de hoogte van nieuwe updates, laat suggesties achter en nog veel meer.
+
+[Discord](https://discord.gg/PjD7WcChH3)
 
 ---
 

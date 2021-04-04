@@ -153,7 +153,7 @@ Nach dem Erzeugen der Stille kannst du auf die dunkle Linie in der Songspur klic
    ![Track löschen](~@images/mapping/audacity-delete_track.png)
 9. Fertig. Du kannst nun zu [Exportieren](#exportieren) oder zu [Optionale Audio Bearbeitung](#optionale-audio-bearbeitung) wechseln.
 
-> Wenn du nicht die exakte Menge entfernen möchtest, kannst du mehr als nötig entfernen, die geänderte `.ogg` exportieren und [mit deinem Tool neu synchronisieren](#tool-assisted-bpm-calculation), um einen positiven Offset zu erhalten.
+> If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#sync-using-arrow-vortex) with the new file to get a positive offset.
 
 ### Synchronisieren mit einem Klick-Track
 

@@ -31,8 +31,13 @@ Var och en av dina favoritbanor är noggrant utformad och testad under många ti
 ### [Medverkande av mappningsresurser](/mapping/mapping-credits.md)
 En grupp erfarna mappare som tog sig tid att skriva ner och dela med sig av sina kunskaper för att hjälpa andra att komma igång eller bli bättre. Ta dig en titt på deras banor och överväg att stödja dem!
 
-### [Vinnare av evenemang](./event-winner.md)
-Vinnare av tidigare tävlingar/evenemang som hölls i discordservern. Håll dig uppdaterad med `#server-notiser` för sådana händelser som händer nu eller i framtiden!
+### [Translators](./translators.md)
+The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.
+
+If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+
+### [Event Winners](./event-winner.md)
+Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
 
 ## Om Denna Wikin
-Detta är en wiki för alla saker som rör moddning av spelet Beat Saber. Den skapades ursprungligen för att ersätta kanalerna `#nybörjarguiden` och `#faq`i [Beat Saber Modding Groups Discordserver](https://discord.gg/beatsabermods).
+This is a wiki for all things relating to modding the game Beat Saber. It was originally created to replace the `#beginners-guide` and `#faq` channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).

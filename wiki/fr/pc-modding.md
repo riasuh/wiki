@@ -39,31 +39,35 @@ Un installateur de mod Beat Saber simple, similaire à l'ancien Mod Manager, mai
 ## Comment avoir plus de chansons
 ::: tip ASTUCE La plupart des maps dans les catégories "Top All", "Rating", "Downloads" et "Plays" ont été créées bien avant la mise en place des bonnes pratiques de mapping. Essayez de téléchargez des chansons publiées entre fin 2019 et maintenant pour obtenir la meilleure expérience possible. :::
 
+:::warning ATTENTION C'est une bonne idée de sauvegarder occasionnellement votre dossier `CustomLevels` comme il y a une faible chance qu'une mise à jour du jeu de réinitialise.
+
+Ce dossier est localisé dans les fichiers du jeu : `Beat Saber/Beat Saber_Data/CustomLevels` :::
+
 ### Téléchargeur en jeu
-L'extension `BeatSaver Downloader` vous permet de télécharger des maps en jeu en utilisant le bouton `MORE SONGS` dans le menu `Mods`. Cela télécharge les maps directement depuis [BeatSaver](https://beatsaver.com).
+Le mod `BeatSaver Downloader` vous permet de télécharger des maps directement depuis le jeu en utilisant le bouton `MORE SONGS` dans le menu `Mods`. Cela télécharge les maps directement depuis [BeatSaver](https://beatsaver.com).
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) est le dépôt principal des chansons personnalisées créées par la communauté. Bien d'autres outils et sites rendent le téléchargement des chansons personnalisées plus riche, mais c'est d'ici qu'elles sont récupérées. Pour installer les chansons personnalisées depuis le site, décompressez-les dans un dossier et placez-les dans `Beat Saber/Beat Saber_Data/CustomLevels`. Vous pouvez également utiliser le mod BeatSaver Downloader mentionné ci-dessus, BeatList ou la fonctionnalité OneClick™ de Mod Assistant.
+[BeatSaver](https://beatsaver.com) est le dépôt principal des chansons personnalisées créées par la communauté. Bien d'autres outils et sites rendent le téléchargement des chansons personnalisées plus riche, mais c'est d'ici qu'elles sont récupérées. Pour installer les chansons personnalisées depuis le site, décompressez-les dans un dossier et placez-le dans `Beat Saber/Beat Saber_Data/CustomLevels`. Vous pouvez également utiliser le mod BeatSaver Downloader mentionné ci-dessus, ou la fonctionnalité OneClick™ de Mod Assistant.
 
 ### Beast Saber
-[Beast Saber](https://www.bsaber.com) (bsaber.com) est un site web qui a pour but de mettre en lumière les maps fantastiques à jouer pour les trouver facilement. Pour ce faire, les milliers de chansons présentes sur BeatSaver sont catégorisées, afin que vous puissiez filtrer par genre de musique et d'autres étiquettes appropriées. Le site dispose également d'une fonctionnalité communautaire où les joueurs peuvent laisser leurs critiques et impressions sur les chansons. Une des catégories les plus utilisées est la catégorie "*Curator Recommended*" où une équipe joue la plupart des chansons sorties chaque jour et recommande celles qui sortent du lot, permettant [de les télécharger automatiquement en jeu](https://bsaber.com/beatsync/).
+[Beast Saber](https://www.bsaber.com) (bsaber.com) est un site web qui a pour but de mettre en lumière les maps fantastiques à jouer pour les trouver facilement. Pour ce faire, les milliers de chansons présentes sur BeatSaver sont catégorisées, afin que vous puissiez filtrer par genre de musique et d'autres étiquettes appropriées. Le site dispose également d'une fonctionnalité communautaire permettant aux joueurs de laisser leurs critiques et impressions sur les chansons. Une des catégories les plus utilisées est la catégorie "*Curator Recommended*" où une équipe joue la plupart des chansons sorties chaque jour et recommande celles qui sortent du lot, permettant [de les télécharger automatiquement en jeu](https://bsaber.com/beatsync/).
 
 ### Applications de gestion des chansons
 
-There are no working song management apps available at this time.
+Il n'y a pas d'application de gestion des chansons à l'heure actuelle.
 
 ### Playlists
-You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
+Vous devez installer le mod [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest).
 
-Then you can either:
+Vous pourrez ensuite :
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select it in-game, then hit download all songs.
+* Utiliser l'outil `Installer une playlist` dans l'onglet Options de Mod Assistant.
+* Placer le fichier de playlist dans `Beat Saber/Playlists` et sélectionnez la en jeu, puis appuyez sur le bouton *Download*.
 
-You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
+Vous devriez maintenant voir la playlist à côté de l'album des niveaux personnalisés (Custom Levels) en jeu. Le mod prend également en charge la gestion des playlists depuis le jeu.
 
 ## Dossier d'installation
-_Where is Beat Saber installed?_
+_Où est donc installé Beat Saber ?_
 
 ### Emplacement par défaut
 |        |                                                                                      |
@@ -72,16 +76,16 @@ _Where is Beat Saber installed?_
 | Oculus | `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ### Autre emplacement
-**If you have moved your install folder to a different drive, it might be in the location below.** Replace the drive letter `F` with the drive your game is installed on.
+**Si vous avez déplacé votre dossier d'installation sur un disque différent, son emplacement pourrait bien être l'un des suivants.** Remplacez la lettre de lecteur `F` par celle correspondant à celle du disque sur lequel vous avez installé votre jeu.
 |        |                                                                       |
 | ------ | --------------------------------------------------------------------- |
 | Steam  | `F:\SteamLibrary\steamapps\common\Beat Saber\`                 |
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Installation manuelle
-A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+Un installateur de mods est le moyen recommandé pour installer des mods. Lisez la section [ci-dessus](#installateurs). Si vous avez patché le jeu et avez juste besoin d'installer les mods qui ne sont pas disponibles dans l'installateur, passez à l'étape 4.
 
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
+**Lancez le jeu au moins une fois** avant d'essayer de modder votre jeu ! Cela s'applique aussi après chaque réinstallation du jeu.
 
 ### Installer BSIPA
 
@@ -95,17 +99,17 @@ A mod installer is the recommended way to install mods. See the section [above](
 5. Certains mods ont des instructions d'installation précises, certains non. Généralement, il suffit de glisser-déposer le contenu du zip dans le dossier d'installation du jeu, et les fichiers doivent aller dans les dossiers correspondants.
 
 ## Comment désinstaller les mods
-Either remove the dll from the `Plugins` folder, or click the `Uninstall` button in Mod Assistant.
+Supprimez le fichier DLL du dossier `Plugins`, ou bien cliquez sur le bouton `Uninstall` dans Mod Assistant.
 
 ## Où se rendre d'ici
 
-* [Grips and Tricks](./grips-and-tricks.md)
-* [Making Beatmaps](/mapping/)
-* [Custom Sabers](/models/custom-sabers.md)
-* [Custom Avatars](/models/custom-avatars.md)
-* [Custom Platforms](/models/custom-platforms.md)
-* [Setup Multiplayer](https://bs.assistant.moe/Multiplayer/)
-* [Making Mods](/modding/)
+* [Prises et Astuces](./grips-and-tricks.md)
+* [Créer ses propres niveaux](/fr/mapping/)
+* [Sabres personnalisés](/fr/models/custom-sabers.md)
+* [Avatars personnalisés](/fr/models/custom-avatars.md)
+* [Plateformes personnalisées](/fr/models/custom-platforms.md)
+* [Jouer des chansons personnalisées en multijoueur](https://discord.com/invite/gezGrFG4tz)
+* [Créer ses propres mods](/fr/modding/)
 
 ## Des questions ?
-Visit the support channels in the [BSMG Discord](https://discord.gg/beatsabermods)!
+Visitez les salons d'assistance sur le [Discord BSMG](https://discord.gg/beatsabermods) !

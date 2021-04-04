@@ -17,10 +17,14 @@ sidebar: auto
 
 Attackera inte spelutvecklare för frågor som rör mods, och vice versa - moddare och spelutvecklare är två separata grupper. Bara var inte en idiot, ok? :::
 
-## Installation
-För närvarande är det enda rekommenderade sättet att installera banor och mods genom BMBF, tillsammans med SideQuest genom en dator.
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
 
-Om du inte har tillgång till en dator kan du använda en [Android](#installing-bmbf-with-an-android-phone).
+Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
+
+## Installation
+Currently the only recommended way to install custom songs and mods is BMBF sideloaded with SideQuest using a PC.
+
+If you do not have access to a PC you can use an [Android Phone](#installing-bmbf-with-an-android-phone).
 
 * [BMBF apk](https://bmbf.dev/stable) :::warning Att installera BMBF och modifiera ditt spel kommer inaktivera officiella multiplayerläget, visning och uppladdning av poäng på spelets officiella topplistor. If you would like to play modded multiplayer, you need the mod, `Beat Together`, which allows for cross-play between pc and quest and allows for custom songs to be used if all parties own said song. The mod can be found in the Beat Saber Modding Group in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
 
@@ -212,7 +216,7 @@ Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your 
 * [ScoreSaber](https://new.scoresaber.com/quest) - In-game leaderboards for custom songs
 
 ## Troubleshooting
-:::warning I watched this video by Elite Eric, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 

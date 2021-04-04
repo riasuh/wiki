@@ -17,6 +17,10 @@ sidebar: auto
 
 Val de ontwikkelaars niet aan voor problemen gerelateerd aan het gebruik van mods, en vice versa - mod makers en de spel ontwikkelaars zijn twee aparte groepen. Wees gewoon geen eikel. :::
 
+:::warning Ik heb deze video van Elite Eric of FluffySez gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric of FluffySez te gebruiken. Na het beoordelen van veel van hun content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hun te bereiken om deze fouten te corrigeren zijn helaas niet gelukt.
+
+In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wiki beschikbaar zijn, of om hulp te vragen in de [BSMG Discord](https://discord.gg/beatsabermods). :::
+
 ## Installatie
 Op dit moment is het installeren van BMBF met SideQuest op een PC de enige aanbevolen manier om custom levels en mods te installeren.
 
@@ -35,7 +39,7 @@ Open SideQuest en verbind je Quest met je PC.
 
 :::tip Als je eerder een Beat Saber hebt gemod of scores hebt waarvan je een back-up wilt maken, [sla dan eerst je gegevens op!](#backup-save-data-using-sidequest) :::
 
-Als je een gemodde spel hebt moet je het ook verwijderen door op de `UNINSTALL APP` knop te drukken. Na het modden kan je jouw gegevens weer herstellen vanuit hetzelfde menu.
+Als je een modded spel hebt moet je het ook verwijderen door op de `UNINSTALL APP` knop te drukken. Na het modden kan je jouw gegevens weer herstellen vanuit hetzelfde menu.
 
 Klik op de `Install APK from folder` knop, wat hieronder word laten zien, en vind de nieuwste BMBF apk die je hebt gedownload en klik hier op, of sleep de BMBF apk naar SideQuest. Beide methodes zullen BMBF op je Quest installeren.
 
@@ -212,7 +216,7 @@ Word lid van de [Qosmetics Community](https://discord.gg/qosmetics) om te verand
 * [ScoreSaber](https://new.scoresaber.com/quest) - In-game scoreborden voor custom levels.
 
 ## Probleemoplossing
-:::warning Ik heb deze video van Elite Eric gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric te gebruiken. Na het beoordelen van veel van zijn content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hem te bereiken en deze fouten te herstellen hebben helaas enkel stilte en nieuwe (ook incorrecte) video's opgeleverd.
+:::warning Ik heb deze video van Elite Eric of FluffySez gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric of FluffySez te gebruiken. Na het beoordelen van veel van hun content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hun te bereiken om deze fouten te corrigeren zijn helaas niet gelukt.
 
 In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wiki beschikbaar zijn, of om hulp te vragen in de [BSMG Discord](https://discord.gg/beatsabermods). :::
 
@@ -260,18 +264,18 @@ Als geen van deze dingen werken, start dan je Quest opnieuw op en probeer het no
 ---
 
 ### BMBF laad het configuratie scherm niet na een paar minuten
-Dit is waarschijnlijk te wijten aan het gebruik van BMBF op een spelversie waar het niet voor gebouwd is. Zoals het gebruik van BMBF voor Beat Saber versie `1.13.0` wanneer de versie van het spel geïnstalleerd is op de headset `1.12.2` is.  
+Dit komt waarschijnlijk door het gebruik van BMBF op een spelversie waar het niet voor gemaakt is. Zoals het gebruik van BMBF voor Beat Saber versie `1.13.0` wanneer de versie van het spel geïnstalleerd is op de headset `1.12.2` is.  
 Als de spel versie overeenkomt met wat de BMBF release pagina zegt, probeer dan je headset opnieuw op te starten. Als het nog steeds niet werkt, gebruik dan de [BMBF Web Interface](#met-behulp-van-jouw-pc) en klik op `Quick Fix` in het Tools tabblad.
 
 ### Beat Saber is zwart na het opstarten
-Open de bibliotheek op je Quest. Klik op de drie stippen naast Saber en klik vervolgens op `Permissions`. Schakel storage permissions in in het menu dat tevoorschijn komt, en start het spel opnieuw op.
+Open de bibliotheek op je Quest. Klik op de drie stippen naast Saber en klik vervolgens op `Permissies`. Schakel storage permissions in in het menu dat tevoorschijn komt, en start het spel opnieuw op.
 
 ---
 
-### Mijn Sabers en Mods willen niet aan gezet worden/werken
+### Mijn Sabers en mods willen niet aan gezet worden/werken
 Dit komt waarschijnlijk omdat je een oude BMBF hebt geïnstalleerd, je kan [hier](https://bmbf.dev/stable) de nieuwste vinden. Als er geen BMBF versie is voor de Beat Saber versie die jij hebt, wacht dan geduldig tot de unicorns BMBF updaten.
 
-* Als jouw mod gemaakt is voor jouw versie van BMBF, zorg er dan voor dat er geen map in de zip zit die de inhoud van de zip scheidt.
+* Als jou mod gemaakt is voor die versie van BMBF, zorg er dan voor dat er geen map in de zip zit die de inhoud van de zip scheidt.
 * Als je level niet laad, probeer dan de mapping extensions mod te installeren die te vinden is in `#quest-mods`. Het kan ook zijn dat het de mod "Noodle Extensions" nodig heeft, deze is er nog niet voor de Quest.
 * Als je BMBF de nieuwste versie is en mods niet in het spel worden ingeschakeld, verwijder dan Beat Saber met de "BS verwijderen" knop in het BMBF Tools menu en her-installeer het.
 * In het zeer zeldzame geval dat BMBF geen file permissions heeft om mods te kopiëren naar de juiste locatie. Check in SideQuest en zorg ervoor dat BMBF file permissions heeft.

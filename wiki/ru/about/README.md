@@ -31,8 +31,13 @@ From sabers to notes, custom models have always been a popular aspect of modded 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
 Группа опытных создателей карт, которым потребовалось много времени, чтобы записать и поделиться своими знаниями, в целях помощи другим начинающим членам сообщества или тем, кто хочет расширить уже имеющиеся знания. Ознакомьтесь с их картами и задумайтесь о поддержке авторов!
 
+### [Translators](./translators.md)
+The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.
+
+If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+
 ### [Event Winners](./event-winner.md)
-Победители прошедших конкурсов или событий, проводимых на сервере Discord. Keep up with `#server-announcements` for such events happening now, or in the future!
+Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
 
 ## Об этой вики
-Это вики для всех вещей, связанных с моддингом игры Beat Saber. Первоначально она была создана для замены каналов `#beginners-guide` и `#faq` сервера Discord [Beat Saber Modding Group](https://discord.gg/beatsabermods).
+This is a wiki for all things relating to modding the game Beat Saber. It was originally created to replace the `#beginners-guide` and `#faq` channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).

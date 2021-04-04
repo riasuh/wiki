@@ -1,5 +1,5 @@
 ---
-description: Check out these lists of other Beat Saber communities around the internet!
+description: "::: danger\nSorry, this page has not been translated yet, you can either:"
 ---
 
 # Beat Saber コミュニティ

@@ -2,7 +2,8 @@
 sidebar: false
 ---
 
-# Vertaling niet beschikbaar
+<!-- Disable header rule to hide page from search -->
+<!-- markdownlint-disable MD041 -->
 Sorry, deze pagina is nog niet vertaald.
 
 Je kan:
@@ -13,7 +14,6 @@ Je kan:
 
 [Ga terug naar de startpagina](/nl/)
 
-Taal   
 Help deze pagina te verbeteren!   
 Laatste Keer Bijgewerkt   
 Hoofdmenu   

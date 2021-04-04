@@ -21,7 +21,7 @@ Dentro do jogo no menu principal, você verá no lado esquerdo um botão `CUSTOM
 ::: tip NOTA Uma vez selecionado, os sabres só aparecerão enquanto uma música estiver tocando e não enquanto estiver no menu. :::
 
 ### Usuários de Quest
-Carregue o arquivo zip do saber para a seu Quest usando a [Interface Web do BMBF](/quest-modding.md#installing-mods). Você pode selecionar qual sabre está ativo na aba mods do BMBF.
+Upload the `.qsaber` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which saber is active from the Qosmetics menu in-game.
 
 ## Criando Sabres
 [MissRaynor's Saber Guide](./sabers-guide.md) é um excelente recurso para aprender como fazer seus próprios sabres.

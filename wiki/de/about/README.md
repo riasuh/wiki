@@ -28,11 +28,16 @@ Jeder deiner Lieblingssongs wird über viele Stunden von einem talentierten Mapp
 
 > Des Weiteren gibt es einen inoffiziellen Discord-Server der Community, durch den du dich mit Mappern oder Künstlern in Verbindung setzen kannst, falls du etwas in Auftrag geben möchtest. Wir raten dir, dich dazu im [Beat Saber Commissions server](https://discord.gg/4RbcH5G) umzuschauen.
 
-### [Mitwirkende für Mapping-Ressourcen ("Mapping Resources Contributors")](/mapping/mapping-credits.md)
+### [Mitwirkende für Mapping-Ressourcen ("Mapping Resources Contributors")](/de/mapping/mapping-credits.md)
 Eine Gruppe erfahrener Mapper, die sich die Zeit genommen haben, ihr Wissen aufzuschreiben und zu veröffentlichen, um anderen dabei zu helfen, anzufangen oder sich zu verbessern. Schau dir gerne deren Maps an und unterstütze sie!
 
+### [Übersetzer](./translators.md)
+Die fleißigen Leute, die sich die Zeit genommen haben, den Inhalt des Wiki's in ihre eigenen Sprachen zu übersetzen. Ein herzliches Dankeschön für eure Zeit! Die auf dieser Seite aufgeführten sind für Sprachen, die derzeit auf der Website verfügbar sind.
+
+Wenn du in deiner Sprache mithelfen möchtest, kannst du dich [als Übersetzer bewerben!](https://forms.gle/e3BqA3poMjESARe76)
+
 ### [Event Gewinner](./event-winner.md)
-Gewinner vergangener Wettbewerbe oder anderen Events, die im Discord-Server stattgefunden haben. Bleibe für jetzige oder zukünftige Events auf dem Laufenden mit dem `#server-announcements`-Kanal!
+Gewinner vergangener Wettbewerbe/Events, die auf dem Discord-Server stattgefunden haben. Bleibe für jetzige oder zukünftige Events auf dem Laufenden mit dem `#server-announcements`-Kanal!
 
 ## Über dieses Wiki
 Dies ist ein Wiki für alle Dinge, die mit dem Modding des Spiels Beat Saber zu tun haben. Ursprünglich wurde es erstellt, um die`#beginners-guide` und `#faq` Kanäle des [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) zu ersetzen.

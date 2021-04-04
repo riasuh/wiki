@@ -2,7 +2,8 @@
 sidebar: false
 ---
 
-# Übersetzung nicht verfügbar
+<!-- Disable header rule to hide page from search -->
+<!-- markdownlint-disable MD041 -->
 Diese Seite wurde noch nicht übersetzt.
 
 Du kannst:
@@ -13,7 +14,6 @@ Du kannst:
 
 [Zurück zur Startseite](/de/)
 
-Sprache  
 Hilf uns die Seite zu verbessern!  
 Zuletzt aktualisiert am  
 Startseite  

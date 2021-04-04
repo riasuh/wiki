@@ -34,15 +34,20 @@ Hij zal je leren om je mods te fixen en je vreselijke off-beat allereerste level
 
 [Twitch](https://www.twitch.tv/kolezan) | [Doneer](https://paypal.me/kolezan)
 
+## male
+is te oncreatief om een bio te bedenken
+
+**Rol:** Support.
+
 ## OneEyed
 2 waarheden en een leugen: Pink is schattig, CMB is bewust, OneEyed heeft goede spelling
 
 **Rol:** Support.
 
 ## Pespiri
-Hij zal me later vandaag zijn bio geven, dat is wat hij zegt tenminste.
+Hij zal me later vandaag zijn bio geven, tenminste... Dat is wat hij zegt.
 
-**Rollen:** Support, Modder
+**Rollen:** Support, Modder.
 
 [GitHub](https://github.com/pespiri)
 

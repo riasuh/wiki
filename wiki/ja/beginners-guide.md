@@ -5,10 +5,10 @@ sidebar: auto description: Get Started in the Right Direction!
 # 初心者ガイド
 
 ## Modを導入する
-Beat SaberはPCとOculus Questの両方で利用できます。 両方のプラットフォームでモッディングシーンが異なるため、初心者向けガイドは[PC Modding](#pc-modding)と[Quest Modding](#quest-modding)に分かれています。
+Beat SaberはPCとOculus Questの両方で利用できます。 両方のプラットフォームでModの形式が異なるため、初心者向けガイドは[PC Modding](#pc-modding)と[Quest Modding](#quest-modding)に分かれています。
 
 ### PC用Mod
-If you are using SteamVR or the PC version in the Oculus Store, follow our [PC Modding](./pc-modding.md) guide.
+SteamVRまたはOculus StoreでPC版を使用している場合は、 [PC Modding](./pc-modding.md) ガイドに従ってください。
 
 適用されるハードウェアは以下のとおりです。
 
@@ -35,7 +35,7 @@ Oculus Quest バージョンのゲームを使用している場合は、 [Quest
 [マッピング](./mapping/) ガイドに従って、オリジナルの譜面を作成する方法を学びましょう！
 
 ### Modを作る
-Get started creating mods for the game by following our [mod creation](./modding/) guide!
+[modの作成](./modding/) ガイドに従って、ゲーム用のプラグインを作成しましょう！
 
 ### 3Dモデルの作成
 ゲーム用の3Dモデルの作成方法を学びましょう!

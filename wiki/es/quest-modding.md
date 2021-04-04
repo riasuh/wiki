@@ -17,14 +17,18 @@ sidebar: auto
 
 No atacar a los desarrolladores por problemas relacionados con mods, y viceversa - los modders y los desarrolladores son dos grupos separados. Simplemente no seas un cretino ok? :::
 
-## Instalación
-Actualmente la única forma recomendada de instalar canciones y mods personalizados es BMBF sideloaded con SideQuest usando un PC.
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
 
-Si no tienes acceso a un PC puedes utilizar un [teléfono Android](#installing-bmbf-with-an-android-phone).
+Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
+
+## Instalación
+Currently the only recommended way to install custom songs and mods is BMBF sideloaded with SideQuest using a PC.
+
+If you do not have access to a PC you can use an [Android Phone](#installing-bmbf-with-an-android-phone).
 
 * [BMBF apk](https://bmbf.dev/stable) :::warning Instalar BMBF y modear tu juego deshabilitará el Multijugador Oficial, así como ver y subir puntuaciones en los marcadores del juego base. Si quieres jugar multijugador con mods, necesitas el mod, `Beat Together`, que permite el juego cruzado entre pc y Quest y permite que se usen canciones personalizadas si todas las partes tienen dicha canción. El mod se puede encontrar en el Beat Saber Modding Group en `#quest-mods` o en el sitio [Questboard](https://questmodding.com).
 
-Para obtener tablas de clasificación en canciones personalizadas y para poder obtener puntos de rendimiento (PP) de canciones clasificadas, necesitas el mod [ScoreSaber](https://new.scoresaber.com/quest). [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
+To get leaderboards on custom songs and to be able to get Performance Points (PP) from ranked songs you need the [ScoreSaber](https://new.scoresaber.com/quest) mod. [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
 
 **Note:** Check the updates channel in the [ScoreSaber discord](https://discord.gg/WpuDMwU) to see if the mod is available for the current game version. :::
 
@@ -212,7 +216,7 @@ Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your 
 * [Sable de puntuación](https://new.scoresaber.com/quest) - Marcadores de clasificación para canciones personalizadas.
 
 ## Resolución de problemas
-:::warning I watched this video by Elite Eric, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 

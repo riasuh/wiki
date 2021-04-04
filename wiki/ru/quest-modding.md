@@ -17,6 +17,10 @@ sidebar: auto
 
 Do not attack the game developers for issues related to mods, and vice versa - modders and game developers are two separate groups. В общем, просто не ведите себя как кретин. :::
 
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
+
+Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
+
 ## Установка
 Currently the only recommended way to install custom songs and mods is BMBF sideloaded with SideQuest using a PC.
 
@@ -212,7 +216,7 @@ Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your 
 * [ScoreSaber](https://new.scoresaber.com/quest) - In-game leaderboards for custom songs
 
 ## Troubleshooting
-:::warning I watched this video by Elite Eric, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 

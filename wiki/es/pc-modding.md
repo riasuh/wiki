@@ -40,14 +40,18 @@ Un simple instalador de Mods de Beat Saber similar al gestor de mods, pero con c
 ## Cómo obtener más canciones
 ::: tip La mayoría de los mapas en los filtros "Top general", "Clasificación", "Descargas" o "Jugadas" se crearon antes de que se establecieran las buenas prácticas de mapeo. Intenta descargar canciones publicadas entre finales de 2019 y ahora para obtener la mejor experiencia de niveles personalizados. :::
 
+::: warning It is a good idea to backup your `CustomLevels` folder periodically as there is a small chance it will be reset if the game updates!
+
+This folder is located in your game install: `Beat Saber/Beat Saber_Data/CustomLevels` :::
+
 ### Descargador en el juego
-The `BeatSaver Downloader` mod allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. Esto coge mapas directamente de [BeatSaver](https://beatsaver.com)
+The `BeatSaver Downloader` mod allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from [BeatSaver](https://beatsaver.com)
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) es el repositorio principal de canciones personalizadas hechas por la comunidad. Muchas otras herramientas y sitios mejoran la experiencia de descargar canciones personalizadas, pero este sitio donde se almacenan. Para instalar las canciones descargadas desde el sitio, descomprimirlas en una carpeta y colocarlas en `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
+[BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is where they are stored. To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
 
 ### Beast Saber
-[Beast Saber](https://www.bsaber.com) (bsaber.com) es un sitio que intenta ayudar a encontrar mapas fantásticos para jugar más fácilmente. Hace esto categorizando las miles de canciones en beatsaver y te permite ordenar por el género de las canción es y muchas otras etiquetas de atributos. También tiene una característica social completa donde los jugadores pueden revisar canciones y comentarlas. Una de las características más utilizadas es la función "Recomendado por el conservador" en la que un equipo juega la mayoría de las canciones lanzadas cada día y recomienda las que destacan, permitiéndote [descargarlas automáticamente en el juego](https://bsaber.com/beatsync/).
+[Beast Saber](https://www.bsaber.com) (bsaber.com) is a site that tries to help make finding fantastic maps to play easier. It does this by categorizing the thousands of songs on beatsaver and lets you sort by a song's genre and many other attribute tags. It also has a full social feature where players can review songs and comment on them. One of the most used features is the "Curator Recommended" feature where a team plays through most songs released each day and recommends the ones that stand out, letting you [automatically download these in-game](https://bsaber.com/beatsync/).
 
 ### Herramientas de administración de canciones
 
@@ -105,7 +109,7 @@ Either remove the dll from the `Plugins` folder, or click the `Uninstall` button
 * [Custom Sabers](/models/custom-sabers.md)
 * [Custom Avatars](/models/custom-avatars.md)
 * [Custom Platforms](/models/custom-platforms.md)
-* [Setup Multiplayer](https://bs.assistant.moe/Multiplayer/)
+* [Play Customs in Multiplayer](https://discord.com/invite/gezGrFG4tz)
 * [Making Mods](/modding/)
 
 ## ¿Tienes alguna pregunta?

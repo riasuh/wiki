@@ -88,78 +88,105 @@ Servidor oficial de Beat Saber para personas que pueden pronunciar "rød grød m
 
 ---
 
-### Francia
+### Finland
 
-#### Beat Saber FR
-¡Una comunidad privada francesa de Beat Saber para jugadores francófonos!
+#### Tahti Sapeli
+Finnish Beat Saber community, everyone welcome!
 
-[Solicitud](https://docs.google.com/forms/d/1Ro79QYJ83gAsT6m_hpRgCNyhKNZDlEiZJ3oSh5mwTG4)
+[Discord](https://discord.gg/qCtX7yBv7J)
 
 ---
 
-### Alemania
+### France
 
-#### Comunidad alemana de beat Saber
-Discord oficial alemán Beat Saber para jugadores alemanes, pero la gente de otros países también son bienvenidos :)
+#### Beat Saber FR
+Discord server for the French Beat Saber community.
+
+[Discord](https://discord.gg/8cAAa7J)
+
+---
+
+### Germany
+
+#### German Beat Saber Community
+Official German Beat Saber Discord for German players, but people from other countries are also welcome :)
 
 [Discord](https://discord.gg/y4G6ruN)
 
 ---
 
-### Países Bajos
+### Italy
 
-#### Grupo holandés de Beat Saber
-El Grupo Holandés de Beat Saber, con salas multijugador, noches de películas, noches de VRC y mucho más! Compara tu perfil de ScoreSaber con otros jugadores usando su Bot de BeatSaber personalizado.
+#### Italian Beat Saber Community
+A chill and accessible place for Italian players to hang around and meet each other
+
+[Discord](https://discord.gg/asdJZ7cTxe)
+
+---
+
+### The Netherlands
+
+#### Dutch Beat Saber Group
+The Dutch Beat Saber Group, featuring multiplayer rooms, movie nights, VRC nights, and more! Compare your ScoreSaber profile with other players using their custom BeatSaber Bot.
 
 [Discord](https://discord.gg/sDa7xrE)
 
 ---
 
-### Suecia
+### Spain
 
-#### Beat Saber Suecia
-Somos la gente que tiene fika con kanelbulle, y a veces köttbullar...  
-¡El discord sueco oficial, justo aquí!
+#### Beat Saber España
+Discord server for the Spanish Beat Saber community, people from other countries are welcome too :D
+
+[Discord](https://discord.com/invite/x6mChxk)
+
+---
+
+### Sweden
+
+#### Beat Saber Sweden
+We're the people who has fika with kanelbulle, and sometimes köttbullar...  
+The official Swedish discord, right here!
 
 [Discord](https://discord.gg/9HavEGBzZz)
 
 ---
 
-### Suiza
+### Switzerland
 
 #### SwissSaber
-Discord oficial de Beat Saber para jugadores suizos, pero también son bienvenidos las personas de otros países.
+Official Beat Saber Discord for Swiss players, but people from other countries are also welcome.
 
 [Discord](https://discord.gg/eV6SUUF)
 
 ---
 
-### Reino unido
+### UK
 
-#### Discord británico Beat Saber
-¡Tenemos té!
+#### British Beat Saber Discord
+We have tea!
 
 [Discord](https://discord.gg/FC2pzeN)
 
 ---
 
-### Noruega
+### Norway
 
-#### Beat Saber Noruego
-Somos una pequeña comunidad con sede en el relativamente pequeño país de Noruega. ¡Queremos tener una comunidad de personas de todos los países con el uso de nuestro robot hecho por Rocker!
+#### Beat Saber Norge
+We are a small community based in the relatively small country of Norway. We want to have an accepting community of people from all countries with the use of our bot made by Rocker!
 
 [Discord](https://discord.gg/nZuY3yM)
 
 ---
 
-### Irlanda
+### Ireland
 
-#### Beat Saber Irlanda
-Servidor de Discord para la comunidad irlandesa de Beat Saber, los jugadores internacionales también son bienvenidos!
+#### Beat Saber Ireland
+Discord server for the Irish Beat Saber community, international players are welcome too!
 
 [Discord](https://discord.gg/uKQzjRQ)
 
 ---
 
 ## Oceania
-*Ninguno todavía.*
+*None yet.*
