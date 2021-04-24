@@ -126,50 +126,50 @@ Onder het levelselectie scherm kan je een nieuwe lege map maken in `CustomWIPLev
 Het instellingenpaneel bevat algemene instellingen voor automatisch opslaan, zip comprimeren, mappaden en meer.
 
 * **Autosave Settings:** Autosave is standaard ingeschakeld met een interval van 300 seconden (5 minuten). Dit is voor de meeste gebruikers over het algemeen prima, tenzij je een zwaar verlichte level maken. Autosave tijdens het spelen van het level in de editor is ook standaard ingeschakeld.
-* **Mapping & Lighting Settings:**
+* **Mapping- & verlichtingsinstellingen:**
   * No lighting is standaard uit, wat betekend dat alle verlichtingsevenementen die geplaatst zijn op het verlichting track zichtbaar zullen zijn tijdens het afspelen. Schakel het in om de verlichtingsevenementen uit te zetten tijdens het maken van het level.
   * Je hebt nu de mogelijkheid om MMA2 een alternatievete geven om jouw gecomprimeerde levels in op te slaan. Standaard zal het gecomprimeerde level worden gevonden in de map waar het ongecomprimeerde level zich bevind.
 * **Beta Settings:** If you have the Mapping Extensions mod installed you will have additional checkboxes enabled for "extended" mapping features like precision placement, precision rotation, and six-lane. New mappers are encouraged to skip this until they're more comfortable with the basics.
-* **Legacy Settings:** If you have the Chroma mod installed you can check this box to enable the Chroma lighting toolbar but it has been unsupported for some time.
-* **Other Settings:** Click the <kbd>Clear Settings</kbd> button to revert to default settings. You may also enter new paths for either of your song folders. If for some reason nothing works you can click the <kbd>Everything Inexplicably Broken?</kbd> button to delete your config file.
+* **Legacy instellingen:** Als je de Chroma mod hebt geïnstalleerd kan je dit vakje aanvinken om de Chroma verlichting werkbalk in te schakelen, maar het wordt al enige tijd niet ondersteund.
+* **Andere instellingen:** Klik op de <kbd>Clear Settings</kbd> knop om terug te gaan naar de standaard instellingen. You may also enter new paths for either of your song folders. Als om een of andere reden niets werkt dan kan je op de <kbd>Everything Inexplicably Broken?</kbd> knop klikken om jouw configuratiebestand te verwijderen.
 
 ::: warning Confirm both folder paths are complete on the Song Selection screen and add the path(s) from [First Time Setup](#first-time-setup) if blank. There is a known bug that deletes the CustomWIPLevels folder path on first use. :::
 
 ## Song Setup
 Once you've finished one-time editor setup you're ready to create your first map.
 
-### Song Creation
-You have two options to create your song folder:
+### Het maken van een level
+Je hebt twee opties om je nummermap te maken:
 
 1. Enter your desired folder name in the 'Create New Level' pane and click <kbd>Create Level</kbd>. Your new folder will automatically appear in your map list.  
    ![Using "Create A New Level" to make a song folder](~@images/mapping/mma2-create-new-level.jpg)
 2. Navigate to your `CustomWIPLevels` folder and make a folder with your desired folder name. You will need to click <kbd>Refresh Song List</kbd> to see your folder.
 
-Click <kbd>Edit</kbd> to enter your song information and metadata.
+Klik op <kbd>Edit</kbd> om jouw nummergegevens en metadata in te voeren.
 
 ### Song Info Settings
-The `Song Info` page is the first screen you see every time you edit a map.
+De `Song Info` pagina is het eerste scherm dat je elke keer ziet als je een level aanpast.
 
 ::: align center ![Mediocre Map Assistant 2 song setup screen](~@images/mapping/mma2-song-info.jpg) :::
 
 #### Whole Map Settings
 On the left side of the `Song Info` page is information that applies to your whole map. See [Beat Saber Metadata Criteria](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) for standards on presenting complex song names and multiple artists.
 
-::: warning Special characters such as those found in, Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinese (汉语/漢語), Arabic (اَلْعَرَبِيَّةُ‎), and accented characters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ) are not fully supported by BeatSaver. Using these characters in song metadata or in bookmarks will cause problems. :::
+::: warning speciale tekens in talen zoals Japans (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinees (汉语/漢語), Arabisch (اَلْعَرَبِيَّةُ‎), en geaccentueerde karakters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ zijn niet ondersteund door BeatSaver. Het gebruik van deze tekens in metadata of in bladwijzers kan problemen veroorzaken. :::
 
-* **Song Name:** The primary name of the song
-* **Song SubName:** Any following tags like (Short Ver.), (SDVX Mix), etc.
-* **Song Artist:** The person or group who authored the song
-* **Mapper:** This is YOU! It's recommended you list your name the same as your BeatSaver user name
-* **BPM:** The tempo of the song. It's *critical* to get this right before you start. See [Basic Audio Setup](./basic-audio.md) for guidance
-* **Audio File Name:** The name of the song file (including the extension) you have placed in `CustomWIPLevels > [Song Folder]`. Recommended to just name it *song.ogg* to avoid the pitfalls of special characters
-* **Preview Start Time:** Position in the song file, in seconds, of the start of the in-game menu song preview. Defaults to 12s/
-* **Preview Duration:** Duration, in seconds, of the in-game menu song preview. Defaults to 10s
-* **Cover Image Name:** The name of the image file (including the extension) you have placed in `CustomWIPLevels > [Song Folder]`. Must be perfectly square and at least 256 px
-* **Environment Name:** A dropdown menu of the default environments or platforms available. See [Basic Lighting Practices](./basic-lighting.md#environment-previews) for an overview of these environments
-* **Custom Platform:** The copy/pasted name of a custom platform from [ModelSaber](https://modelsaber.com/Platforms/). This feature is glitchy and it's recommended that you JSON edit any custom platform information
+* **Song Name:** de primaire naam van het nummer.
+* **Song SubName:** Alle volgende tags zoals (Short Ver.), (SDVX Mix), enz.
+* **Song Artist:** de persoon of groep die het nummer heeft geschreven.
+* **Mapper:** dit ben JIJ! Het word aangeraden om dezelfde naam te gebruiken die je ook als BeatSaver gebruikersnaam hebt.
+* **BPM:** de tempo van het nummer. Het is *super belangrijk* dat je dit goed krijgt voordat je begint. Zie [Standaard audio setup](./basic-audio.md) voor begeleiding
+* **Audio File Name:** de naam van het audiobestand (inclusief extensies) dat je in `CustomWIPLevels > [nummer map]` hebt geplaatst. Het word aanbevolen om het gewoon *song.ogg* te noemen om te voorkomen dat er speciale karakters in zitten.
+* **Preview Start Time:** positie in het audiobestand, in seconden, waar het voorbeeld wat je in het spel hoort begint. Defaults to 12s
+* **Preview Duration:** de tijd, in seconden, voor hoelang het voorbeeld duurt. Is standaard ingesteld op 10s.
+* **Cover Image Name:** de naam van de omslagfoto (inclusief extensies) dat je in `CustomWIPLevels > [nummer map]` hebt geplaatst. Moet perfect vierkant en ten minste 256 px zijn.
+* **Environment Name:** een dropdown menu van de standaard omgevingen of platforms die beschikbaar zijn. Zie [basis verlichting](./basic-lighting.md#omgevingsvoorbeelden) voor een overzicht van deze omgevingen.
+* **Custom Platform:** De naam van een custom platform van [ModelSaber](https://modelsaber.com/Platforms/). Deze functie is glitchy en het wordt aangeraden om het bestand handmatig te bewerken om enige custom platform informatie toe te voegen.
 
-The <kbd>Open Song Folder</kbd> button will open your song folder in Windows Explorer. This will help you confirm that you have your files in the right spot. The <kbd>Package Song to Zip</kbd> button will remove your autosaves folder and zip the files for BeatSaver. The <kbd>Save Song Info</kbd> button commits all of your metadata to the Info.dat file
+De <kbd>Open Song Folder</kbd> knop opent de map van jouw nummer in Windows Explorer. This will help you confirm that you have your files in the right spot. The <kbd>Package Song to Zip</kbd> button will remove your autosaves folder and zip the files for BeatSaver. The <kbd>Save Song Info</kbd> button commits all of your metadata to the Info.dat file
 
 #### Difficulty Settings
 On the right side of the `Song Info` page is the area where you create individual difficulties and edit data that only applies to a single diffculty level.

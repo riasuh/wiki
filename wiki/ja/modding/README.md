@@ -8,7 +8,7 @@ Instead, most mods within the mod installer rely on [BSIPA (Beat Saber Illusion 
 For those of you who prefer [BepInEx](https://github.com/BepInEx/BepInEx) over either of these options, Bepis has created a loader for BSIPA plugins, available [here](https://github.com/BepInEx/BepInEx.BSIPA.Loader). As for developing Beat Saber plugins with the BepInEx plugin API, a generic guide exists on their [documentation site](https://bepinex.github.io/bepinex_docs/v5.0/articles/dev_guide/plugin_tutorial/index.html), but other than that you're kinda on your own.
 
 ## プロジェクトのセットアップ
-If you are interested in creating a Beat Saber mod, but do not have a template or Visual Studio template set up, [follow the Intro guide to get your project all set up](./intro.md).
+ビートセイバーのModの作製に興味があるがVisual Studioなどで使うテンプレートを持っていない場合は[はじめのセットアップ](./intro.md)に従ってください。
 
 ### 準備はいいですか?
 Check out the [links below](#other-links) for documentation relating to Unity and related tooling. If you have any questions, the best place to ask is in the `#pc-mod-dev` channel on the [BSMG Discord](https://discord.gg/beatsabermods)
@@ -31,4 +31,4 @@ Helpful launch arguments that will make modding / debugging easier.
 * [Unity Scripting API](https://docs.unity3d.com/ScriptReference/index.html)
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)
-* [Beat Saber IPA](https://github.com/nike4613/BeatSaber-IPA-Reloaded)
+* [Beat Saber IPA](https://bsmg.github.io/BeatSaber-IPA-Reloaded/)

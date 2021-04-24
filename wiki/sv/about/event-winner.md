@@ -5,31 +5,56 @@ sidebar: auto
 # Event Vinnare
 Vinnare över tidigare tävlingar/event som hölls på discordservern. Keep up with `#server-announcements` for such events happening now, or in the future!
 
-## 2020 Jultävling
-Den tredje Holiday/Winter tävlingen, jul 2: Electric Padoru.
+If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
+
+## 2021 Battle Royale
+Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
 
 ---
 
-[Vinnare tillkännagivande](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
 
-### Banorna som vann
+### Finalists
+In no particular order... these people made it to the top 6 and earned themselves the role!
+
+* DaNike
+* Pink
+* Fixemega
+* Caeden117
+* Kaoplo
+* Raemien
+
+### Battle Master
+GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
+
+### Victory Royale
+The one person who stood above all the rest... Caeden117
+
+## 2020 Christmas Contest
+The third Holiday/Winter contest, Christmas 2: Electric Padoru.
+
+---
+
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
+
+### Map Winners
 
 #### Klassisk
 
-* **1:a:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) av **ETAN**
+* **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 * **2nd:** [Majestica - Ghost of Christmas Present](https://beatsaver.com/beatmap/11c53) by **Cyrix**
-* **3:e:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) av **Alekcake**
+* **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) by **Alekcake**
 
 #### Modifierad
 
-* **1:a:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) av **SpecVR & Tall_Chilis_Boi**
+* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
-### Modell vinnare
+### Model Winners
 
 * **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
 
-### Förstapris
-[PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) av **ETAN**
+### Grand Prize
+[PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
 ## 2020 Halloween Contest
 The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.

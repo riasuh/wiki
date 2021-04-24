@@ -5,6 +5,31 @@ sidebar: auto
 # Evenement Winnaars
 Winnaars van wedstrijden/evenementen die gehouden worden/zijn gehouden in de discord. Houd `#server-announcements` goed in de gaten voor dit soort evenementen die nu of in te toekomst bezig zijn!
 
+Als je ons meer leuke evenementen wilt zien doen, overweeg dan om bij te dragen aan de events tier op onze [Patreon](https://www.patreon.com/beatsabermods)!
+
+## 2021 Battle Royale
+Ook bekend als *The Culling*, was dit evenement een Skyrim achtige Battle Royale dat werd gehouden op het eind van 1 april en het duurde 5 uur. Met meer dan 100 deelnemers en een prijzenpot van vele game keys royaal gedoneerd door Bobbie, Sam, en raftario, met de events tier van onze Patreon dat de kopie van Skyrim heeft gefundeerd. Bovendien, zijn tijdens de 10 persoons finale een hele 50 subs uitgegeven door Zyxi waardoor we de winnaar konden voorzien van een spel naar keuze bovenop Skyrim!
+
+---
+
+[Overwinnings mededeling](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+
+### Finalisten
+In geen enkele bijzondere volgorde... hebben deze mensen het naar de top 6 gehaald en de rol verdiend!
+
+* DaNike
+* Pink
+* Fixemega
+* Caeden117
+* Kaoplo
+* Raemien
+
+### Battle Master
+GLHolmstroff is geëerd met de event rol voor het leiden van de Whiterun Garde in een glorieuze strijd en discussie over de vraag of een hotdog een broodje is.
+
+### Victory Royale
+Degene die boven alle anderen stond... Caeden117
+
 ## 2020 kerst wedstrijd
 De derde vakantie/Winter wedstrijd, Kerst 2: Electric Padoru.
 
@@ -56,7 +81,7 @@ De derde Halloween wedstrijd. Dit keer met beroemde juryleden, namelijk: LostVin
 * **2e:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber van **JJ | hi**
 * **3e:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber van **Okachamie**
 
-### Hoofd prijs
+### Hoofdprijs
 [Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) van **nitronik.exe**
 
 ## 2020 Battle Royale
@@ -109,7 +134,7 @@ Geen specifieke volgorde...
 ### Mod winnaar
 Een speciale versie (3.0.1 voor Beat Saber 1.7) [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) van **Sc2ad** voor de Quest
 
-### Hoofd prijs
+### Hoofdprijs
 [Bossfight - Carol of the Cartels](https://beatsaver.com/beatmap/73c9) van **Fefeland**
 
 ## 2019 Halloween wedstrijd
@@ -157,13 +182,13 @@ De allereerste Vakantie/Winter wedstrijd georganiseerd door BSMG. Sommige indien
 * **2e:** [Celtic Woman - Carol of the Bells](https://beatsaver.com/beatmap/2569) van **Fefeland**
 * **3e:** Saunik - Carol of the Bells van **TehSuperToilet**
 
-### Saber Winnaar
+### Saber winnaar
 [Silent Candy Cane Saber](https://cdn.discordapp.com/attachments/446478074125746176/524087064560402432/Silent_Cane_Blade_XA.saber) van **Tachrayonic** | [Preview Video](https://www.youtube.com/watch?v=hNiuIf_jU2c)
 
-### Avatar Winnaar
+### Avatar winnaar
 [ChristmasMonitorBot](https://cdn.discordapp.com/attachments/450344263453245440/518014914174910465/ChristmasMonitorBot.avatar) van **DeeJay**
 
-### Platform Winnaar
+### Platform winnaar
 [Christmas Platform](https://cdn.discordapp.com/attachments/452948292641488897/522475725610024965/Christmas_Platform.plat) van **AkaRaiden** | [Preview Video](https://www.youtube.com/watch?v=HihTOipgE18)
 
 ## 2018 Halloween wedstrijd
@@ -176,13 +201,13 @@ De allereerste Halloween wedstrijd georganiseerd door BSMG. Sommige indieningen 
 ### Level winnaar
 [Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) van **Ruckus**
 
-### Saber Winnaar
+### Saber winnaar
 Spoopy Hands van **Assistant**
 
-### Avatar Winnaar
+### Avatar winnaar
 Spooky Scary Skeleton van **DeeJay & RedF**
 
-### Platform Winnaar
+### Platform winnaar
 Midnight Graveyard van **Davey**
 
 ### Mod winnaar

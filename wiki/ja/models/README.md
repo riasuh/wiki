@@ -3,15 +3,15 @@ description: Installation, Usage, and Creation Guides for Model Mods!
 ---
 
 # 3D モデル
-All custom model mods were created separately by different people. Each mod has its own dedicated page detailing installation and usage instructions. These are listed below and in the sidebar.
+すべてのカスタムモデルはそれぞれ別の人が作成しています。 それぞれのモデルはそれぞれの説明、インストール方法、利用規約が定められています。 いかにそれらを示します。またサイドーメニューにもあります。
 
-* [Custom Sabers](./custom-sabers.md)
-* [Custom Avatars](./custom-avatars.md)
-* [Custom Platforms](./custom-platforms.md)
-* [Custom Notes](./custom-notes.md)
-* [Custom Walls](./custom-walls.md)
+* [カスタムセイバー](./custom-sabers.md)
+* [カスタムアバター](./custom-avatars.md)
+* [カスタムプラットフォーム](./custom-platforms.md)
+* [カスタムノーツ](./custom-notes.md)
+* [カスタムウォール](./custom-walls.md)
 
-## Where to find models
+## モデルを見つける方法
 
 ### ModelSaber
 [ModelSaber](https://modelsaber.com/) is the current repository for sabers, avatars, bloqs, and platforms. It includes preview images, and OneClick&trade; install links.

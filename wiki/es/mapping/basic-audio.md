@@ -96,7 +96,8 @@ Los pasos listados a continuación son los mismos que los utilizados en el [Vide
 
 ##### La ejecución del código no puede continuar porque no se encontró MSVCP120.dll
 
-* Instala [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) en tu idioma preferido e inténtalo de nuevo.
+* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
+  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 :::danger **¡Este es un paso crítico!**  
 No usar un archivo `.ogg` o usando la función de exportación en AV **desincronizará** la canción por una cantidad inconsistente de tiempo. :::

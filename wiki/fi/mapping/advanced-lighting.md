@@ -114,7 +114,7 @@ Chroma events don’t do anything on its own. Chroma events function by acting a
 
 ::: align center ![Screenshot of the MMA2 lighting track with Chroma events](~@images/mapping/mma2-chroma.png) :::
 
-:::warning Do not place chroma events inside another event. It can cause issues when copy pasting and MM’s shoddy rounding can even place the chroma after the actual event and it won’t change colour. Completely avoid it. ~Halcyon12 :::
+:::warning Do not place chroma events inside another event. It can cause issues when copy pasting and MMA2’s shoddy rounding can even place the chroma after the actual event and it won’t change colour. Completely avoid it. ~Halcyon12 :::
 
 ### Gradients
 How to place a gradient using Chroma events:

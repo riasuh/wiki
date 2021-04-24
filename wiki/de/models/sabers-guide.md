@@ -125,7 +125,7 @@ Mit dieser Komponente kannst du eine Aktion einrichten, wenn eine Ereignis-Bedin
 
 Um es zu verwenden, klicke auf die Plus-Schaltfläche, um ein neues Ereignis zu erstellen. Ziehe das gameObject, welches die Aktion ausführt in den Slot und wähle dann die gewünschte Aktion aus.
 
-Wenn du mehr Informationen zu Events haben willst, lies dir die `Events` Sektion im Custom-Avatars Guide **Link benötigt!!!**
+If you want more information on events, read the [Events](./avatars-guide.md#events) section in the Custom Avatars guide.
 
 ![Event hinzufügen](~@images/models/sabers/13.png)
 

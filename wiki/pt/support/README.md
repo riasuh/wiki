@@ -159,7 +159,6 @@ Clique no botão de interrogação azul brilhante (?) no canto superior direito.
 Se isso só acontecer em mapas específicos, você pode estar sem mods necessários ou os arquivos de música estão quebrados. Se isso acontecer com todos os seus mapas, exclua a sua pasta `Plugins` e reinstale novos.
 
 ### CameraPlus
-:::warning NOTE This mod is no longer being maintained and has been replaced with [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2). :::
 
 #### 3.9 Câmera Plus não está funcionando/Após passar a tela de Health
 Make sure the in-game setting for "Smooth Camera" is turned off in your in-game settings. If that does not work, try reinstalling it and associated dependencies.

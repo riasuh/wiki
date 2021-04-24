@@ -293,7 +293,7 @@ Dit is de locatie van het niveaubestand, wat de blokken, obstakels en verlichtin
 
 Vergelijkbaar met de [`_songFilename`](#songfilename) en [`_coverImageFilename`](#coverimagefilename) van eerder, in veel gevallen is dit alleen maar de naam en extensie (altijd `.dat`) naar het level bestand.
 
-Bij het maken van *nieuwe* moeilijkheden. wordt aanbevolen dat de naam een van de kenmerken is voor de ouder van dit probleem [Beatmap Set](#difficulty-beatmap-sets), gevolgd door de [`_difficulty`](#difficulty) waarde. Bijvoorbeeld, dit specifieke niveau moet er voor zorgen dat het niveaubestand `StandardExpertPlus.dat` heet.
+Bij het maken van *nieuwe* niveaus, wordt het aanbevolen dat de naam een van de kenmerken is voor het niveaus parent [Beatmap Set](#difficulty-beatmap-sets), gevolgd door de [`_difficulty`](#difficulty) waarde. Bijvoorbeeld, dit specifieke niveau moet er voor zorgen dat het niveaubestand `StandardExpertPlus.dat` heet.
 
 
 

@@ -107,7 +107,7 @@ Projectmanager, wiki onderhouder, brood bakker. Ondanks wat iedereen zegt, val i
 Toezichthouder van kerndiensten, waaronder de BeatSaver en BeatMods servers. De originele Support en maker van de custom avatar gids, Mod Assistant en ModelSaber.
 
 **Rollen:** Staff, Support, 3D Artists.   
-**Bijdragen:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, BeatSaver Admin en BSMG Podcasts.
+**Bijdragen:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creatie gidsen, Moderatie, ModelSaber, BeatSaver Admin en BSMG Podcasts.
 
 [GitHub](https://github.com/Assistant) | [Doneer](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 

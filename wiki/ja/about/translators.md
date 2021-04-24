@@ -1,11 +1,11 @@
-# Translators
-The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed here are for languages currently available on the website.
+# Translators（翻訳）
+wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割いてくださったことに感謝いたします。 このページに記載されているものは、現在ウェブサイト上で利用可能な言語用です。
 
-If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+あなたの言語に参加したい場合は、 [こちらから翻訳を手伝ってください！](https://forms.gle/e3BqA3poMjESARe76)
 
-## French | Français
+## フランス語 - Français
 
-### Proofreaders
+### 公正
 
 * Awagi
 * Jeremiidesu
@@ -24,7 +24,7 @@ If you would like to join for your language, you can [apply to help translate!](
 * Pryd
 * risi
 
-## German | Deutsch
+## ドイツ語 - Deutsch
 
 ### Proofreaders
 
@@ -36,7 +36,7 @@ If you would like to join for your language, you can [apply to help translate!](
 * ComputerElite
 * CookieDLX
 * Jen (Br3uker)
-* Raviolimann69
+* Ravioliman69
 * RobertR11
 * SasSao
 * Syskoh

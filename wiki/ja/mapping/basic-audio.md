@@ -97,6 +97,7 @@ The steps listed below are the same as those used in Ryger’s [Arrow Vortex BPM
 ##### The code execution cannot proceed because MSVCP120.dll was not found
 
 * Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
+  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 or contribute to translation effort [here](https://github.com/bsmg/wiki). :::
 

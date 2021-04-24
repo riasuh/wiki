@@ -159,64 +159,63 @@ Cliquez sur le point d'interrogation (?) bleu dans le coin en haut à droite. Ce
 Si cela ne se produit que sur certaines maps, vous n'avez peut-être pas les mods nécessaires, ou cette map peut être corrompue. Si cela se produit sur toutes vos maps, supprimez votre dossier `Plugins` et réinstallez vos mods.
 
 ### CameraPlus
-:::warning NOTE Ce mod n'est plus maintenant et a été remplacé par [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2). :::
 
 #### 3.9 Camera Plus ne fonctionne pas / après l'écran Santé
-Assurez-vous que l'option "Smooth Camera" (Caméra lisse) du jeu de base est désactivée. Si cela ne fonctionne pas, essayez de réinstaller CameraPlus et ses dépendances.
+Make sure the in-game setting for "Smooth Camera" is turned off in your in-game settings. If that does not work, try reinstalling it and associated dependencies.
 
 #### 3.10 Ma vue sur le PC ne prend qu'une petite portion de l'écran
-Votre affichage CameraPlus ne remplit pas votre écran. Tirez les coins de la fenêtre pour l'agrandir, ou cliquez droit sur la fenêtre et sélectionnez "Fit To Canvas" (Agrandir à l'écran).
+Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
 ### BeatSaver Downloader
 
 #### 3.11 Le bouton More Songs de BeatSaver Downloader
-**Le bouton More Songs est placé dans le menu principal à gauche sous le texte Mods.** Si ce bouton est grisé, vérifiez que toutes vos chansons sont chargées à l'aide de la barre de progression arc-en-ciel visible sur le menu principal. Si votre bouton Mods n'est pas là, assurez-vous que vos extensions et dépendances fonctionnent et sont correctement installées, référez-vous à la section [Pas de mods ?](#1-pas-de-mods).
+**The More Songs button is located in the main menu to the left under the Mods text.** If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in by the rainbow progress bar on the main menu. If your Mods menu isn't there then make sure your mods and dependencies are working and installed properly, refer to the [No Mods?](#_1-no-mods) section.
 
 #### 3.12 Rien n'apparaît dans le menu More Songs
-Les potentielles causes d'erreur de BeatSaver Downloader sont :
+The probable causes for beatsaver downloader not working are:
 
 1. Assurez-vous que toutes vos chansons sont chargées, autrement le bouton *More Songs* sera grisé.
 2. Votre antivirus ou pare-feu bloque l'accès à BeatSaver.
 3. Vous avez atteint le taux limite de BeatSaver et devrez attendre avant de réessayer.
 
 ### Codes d'erreur multijoueur
-Voici une liste des codes d'erreurs connus, ce qu'ils représentent, et ce que vous pouvez faire pour résoudre le problème correspondant.
+Here is a list of known error codes, what they mean, and what you can do to fix them.
 
 <!-- Disable line length rule because of table -->
 <!-- markdownlint-disable MD013 -->
-| Code&nbsp; | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|:---------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CFR-1      | Une erreur inconnue s'est produite. Essayez de redémarrer le jeu.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| CFR-2      | La connexion au multijoueur a été annulée.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| CFR-3      | Serveur indisponible. Il peut y avoir un problème avec votre connexion internet ou avec les serveurs relais de Beat Saber. Vérifiez que vous n'êtes pas hors ligne et que votre pare-feu permet à Beat Saber de se connecter à internet. <details><summary>**Informations supplémentaires**</summary>Le multijoueur de Beat Saber fonctionne en pair à pair : vous vous connectez donc directement à chaque joueur dans le salon multijoueur. Lorsque cela n'est pas possible, Beat Saber ouvre un serveur "relais" auquel envoyer les données. Cette erreur signifie que ces deux méthodes ont échoué.</details> &nbsp; Cette erreur peut également survenir si vous utilisez des emojis ou autres caractères spéciaux dans votre nom d'utilisateur. |
-| CFR-4      | Le serveur existe déjà.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| CFR-5      | Le serveur n’existe pas. Il est possible que le salon multijoueur auquel vous essayiez de vous connecter a été fermé pendant que vous vous connectiez.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| CFR-6      | Le serveur est plein. Choisissez un salon multijoueur différent.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| CFR-7      | Vous êtes sur une version du jeu qui n'est pas compatible avec les serveurs.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| CFR-8      | Le mot de passe du salon multijoueur est incorrect. Vérifiez que vous entrez le bon mot de passe.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| CFR-9      | Les serveurs de matchmaking de Beat Games, qui permettent de gérer les salons multijoueur publics et privés, sont hors ligne. Réessayez plus tard.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| CFR-10     | Votre clé de session Steam ou Oculus est invalide. Si vous jouez sur Quest et avez moddé votre jeu, allez voir [ici](/fr/faq/README.md#est-ce-que-le-multijoueur-est-multiplateforme) pour contourner le problème. Sinon, vous êtes sur une version piratée du jeu, qui n'est pas prise en charge.                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| CFR-11     | Vous ne semblez pas être connecté à internet.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Code&nbsp; | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:---------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CFR-1      | Unknown Error Occurred. Try restarting the game.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| CFR-2      | The multiplayer connection was canceled.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| CFR-3      | Server is not reachable. There may be an issue with your internet connection or with Beat Saber's relay servers. Double check you are not offline and your firewall allows Beat Saber to connect to the internet. <details><summary>**Background Information**</summary>Beat Saber Multiplayer is peer-to-peer where you connect directly with each player in the lobby. When this is not possible Beat Saber starts a "relay" server to send the data. This error means both of these methods failed.</details> &nbsp; This can also be caused by using emojis or special characters in your username. |
+| CFR-4      | The server already exists.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CFR-5      | Server does not exist. The lobby you were connecting to might have closed as you were joining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-6      | The server is full. Chose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-7      | You are on a version of the game that is not supported by the servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| CFR-8      | Lobby password is incorrect. Double check you are entering the right password.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-9      | The matchmaking servers Beat Games run, which keeps track of open public and private lobbies, is offline. Try again later.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CFR-10     | Your session key from Steam or Oculus is not valid. If you are playing on Quest and have modded your game, check out this [FAQ answer](/faq/README.md#does-multiplayer-have-crossplay) to work around this. Otherwise you are on a pirated copy of the game which is not supported.                                                                                                                                                                                                                                                                                                 |
+| CFR-11     | Your internet connection is offline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 <!-- markdownlint-enable MD013 -->
 
 ## 4. Dépannage divers
 
 ### Comprendre les logs
-Si vous êtes sur Steam vous pouvez vous rendre dans :
+If you're on Steam you can go to
 > Beat Saber > Propriétés... > Définir les options de lancement... > Écrivez `--verbose` dans le champ de texte qui apparaît.
 
-Si vous êtes sur Oculus, faites un clic droit sur Beat Saber.exe et créez un raccourci. Modifiez la Cible pour ajouter `--verbose` à la fin, par exemple : `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
+If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-Après avoir effectué cette opération, le jeu devrait afficher toute erreur liée à vos avatars, sabres et chansons.
+After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs
 
 * Cela peut ne pas s'afficher 100 % du temps pour les avatars et les sabres, et vous aurez peut-être à supprimer tous vos avatars / sabres et les essayer un à un pour voir lequel casse votre jeu.
 
-Ces messages sont également écrits dans `Beat Saber/Logs`.
+These messages are also written to `Beat Saber/Logs`.
 
-Une liste des erreurs les plus fréquentes peut être trouvée [ici](./exceptions.md).
+A list of common exceptions can be found [here](./exceptions.md).
 
 ### Vérifier les fichiers du jeu sur Steam
-Pour vérifier l'intégrité des fichiers du jeu, suivez ces étapes :
+To verify integrity of game files follow these steps:
 
 1. Assurez-vous que SteamVR est fermé, il ne vous laissera pas vérifier vos fichiers autrement.
 2. Allez dans votre bibliothèque Steam et trouvez Beat Saber.
@@ -225,7 +224,7 @@ Pour vérifier l'intégrité des fichiers du jeu, suivez ces étapes :
 5. Sélectionnez l'option "Vérifier l'intégrité des fichiers du jeu..."
 6. Laissez le finir la vérification et télécharger les fichiers manquants et ça devrait être bon.
 
-Voici [un court guide vidéo (texte en anglais)](https://www.youtube.com/watch?v=EBFfT4-ZiIc) - bien que ça soit l'ancienne interface de Steam, les étapes restent identiques.
+Here is a [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) although it is on the old steam UI, the steps are still the same.
 
 ### Installation propre
 
@@ -246,23 +245,23 @@ Voici [un court guide vidéo (texte en anglais)](https://www.youtube.com/watch?v
 4. **Avant de le modder, lancez le jeu une fois**
 5. Lancez Mod Assistant, installez vos mods et lancez le jeu.
 
-(Facultatif) Si vous voulez aller plus loin dans la démarche, référez-vous à : [Supprimer le dossier BeatSaber dans AppData](#supprimer-les-sauvegardes-dans-appdata)
+(Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 
 ### Supprimer les sauvegardes dans AppData
-Cela va supprimer vos scores et données locales, mais pas vos statistiques ni vos classements sur ScoreSaber. Vous pouvez trouver le dossier à l'emplacement suivant :
+This will delete your scores and local data, but not your custom leaderboard/ScoreSaber stats. You can find the folder at
 > `%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
-Dans votre explorateur de fichiers, copiez et collez le chemin ci-dessus dans la barre de navigation en haut et supprimez le dossier.
+Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
 
-Vous pouvez aussi vous rendre dans ce dossier en affichant les éléments masqués et en naviguant vers :
+You can also get to this folder by showing hidden items and navigating to your
 > Utilisateurs > "VOTRE UTILISATEUR" > AppData > LocalLow > Hyperbolic Magnetism
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Supprimer le dossier des données locales supprimera aussi vos scores locaux et statistiques de jeu. :::
+::: warning Deleting the Appdata folder will also delete your local scores and statistics. :::
 
 #### Mesures désespérées
-::: warning ATTENTION Désactiver votre antivirus comporte des risques de sécurité, soyez sûr de ce que vous faites (c'est-à-dire ne téléchargez pas et n'ouvrez pas de fichier suspect tant qu'il est désactivé) et n'oubliez pas de le réactiver dès que vous en avez terminé. :::
+::: warning Disabling your anti-virus involves security risks, be sure to know what you're doing (i.e don't download or open suspicious files while it's turned off) and don't forget to re-enable it as soon as you finished these steps. :::
 
 * Assurez-vous que l'utilisateur courant **est un administrateur**
 * Désactivez votre antivirus (le temps d'un test), testez votre jeu, réactivez le
@@ -272,12 +271,12 @@ Vous pouvez aussi vous rendre dans ce dossier en affichant les éléments masqu�
 * Vérifiez votre connexion Internet, et que rien ne bloque ce qui est lié au Modding de Beat Saber, à Steam, etc.
 
 ## 5. J'ai encore des problèmes
-Si cette page ne couvre pas les bases, n'hésitez pas à poser une question sur le Discord ! Pour augmenter vos chances d'avoir votre réponse, n'oubliez pas ceci :
+If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 
 * Utilisez les bons salons de discussion, `#pc-help` pour le support des mods sur PC et `#quest-help` pour le support des mods sur Quest. Posez vos questions sur `#pc-3d-modeling` et `#quest-3d-modeling` pour de l'aide sur la **création d'avatars, plateformes, notes ou sabres**, et `#mapping-discussion` pour les questions concernant la **création de niveaux.**
 * Soyez poli et respectueux
 * Décrivez votre problème en détail. "*It didn't work*" est aussi pertinent que dire à votre docteur que vous ne vous sentez pas bien. Qu'est-ce qui ne fonctionne pas, et qu'avez-vous essayé ? Y a-t-il des messages qui apparaissent sur l'écran ? Votre écran est-il devenu tout violet ?
 
-::: tip NOTE Les personnes avec le rôle `Support` sont des bénévoles qui peuvent choisir de vous aider sur leur temps libre. Ce rôle est une reconnaissance de la connaissance et des efforts qu'ils ont fournis jusque là, mais ça ne veut pas nécessairement dire qu'ils sont disponibles pour aider juste parce qu'ils sont en ligne. :::
+::: tip NOTE Those with the `Support` role are volunteers that might choose to help out in their free time. The support role is in recognition of the knowledge and effort they have put forth, but it doesn't necessarily mean that they'll be around to help just because they're online. :::
 
-Merci à Saber-Chan pour son dur labeur sur cette page.
+Credit to Saber-Chan for their hard work on this page.

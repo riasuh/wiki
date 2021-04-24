@@ -111,15 +111,15 @@ VRはCPUに負荷がかかります。特にModを導入すると負荷が大き
 ### その他
 
 #### 3.1 メニューやボタンが表示されない
-ゲームのメインウィンドウが表示されない場合、保存ファイルが破損している可能性があります。 To fix this refer to [Delete Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
+ゲームのメインウィンドウが表示されない場合、保存ファイルが破損している可能性があります。 これを修正するためには[AppData内のBeatsaberファイルを削除する](#deleting-your-save-in-appdata)を参照してください。
 
-::: warning This will delete your local scores and statistics. :::
+::: warning ローカルのスコアと統計情報が削除されます。 :::
 
-#### 3.2 How do I use `x` mod?
-If you're using Mod Assistant, click the mod and hit the "Mod Info" button. [BeatMods](http://beatmods.com) has a "More Info" button on each mod as well.
+#### 3.2 `xxxx` modはどのように使えばいいですか?
+Mod アシスタントを使用している場合は、Modをクリックし、"Mod Info" ボタンを押します。 [BeatMods](http://beatmods.com)ではMore Infoボタンを押すことで詳細のデータが得られます。
 
 #### 3.3 Rumble Issues
-Gameplay Modifiers Plus had a toggle to enable/disable controller rumble. If you disabled it then removed the mod, you'll need to modify the save data file that it writes to manually. Open `%appdata%\..\LocalLow\Hyperbolic Magnetism\Beat Saber\settings.cfg` and set `controllersRumbleEnabled` to `true`.
+Gameplay Modifiers Plus had a toggle to enable/disable controller rumble. もし無効にしたModを削除したい場合は手動で書き込む保存ファイルを変更する必要があります。 `%appdata%\..\LocalLow\Hyperbolic Magnetism\Beat Saber\settings.cfg` を開き、 `controllersRumbleEnabled` を `true` に設定します。
 
 If this isn't the cause of your rumble issues and the following are true regarding your haptics:
 
@@ -159,7 +159,6 @@ Click the shiny blue question mark (?) button in the top right corner. This shou
 If this only happens on particular maps, you may be missing required mods or those song files are broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
 
 ### CameraPlus
-:::warning NOTE This mod is no longer being maintained and has been replaced with [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2). :::
 
 #### 3.9 CameraPlus Isn't Working/Past Health Screen
 Make sure the in-game setting for "Smooth Camera" is turned off in your in-game settings. If that does not work, try reinstalling it and associated dependencies.

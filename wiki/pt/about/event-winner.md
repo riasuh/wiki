@@ -5,8 +5,33 @@ sidebar: auto
 # Event Winners
 Vencedores de concursos/eventos passados realizados no Discord. Se informe no `#server-announcements` para tais eventos acontecendo agora ou no futuro!
 
+If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
+
+## 2021 Battle Royale
+Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
+
+---
+
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+
+### Finalists
+In no particular order... these people made it to the top 6 and earned themselves the role!
+
+* DaNike
+* Pink
+* Fixemega
+* Caeden117
+* Kaoplo
+* Raemien
+
+### Battle Master
+GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
+
+### Victory Royale
+The one person who stood above all the rest... Caeden117
+
 ## 2020 Christmas Contest
-O terceiro concurso de Férias/Inverno, Christmas 2: Electric Padoru.
+The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 ---
 
@@ -16,23 +41,23 @@ O terceiro concurso de Férias/Inverno, Christmas 2: Electric Padoru.
 
 #### Vanilla
 
-* **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) por **ETAN**
-* **2nd:** [Majestica - Ghost of Christmas Present ](https://beatsaver.com/beatmap/11c53) por **Cyrix**
-* **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) por **Alekcake**
+* **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
+* **2nd:** [Majestica - Ghost of Christmas Present](https://beatsaver.com/beatmap/11c53) by **Cyrix**
+* **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) by **Alekcake**
 
 #### Modded
 
-* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) por **SpecVR & Tall_Chilis_Boi**
+* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
 ### Model Winners
 
-* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform por **AkaRaiden**
+* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
 
 ### Grand Prize
-[PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) por **ETAN**
+[PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
 ## 2020 Halloween Contest
-O terceiro concurso de Halloween. Desta vez, com juízes celebridades, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, e PHIABunny. Também **uma _abóbora inteira_** foi dada como parte do Grand Prize cortesia do **Steven 🎀**.
+The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
@@ -42,32 +67,32 @@ O terceiro concurso de Halloween. Desta vez, com juízes celebridades, LostVint,
 
 #### Vanilla
 
-* **1st:** [Marnik - Hocus Pocus (Original Mix) ](https://beatsaver.com/beatmap/10377) por **ETAN**
-* **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) por **Jamman360**
-* **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) por **FireStrike**
+* **1st:** [Marnik - Hocus Pocus (Original Mix)](https://beatsaver.com/beatmap/10377) by **ETAN**
+* **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) by **Jamman360**
+* **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) by **FireStrike**
 
 #### Modded
 
-* **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) por **aggrogahu**
+* **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
 
 ### Model Winners
 
-* **1st:** [ditCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber por **Mdot**
-* **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber por **JJ | hi**
-* **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber por **Okachamie**
+* **1st:** [ditCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
+* **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
+* **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
 ### Grand Prize
-[Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) por **nitronik.exe**
+[Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) by **nitronik.exe**
 
 ## 2020 Battle Royale
-Um Battle Royale gerenciado pelo Reaxt que passou por quase 9 horas. Desafiantes enfrentaram uma variedade de desafios relacionados e não relacionados com Beat Saber. O último sendo uma rodada extrema de Connect 4.
+An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challengers faced a variety of challenges both related and unrelated to Beat Saber. The final one being an extreme round of Connect 4.
 
 ---
 
 [Victory Royale Announcement](https://discord.com/channels/441805394323439646/441807344591044619/695297076669448203)
 
 ### Top 7
-Não estão em uma ordem particular...
+In no particular order...
 
 * **Alzaraf**
 * **Bobbie**
@@ -78,10 +103,10 @@ Não estão em uma ordem particular...
 * **Shad**
 
 ### Victory Royale
-**Arti** é também conhecido como **ratsby**
+**Arti** also known as **ratsby**
 
 ## 2019 Christmas Contest
-O segundo concurso de Férias/Inverno. Desta vez, lançando as férias pela janela para o Natal, Padoru, e um Grande Prêmio.
+The second Holiday/Winter contest. This time throwing the holidays out of the window for Christmas, Padoru, and a Grand Prize.
 
 ---
 
@@ -89,31 +114,31 @@ O segundo concurso de Férias/Inverno. Desta vez, lançando as férias pela jane
 
 ### Map Winners
 
-* **1st:** [August Burns Red - Carol Of The Bells](https://beatsaver.com/beatmap/762c) por **nitronik.exe**
-* **2nd:** [Swing Republic - Boogie Woogie Santa ft. Patti Page](https://beatsaver.com/beatmap/11c71) por **HelenCarnate**
-* **3rd:** [After the Rain - Black Christmas (JubyPhonic English Cover)](https://beatsaver.com/beatmap/7748) por **Bloodcloak**
+* **1st:** [August Burns Red - Carol Of The Bells](https://beatsaver.com/beatmap/762c) by **nitronik.exe**
+* **2nd:** [Swing Republic - Boogie Woogie Santa ft. Patti Page](https://beatsaver.com/beatmap/11c71) by **HelenCarnate**
+* **3rd:** [After the Rain - Black Christmas (JubyPhonic English Cover)](https://beatsaver.com/beatmap/7748) by **Bloodcloak**
 
 #### Menções Honrosas
-Não estão em uma ordem particular...
+In no particular order...
 
-* [August Burns Red - Carol of the Bells](https://beatsaver.com/beatmap/8fe5) por **Skeelie**
-* [Sunrise Skater Kids - All I Want For Christmas is You](https://beatsaver.com/beatmap/779d) por **Malakite**
+* [August Burns Red - Carol of the Bells](https://beatsaver.com/beatmap/8fe5) by **Skeelie**
+* [Sunrise Skater Kids - All I Want For Christmas is You](https://beatsaver.com/beatmap/779d) by **Malakite**
 
 ### Model Winners
 
-* **Avatar:** [Christmas Miku](https://modelsaber.com/Avatars/?id=1576887435) por **williums**
-* **Note:** [Present Notes](https://cdn.discordapp.com/attachments/588846710273605645/656635539705036854/Present_Note.bloq) por **CyanSnow**
-* **Platform:** [Christmas Lights](https://modelsaber.com/Platforms/?id=1576253435) por **Halcyon12**
-* **Sabers:** [Frozen Sabers](https://modelsaber.com/Sabers/?id=1575735225) por **Raphpower**
+* **Avatar:** [Christmas Miku](https://modelsaber.com/Avatars/?id=1576887435) by **williums**
+* **Note:** [Present Notes](https://cdn.discordapp.com/attachments/588846710273605645/656635539705036854/Present_Note.bloq) by **CyanSnow**
+* **Platform:** [Christmas Lights](https://modelsaber.com/Platforms/?id=1576253435) by **Halcyon12**
+* **Sabers:** [Frozen Sabers](https://modelsaber.com/Sabers/?id=1575735225) by **Raphpower**
 
 ### Mod Winner
-Uma versão especial (3.0.1 for Beat Saber 1.7) do [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) por **Sc2ad** para Quest
+A special version (3.0.1 for Beat Saber 1.7) of [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) by **Sc2ad** for Quest
 
 ### Grand Prize
-[Bossfight - Carol of the Cartels](https://beatsaver.com/beatmap/73c9) por **Fefeland**
+[Bossfight - Carol of the Cartels](https://beatsaver.com/beatmap/73c9) by **Fefeland**
 
 ## 2019 Halloween Contest
-O segundo concurso de Halloween, Halloween 2: Electric Boogaloo.
+The second Halloween contest, Halloween 2: Electric Boogaloo.
 
 ---
 
@@ -121,31 +146,31 @@ O segundo concurso de Halloween, Halloween 2: Electric Boogaloo.
 
 ### Map Winners
 
-* **1st:** [Jack The Envious - This is Halloween (The Nightmare Before Christmas Cover)](https://beatsaver.com/beatmap/6d22) por **Fefeland**
-* **2nd:** [AronChupa, Little Sis Nora - Rave in the Grave](https://beatsaver.com/beatmap/6cf7) por **TranquillizeMe**
-* **3rd:** [The Living Tombstone - Ghostbusters REMIX](https://beatsaver.com/beatmap/6b81) por **DownyCat**
+* **1st:** [Jack The Envious - This is Halloween (The Nightmare Before Christmas Cover)](https://beatsaver.com/beatmap/6d22) by **Fefeland**
+* **2nd:** [AronChupa, Little Sis Nora - Rave in the Grave](https://beatsaver.com/beatmap/6cf7) by **TranquillizeMe**
+* **3rd:** [The Living Tombstone - Ghostbusters REMIX](https://beatsaver.com/beatmap/6b81) by **DownyCat**
 
 #### Menções Honrosas
-Não estão em uma ordem particular...
+In no particular order...
 
-* [S3RL - Scary Movie](https://beatsaver.com/beatmap/6cf9) por **Teuflum**
-* [Slicey - Stranger Things Theme Remix](https://beatsaver.com/beatmap/6d19) por **JohnnyDee**
-* [Black Tiger Sex Machine - Zombie ft. Panther](https://beatsaver.com/beatmap/6cfb) por **Checkthepan**
-* [Little Shop of Horrors - Movie Soundtrack](https://beatsaver.com/beatmap/6920) por **techbutterfly**
+* [S3RL - Scary Movie](https://beatsaver.com/beatmap/6cf9) by **Teuflum**
+* [Slicey - Stranger Things Theme Remix](https://beatsaver.com/beatmap/6d19) by **JohnnyDee**
+* [Black Tiger Sex Machine - Zombie ft. Panther](https://beatsaver.com/beatmap/6cfb) by **Checkthepan**
+* [Little Shop of Horrors - Movie Soundtrack](https://beatsaver.com/beatmap/6920) by **techbutterfly**
 
 ### Model Winners
 
-* **Sabers:** [Harvesters Reaper](https://modelsaber.com/Sabers/?id=1572253878) por **Tachrayonic**
-* **Platform:** [Halloween Platform](https://modelsaber.com/Platforms/?id=1571862883) por **Pixelguy**
-* **Note:** [uwu Pumpkin Notes](https://cdn.discordapp.com/attachments/588846710273605645/639139278844198932/uwu_Pumpkin_Notes.bloq) por **Pixelguy**
+* **Sabers:** [Harvesters Reaper](https://modelsaber.com/Sabers/?id=1572253878) by **Tachrayonic**
+* **Platform:** [Halloween Platform](https://modelsaber.com/Platforms/?id=1571862883) by **Pixelguy**
+* **Note:** [uwu Pumpkin Notes](https://cdn.discordapp.com/attachments/588846710273605645/639139278844198932/uwu_Pumpkin_Notes.bloq) by **Pixelguy**
 
-### Mod Winner
+### Mod Winners
 
-* **PC:** [SpoopyBloqs](https://github.com/DeadlyKitten/SpoopyBloqs/releases/tag/1.0.0) para Beat Saber 1.4.2 por **Steven 🎀**
-* **Quest:** [HappyHalloweenV2](https://github.com/TycoTech/BeatOnCustomSabers/raw/master/BeatSaberLogos/TycoTech%27s%20BeatSaberLogos/HappyHalloweenV2.zip) Asset Menu Title por **TycoTech**
+* **PC:** [SpoopyBloqs](https://github.com/DeadlyKitten/SpoopyBloqs/releases/tag/1.0.0) for Beat Saber 1.4.2 by **Steven 🎀**
+* **Quest:** [HappyHalloweenV2](https://github.com/TycoTech/BeatOnCustomSabers/raw/master/BeatSaberLogos/TycoTech%27s%20BeatSaberLogos/HappyHalloweenV2.zip) Asset Menu Title by **TycoTech**
 
 ## 2018 Holiday Contest
-O primeiro concurso de Férias/Inverno hospedado pelo BSMG. Algumas submissions foram perdidas no sótão, mas os nomes dos vencedores e suas submissions continuarão aqui.
+The very first Holiday/Winter contest hosted by BSMG. Some submissions have been lost in the attic, but the names of the winners and their submissions will continue on here.
 
 ---
 
@@ -153,37 +178,37 @@ O primeiro concurso de Férias/Inverno hospedado pelo BSMG. Algumas submissions 
 
 ### Map Winners
 
-* **1st:** [Lindsey Stirling - Dance of the Sugar Plum Fairy](https://beatsaver.com/beatmap/238a) por **aggrogahu**
-* **2nd:** [Celtic Woman - Carol of the Bells](https://beatsaver.com/beatmap/2569) por **Fefeland**
-* **3rd:** Saunik - Carol of the Bells por **TehSuperToilet**
+* **1st:** [Lindsey Stirling - Dance of the Sugar Plum Fairy](https://beatsaver.com/beatmap/238a) by **aggrogahu**
+* **2nd:** [Celtic Woman - Carol of the Bells](https://beatsaver.com/beatmap/2569) by **Fefeland**
+* **3rd:** Saunik - Carol of the Bells by **TehSuperToilet**
 
 ### Saber Winner
-[Silent Candy Cane Saber](https://cdn.discordapp.com/attachments/446478074125746176/524087064560402432/Silent_Cane_Blade_XA.saber) por **Tachrayonic** | [Preview Video](https://www.youtube.com/watch?v=hNiuIf_jU2c)
+[Silent Candy Cane Saber](https://cdn.discordapp.com/attachments/446478074125746176/524087064560402432/Silent_Cane_Blade_XA.saber) by **Tachrayonic** | [Preview Video](https://www.youtube.com/watch?v=hNiuIf_jU2c)
 
 ### Avatar Winner
-[ChristmasMonitorBot](https://cdn.discordapp.com/attachments/450344263453245440/518014914174910465/ChristmasMonitorBot.avatar) por **DeeJay**
+[ChristmasMonitorBot](https://cdn.discordapp.com/attachments/450344263453245440/518014914174910465/ChristmasMonitorBot.avatar) by **DeeJay**
 
 ### Platform Winner
-[Christmas Platform](https://cdn.discordapp.com/attachments/452948292641488897/522475725610024965/Christmas_Platform.plat) por **AkaRaiden** | [Preview Video](https://www.youtube.com/watch?v=HihTOipgE18)
+[Christmas Platform](https://cdn.discordapp.com/attachments/452948292641488897/522475725610024965/Christmas_Platform.plat) by **AkaRaiden** | [Preview Video](https://www.youtube.com/watch?v=HihTOipgE18)
 
 ## 2018 Halloween Contest
-O primeiro concurso de Halloween hospedado pelo BSMG. Algumas submissions foram perdidas no sótão, mas os nomes dos vencedores e suas submissions continuarão aqui.
+The very first Halloween contest hosted by BSMG. Some submissions have been lost in the attic, but the names of the winners and their submissions will continue on here.
 
 ---
 
 [Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/505105038985920515)
 
 ### Map Winner
-[Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) por **Ruckus**
+[Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) by **Ruckus**
 
 ### Saber Winner
-Spoopy Hands por **Assistant**
+Spoopy Hands by **Assistant**
 
 ### Avatar Winner
-Spooky Scary Skeleton por **DeeJay & RedF**
+Spooky Scary Skeleton by **DeeJay & RedF**
 
 ### Platform Winner
-Midnight Graveyard por **Davey**
+Midnight Graveyard by **Davey**
 
 ### Mod Winner
-Halloween Mod por **Reality Quintupled**
+Halloween Mod by **Reality Quintupled**

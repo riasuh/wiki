@@ -2,12 +2,12 @@
 sidebar: "false"
 ---
 
-# Regional Hub
+# 地域のコミュニティ
 ::: danger Sorry, this page has not been translated yet, you can either:
 
 ---
 
-## Africa
+## アフリカ
 *None yet.*
 
 ---
@@ -23,16 +23,16 @@ The official Discord for the Canadian Beat Saber community!
 
 ---
 
-## Asia
+## アジア
 
 ### Beat Saber Asia
-Community for Asian players and VR organizations. We have a limited quota for International members depending on our server size.
+アジアプレーヤーのためのVRコミュニティ。 サーバーのサイズに応じてメンバーの割り当てを制限しております。
 
-[Application](https://forms.gle/Ga3jWoCkugPBD6BZ6)
+[参加方法](https://forms.gle/Ga3jWoCkugPBD6BZ6)
 
 ---
 
-### Israel
+### イスラエル
 
 #### Beat Saber Israel
 A server made to bring Isreali Beat Saber players together. International players welcome.

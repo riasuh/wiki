@@ -96,7 +96,8 @@ Die unten aufgeführten Schritte sind die gleichen wie in Rygers [Arrow Vortex B
 
 ##### Die Codeausführung kann nicht fortgesetzt werden, da MSVCP120.dll nicht gefunden wurde
 
-* Installiere [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in deiner bevorzugten Sprache und versuche es erneut.
+* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
+  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 :::danger **Dies ist ein kritischer Schritt!**  
 Wenn du keine `.ogg`-Datei verwendest oder die Exportfunktion in AV nutzt, **wird** dein Song um eine unbestimmte Zeit desynchronisiert. :::

@@ -14,26 +14,32 @@ sidebar: auto
 
 Do not attack the game developers for issues related to mods, and vice versa - modders and game developers are two separate groups. 그냥 멍청하게 굴지마세요. :::
 
-비트세이버는 기본적으로 커스텀송을 지원하므로 원하는 곡만 있으면 더 이상 모드가 필요하지 않습니다. It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
+:::warning STAY SAFE WHEN INSTALLING MODS Beat Saber will **NEVER** ask you to run it as Administrator.
 
-::: warning 주의 본 가이드는 Windows용 PC 모딩에 대해 다룹니다.  
-만약 Quest를 가지고 있다면, [Quest 모드](/quest-modding.md) 페이지를 확인해 주세요.  
-만약 Linux를 사용하고 있다면, [Linux 모딩 가이드](/modding/linux.md) 또는 [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) 페이지를 확인해 주세요. :::
+If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. What you installed is a malicious mod!
 
-If you run into problems at any point, please head to the [support page](./support) and see if you can identify what went wrong before asking in the Discord server. 필요한 답은 그 페이지에 있습니다
+If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
 
-::: warning I watched this video by Elite Eric, but I got stuck/it didn't work. 왜 BSMG 에서는 Elite Eric 의 튜토리얼 사용에 대해 강력하게 반대합니다. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
 
-대신에, 이곳의 가이드 또는 [BSMG Discord](https://discord.gg/beatsabermods)에서 도움을 받으세요. :::
+::: warning This guide is for PC-modding on Windows.  
+If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
+If you're on Linux, check out the [Linux page](/modding/linux.md) or [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) :::
+
+If you run into problems at any point, please head to the [support page](./support) and see if you can identify what went wrong before asking in the Discord server. Chances are, your answer is on that page!
+
+::: warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using video tutorials for modding. Often, we find they are outdated or contain a incomplete, erroneous, or straight up incorrect information.
+
+Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 
 ## Installers
 
 ### 모드 어시스턴트 ( Mod Assistant )
 > **현재 권장되는 모드 설치 프로그램입니다.**
 
-__**모드를 설치하기전에 **** 한 번 이상 게임을 실행해주세요! 이것은 게임을 다시 설치하는 것에도 적용됩니다.
+__**Run the game at least once**** before trying to mod the game! This applies to reinstalling your game too.
 
-A simple Beat Saber Mod Installer similar to the mod manager, but with additional features such as mod removal and version checking! 어시스턴트 GitHub 링크 [>>클릭<<](https://github.com/Assistant/ModAssistant/releases/latest)
+A simple Beat Saber Mod Installer similar to the mod manager, but with additional features such as mod removal and version checking! Get it on [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
 
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
@@ -85,6 +91,12 @@ _Where is Beat Saber installed?_
 
 ## 수동 설치
 A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+
+::: warning STAY SAFE WHEN INSTALLING MODS Modding your game with unverified mods such as mods found in the `#pc-mods` channel comes with risks, including the possibility for malicious software that acts like a regular mod.
+
+Beat Saber will **NEVER** ask you to run it as Administrator.
+
+If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
 

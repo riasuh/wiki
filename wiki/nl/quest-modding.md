@@ -17,7 +17,7 @@ sidebar: auto
 
 Val de ontwikkelaars niet aan voor problemen gerelateerd aan het gebruik van mods, en vice versa - mod makers en de spel ontwikkelaars zijn twee aparte groepen. Wees gewoon geen eikel. :::
 
-:::warning Ik heb deze video van Elite Eric of FluffySez gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric of FluffySez te gebruiken. Na het beoordelen van veel van hun content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hun te bereiken om deze fouten te corrigeren zijn helaas niet gelukt.
+:::warning Ik heb een video tutorial gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden het **sterk** af om video tutorials te gebruiken voor het modden. Vaak vinden we dat de inhoud oud is, of dat ze incomplete, onjuiste, of gewoon incorrecte informatie bevatten.
 
 In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wiki beschikbaar zijn, of om hulp te vragen in de [BSMG Discord](https://discord.gg/beatsabermods). :::
 
@@ -216,7 +216,7 @@ Word lid van de [Qosmetics Community](https://discord.gg/qosmetics) om te verand
 * [ScoreSaber](https://new.scoresaber.com/quest) - In-game scoreborden voor custom levels.
 
 ## Probleemoplossing
-:::warning Ik heb deze video van Elite Eric of FluffySez gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric of FluffySez te gebruiken. Na het beoordelen van veel van hun content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hun te bereiken om deze fouten te corrigeren zijn helaas niet gelukt.
+:::warning Ik heb een video tutorial gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden het **sterk** af om video tutorials te gebruiken voor het modden. Vaak vinden we dat de inhoud oud is, of dat ze incomplete, onjuiste, of gewoon incorrecte informatie bevatten.
 
 In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wiki beschikbaar zijn, of om hulp te vragen in de [BSMG Discord](https://discord.gg/beatsabermods). :::
 

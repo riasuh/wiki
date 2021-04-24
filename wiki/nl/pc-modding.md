@@ -8,44 +8,50 @@ sidebar: auto
 
 ::: danger DISCLAIMER Door mods te gebruiken, begrijp je dat:
 
-* Je ervaart mogelijk problemen die niet bestaan in de niet aangepaste versie van het spel. 99,9% van de bugs, crashes en achterstand zijn te wijten aan mods.
-* Mods worden vrijwel altijd onbruikbaar bij game updates en dat is normaal - wees geduldig en blijf respectvol wanneer dit gebeurt, want de mensen die mods maken zijn vrijwilligers met andere dingen in hun leven naast het maken van mods.
-* Beat Games probeert niet met opzet mods niet meer te laten werken. Ze willen enkel aan de code werken en soms maakt dit mods onbruikbaar, maar dit betekent niet dat ze expres mods in de weg zitten.
+* Je ervaart mogelijks problemen die niet voorkomen in de onaangepaste versie van het spel. 99,9% van de bugs, crashes en lag zijn te wijten aan mods.
+* Mods worden vrijwel altijd onbruikbaar bij game updates en dat is normaal - wees geduldig en blijf respectvol wanneer dit gebeurt, want de modders zijn vrijwilligers met andere dingen in hun leven naast het maken van mods.
+* Beat Games probeert niet met opzet ervoor te zorgen dat mods niet meer werken. Ze willen enkel aan hun eigen code werken en soms maakt dit mods onbruikbaar, maar dit betekent dus niet dat ze expres mods in de weg zitten.
 
-Val de ontwikkelaars niet aan voor problemen gerelateerd aan het gebruik van mods, en vice versa - mod makers en de spel ontwikkelaars zijn twee aparte groepen. Wees gewoon geen eikel. :::
+Val de ontwikkelaars niet aan voor problemen gerelateerd aan het gebruik van mods, en vice versa - de modders en spel ontwikkelaars zijn twee aparte groepen. Wees gewoon geen eikel. :::
 
-Beat Saber ondersteund van zichzelf zelfgemaakte nummers, dus als dat alles is wat je wilt heb je geen extra mods nodig! Het is echter een goed idee om `SongCore` te installeren, omdat deze mod de basis functionaliteit van het spel uitbreid door het verbeteren van laadtijden en functionaliteit te bieden aan andere mods zoals een in-game downlodaer voor nummers, een kunstmatige leaderboards, afspeellijsten, enz.
+:::warning WEES VOORZICHTIG TIJDENS HET INSTALLEREN VAN MODS Beat Saber zal je **nooit** vragen om het als administrator te starten.
 
-::: warning Deze gids is voor PC modificatie op Windows.   
-Als je een Quest hebt, ga dan naar de [Quest Modificatie pagina](/quest-modding.md).  
-Als je Linux gebruikt, ga dan naar de [Linux pagina](/modding/linux.md) of [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) :::
+Als je een mod hebt gedownload en geïnstalleerd en je krijgt het gebruikersaccountbeheer pop-up, **klik dan NIET** op "Ja", en rapporteer dit alsjeblieft. Wat je hebt geïnstalleerd is een kwaadaardige mod!
 
-Als je tegen problemen aanloopt, ga dan naar de [ondersteuning pagina](./support) en probeer de oorzaak van het probleem te identificeren voordat je het vraagt in de Discord server. De kans is groot dat het antwoord dat je zoekt op die pagina staat!
+Als je niet zeker weet of iets wat je hebt geïnstalleerd malware is of niet, ***vraag het dan aan iemand in onze Discord***. :::
 
-::: warning Ik heb deze video van Elite Eric gekeken, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden **sterk** af video's van Elite Eric te gebruiken. Na het beoordelen van veel van zijn content, vonden wij dat deze te veel incomplete, verkeerde, of compleet onjuiste informatie bevatten. Pogingen om hem te bereiken en deze fouten te herstellen hebben helaas enkel stilte en nieuwe (ook incorrecte) video's opgeleverd.
+Beat Saber heeft ingebouwde ondersteunding voor zelfgemaakte nummers, dus als dat alles is wat je nodig hebt, dan heb je geen extra mods nodig! Het is echter een goed idee om `SongCore` te installeren, omdat deze mod de basis functionaliteit van het spel uitbreid door het verbeteren van laadtijden en functionaliteit te bieden aan andere mods zoals een in-game downlodaer voor nummers, een kunstmatige leaderboards, afspeellijsten, enz.
+
+::: warning Waarschuwing Deze gids is geschreven voor PC modding op Windows.  
+Als je een Quest hebt, ga dan naar de [Quest Modding pagina](/nl/quest-modding.md).  
+Als je Linux gebruikt, ga dan naar de [Linux pagina](/nl/modding/linux.md) of [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) :::
+
+Als je tegen problemen aanloopt, ga dan naar de [ondersteuningspagina](./support) en probeer de oorzaak van het probleem te identificeren voordat je het vraagt in de Discord server. De kans is groot dat het antwoord dat je zoekt al op die pagina staat!
+
+::: warning Ik heb een video tutorial bekeken op YouTube, maar ik liep vast / het werkte niet. Waarom? Wij van de BSMG raden het **sterk** af om video tutorials te gebruiken voor het modden. Vaak vinden we dat de inhoud veroudered is, of dat ze incompleet zijn, of dat ze fouten, of gewoon incorrecte informatie bevatten.
 
 In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wiki beschikbaar zijn, of om hulp te vragen in de [BSMG Discord](https://discord.gg/beatsabermods). :::
 
 ## Installatieprogramma's
 
 ### Mod Assistant
-> **OP DIT MOMENT IS DIT DE AANBEVOLEN MOD INSTALLER.**
+> **DIT IS OP HET MOMENT DE AANBEVOLEN MOD INSTALLER.**
 
-__**Start het spel op zijn minst 1 keer**** voordat je probeert het spel te modificeren! Dit geldt ook voor het opnieuw installeren van je spel.
+__**Start het spel minstens 1 keer op**** voordat je probeert het spel te modden! Dit geldt ook als je je spel opnieuw installeert.
 
-Een simpel Beat Saber mod installatie programma vergelijkbaar met mod manager, maar met extra functies zoals het weer verwijderen van mods en het controleren van versies! Download het op [Assistants GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
+Een simpel Beat Saber mod installatie programma vergelijkbaar met mod manager, maar met extra functies zoals het verwijderen van mods en het controleren van versies! Download het op [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
 
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## Hoe kom ik aan meer nummers
-:: tip De meeste levels in de "Top All", "Rating", "Downloads" of "Plays" sorteerfilters werden gemaakt voordat er goede praktijken voor het maken van levels werden vastgesteld. Probeer levels van tussen eind 2019 en nu te downloaden voor de beste custom levels ervaring. :::
+::: tip Hint De meeste levels in de "Top All", "Rating", "Downloads" of "Plays" sorteerfilters werden gemaakt voordat er best practices voor het maken van levels werden vastgelegd. Probeer levels van tussen eind 2019 en nu te downloaden voor de beste custom levels ervaring. :::
 
-::: waarschuwing Het is een goed idee om periodiek een backup te maken van jouw `CustomLevels` map, omdat er een kleine kans is dat het gereset wordt als het spel update!
+::: warning Waarschuwing Het is een goed idee om periodiek een back-up te maken van jouw `CustomLevels` map, omdat er een kleine kans is dat het wordt gereset als het spel update!
 
 Deze map bevindt zich in jouw installatie map: `Beat Saber/Beat Saber_Data/CustomLevels` :::
 
 ### In-game Downloader
-Met de `BeatSaver Downloader` mod kan je nummers downloaden terwijl je in het spel bent met de `MORE SONGS` menu knop op het `MODS` scherm. Dit haalt nummers rechtstreeks van [BeatSaver](https://beatsaver.com)
+Met de `BeatSaver Downloader` mod kan je nummers downloaden terwijl je in het spel door de `MORE SONGS` menu knop op het `MODS` scherm te gebruiken. Dit download nummers rechtstreeks van [BeatSaver](https://beatsaver.com)
 
 ### BeatSaver
 [BeatSaver](https://beatsaver.com) is de hoofd database van custom levels gemaakt door de community. Veel andere programma's en websites verbeteren de ervaring van het downloaden van custom levels, maar deze website is de plek waar ze opgeslagen worden. Om de nummers te installeren die van de site zijn gedownload, pak deze nummers uit in een map en plaats deze map in `Beat Saber/Beat Saber_Data/CustomLevels`. Je kan ook gebruik maken van de in-game downloader mod, of Mod Assistant's OneClick™ Install functie.
@@ -84,7 +90,13 @@ _Waar is Beat Saber geïnstalleerd?_
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Handmatige installatie
-Een mod installatie programma is de aanbevolen manier om mods te installeren. Zie de sectie [hierboven](#installers). Als je het spel al hebt gemod en alleen mods wil installeren die niet in de installer beschikbaar zijn, ga dan direct door naar stap 4.
+Een mod installatie programma is de aanbevolen manier om mods te installeren. Zie de sectie [hierboven](#installers). Als je het spel al hebt gemodificeerd en alleen mods wil installeren die niet in de installer beschikbaar zijn, ga dan direct door naar stap 4.
+
+::: warning WEES VOORZICHTIG TIJDENS HET INSTALLEREN VAN MODS Het modden van je spel met niet goedgekeurde mods, zoals de mods die gevonden worden in het `#pc-mods` kanaal, komt met risico's. Waaronder de mogelijkheid op kwaadaardige software dat zich gedraagt als een normale mod.
+
+Beat Saber zal jou **NOOIT** vragen om het als administrator uit te voeren.
+
+Als je een mod hebt gedownload en geïnstalleerd en je krijgt het Gebruikersaccountbeheer prompt, **klik dan NIET** op accepteer, en rapporteer dit alsjeblieft. Als je niet zeker weet of iets wat je hebt geïnstalleerd malware is of niet, ***vraag het dan aan iemand in onze discord***. :::
 
 **Start het spel op zijn minst 1 keer** voordat je probeert het spel te modden! Dit geldt ook voor het opnieuw installeren van je spel.
 
@@ -105,12 +117,12 @@ Verwijder de .dll van de `Plugins` map, of klik op de `Uninstall` knop in Mod As
 ## Waar kan je verder gaan
 
 * [Grepen en Trucs](./grips-and-tricks.md)
-* [Nummers maken](/mapping/)
-* [Custom Sabers](/models/custom-sabers.md)
-* [Custom Avatars](/models/custom-avatars.md)
-* [Custom Platforms](/models/custom-platforms.md)
+* [Nummers maken](/nl/mapping/)
+* [Custom Sabers](/nl/models/custom-sabers.md)
+* [Custom Avatars](/nl/models/custom-avatars.md)
+* [Custom Platforms](/nl/models/custom-platforms.md)
 * [Speel custom levels in mulitplayer](https://discord.com/invite/gezGrFG4tz)
-* [Het maken van mods](/modding/)
+* [Het maken van mods](/nl/modding/)
 
 ## Heb je vragen?
 Bezoek de hulp kanalen in de [BSMG Discord](https://discord.gg/beatsabermods)!

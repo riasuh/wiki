@@ -6,47 +6,47 @@ sidebar: auto
 
 ## תוכן עניינים
 
-0. [Updates](#_0-updates)
-1. [No mods?](#_1-no-mods)
-2. [Game Issues After Modding](#_2-game-issues-post-modding)
+0. [עדכונים](#_0-updates)
+1. [אין מודים?](#_1-no-mods)
+2. [בעיות במשחק אחרי הפעלת המוד](#_2-game-issues-post-modding)
 3. [שאלות נפוצות](#_3-common-questions)
-4. [Miscellaneous Troubleshooting](#_4-miscellaneous-troubleshooting)
-5. [Still Having Issues](#_5-still-having-issues)
+4. [פתרון תקלות משניות](#_4-miscellaneous-troubleshooting)
+5. [עדיין יש תקלות](#_5-still-having-issues)
 
 ## 0. עדכונים
-After an update, the BSMG discord `#modding-announcements` channel should have the most up to date information on the status of mods. להלן הוראות מפורטות יותר של התהליך הנפוץ ביותר.
+אחרי עדכון, ערוץ `#modding-announcements` בשרת הדיסקורד של BSMG יהיה את המידע העדכני ביותר לגבי מצב המודים. להלן הוראות מפורטות יותר של התהליך הנפוץ ביותר.
 
-### Update broke my mods
-**הפעל את המשחק פעם אחת ** על העדכון החדש. Then, reinstall your mods using an installer linked in the [beginner's guide](/beginners-guide), such as Mod Assistant.
+### העדכון שבר את המודים שלי
+**הפעל את המשחק פעם אחת ** על העדכון החדש. לאחר מכן, תתקין מחדש את המודים שלך בעזרת אשף שאת הקישור אליו ניתן למצוא [במדריך למתחילים](/beginners-guide), כמו למשל סייע המודים.
 
 ## 1. אין מודים?
 
-### Misc Questions
+### שאלות משניות
 
-#### 1.1 No mods appear on a fresh copy of the game
+#### 1.1 לא מופיעים מודים על עותק טרי של המשחק
 ראשית, וודא שהדברים הבאים נכונים:
 
-* **You ran the game once before installing mods**. BSIPA removes all mods on the first run of a fresh update to prevent broken old mods from loading on a new version. Reinstall mods again if this is the case.
-* Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
-* If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
+* **הרצת את המשחק פעם אחת לפני שהתקנת מודים**. BSIPA מסיר את כל המודים בהרצה הראשונה של עדכון טרי כדי למנוע ממודים ישנים ושבורים להיטען על גרסה חדשה. אם זה המצב, התקן מחדש את המודים.
+* סטים ואוקיולוס מריצים את המשחק "ביט סייבר" **מאותה התקנה** שבה נמצאים המודים. *למשל, מודים נמצאים על כונן D אבל סטים רץ מכונן C *. הגדר את מיקום ההתקנה הנכון באשף ההתקנה לבחירתך.
+* אם התקנת את המודים ידנית, תוודא שכללת את כל הקבצים מההורדה וששמת אותם בתיקיות הנכונות, כמו כן גם את התלויות שלהן.
 
-#### 1.2 I had mods installed on an older version, but nothing loads after an update
+#### 1.2 התקנתי מודים על גרסה ישנה יותר, אבל שום דבר לא נטען אחרי עדכון
 אם הפרטים בסעיף 1.1 נכונים, נסה את הפתרונות המפורטים מטה, בסדר יורד.
 
-##### Solution 1
+##### פתרון 1
 
-* Update BSIPA to the latest version (in Mod Assistant or manually)
+* תעדכן את BSIPA לגרסה האחרונה שלו (ידנית או דרך ModAssistant)
 * לך לתיקיית Beat Saber שלך
 * תריץ את `IPA.exe`
 
-##### Solution 2 (Steam Only)
+##### פתרון 2 (בסטים בלבד)
 
-* [Verify your game files](#verify-game-files-for-steam)
-* Update BSIPA to the latest version
-* Go into your Beat Saber folder
-* Run `IPA.exe`
+* [תאמת את תקינות הקובץ](#verify-game-files-for-steam)
+* עדכן את BSIPA לגרסה האחרונה
+* לך לתיקיית Beat Saber שלך
+* תריץ את `IPA.exe`
 
-##### Solution 3
+##### פתרון 3
 
 * לך לתיקיית Beat Saber שלך
 * תגבה את תיקיית `UserData` (לא חובה)
@@ -61,7 +61,7 @@ After an update, the BSMG discord `#modding-announcements` channel should have t
 #### 1.2 Mod Assistant doesn't seem to be installing any mods
 The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
 
-## 2. Game Issues Post-Modding
+## 2. בעיות במשחק אחרי הפעלת המוד
 
 ### Game Won't Start
 
@@ -107,7 +107,7 @@ If [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) didn't improve
 
 VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as visually it's a fairly simple game.
 
-## 3. Common Questions
+## 3. שאלות נפוצות
 
 ### Misc
 
@@ -160,7 +160,6 @@ Click the shiny blue question mark (?) button in the top right corner. This shou
 If this only happens on particular maps, you may be missing required mods or those song files are broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
 
 ### CameraPlus
-:::warning NOTE This mod is no longer being maintained and has been replaced with [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2#camera2). :::
 
 #### 3.9 CameraPlus Isn't Working/Past Health Screen
 Make sure the in-game setting for "Smooth Camera" is turned off in your in-game settings. If that does not work, try reinstalling it and associated dependencies.
@@ -272,7 +271,7 @@ You can also get to this folder by showing hidden items and navigating to your
 * Check that the problem doesn't lie within your headset, or operating system, or your hardware/software
 * Check your internet connection, and that nothing is blocking anything related to beatsaber modding and steam etc.
 
-## 5. עדיין יש תקלות?
+## 5. עדיין יש תקלות
 If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 
 * Use the correct channels please, `#pc-help` for pc mod support and `#quest-help` for quest mod support. Use `#pc-3d-modeling` and `#quest-3d-modeling` for questions about **making your own avatars, platforms, notes, or sabers**, and `#mapping-discussion` for questions about **making maps.**

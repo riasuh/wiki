@@ -106,8 +106,8 @@ Projektleiter, Wiki-Betreuer, Brotbäcker. Trotz allem was alle sagen, mag ich M
 ## Assistant (Im Ruhestand)
 Betreuer der Kerndienste, einschließlich BeatSaver und BeatMods Server. Der ursprüngliche Support und Schöpfer des benutzerdefinierten Avatar-Guides, des Mod-Assistenten und von ModelSaber.
 
-**Rollen:** Staff, Support, 3D Artist  
-**Beiträge:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, BeatSaver Admin, BSMG Podcasts
+**Roles:** Staff, Support, 3D Artists  
+**Contributions:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, BeatSaver Admin, BSMG Podcasts
 
 [GitHub](https://github.com/Assistant) | [Spenden](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 

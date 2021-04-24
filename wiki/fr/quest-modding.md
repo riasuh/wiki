@@ -17,7 +17,7 @@ sidebar: auto
 
 N'attaquez pas les développeurs pour des problèmes relatifs aux mods, et inversement - les moddeurs et les développeurs sont deux groupes distincts. Ne sois pas idiot, d'accord ? :::
 
-:::warning J'ai regardé cette vidéo d'Elite Eric ou de FluffySez, mais je suis coincé/ça n'a pas fonctionné. Pourquoi ? Nous, chez BSMG, recommandons **fortement** d'éviter les tutoriels d'Elite Eric ou de FluffySez. Après avoir examiné une bonne partie de leur contenu, il y a une grande quantité d'informations incomplètes, erronées ou complètement fausses. Nous avons essayé de les contacter pour corriger ces erreurs mais nous n'avons malheureusement pas reçu de réponse.
+:::warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. Pourquoi ? We at BSMG **strongly** advise against using any video tutorials for modding. Often, we find that they are either outdated or contain incomplete, erroneous, or straight up incorrect information.
 
 À la place, vous devriez suivre les guides écrits ici sur le wiki ou chercher de l'aide dans le [Discord BSMG](https://discord.gg/beatsabermods) (anglophone). :::
 
@@ -216,7 +216,7 @@ Rejoignez la [communauté Qosmetics](https://discord.gg/qosmetics) (en anglais) 
 * [ScoreSaber](https://new.scoresaber.com/quest) - classements en jeu pour les chansons personnalisées
 
 ## Dépannage
-:::warning J'ai regardé cette vidéo d'Elite Eric ou de FluffySez, mais je suis coincé/ça n'a pas fonctionné. Pourquoi ? Nous, chez BSMG, recommandons **fortement** d'éviter les tutoriels d'Elite Eric ou de FluffySez. Après avoir examiné une bonne partie de leur contenu, il y a une grande quantité d'informations incomplètes, erronées ou complètement fausses. Nous avons essayé de les contacter pour corriger ces erreurs mais nous n'avons malheureusement pas reçu de réponse.
+:::warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. Pourquoi ? We at BSMG **strongly** advise against using any video tutorials for modding. Often, we find that they are either outdated or contain incomplete, erroneous, or straight up incorrect information.
 
 À la place, vous devriez suivre les guides écrits ici sur le wiki ou chercher de l'aide dans le [Discord BSMG](https://discord.gg/beatsabermods) (anglophone). :::
 

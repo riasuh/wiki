@@ -15,6 +15,6 @@ Je kan:
 [Ga terug naar de startpagina](/nl/)
 
 Help deze pagina te verbeteren!   
-Laatste Keer Bijgewerkt   
+Laatste keer bijgewerkt   
 Hoofdmenu   
 BSMG Discord

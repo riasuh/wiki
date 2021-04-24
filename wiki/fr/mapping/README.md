@@ -51,9 +51,9 @@ Les guides écrits sont pas votre truc ? Regardez cette série de vidéos !
 * [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) - Covers the most common issues discussed in [Basic Mapping](./basic-mapping.md).
 * [Tutoriel aux techniques d'éclairage dans Beat Saber par TranquilizeMe](https://www.youtube.com/watch?v=EDbPRN_u3jc) (en anglais) - couvre différentes techniques et astuces générales sur l'éclairage.
 
-:::warning J'ai regardé cette vidéo d'Elite Eric, mais je me suis retrouvé coincé / ça n'a pas fonctionné. Pourquoi ? Nous, chez BSMG, nous déconseillons **fortement** d'utiliser n'importe quels tutoriels par Elite Eric. Après avoir examiné une bonne partie de son contenu, il y a une grande quantité d'informations incomplètes, erronées ou complètement fausses. Nos tentatives de le contacter pour corriger ces erreurs n'ont malheureusement pas reçu de réponse et d'autres tutoriels (incorrects également) sont apparus.
+:::warning Tutorials on this page have been vetted by BSMG. Other video tutorials may or may not contain accurate or up-to-date information, and should be followed at your own risk.
 
-À la place, vous devriez suivre les guides écrits ici sur le wiki, regarder les tutoriels vérifié par le BSMG au-dessus, ou aller chercher de l'aide sur le [Discord du BSMG](https://discord.gg/beatsabermods). :::
+If you would like to see if your tutorial can be listed here, please [contact us](http://bit.ly/MessageBSMG). :::
 
 #### Séries de vidéos antérieures
 ::: warning ATTENTION Ces séries de tutoriels utilisent des anciens outils (Mediocre Mapper et EditSaber). L'interface et quelques procédés ont changé dans l'éditeur actuellement recommandé, [MMA2](./mediocre-map-assistant.md), mais le reste du contenu est super ! :::

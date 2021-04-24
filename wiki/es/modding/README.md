@@ -31,4 +31,4 @@ Argumentos útiles de lanzamiento que facilitarán el modeado / depuración.
 * [API de Scripting de Unity](https://docs.unity3d.com/ScriptReference/index.html)
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)
-* [IPA de Beat Saber](https://github.com/nike4613/BeatSaber-IPA-Reloaded)
+* [IPA de Beat Saber](https://bsmg.github.io/BeatSaber-IPA-Reloaded/)

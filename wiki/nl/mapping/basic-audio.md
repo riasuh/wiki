@@ -97,6 +97,7 @@ De hieronder vermelde stappen zijn dezelfde als die gebruikt worden in Ryger’s
 ##### The code execution cannot proceed because MSVCP120.dll was not found
 
 * Installeer [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in jouw taal van voorkeur en probeer het opnieuw.
+  * Als het nog steeds niet werkt, zorg ervoor dat je de `x86` versie download, wat dichtbij de onderkant van de pagina staat. En niet de `x64` versie.
 
 ::danger **Dit is een cruciale stap!**  
 geen `.ogg` bestand gebruiken of het gebruik van de exportfunctie in AV **zal** jouw nummer desynchroniseren met een inconsistente tijd. :::

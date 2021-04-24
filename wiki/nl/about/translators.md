@@ -36,7 +36,7 @@ Als je mee wilt doen met jouw taal, kan je [soliciteren voor het helpen met vert
 * ComputerElite
 * CookieDLX
 * Jen (Br3uker)
-* Raviolimann69
+* Ravioliman69
 * RobertR11
 * SasSao
 * Syskoh

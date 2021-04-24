@@ -36,7 +36,7 @@ Si vous voulez aider à traduire dans votre langue, vous pouvez postuler [ici](h
 * ComputerElite
 * CookieDLX
 * Jen (Br3uker)
-* Raviolimann69
+* Ravioliman69
 * RobertR11
 * SasSao
 * Syskoh

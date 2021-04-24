@@ -1,12 +1,12 @@
 # Su di Noi
-Ti sei mai chiesto chi abbia fatto la tua mod preferita o creato l'installatore delle mod? This page tells you a little bit about some of the major Beat Saber modding community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
+Ti sei mai chiesto chi abbia fatto la tua mod preferita o creato l'installatore delle mod? Questa pagina ti racconta un po' di alcuni tra i maggiori collaboratori della Beat Saber modding community. La comunità non esisterebbe senza sangue, sudore e lacrime di questi incredibili volontari.
 
 > *Nota: alcune perone potrebbero rientrare in sezioni multiple, quindi abbiamo provato a ordinare queste pagina al meglio. Se vorresti che qualcosa sulla tua sezione cambiasse, sentiti libero di contattarci o contribuire tu stesso!*
 
 ## Chi Siamo
 
 ### [Staff](./staff.md)
-Il team che gestisce lo spettacolo in prima linea e dietro le quinte. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+Il team che gestisce lo spettacolo in prima linea e dietro le quinte. Che si tratti di gestione del progetto, approvazione dei plugin / mod, gestione dei servizi fondamentali, coordinazione degli eventi o molti altri progetti segreti, c'è sempre molto lavoro da fare. La comunità non esisterebbe senza le infinte ore di contributi di questi incredibili individui, quindi siete pregati di dar loro un applauso virtuale (e aiutare a pagare i servizi se potete...)
 
 ### [Moderatori](./moderators.md)
 Con un server così grande, molta moderazione è necessaria per tenere tutto sotto controllo. Potete ringraziare questo team per mantenere pulite le strade.

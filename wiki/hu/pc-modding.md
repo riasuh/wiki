@@ -14,6 +14,12 @@ sidebar: auto
 
 Do not attack the game developers for issues related to mods, and vice versa - modders and game developers are two separate groups. Just don't be a jerk ok. :::
 
+:::warning STAY SAFE WHEN INSTALLING MODS Beat Saber will **NEVER** ask you to run it as Administrator.
+
+If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. What you installed is a malicious mod!
+
+If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
+
 Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
 
 ::: warning This guide is for PC-modding on Windows.  
@@ -22,7 +28,7 @@ If you're on Linux, check out the [Linux page](/modding/linux.md) or [QBeat](htt
 
 If you run into problems at any point, please head to the [support page](./support) and see if you can identify what went wrong before asking in the Discord server. Chances are, your answer is on that page!
 
-::: warning I watched this video by Elite Eric, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+::: warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using video tutorials for modding. Often, we find they are outdated or contain a incomplete, erroneous, or straight up incorrect information.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 
@@ -85,6 +91,12 @@ _Where is Beat Saber installed?_
 
 ## Manual Installation
 A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+
+::: warning STAY SAFE WHEN INSTALLING MODS Modding your game with unverified mods such as mods found in the `#pc-mods` channel comes with risks, including the possibility for malicious software that acts like a regular mod.
+
+Beat Saber will **NEVER** ask you to run it as Administrator.
+
+If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
 
 **Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
 

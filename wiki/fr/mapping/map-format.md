@@ -235,7 +235,7 @@ This is the local location to the difficulty file, which contains the difficulty
 
 Similar to the [`_songFilename`](#songfilename) and [`_coverImageFilename`](#coverimagefilename) from earlier, in most cases this is just the name and extension (always `.dat`) to the map file.
 
-When creating *new* difficulties, it is recommended that the name be a the Characteristic name for this difficulty's parent [Beatmap Set](#difficulty-beatmap-sets), followed by the [`_difficulty`](#difficulty) value. For example, this particular difficulty should have it's difficulty file be named `StandardExpertPlus.dat`.
+When creating *new* difficulties, it is recommended that the name be the Characteristic name for this difficulty's parent [Beatmap Set](#difficulty-beatmap-sets), followed by the [`_difficulty`](#difficulty) value. For example, this particular difficulty should have it's difficulty file be named `StandardExpertPlus.dat`.
 
 #### _noteJumpMovementSpeed
 Note Jump Movement Speed (Shortened to "Note Jump Speed", or just "NJS") is the velocity of objects approaching the player, in meters per second. Info on recommended NJS values can be found on the [Intermediate Mapping Page](./intermediate-mapping.md#note-jump-speed-spawn-distance). This can be a floating point number for precise velocity.

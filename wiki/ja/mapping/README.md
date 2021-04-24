@@ -7,23 +7,22 @@ tags:
   - 譜面作成
   - 譜面作成
   - ビートセイバーの譜面の作り方
-  - custom levels
-  - make custom maps
-  - custom charts
+  - カスタムレベル
+  - カスタムマップを作成
+  - カスタム チャート
 description: |
-  Too many anime maps? Not enough anime maps?
-  Take matters into your own hands and learn to map here!
+  譜面にアニメーションが多すぎますか？ 十分なアニメマップがありませんか？
+  あなた自身がその問題を解決するための方法を学びましょう
 ---
 
 # マッピング
 
-Too many anime maps? Not enough anime maps?  
-Take matters into your own hands and learn to map here!
+譜面にアニメーションが多すぎますか？ 十分なアニメーションのある譜面がありませんか？ここで譜面を作る方法を学び自分でその問題を解決しましょう！
 
 ::: tip INFO  
-If you have feedback on how we can improve the mapping resources fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)!
+もしよりよい譜面作成のリソースを提供するためのフィードバックがありましたら [フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)に記入をお願いします
 
-You can also visit `#mapping-discussion` on the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) to get involved! :::
+`#mapping-discussions` の [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) にアクセスして参加することもできます！ :::
 
 * [譜面作成の用語](./glossary.md)
 
@@ -37,63 +36,63 @@ You can also visit `#mapping-discussion` on the [Beat Saber Modding Group Discor
 3. マッピングエディタで曲を設定します(ステップはエディタによって異なりますが、ここでは MMA2の[ユーザーガイド](./mediocre-map-assistant.md)に従います)
 4. 譜面を作りましょう！ 始める前に [基本的なマッピングの実践](./basic-mapping.md) を確認してください。 早めに、そして譜面作成途中などに[テストプレイ](#playtesting)してください。
 5. 照明を作りましょう！ [基本的な照明](#lighting-practices) を参照してください。 シンプルな照明は意外と簡単です!
-6. [テストプレイ](#playtesting)しましょう！ Third-party playtesting via the [BSMG Discord](https://discord.gg/beatsabermods) is highly recommended to get constructive feedback and to get past your own "map blindness."
-7. Once your song has been mapped, lighted, and playtested you’re ready to [release](#publishing-songs) your song to the world on BeatSaver.
+6. [テストプレイ](#playtesting)しましょう！ [BSMG Discord](https://discord.gg/beatsabermods) を介したサードパーティのプレイテストは、建設的なフィードバックを得たり、自分では得られない気付きを得られたりします。
+7. 譜面が作成され、照明効果も設定され、テストプレイされたら、 [](#publishing-songs) あなたの曲を BeatSaver で世界にリリースする準備は万端です。
 
 ### ビデオチュートリアル
-Text guides aren't your thing? Checkout these video series!  
-:::tip Remember: The text guides on this wiki are always more up to date as it is easier and quicker to change. :::
+テキストガイドはあなたの好みではありませんか これらのビデオをチェックしてみてください。  
+:::tip Remember: テキストガイドはより簡単に迅速に変えることが可能なので、いつでも最新の情報が記載されています。 :::
 
-#### Recommended
+#### おすすめ
 
-* [Helen Carnate's Mapping Tutorial](https://www.youtube.com/watch?v=6O3sXmh-kAA) - A 17 minute guide to get started mapping!
-* [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - A comprehensive lecture series on making your first map.
-* [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) - Covers the most common issues discussed in [Basic Mapping](./basic-mapping.md).
-* [TranquillizeMe's Beat Saber Lighting Techniques Tutorial](https://www.youtube.com/watch?v=EDbPRN_u3jc) - Covers various lighting techniques and general lighting tips.
+* [Helen Carnateのマッピングチュートリアル](https://www.youtube.com/watch?v=6O3sXmh-kAA) - マッピングを開始するための17分のガイド!
+* [Fruheadの初心者向けマッピングガイド](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - 初めての譜面作成に関する包括的なレクチャーシリーズ。
+* [初心者として回避すべきCyrixのパターン](https://www.youtube.com/watch?v=mgGaqZ20Scw) - [Basic Mapping](./basic-mapping.md) で議論されている最も一般的な問題をカバーします。
+* [TransquillizeMe's Beat Saber Lighting Techniques チュートリアル](https://www.youtube.com/watch?v=EDbPRN_u3jc) - さまざまな照明効果と一般的な照明のヒントをカバーします。
 
-:::danger I watched this video by Elite Eric, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric. After reviewing much of his content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to him to correct these errors has unfortunately been met with silence and new (also incorrect) tutorials.
+:::warning このページのチュートリアルは BSMG によって調査されています。 他のビデオチュートリアルは、最新の情報でなかったり、正確でない可能性があります。それらのビデオを見る場合はご自身でそのリスクを理解する必要があります。
 
-Instead, you should follow the written guides here on the wiki, watch the vetted tutorials made by BSMG members linked above, or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
+あなたのチュートリアルがこのリストに入れたい場合は、 [お問い合わせください](http://bit.ly/MessageBSMG). :::
 
 #### レガシービデオ
-::: warning These series use older editors in their tutorials (Mediocre Mapper and EditSaber). The UI and some processes have changed in the latest recommended editor, [MMA2](./mediocre-map-assistant.md) but the rest of the content is great! :::
+::: warning チュートリアルでは古いエディタ(Mediocre Mapper and EditSaber) を使用しています。 UIといくつかのプロセスは、最新の推奨エディタ [MMA2](./mediocre-map-assistant.md) で変更されましたが、コンテンツは素晴らしいです! :::
 
-* [BennyDaBeast's Mapping Tutorials](https://bsaber.com/benny-custom-mapping/)
-* [Freeek's Mapping and Editor Tutorials](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
+* [BennyDaBeastのマッピングチュートリアル](https://bsaber.com/benny-custom-mapping/)
+* [Freek のマッピングとエディターチュートリアル](https://www.youtube.com/playlist?list=PLYeZR6d3zDPgDgWogOwMteL-5SQWAE14b)
 
-## Audio Editing Resources
-Before mapping, you need to get your audio file ready so that it works with your map editor. This section will walk you through how to set up and edit your audio file using a free program called [Audacity](https://www.audacityteam.org/).
+## オーディオ編集
+譜面を作成する前に、譜面作成エディターで読み込むことができる音源を準備する必要があります。 このセクションでは音源の準備や編集を行うことができるフリーソフト[Audacity](https://www.audacityteam.org/)のセットアップを解説します。
 
-### [**Basic Audio Setup**](./basic-audio.md)
-Can't make a map without audio. Learn how to setup your audio for easy mapping!
+### [**基本的なオーディオ設定**](./basic-audio.md)
+音源なしで譜面を作成することは不可能です。 簡単に譜面作成を行うための音源準備の方法を学びましょう
 
-### [**Advanced Audio Editing**](./advanced-audio.md)
-A deeper dive in adjusting audio files such as making shorter versions or working with variable BPM.
+### [**高度なオーディオ設定**](./advanced-audio.md)
+音源のショートバージョンを作成したり、BPMの変更するなど詳細な音響の調整方法について説明します。
 
-## Map Editing Resources
+## 譜面作成用資料
 
-### Community Editors
-::: warning Community editors often have more features and don't require a VR headset, but they can be buggy, so use with caution. ::: Keyboard shortcuts for these editors are available inside their respective in-editor menus with a cross-reference between all of them [available here](./editor-keybinds.md).
+### コミュニティのエディタ
+::: warning 標準のエディタはたくさん機能がありVRを必要としません。しかしバグが起きる可能性があり、注意が必要です。 ::: これらのエディタのキーボードショートカットの一覧は[こちらから](./editor-keybinds.md)利用できます。
 
 #### Mediocre Map Assistant 2
-MMA2 is the most feature rich 3D editor and is used by the majority of the mapping community.
+MMA2はもっとも機能的な3Dエディタで譜面編集コミュニティで大多数のひとが使用しています。
 
-* [Mediocre Map Assistant 2 Download](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
-* [Mediocre Map Assistant 2 User Guide](./mediocre-map-assistant.md)
+* [Mediocre Map Assistant 2のダウンロード](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
+* [Mediocre Map Assistant 2のガイド](./mediocre-map-assistant.md)
 
 #### Beatmapper.app
-A 3D editor that runs in the browser, allowing anyone with a web browser to map. It works best for standard mapping without any extensions, but new features are being added.
+ブラウザ上で起動する３Dマップエディターは誰でも譜面作成ができます。 拡張機能なしの標準的な機能がありますが、いくつかの新しい機能が付かされています。
 
-* [Beatmapper Website](https://beatmapper.app/)
-* [Beatmapper User Manual](https://beatmapper.app/docs/manual/getting-started)
+* [Beatmapper ウェブサイト](https://beatmapper.app/)
+* [Beatmapper ユーザーマニュアル](https://beatmapper.app/docs/manual/getting-started)
 
-#### ChroMapper - *Coming Soon*
-A 3D editor that has stellar support for lighting, Chroma RGB, and shares similar assets with Beat Saber, allowing for a more accurate preview. ChroMapper is currently in closed beta with no planned public release date.
+#### ChroMapper - *近日公開*
+3Dエディタは照明効果、ChromaでのRGBなどビートセイバーとよく似たセッティングを持っていることによりより正確なプレビュー表示ができます。 ChroMapper は現在クローズドベータ版で公開予定日はありません。
 
-::: tip Interested in making your own editor or converter? You may find the [Map Format Page](./map-format.md) and the [SongCore Readme](https://github.com/Kylemc1413/SongCore/blob/master/README.md) helpful! :::
+::: tip 自分のエディタやコンバーターを作ることに興味がありますか? [マップフォーマットページ](./map-format.md) と [SongCore Readme](https://github.com/Kylemc1413/SongCore/blob/master/README.md) が役に立ちます！ :::
 
 ### 公式版エディター
-The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of Beat Saber. It makes playtesting convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](#community-editors).
+公式のエディタはBeat Games によって開発されており、Steam VRとOculus PC版であらかじめインストールされています。 これはゲーム内からワンクリックでアクセスできるのでテストプレイ中などに便利です。 公式のエディタは2次元なので3Dとして想像する力が必要です。これは初心者には難しいと思われます。 大多数の譜面作成者は[コミュニティのエディタ](#community-editors)を使っています。
 
 * To access, launch the editor from within Beat Saber in your HMD or use fpfc launch parameters to open directly from your PC
 * Check out Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM) for an overview of standard mapping!
@@ -183,10 +182,10 @@ Here are some mods that might make your mapping workflow a little easier.
 
 There is no holy bible of mapping but this section of the wiki includes a lot of tribal knowledge from the community on best practices at all levels of mapping. Our advice is to follow these rules until you're comfortable with your skills and then get creative, experiment, and innovate!
 
-### [**Basic Mapping**](./basic-mapping.md)
-All new mappers need to read this, **no exceptions!**
+### [**基本的なマッピング**](./basic-mapping.md)
+これから譜面を作成しようとする人はみなこれを読む必要があります。**例外はありません！**
 
-### [**Intermediate Mapping**](./intermediate-mapping.md)
+### [**中級者向けの譜面作成ガイド**](./intermediate-mapping.md)
 A more in-depth look at many mapping topics **(This page is still a work in progress!)**
 
 ### [**Extended Mapping**](./extended-mapping.md)
@@ -205,7 +204,7 @@ Maps that meet specific [Ranking Criteria](https://scoresaber.com/criteria) and 
 * Once your map has been modded and revised, it’s ready to be presented to a ranking team member or recruit to review.
 * If the ranking team member deems the map acceptable it will be added to the ranking request queue to be voted on by the full ranking team.
 
-## Lighting Practices
+## 照明効果
 A map is not finished until some form of lighting is included. Lighting can range from very basic to incredibly detailed using additional mods to enable more features.
 
 ### [**基本的な照明効果**](./basic-lighting.md)
@@ -214,7 +213,7 @@ Learn the various aspects to lighting your map manually
 ### [**中級照明効果**](./intermediate-lighting.md)
 Take your lighting skills a bit further into strobing, ring spins, and contrast practices
 
-### [**Advanced Lighting**](./advanced-lighting.md)
+### [**高度な照明効果**](./advanced-lighting.md)
 Advanced and nuanced techniques, lighting for custom platforms, and Chroma RGB **(This page is still a work in progress!)**
 
 ### Additional Resources

@@ -5,12 +5,37 @@ sidebar: auto
 # Event Winners
 Vincitori di concorsi/eventi passati tenuti su Discord. Keep up with `#server-announcements` for such events happening now, or in the future!
 
-## Concorso di Natale del 2020
-Il terzo concorso delle Vacanze Invernali, Natale 2: Padoru Elettrico.
+If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
+
+## 2021 Battle Royale
+Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
 
 ---
 
-[Annuncio dei Vincitori](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+
+### Finalists
+In no particular order... these people made it to the top 6 and earned themselves the role!
+
+* DaNike
+* Pink
+* Fixemega
+* Caeden117
+* Kaoplo
+* Raemien
+
+### Battle Master
+GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
+
+### Victory Royale
+The one person who stood above all the rest... Caeden117
+
+## 2020 Christmas Contest
+The third Holiday/Winter contest, Christmas 2: Electric Padoru.
+
+---
+
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
 
 ### Vincitori della Mappa
 
@@ -24,21 +49,21 @@ Il terzo concorso delle Vacanze Invernali, Natale 2: Padoru Elettrico.
 
 * **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
-### Vi Vincitori del Modello
+### Vincitori del Modello
 
 * **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
 
 ### Gran Premio
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
-## Concorso di Halloween 2020
-Il terzo concorso di Halloween. Questa volta con giudici celebri: LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee e PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
+## 2020 Halloween Contest
+The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
-[Annuncio dei Vincitori](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
-### Vincitori della Mappa
+### Map Winners
 
 #### Vanilla
 
@@ -50,16 +75,16 @@ Il terzo concorso di Halloween. Questa volta con giudici celebri: LostVint, Prot
 
 * **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
 
-### Vincitori del Modello
+### Model Winners
 
 * **1st:** [ditCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
 * **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
 * **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
-### Gran Premio
+### Grand Prize
 [Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) by **nitronik.exe**
 
-## Battle Royale del 2020
+## 2020 Battle Royale
 An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challengers faced a variety of challenges both related and unrelated to Beat Saber. The final one being an extreme round of Connect 4.
 
 ---

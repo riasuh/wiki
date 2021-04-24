@@ -32,7 +32,7 @@ Is één van je favoriete nummers niet beschikbaar? Heb je een idee voor een mod
 * Leer hoe je het zelf kan maken met één van de onderstaande gidsen!
 
 ### Het maken van levels
-Leer hoe je je eigen level maakt door onze [levels maken](./mapping/) gids te volgen!
+Leer hoe je je eigen level kan maken door onze [mapping](./mapping/) gids te volgen!
 
 ### Het maken van mods
 Begin met het maken van mods voor het spel door onze [mod creatie](./modding/) gids te volgen!
@@ -42,6 +42,6 @@ Leer hoe je 3D-modellen voor het spel kan maken!
 
 * [Sabers.](./models/sabers-guide.md)
 * [Avatars.](./models/avatars-guide.md)
-* [Platforms.](./models/platforms-guide.md)
+* [Platformen.](./models/platforms-guide.md)
 * [Blokken.](./models/notes-guide.md)
-* **Muren** Er is op dit moment geen gids beschikbaar, maar er wordt aan gewerkt.
+* **Muren** Er is op dit moment geen gids voor beschikbaar, maar er wordt aan gewerkt.

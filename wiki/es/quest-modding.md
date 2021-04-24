@@ -17,7 +17,7 @@ sidebar: auto
 
 No atacar a los desarrolladores por problemas relacionados con mods, y viceversa - los modders y los desarrolladores son dos grupos separados. Simplemente no seas un cretino ok? :::
 
-:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
+:::warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives? We at BSMG **strongly** advise against using any video tutorials for modding. Often, we find that they are either outdated or contain incomplete, erroneous, or straight up incorrect information.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 
@@ -216,7 +216,7 @@ Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your 
 * [Sable de puntuación](https://new.scoresaber.com/quest) - Marcadores de clasificación para canciones personalizadas.
 
 ## Resolución de problemas
-:::warning I watched this video by Elite Eric or FluffySez, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using any tutorials by Elite Eric or FluffySez. After reviewing much of their content, they contain a large amount of incomplete, erroneous, or straight up incorrect information. Attempts to reach out to correct these errors has unfortunately not been successful.
+:::warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives? We at BSMG **strongly** advise against using any video tutorials for modding. Often, we find that they are either outdated or contain incomplete, erroneous, or straight up incorrect information.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
 

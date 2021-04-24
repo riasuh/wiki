@@ -125,7 +125,7 @@ Dit component laat je een actie instellen wanneer aan een bepaalde evenement voo
 
 Om het te gebruiken, klik je op de plus knop om een nieuw evenement te maken, sleep het GameObject dat het evenement uitvoert in het vak, en kies wat je wilt dat dit GameObject doet.
 
-Als je meer informatie wilt over evenementen, lees dan de `Evenementen` sectie in de Avatars gids **link needed!!!**
+Als je meer informatie wilt over evenementen, lees dan de [Evenementen](./avatars-guide.md#events) sectie in de Custom Avatars gids.
 
 ![Evenement toevoegen](~@images/models/sabers/13.png)
 
