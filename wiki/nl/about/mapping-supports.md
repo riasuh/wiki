@@ -36,6 +36,11 @@ Veroorzaker van oogschade met zijn flitsende lightshows, hij kan je helpen je le
 ## Top_Cat
 Eerste bijdrager aan ChroMapper en MMA2 onderhouder. Zal ooit een keer een level afmaken.
 
+## Vaser888
+"Hij is net als batman. Hij verschijnt, dropt testplays, en verdwijnt in de nacht"
+
+[BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
+
 ::: tip Zie ook **Supports:** [Kolezan](./supports.md#kolezan)   
 **Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare)   
 **Staff:** [Bloodcloak](./staff.md#bloodcloak)   

@@ -29,7 +29,7 @@ Var och en av dina favoritbanor är noggrant utformad och testad under många ti
 > Det finns dessutom en discordserver som styrs av gemenskap där man kan få direktkontakt med mappare eller konstnärer om du vill beställa något. Vi uppmuntrar dig att nå ut på [Beat Saber Commissions-servern.](https://discord.gg/4RbcH5G)
 
 ### [Medverkande av mappningsresurser](/mapping/mapping-credits.md)
-En grupp erfarna mappare som tog sig tid att skriva ner och dela med sig av sina kunskaper för att hjälpa andra att komma igång eller bli bättre. Ta dig en titt på deras banor och överväg att stödja dem!
+En grupp erfarna mappare som tog sig tid att skriva ner och dela med sig av sina kunskaper för att hjälpa andra att komma igång eller bli bättre. Check out their maps and consider supporting them!
 
 ### [Translators](./translators.md)
 The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.

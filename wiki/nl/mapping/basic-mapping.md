@@ -171,6 +171,8 @@ Parity is the concept that each block direction is played with either a backhand
 
 When mapping with flow you are striving to always cross this parity line with the most natural movement possible. Effectively, your player should always be alternating between forehand and backhand every swing.
 
+This video demonstrates the basics of parity: [YouTube](https://youtu.be/tLQK4gN3bDc)
+
 A thing important to keep in mind, especially if you are new to the game or mapping, is that the concept of parity is most obvious for wrist players. If you do not play with your palm directly facing the ground, then you might struggle to understand why some parity breaks are uncomfortable. Remember that while it may feel fine to you, players have different grips and styles. Proper parity feels good for everyone, not just some playstyles.
 
 ::: tip  

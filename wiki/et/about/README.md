@@ -29,7 +29,7 @@ Iga teie lemmikmapi loomiseks kulus tundide viisi meisterdamist ja testimist and
 > Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. Soovitame teil võtta ühendust [Beat Saber Commissions server](https://discord.gg/4RbcH5G)is.
 
 ### [Mappimise ressursside kaaspanustajad](/mapping/mapping-credits.md)
-Grupp kogenud mappereid, kes võtsid aega, et kirjutada üles ja jagada oma teadmisi, et aidata teistel mappimisega alustada või oma oskusi parendada. Proovige nende mappe ja kaaluge nende toetamist!
+Grupp kogenud mappereid, kes võtsid aega, et kirjutada üles ja jagada oma teadmisi, et aidata teistel mappimisega alustada või oma oskusi parendada. Check out their maps and consider supporting them!
 
 ### [Translators](./translators.md)
 The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.

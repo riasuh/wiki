@@ -95,12 +95,12 @@ Se a [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) não melhoro
 * Verifique se o NVIDIA GEFORCE EXPERIENCE definiu a escala de renderização para o Beat Saber além do padrão 1.0. Ele pode ter definido para um número maior, podem ser 1.4 ou 1.8, o que aumenta significativamente a carga da GPU.
 * Use um custom avatar menos complexo.
 * O custom saber **Plasma Katanas** tem toneladas de custom events e são conhecidos por introduzir o lag se você errar alguma nota.
-* Camera2 or CameraPlus can be very taxing, especially if you have multiple cameras and increase the FOV.
+* Camera2 and CameraPlus can be very taxing, especially if you have multiple cameras or increase the FOV.
 * Diminua a Render Scale, Anti-Aliasing, mirror, fog, etc nas configurações do jogo base.
 * Para jogadores do Oculus Rift (CV1): considere usar 2 sensores em vez de 3+.
 * Reduza sua quantidade total de mods e músicas.
 * Realize uma [Instalação Limpa](#clean-installation) dos arquivos do jogo.
-* Taxa de frames baixas também pode ser causada por algo dar errado dentro da pasta de dados da sua aplicação, para corrigir isso consulte [Excluir a pasta Beat Saber dentro de seu App Data](#deleting-your-save-in-appdata)
+* Low framerate can also be caused by something going wrong within your application data folder, refer to [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 * Disable Counters+ counters like score counter and swing speed as they can be expensive.
 * HTTPStatus or DataPuller can cause lag spikes. Teste sem esse mod para ver se os lag spikes vão embora.
 
@@ -111,7 +111,7 @@ VR é muito intenso em CPU, especialmente se você adicionar mods. Se você est�
 ### Diversos
 
 #### 3.1 Menu em branco, Sem botões
-Se a janela principal do teu jogo estiver em branco, o seu save provavelmente se corrompeu. Para corrigir esse problema, consulte [Excluir Pasta Beat Saber Dentro do App Data](#deleting-your-save-in-appdata)
+Se a janela principal do teu jogo estiver em branco, o seu save provavelmente se corrompeu. To fix this, refer to [Delete Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 
 ::: warning Isto irá excluir suas estatísticas e scores locais. :::
 
@@ -172,7 +172,7 @@ Your CameraPlus display isn't filling up your canvas. Either drag the corner to 
 **The More Songs button is located in the main menu to the left under the Mods text.** If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in by the rainbow progress bar on the main menu. If your Mods menu isn't there then make sure your mods and dependencies are working and installed properly, refer to the [No Mods?](#_1-no-mods) section.
 
 #### 3.12 Nada aparecendo no menu More Songs
-The probable causes for beatsaver downloader not working are:
+The probable causes for BeatSaver Downloader not working are:
 
 1. Certifique-se de que todas as suas músicas tenham carregado antes, caso contrário, o botão More Songs estará acinzentado.
 2. Seu antivírus ou firewall está bloqueando o acesso ao BeatSaver.
@@ -190,7 +190,7 @@ Here is a list of known error codes, what they mean, and what you can do to fix 
 | CFR-3      | Server is not reachable. There may be an issue with your internet connection or with Beat Saber's relay servers. Double check you are not offline and your firewall allows Beat Saber to connect to the internet. <details><summary>**Background Information**</summary>Beat Saber Multiplayer is peer-to-peer where you connect directly with each player in the lobby. When this is not possible Beat Saber starts a "relay" server to send the data. This error means both of these methods failed.</details> &nbsp; This can also be caused by using emojis or special characters in your username. |
 | CFR-4      | The server already exists.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | CFR-5      | Server does not exist. The lobby you were connecting to might have closed as you were joining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| CFR-6      | The server is full. Chose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-6      | The server is full. Choose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | CFR-7      | You are on a version of the game that is not supported by the servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | CFR-8      | Lobby password is incorrect. Double check you are entering the right password.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | CFR-9      | The matchmaking servers Beat Games run, which keeps track of open public and private lobbies, is offline. Try again later.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -202,7 +202,7 @@ Here is a list of known error codes, what they mean, and what you can do to fix 
 
 ### Understanding Logs
 If you're on Steam you can go to
-> Beat Saber > Propriedades > Definir Opções de Iniciamento > Adicione `--verbose` para o campo de texto que aparecer
+> Beat Saber > Properties > General > Add `--verbose` to the launch options field
 
 If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
@@ -217,7 +217,7 @@ A list of common exceptions can be found [here](./exceptions.md).
 ### Verify Game Files For Steam
 To verify integrity of game files follow these steps:
 
-1. Certifique-se de que o steamvr está fechado, pois ele não permite que você verifique seus jogos.
+1. Make sure SteamVR is closed as it wont let you verify your games otherwise.
 2. Vá para sua biblioteca Steam e encontre o Beat Saber
 3. Clique com o botão direito do mouse sobre o Beat Saber e clique em Propriedades
 4. Vá para a aba "Arquivos Locais" em propriedades
@@ -254,11 +254,11 @@ This will delete your scores and local data, but not your custom leaderboard/Sco
 Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
 
 You can also get to this folder by showing hidden items and navigating to your
-> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism
+> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Deleting the Appdata folder will also delete your local scores and statistics. :::
+::: warning Deleting this folder in Appdata will also delete your local scores and statistics. :::
 
 #### Medidas desesperadas
 ::: warning Disabling your anti-virus involves security risks, be sure to know what you're doing (i.e don't download or open suspicious files while it's turned off) and don't forget to re-enable it as soon as you finished these steps. :::

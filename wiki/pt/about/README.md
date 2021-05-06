@@ -29,7 +29,7 @@ Cada um dos seus mapas favoritos é cuidadosamente trabalhado e testado ao longo
 > Além disso, há uma comunidade no Discord para ajudar a conectar mappers/artistas com os clientes, se você quiser fazer commission de algo. Nós encorajamos você a entrar em contato no [servidor Beat Saber Commissions.](https://discord.gg/4RbcH5G)
 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
-Um grupo de mapeadores experientes que levaram tempo para anotar e compartilhar seus conhecimentos para ajudar os outros a começarem ou melhorarem. Confira seus mapas e considere apoiá-los!
+Um grupo de mapeadores experientes que levaram tempo para anotar e compartilhar seus conhecimentos para ajudar os outros a começarem ou melhorarem. Check out their maps and consider supporting them!
 
 ### [Translators](./translators.md)
 The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.

@@ -32,7 +32,7 @@ He'll teach you to fix your mods and your terribly off-beat first map. We've all
 
 **Roles:** Support, Mapping Support, Mapper
 
-[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Dona](https://paypal.me/kolezan)
 
 ## male
 is too uncreative to think of a bio
@@ -56,7 +56,12 @@ This guy came out of nowhere and started helping in support saying it was some k
 
 **Roles:** Support
 
-[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Dona](paypal.me/Radevirot)
+
+## Rex
+I really like to help people. Yeah that's all.
+
+**Roles:** Support
 
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
@@ -94,7 +99,7 @@ The bot that holds it all together. Created by Megalon, recreated by lolPants, a
 
 ---
 
-::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
-**Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
+::: tip See Also **Artisti 3D:** [RedBrumbler](./3d-artists.md#redbrumbler)  
+**Modder:** [Kyle1413](./modders.md#kyle1413)  
+**Moderatori:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
 **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

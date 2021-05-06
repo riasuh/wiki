@@ -29,7 +29,7 @@ Each of your favorite maps is carefully crafted and tested over many hours by a 
 > Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/4RbcH5G)
 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
-A group of experienced mappers that took the time to write down and share their knowledge to help others get started or improve. Checkout their maps and consider supporting them!
+A group of experienced mappers that took the time to write down and share their knowledge to help others get started or improve. Check out their maps and consider supporting them!
 
 ### [Translators](./translators.md)
 The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.

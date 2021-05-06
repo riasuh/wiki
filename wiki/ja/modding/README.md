@@ -11,7 +11,7 @@ For those of you who prefer [BepInEx](https://github.com/BepInEx/BepInEx) over e
 ビートセイバーのModの作製に興味があるがVisual Studioなどで使うテンプレートを持っていない場合は[はじめのセットアップ](./intro.md)に従ってください。
 
 ### 準備はいいですか?
-Check out the [links below](#other-links) for documentation relating to Unity and related tooling. If you have any questions, the best place to ask is in the `#pc-mod-dev` channel on the [BSMG Discord](https://discord.gg/beatsabermods)
+Unityやそのほか関連するツールを以下の[リンク](#other-links)を参照してください。 質問があれば [BSMG Discord](https://discord.gg/beatsabermods)の`#pc-mod-dev`チャンネルでお尋ねください。
 
 ## Launch args
 Helpful launch arguments that will make modding / debugging easier.

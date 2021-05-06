@@ -153,7 +153,9 @@ Installeer SiraUtil met Mod Assistant en start Beat Saber om een configuratie .j
 
 ![SiraUtil JSON instelling](~@images/mapping/sirautil-FPFC.png)
 
-**Voor Steam Gebruikers:** Open de spel eigenschappen en voeg `fpfc` toe aan de Steam lanceringsopties. ![FPFC lanceringeninstellingen](~@images/mapping/fpfc.png)
+**Voor Steam gebruikers:**
+
+Open de spel eigenschappen en voeg `fpfc` toe aan de Steam start opties in het "Algemeen" tabblad. ![FPFC lanceringeninstellingen](~@images/mapping/fpfc.png)
 
 **Voor Oculus gebruikers:**
 

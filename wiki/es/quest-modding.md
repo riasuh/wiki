@@ -47,7 +47,9 @@ Select the `Install APK from folder` button shown below and find the latest BMBF
 
 Once it has been successfully installed, make sure you have the latest version of Beat Saber installed and unmodded.
 
-:::warning Before modding, run Beat Saber once, play a level and immediately fail! :::
+:::warning Before modding, run Beat Saber once, play a level and immediately fail!
+
+Modding currently does not work if the experimental multi-user feature is in use. You will need to temporarily remove all secondary accounts before modding the game. You can add them back later once you have installed your desired mods. :::
 
 After running Beat Saber once, open BMBF from unknown sources as the picture below shows. ![UnknownSources](~@images/beginners-guide/quest_home-menu.jpg)
 

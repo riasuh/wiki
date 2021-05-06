@@ -5,7 +5,7 @@ next: ./advanced-lighting.md
 description: Learn about taking your lighting to the next level!
 ---
 
-# Intermediate Lighting
+# 中級者向け照明効果
 _You've learned the basics and now you want more!_
 
 * [Glossary of Terms](./glossary.md)

@@ -77,6 +77,8 @@ Offset is used to adjust a song’s spawn distance while keeping the NJS the sam
 ## Understanding Flow
 In [Basic Mapping](./basic-mapping.md#do-mapping-with-flow) we covered the bare essentials of parity. Now we’ll dig deeper and explore why some hits just feel bad.
 
+This video demonstrates some more advanced concepts of parity: [YouTube](https://youtu.be/NF8ESZRXI1c)
+
 Flow is arguably the most important concept in mapping - how each arm travels to move from one hit to the next. This can be as simple as alternating between "forehand" and "backhand" notes, or as complicated as thinking about how one arm interacts with the other at the edges of the playspace. Since the player must see blocks in order to react to them, flow highly depends on speed and difficulty. Slower songs are far more forgiving and flexible with regards to flow, while a fast song is highly limited.
 
 ::: tip TIP Still learning and not seeing some of the errors testplayers point out? Check out [GalaxyMaster's parity checker](https://galaxymaster2.github.io/bs-parity/) to spot any parity breaks! :::

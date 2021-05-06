@@ -22,9 +22,9 @@ Wenn du dir nicht sicher bist, ob du dir gerade Malware installiert hast, ***fra
 
 Beat Saber ünterstützt von Haus aus eigene Songs. Wenn du also nur das haben willst, brauchst du keine Mods! Es ist empfehlenswert `SongCore` zu installieren, das diese Mod das Basisspiel mit einigen Funktionalitäten erweitert, wie verbesserte Ladezeiten und fügt Funktionalitäten für andere Mods ein, wie der In-Game Downloader, eigene Bestenlisten, Playlisten, usw.
 
-::: warning Diese Anleitung ist für PC-modding auf Windows.  
-Wenn du eine Quest hast, schau auf der[Quest Modding Seite](/quest-modding.md).  
-Wenn du Linux benutzt, check die [Linux Seite](/modding/linux.md) oder [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) ab. :::
+::: warning This guide is for PC-modding on Windows.  
+If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
+If you're on Linux, check out the [Linux page](/modding/linux.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
 Wenn du auf irgendwelche Probleme stoßen solltest, schau bitte auf der [Support Seite](./support) nach und identifiziere was falsch gelaufen ist, bevor du auf dem Discord Server nachfragst. Es kann gut sein, dass deine Frage dort beantwortet wird!
 

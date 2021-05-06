@@ -1,47 +1,47 @@
 - - -
-sidebar: auto description: Get Started in the Right Direction!
+barra laterale: auto descrizione: Iniziare nella Giusta Direzione!
 - - -
 
 # Guida per Principianti
 
-## Modding your Game
-Beat Saber is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [PC Modding](#pc-modding) and [Quest Modding](#quest-modding).
+## Moddare il tuo Gioco
+BeatSaber è disponibile sia per PC che per Oculus Quest. Poiché la scena di modding è differente per entrambe le piattaforme, la guida per principianti è divisa in [Modding PC](#pc-modding) e [Modding su Quest](#quest-modding).
 
-### PC Modding
-If you are using SteamVR or the PC version in the Oculus Store, follow our [PC Modding](./pc-modding.md) guide.
+### Modding PC
+Se stai usando la versione SteamVR o PC nell'Oculus Store, segui la nostra guida di [Modding PC](./pc-modding.md).
 
-Applicable hardware includes:
+Hardware idonei includono:
 
 * Valve Index
 * HTC Vive/Vive Pro/Vive Pro Eye/Cosmos
 * Oculus Rift/Rift S
-* Windows Mixed Reality headsets
-* Oculus Quest/Quest 2 using [Oculus Link](https://support.oculus.com/444256562873335/)
+* Auricolari in Realtà Mista di Windows
+* Oculus Quest/Quest 2 con [Oculus Link](https://support.oculus.com/444256562873335/)
 
-### Quest Modding
-If you are using the Oculus Quest version of the game, follow our [Quest Modding](./quest-modding.md) guide.
+### Modding di Quest
+Se stai usando la versione Oculus Quest del gioco, segui la nostra guida di [modding su Quest](./quest-modding.md).
 
-Applicable hardware includes:
+Hardware idonei includono:
 
 * Oculus Quest/Quest 2
 
-## Creating content
-One of your favorite songs is not available? Have a mod idea you want to implement? Want a custom model you want to use in-game? You can make it happen in one of two ways.
+## Creare contenuti
+Una delle tue canzoni preferite non è disponibile? Hai un'idea di mod che vuoi implementare? Vuoi un modello personalizzato che vuoi usare nel gioco? Puoi farlo succedere in uno di questi due modi.
 
-* Commission someone in the community run [Commissions Discord](https://discord.gg/h8VMkhn)
-* Learn how to make it yourself using the resources below!
+* Commissiona qualcuno nel [Commissions Discord](https://discord.gg/h8VMkhn) della community
+* Impara come farlo tu stesso usando le risorse sotto!
 
-### Making Maps
-Learn how to create your own level by following our [mapping](./mapping/) guide!
+### Creare Mappe
+Impara come creare il tuo livello seguendo la nostra guida di [mappatura](./mapping/)!
 
-### Making Mods
-Get started creating mods for the game by following our [mod creation](./modding/) guide!
+### Creare Mod
+Inizia a creare mod per il gioco seguendo la nostra guida di [creazione delle mod](./modding/)!
 
-### Making 3D Models
-Learn how to create 3D models for the game!
+### Creare Modelli 3D
+Impara come creare modelli 3D per il gioco!
 
-* [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
-* **Walls** No guide is available at this time, but one is being worked on.
+* [Saber](./models/sabers-guide.md)
+* [Avatar](./models/avatars-guide.md)
+* [Piattaforme](./models/platforms-guide.md)
+* [Note](./models/notes-guide.md)
+* **Muri** Nessuna guida è momentaneamente disponibile, ma ci stiamo lavorando.

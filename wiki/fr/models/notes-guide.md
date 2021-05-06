@@ -221,9 +221,11 @@ Install SiraUtil from Mod Assistant and run Beat Saber to create a config json f
 
 ![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
 
-**For Steam Users:** Open the game properties and add `fpfc` to the Steam launch options. ![Options de lancement Fpfc](~@images/mapping/fpfc.png)
+**For Steam Users:**
 
-**Pour les utilisateurs d'Oculus :**
+Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
+
+**For Oculus Users:**
 
 1. Right click on Beat Saber.exe and create a shortcut.
 2. Éditez la Cible du raccourci en ajoutant "--verbose" à la fin de celle-ci. Par exemple `"C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`

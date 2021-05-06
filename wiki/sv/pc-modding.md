@@ -9,12 +9,12 @@ sidebar: auto
 ::: danger VARNING När du väljer att använda mods, förstår du att:
 
 * Du kan uppleva problem som inte finns i omoddade spelet. 99,9% av buggar, kraschar och lagg beror på mods.
-* Mods are subject to being broken by updates and that's normal - be patient and respectful when this happens, as modders are volunteers with real lives.
-* Beat Games aren't purposefully trying to break mods. They wish to work on the codebase and sometimes this breaks mods, but they are not out to kill mods.
+* Mods brukar gå sönder av uppdateringar och det är normalt - ha tålamod och var respektfull när detta händer. Moddare är volontärer med riktiga liv.
+* Beat Games försöker inte avsiktligt att ta sönder mods. De arbetar med kodbasen och ibland tar detta sönder mods, men de är inte ute efter att döda dem.
 
-Do not attack the game developers for issues related to mods, and vice versa - modders and game developers are two separate groups. Bara var inte en idiot, ok? :::
+Attackera inte spelutvecklare för frågor som rör mods, och vice versa - moddare och spelutvecklare är två separata grupper. Bara var inte en idiot, ok? :::
 
-:::warning STAY SAFE WHEN INSTALLING MODS Beat Saber will **NEVER** ask you to run it as Administrator.
+:::warning VAR SÄKER NÄR DU INSTALLERAR MODS Beat Saber kommer **ALDRIG** be dig att köra ett mod som administratör.
 
 If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. What you installed is a malicious mod!
 
@@ -24,7 +24,7 @@ Beat Saber natively supports custom songs, so if that's all you're looking for, 
 
 ::: warning This guide is for PC-modding on Windows.  
 If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
-If you're on Linux, check out the [Linux page](/modding/linux.md) or [QBeat](https://github.com/geefr/beatsaber-linux-goodies/blob/master/README.md) :::
+If you're on Linux, check out the [Linux page](/modding/linux.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
 If you run into problems at any point, please head to the [support page](./support) and see if you can identify what went wrong before asking in the Discord server. Chances are, your answer is on that page!
 

@@ -58,13 +58,18 @@ Deze man kwam uit de lucht vallen en begon te helpen en zij dat het een soort ve
 
 [Twitter](https://twitter.com/Radevirot) | [Doneer](paypal.me/Radevirot)
 
+## Rex
+Ik help mensen graag. Dat was het wel zo'n beetje.
+
+**Rol:** Support.
+
 ## rui2015
 Heeft geen creativiteit en weet niet wat hij hier moet zeggen. Is wel een gaaf persoon.
 
 **Rol:** Support.
 
 ## Sands
-Hij heeft geen leven en hij is best stom, maar hij kan wel met je BMBF helpen en dat is alles wat belangrijk is, toch?
+Hij heeft geen leven en hij is best dom, maar hij kan wel met je BMBF helpen en dat is alles wat belangrijk is, toch?
 
 **Rol:** Support.
 
@@ -76,7 +81,7 @@ Hij heeft geen leven en hij is best stom, maar hij kan wel met je BMBF helpen en
 **Rol:** Support.
 
 ## Squares
-Ik sweer dat ik goed ben in Beat Saber en helpen, vraag het maar aan Boulders!
+Ik sweer dat ik goed ben in Beat Saber en helpen, vraag het maar aan boulders!
 
 **Rol:** Support.
 

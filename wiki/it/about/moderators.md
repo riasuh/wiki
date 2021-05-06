@@ -1,56 +1,56 @@
-# Moderators
-With a server so large, a lot of moderation is required to keep everything under control. You can thank this team for keeping the streets clean.
+# Moderatori
+Con un server così grande, è necessaria molta moderazione per tenere tutto sotto controllo. Puoi ringraziare questo team per mantenere le strade pulite.
 
 ## 24Kings
-"Join the Qvolution, also Pink cute"
+"Unisciti alla Qvoluzione, anche Rosa e carina"
 
-**Roles:** Moderator
+**Ruoli:** Moderatore
 
 ## Caeden117
-How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and ChroMapper, a soon to be released mapping software with Chroma RGB light support.
+Quante statistiche possono entrare in una sola mod di conteggio? Apparentemente molte. È anche responsabile dei tutorial di modding su questa wiki e ChroMapper, un software di mappatura che sarà presto rilasciato con supporto alla luce RGB Chroma.
 
-**Roles:** Modder, Moderator  
-**Contributions:** Counters+, wiki modding tutorials
+**Ruoli:** Modder, Moderatore  
+**Contributi:** Counters+, tutorial di modding della wiki
 
-[GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
+[GitHub](https://github.com/caeden117) | [Dona](https://ko-fi.com/Caeden117)
 
 ## Chara_
 brrrrrr
 
-**Roles:** Support, 3D Artists, Moderator
+**Ruoli:** Supporto, Artisti 3D, Moderatore
 
-[Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
+[Community di Qosmetics](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
 ## Eradawn
-"Findus says hai"
+"Findus dice hai"
 
-**Roles:** Moderator, Support
+**Ruoli:** Moderatore, Supporto
 
 ## Hydrand
-Camellia is SourPls
+Camellia è Sourpls
 
-**Roles:** Mapper, Moderator
+**Ruoli:** Mappatore, Moderatore
 
 [Twitch](https://www.twitch.tv/hydrandvr)
 
 ## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
 Poi!
 
-**Roles:** 3D Artists, Support, Moderator
+**Ruoli:** Artisti 3D, Supporto, Moderatore
 
 [Twitch](https://www.twitch.tv/br3uker)
 
 ## Maladaze
 Can't hit jumps
 
-**Roles:** Moderator
+**Ruoli:** Moderatore
 
 [Twitch](https://www.twitch.tv/infjager)
 
 ## Olaf
 Any stroopwafels?
 
-**Roles:** Moderator
+**Ruoli:** Moderatore
 
 [Twitch](https://twitch.tv/olafstad)
 
@@ -78,7 +78,7 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 
 **Roles:** Support, Moderator
 
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Dona](https://streamelements.com/sarpest_razor/tip)
 
 ## Shad
 "Every channel is just #pc-mod-support"
@@ -114,6 +114,6 @@ Pepega
 ## joelseph (Retired)
 \+ joelseph
 
-**Roles:** Moderator
+**Ruoli:** Moderatore
 
 [Twitch](https://www.twitch.tv/tehjoelseph)

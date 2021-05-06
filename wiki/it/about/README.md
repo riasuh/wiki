@@ -12,32 +12,32 @@ Il team che gestisce lo spettacolo in prima linea e dietro le quinte. Che si tra
 Con un server così grande, molta moderazione è necessaria per tenere tutto sotto controllo. Potete ringraziare questo team per mantenere pulite le strade.
 
 ### [Modder](./modders.md)
-Il gioco come lo conosciamo non esisterebbe se le persone non volessero aggiungerci la propria spinta. These are the modders who have spent countless of their own hours to help us personalize the game.
+Il gioco come lo conosciamo non esisterebbe se le persone non volessero aggiungerci la propria spinta. Questi sono i modder che hanno passato innumerevoli delle loro ore ad aiutarci a personalizzare il gioco.
 
 ### [Sostenitori](./supports.md)
-Il ruolo del Sostenitore è un simbolo di ringraziamento. Thanks for the thousands of messages sent in the support channels to help people sort out their mods, and for building a knowledge of troubleshooting base through macros and the wiki.
+Il ruolo del Sostenitore è un simbolo di ringraziamento. Grazie per i migliaia di messaggi inviati nei canali di supporto per aiutare le persone a ordinare le proprie mod e creare una conoscenza per la risoluzione dei problemi di base tramite le macro e la wiki.
 
 ### [Sostenitori della Mappatura](./mapping-supports.md)
-Il ruolo di Sostenitore della Mappatura è un simbolo di ringraziamento. Thanks for the thousands of messages sent in the mapping discussion channel and time spent building and maintaining the mapping resources to help people learn how to make maps.
+Il ruolo di Sostenitore della Mappatura è un simbolo di ringraziamento. Grazie per i migliaia di messaggi inviati nel canale di discussione della mappatura e al tempo passato a creare e mantenere le risorse di mappatura per aiutare le persone a imparare come creare le mappe.
 
 ### [Artisti 3D](./3d-artists.md)
-From sabers to notes, custom models have always been a popular aspect of modded beat saber which wouldn't be possible without them.
+Dalle sciabole alle note, i modelli personalizzati sono sempre stati un aspetto popolare di Beat Saber moddato, cosa che sarebbe stata impossibile senza di loro.
 
 ### Mappatori
-Ognuna delle tue mappe preferite è stata creata e testata con attenzione per molte ore da un mappatore talentuoso. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! Lo apprezzeranno davvero tanto.
+Ognuna delle tue mappe preferite è stata creata e testata con attenzione per molte ore da un mappatore talentuoso. Per quanto ci piacerebbe includere qui anche loro, ce ne sono DAVVERO troppi. Se ti piacciono le mappe di qualcuno, dagli un pollice in su nel gioco, recensiscile su [BeastSaber](https://bsaber.com) o diglielo personalmente! Lo apprezzeranno davvero tanto.
 
-> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. Ti invitiamo a contattarli nel server [Beat Saber Commissions.](https://discord.gg/4RbcH5G)
+> Inoltre, esiste un Discord gestito dalla community per aiutare a connettere mappatori/artisti con i clienti se vorresti commissionare qualcosa. Ti incoraggiamo a contattarli nel [server Beat Saber Commissions](https://discord.gg/4RbcH5G)
 
 ### [Collaboratori delle Risorse di Mappatura](/mapping/mapping-credits.md)
-Un gruppo di mappatori esperti che hanno impiegato del tempo per annotare e condividere la propria conoscenza per aiutare gli altri a iniziare o migliorare. Guarda le loro mappe e considera di supportarli!
+Un gruppo di mappatori esperti che hanno impiegato del tempo per annotare e condividere la propria conoscenza per aiutare gli altri a iniziare o migliorare. Dai un'occhiata alle loro mappe e considera di supportarli!
 
-### [Translators](./translators.md)
-The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.
+### [Traduttori](./translators.md)
+I duri lavoratori che si prendono il tempo per tradurre i contenuti della wiki nelle proprie lingue. Un grazie di cuore per il vostro tempo! Quelli elencati su questa pagina sono per le lingue correntemente disponibili sul sito web.
 
-If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+Se vorresti partecipare per la tua lingua, puoi [fare domanda per aiutare a tradurre!](https://forms.gle/e3BqA3poMjESARe76)
 
-### [Event Winners](./event-winner.md)
-Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
+### [Vincitori di Eventi](./event-winner.md)
+I vincitori dei vecchi concorsi/eventi tenutisi nel Discord. Tieniti aggiornato con `#server-announcements` per tali eventi in corso o futuri!
 
 ## Su Questa Wiki
-This is a wiki for all things relating to modding the game Beat Saber. It was originally created to replace the `#beginners-guide` and `#faq` channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).
+Questa è una wiki per tutte le cose correlate al modding del gioco Beat Saber. Originalmente creata per sostituire i canali `#beginners-guide` e `#faq` del [Discord Beat Saber Modding Group](https://discord.gg/beatsabermods) (Gruppo di Modding di Beat Saber).

@@ -95,12 +95,12 @@ Als [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) je fps niet v
 * Controleer of NVIDIA GEFORCE EXPERIENCE de renderingsschaal voor Beat Saber voorbij het standaard van 1.0 ingesteld heeft. Het kan het op een hoger nummer hebben ingesteld (bijvoorbeeld 1,4 of 1,8) waardoor de belasting op de GPU aanzienlijk toeneemd.
 * Gebruik een minder complexe custom avatar.
 * De custom saber **Plasma Katanas** heeft een heleboel events en deze staan er om bekend lag te kunnen introduceren als u mist.
-* Camera2 en CameraPlus kunnen erg belastend zijn, vooral als je meerdere camera's hebt en het FOV verhoogt.
+* Camera2 en CameraPlus kunnen erg belastend zijn, vooral als je meerdere camera's hebt en de FOV hebt verhoogt.
 * Zet de renderingsschaal, Anti-Aliasing, reflecties, het misteffect, etc. op een lagere stand in de basis spel instellingen.
 * Voor Oculus Rift (CV1) spelers: overweeg om 2 sensoren te gebruiken in plaats van 3 of meer.
 * Verminder je totale hoeveelheid mods en liedjes.
 * Voer een [Nieuwe Installatie](#clean-installation) van de spelbestanden uit.
-* Lage framerate kan ook worden veroorzaakt als er iets mis is met je AppData map. Om dit op te lossen, lees [Het verwijderen van je Beat Saber AppData map](#deleting-your-save-in-appdata).
+* Lage framerate kan ook worden veroorzaakt als er iets mis is met je AppData map. Om dit op te lossen, lees dan [Het verwijderen van je Beat Saber AppData map](#deleting-your-save-in-appdata).
 * Zet Counters+ opties zoals score counter en swing speed uit want deze kunnen lag veroorzaken.
 * HTTPStatus en DataPulller kunnen lag veroorzaken. Test het spel zonder deze mod om te kijken of het inderdaad hierdoor werd veroorzaakt.
 
@@ -111,7 +111,7 @@ VR is zeer CPU intensief, vooral als je mods toevoegt. Als je moeite hebt om het
 ### Overige
 
 #### 3.1 Leeg Menu, Geen knoppen
-Als het hoofdmenu van het spel leeg is, dan is jouw save file waarschijnlijk beschadigd. Om dit op te lossen, lees [Het verwijderen van uw Beat Saber AppData map](#deleting-your-save-in-appdata).
+Als het hoofdmenu van het spel leeg is, dan is jouw save file waarschijnlijk beschadigd. Om dit op te lossen, lees dan [Het verwijderen van uw Beat Saber AppData map](#deleting-your-save-in-appdata).
 
 :::: warning Waarschuwing Hierdoor worden je lokale scores en statistieken verwijderd. :::
 
@@ -172,7 +172,7 @@ Je CameraPlus display is te klein voor je scherm. Sleep de hoek om de grootte va
 **De More Songs knop is te vinden aan de linkerkant onder de Mods tekst in het hoofdmenu.** Als de knop More Songs doorzichtig is, zorg er dan voor dat al jouw levels zijn geladen. Dit is te zien aan de hand van de regenboogkleurige vooruitgangsbalk in het hoofdmenu. Als jouw Mods menu er niet is, zorg er dan voor dat je mods en afhankelijkheden werken en correct zijn geïnstalleerd, en bekijk fr [Geen mods?](#_1-no-mods) sectie.
 
 #### 3.12 Niets zichtbaar in het "More Songs" menu
-De mogelijke oorzaken, waardoor BeatSaver Downloader niet kan werken, zijn:
+De mogelijke oorzaken waardoor BeatSaver Downloader niet werkt, zijn:
 
 1. Zorg ervoor dat al je nummers zijn geladen, want anders zal de "More Songs" knop doorzichtig zijn.
 2. Jouw anti-virus of firewall blokkeert de toegang tot BeatSaver.
@@ -202,7 +202,7 @@ Hieronder is een lijst met bekende foutcodes, wat ze betekenen en wat je kan doe
 
 ### Logbestanden begrijpen
 Als je het spel op Steam bezit, kan je het volgende doen
-> Beat Saber > Properties > voeg `--verbose` toe aan het tekst veld dat de titel "Launch Options" heeft.
+> Beat Saber > Eigenschappen > Algemeen > voeg `--verbose` toe in het startopties veld.
 
 Als je het spel op Oculus bezit, dan moet je met je rechtermuisknop op Beat Saber.exe klikken en een snelkoppeling maken. Bewerk het tekstveld genaamd "Doel" door "--verbose" toe te voegen aan het einde van het pad. b.v. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
@@ -254,11 +254,11 @@ Dit zal je scores en lokale data verwijderen, maar niet je Custom levels scorebo
 Kopieer alles van de bovenstaande pad, plak het in de adresbalk in van jouw bestandsverkenner en verwijder het.
 
 Je kan ook naar deze map navigeren door verborgen items te weergeven en te navigeren naar:
-> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism
+> Gebruikers > "Gebruiker" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Als je de Appdata map verwijdert, worden ook uw lokale scores en statistieken verwijderd. :::
+::: warning Waarschuwing Als je de Appdata map verwijdert, dan worden ook uw lokale scores en statistieken verwijderd. :::
 
 #### Wanhopige maatregelen
 :::warning Waarschuwing Het uitschakelen van jouw anti-virus brengt veiligheidsrisico's met zich mee, zorg ervoor dat je zeker weet wat je doet (zoals: download of open geen verdachte bestanden terwijl het is uitgeschakeld) en vergeet het niet opnieuw aan te zetten zodra je klaar bent met deze stappen. :::

@@ -41,7 +41,7 @@ sidebar: "false"
 
 ##### 解決策 2 (Steam)
 
-* [ゲームファイルを確認する](#verify-game-files-for-steam)
+* [ゲームファイルの整合性を確認する](#verify-game-files-for-steam)
 * BSIPAを最新のバージョンに更新する
 * Beat Saberフォルダに移動
 * `IPA.exe` を実行する
@@ -73,7 +73,7 @@ sidebar: "false"
 1. アンチチートソフトウェアをアンインストールします。
 2. PCを再起動します。
 3. `AppData` フォルダにソフトウェアが存在しないかを確認します。
-4. ゲームを起動します。 それでも問題が残る場合は以下のように対処してください: `追記: Bsipaをブロックするプログラムや疑問視するプログラムがある場合、不許可や不承認の問題が残る場合があります。` Steam: [Verify Steam Game Files](#verify-game-files-for-steam) Oculus: [クリーンインストール](#clean-installation)を実行する
+4. ゲームを起動します。 それでも問題が残る場合は以下のように対処してください: `追記: Bsipaをブロックするプログラムや疑問視するプログラムがある場合、不許可や不承認の問題が残る場合があります。` Steam: [ゲームファイルの整合性を確認する](#verify-game-files-for-steam) Oculus: [クリーンインストール](#clean-installation)を実行する
 
 これで問題が解決するはずです。
 
@@ -172,7 +172,7 @@ Your CameraPlus display isn't filling up your canvas. Either drag the corner to 
 **The More Songs button is located in the main menu to the left under the Mods text.** If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in by the rainbow progress bar on the main menu. If your Mods menu isn't there then make sure your mods and dependencies are working and installed properly, refer to the [No Mods?](#_1-no-mods) section.
 
 #### 3.12 Nothing Showing Up In The More Songs Menu
-The probable causes for beatsaver downloader not working are:
+The probable causes for BeatSaver Downloader not working are:
 
 1. Make sure all of your songs have loaded in before, or else the More Songs button will be greyed out.
 2. Your anti-virus or firewall blocking access to BeatSaver.
@@ -190,7 +190,7 @@ Here is a list of known error codes, what they mean, and what you can do to fix 
 | CFR-3      | Server is not reachable. There may be an issue with your internet connection or with Beat Saber's relay servers. Double check you are not offline and your firewall allows Beat Saber to connect to the internet. <details><summary>**Background Information**</summary>Beat Saber Multiplayer is peer-to-peer where you connect directly with each player in the lobby. When this is not possible Beat Saber starts a "relay" server to send the data. This error means both of these methods failed.</details> &nbsp; This can also be caused by using emojis or special characters in your username. |
 | CFR-4      | The server already exists.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | CFR-5      | Server does not exist. The lobby you were connecting to might have closed as you were joining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| CFR-6      | The server is full. Chose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| CFR-6      | The server is full. Choose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | CFR-7      | You are on a version of the game that is not supported by the servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | CFR-8      | Lobby password is incorrect. Double check you are entering the right password.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | CFR-9      | The matchmaking servers Beat Games run, which keeps track of open public and private lobbies, is offline. Try again later.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -202,7 +202,7 @@ Here is a list of known error codes, what they mean, and what you can do to fix 
 
 ### Understanding Logs
 If you're on Steam you can go to
-> Beat Saber > Properties > Set Launch Options > Add `--verbose` to the text field that appears
+> Beat Saber > Properties > General > Add `--verbose` to the launch options field
 
 If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
@@ -217,7 +217,7 @@ A list of common exceptions can be found [here](./exceptions.md).
 ### Verify Game Files For Steam
 To verify integrity of game files follow these steps:
 
-1. Make sure steamvr is closed as it wont let you verify your games otherwise.
+1. Make sure SteamVR is closed as it wont let you verify your games otherwise.
 2. Go to your steam library and find Beat Saber
 3. Right click Beat Saber and click on Properties
 4. Go to the "Local Files" tab in properties
@@ -254,11 +254,11 @@ This will delete your scores and local data, but not your custom leaderboard/Sco
 Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
 
 You can also get to this folder by showing hidden items and navigating to your
-> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism
+> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Deleting the Appdata folder will also delete your local scores and statistics. :::
+::: warning Deleting this folder in Appdata will also delete your local scores and statistics. :::
 
 #### Desperate Measures
 ::: warning Disabling your anti-virus involves security risks, be sure to know what you're doing (i.e don't download or open suspicious files while it's turned off) and don't forget to re-enable it as soon as you finished these steps. :::

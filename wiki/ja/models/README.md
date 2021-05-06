@@ -14,18 +14,18 @@ description: Installation, Usage, and Creation Guides for Model Mods!
 ## モデルを見つける方法
 
 ### ModelSaber
-[ModelSaber](https://modelsaber.com/) is the current repository for sabers, avatars, bloqs, and platforms. It includes preview images, and OneClick&trade; install links.
+[ModelSaber](https://modelsaber.com/) - PCのカスタムセーバー、アバター、ブロック、およびプラットフォームがダウンロードできます！ プレビューがみれたりOneClick&trade; があったりします。
 
 or contribute to translation effort [here](https://github.com/bsmg/wiki). Please do not reupload any already existing models to the website. :::
 
 ### ディスコード
-You can also find an uncurated list _(with potentially more items)_ in the `#pc-models` channel on the [BSMG Discord](https://discord.gg/beatsabermods) for PC and [Qosmetics Discord](https://discord.gg/qosmetics) for Quest.
+PCでは[BSMG Discord](https://discord.gg/beatsabermods) の`#pc-models`チャンネル、クエストでは[Qosmetics Discord](https://discord.gg/qosmetics)で精錬されていないモデルも（それでも多くの）見つけることができます。
 
-## Creating models
-Want to learn how to make your own models? Check out one of our guides down below!
+## モデルの作成
+自分でモデルを作成する方法を学びたいですか？ 以下のガイドを見てください！
 
-* [Custom Sabers Guide](./sabers-guide.md)
-* [Custom Avatars Guide](./avatars-guide.md)
-* [Custom Platforms Guide](./platforms-guide.md)
-* [Custom Notes Guide](./notes-guide.md)
-* [Making Quest Models Guide](https://github.com/RedBrumbler/Qosmetics/wiki)
+* [カスタムセイバーガイド](./sabers-guide.md)
+* [カスタムアバターガイド](./avatars-guide.md)
+* [カスタムプラットフォーム](./platforms-guide.md)
+* [カスタムノーツガイド](./notes-guide.md)
+* [クエストモデル用のガイド](https://github.com/RedBrumbler/Qosmetics/wiki)

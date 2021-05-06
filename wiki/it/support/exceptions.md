@@ -7,19 +7,19 @@ Spiegazione rapida sugli errori di eccezione che solitamente si verificano duran
 Spiegazioni numerate indicano che potrebbe trattarsi di uno dei problemi elencati.
 
 ## ArgumentException
-Path is a zero-length string, contains only white space, or contains one or more invalid characters as defined by `InvalidPathChars`.
+Il percorso è una stringa vuota, contiene solo spazi bianchi, o uno o più caratteri non validi come definito da `InvalidPathChars`.
 
 ## ArgumentNullException
-Path is null.
+Il percorso è nullo.
 
 ## DirectoryNotFoundException
-The specified path is invalid.
-> Example: It is on an unmapped drive.
+Il percorso specificato non è valido.
+> Esempio: È su un'unità non mappata.
 
 ## IOException
 
 1. Il file specificato è in uso.
-2. There is an open handle on the file, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories and files.
+2. C'è un handle aperta sul file e il sistema operativo è Windows XP o precedente. Questa handle aperta può risultare dall'enumerazione di cartelle e file.
 
 ## NotSupportedException
 Il percorso è in un formato non valido.
@@ -29,8 +29,8 @@ Il percorso specificato, il nome del file o entrambi hanno superato la lunghezza
 
 ## UnauthorizedAccessException
 
-1. The caller does not have the required permission.  
-   This could mean that a program is also blocking the user from accessing the file, such as `Anti Viruses, and programs that would block suspicious programs/processes/activity` Other causes would be not having rights aka **lacking admin rights and the likes.** i.e your user or pc has insufficient rights to access/write files and data in anyway.
+1. Il chiamante non ha l'autorizzazione richiesta.  
+   Questo potrebbe significare che un programma sta anche bloccando l'utente dall'accedere al file, come `Antivirus e programmi che bloccherebbero programmi/processi/attività sospetti` Altre cause sarebbero non avere diritti ovvero **mancare dei diritti amministratore e simili.** es. il tuo utente o pc ha diritti insufficienti di accesso/scrittura dei file e dati in alcun modo.
 2. Il file è un file eseguibile in uso.
 3. Il percorso è una directory.
 4. Il percorso ha specificato un file di sola lettura.

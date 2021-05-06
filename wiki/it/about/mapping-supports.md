@@ -1,12 +1,12 @@
-# Mapping Supports
-The Mapping Support role is a symbol of thanks. Thanks for the thousands of messages sent in the mapping discussion channel and time spent building and maintaining the mapping resources to help people learn how to make maps. We don't typically give this role out, but when we do it's because someone has gone above and beyond for the server.
+# Supporti di Mappatura
+Il ruolo del Supporto alla Mappatura è un simbolo di ringraziamento. Grazie alle migliaia di messaggi inviati nel canale di discussione della mappatura e il tempo passato a creare e mantenere le risorse di mappatura per aiutare le persone a imparare come creare le mappe. Tipicamente non diamo questo ruolo a chiunque, ma quando lo facciamo è perché qualcuno è andato oltre per il server.
 
 ## Alzaraf
-For some reason, spends way more time talking about mapping then actually mapping.  
+Per qualche motivo, spente molto più tempo a parlare di mappatura che a mappare realmente.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c855ce3) | [BeastSaber](https://bsaber.com/members/alzaraf/)
 
 ## Bullet
-Contributed lots of stuff to the Mapping section of the wiki. Has an interesting username...  
+Ha contribuito a molte cose nella sezione di Mappatura della wiki. Ha un nome utente interessante...  
 [BeatSaver](https://beatsaver.com/uploader/5e84a9933f476a000645dd88) | [BeastSaber](https://bsaber.com/members/xace1337manx/)
 
 ## CyanSnow
@@ -14,29 +14,34 @@ A furry on Mondays and Wednesdays, makes awesome maps with various gimmicks push
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8543ac) | [BeastSaber](https://bsaber.com/members/cyansnow/)
 
 ## Cyrix
-A mapper and testplayer who focuses on metal music, and lots of multi-diff maps. Potrebbe creare un video l'anno o giù di lì.
+Un mappatore e giocatore di prova che si concentra sulla musica metal e molte mappe multidifferite. Potrebbe creare un video l'anno o giù di lì.
 
 [BeatSaver](https://beatsaver.com/uploader/5eb6eb9a7abb000006c85add) | [BeastSaber](https://bsaber.com/members/cyrix/)
 
 ## fruhead
-Un mappatore che si concentra sulla creazione di mappe accessibili per esperti minori e sottostanti. Originally got into mapping in order to add some more rock and metal maps to compete with the weeb and nightcore maps, only to end up making more weeb and nightcore maps. Testa le mappe a occasioni, sebbene abbia lo Stress Post Traumatico dal 1999 e sia il redattore ufficiale. Creator of the [Beginner's Guide to Mapping tutorial series](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm).
+Un mappatore che si concentra sulla creazione di mappe accessibili per esperti minori e sottostanti. Originalmente entrato nella mappatura per aggiungere più mappe rock e metal per competere con le mappe weeb e nightcore, solo per finire a creare altre mappe weeb e nightcore. Testa le mappe a occasioni, sebbene abbia lo Stress Post Traumatico dal 1999 e sia il redattore ufficiale. Creatore della [serie di tutorial alla Mappatura della Guida per Principianti](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm).
 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c852683) | [BeastSaber](https://bsaber.com/members/fruhead/)
 
 ## Helen Carnate
-The plushie queen who organized the majority of the mapping resources. The guides wouldn't be like they are today without them!
+La regina plushie che ha organizzato gran parte delle risorse di mappatura. Le guide non sarebbero come sono oggi senza di loro!
 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c8553d2) | [BeastSaber](https://bsaber.com/members/helencarnate/) | [Etsy Shop](https://www.etsy.com/shop/HelenCarnateDesigns)
 
 ## Skeelie
-Bringer of eye damage with his flashy light shows, he can help you make your map shine!
+Portatore di danni oculari con i suoi show di luci lampeggianti, può aiutare a far brillare le tue mappe!
 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85507f) | [BeastSaber](https://bsaber.com/members/skeelie/) | [YouTube](https://www.youtube.com/user/xSkeelie) | [Twitch](https://www.twitch.tv/skeelie)
 
 ## Top_Cat
-First time ChroMapper contributor and MMA2 maintainer. Might finish a map one day.
+Collaboratore alle prime appe di ChroMapper e manutentore di MMA2. Potrebbe finire una mappa, un giorno.
 
-::: tip See Also **Supports:** [Kolezan](./supports.md#kolezan)  
-**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare)  
+## Vaser888
+"È come Batman. Si presenta, rilascia versioni di prova, svanisce nella notte"
+
+[BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
+
+::: tip Vedi Anche **Supporti:** [Kolezan](./supports.md#kolezan)  
+**Moderatori:** [Pyrowarfare](./moderators.md#pyrowarfare)  
 **Staff:** [Bloodcloak](./staff.md#bloodcloak)  
 :::

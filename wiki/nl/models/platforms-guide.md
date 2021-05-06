@@ -9,7 +9,7 @@ description: Emma's gids voor het maken van custom platforms!
 _Emma's gids voor het maken van custom platforms._
 
 ## Project
-Open het huidige [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) met [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
+Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) with [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
 
 ## Eerste stappen
 ![Custom Platform Script](~@images/models/platforms/CustomPlatformScript.png)
@@ -19,10 +19,10 @@ Maak een `Empty GameObject` door met re rechtermuisknop op het Hierarchy venster
 ## Modellen toevoegen
 ![Objects](~@images/models/platforms/Objects.png)
 
-Sleep alle modellen die je wilt in je Platform naar het GameObject dat in de tweede stap wordt gemaakt en plaats ze waar je wilt. Voor de materialen van de modellen zorg je ervoor dat je Beat Saber compatibele shaders gebruikt of degene die je kunt vinden in het Project, genaamd `_dark_replace` en `_glow_replace`. Dit zijn custom materialen die werken zoals de Beat Saber materialen, of te wel, react to the tube lights and mist.
+Drag all models you want in your Platform into the GameObject created in the second step and position them to your liking. Voor de materialen van de modellen zorg je ervoor dat je Beat Saber compatibele shaders gebruikt of degene die je kunt vinden in het Project, genaamd `_dark_replace` en `_glow_replace`. Dit zijn custom materialen die werken zoals de Beat Saber materialen, of te wel, react to the tube lights and mist.
 
 ### Track Rings
-Het `Track Rings` script maakt track ringen zoals ze eruit zien in het spel. Om dit te bereiken moet het script een prefab nemen. Op dit moment heb ik niet kunnen uitvinden hoe ik een prefab moet gebruiken, dus heb ik een gameobject gebruikt, dat is onderdeel van de platformhiërarchie, die ik later heb verplaatst naar `y = -1000`. Om het voorbeeld goed te tonen, verplaats je dit gameObject naar (0,0,00) en pas je je instellingen aan en voordat je het importeert naar een locatie buiten het scherm.
+Het `Track Rings` script maakt track ringen zoals ze eruit zien in het spel. Om dit te bereiken moet het script een prefab nemen. Currently I haven't been able to figure out how to use a prefab in it, so I used a gameObject, that is part of the platform hierarchy, that I later moved off to `y = -1000`. For the ring-preview to show correctly, move this gameObject to (0,0,0) and adjust your settings and before importing move it off to somewhere offscreen.
 
 Het inschakelen van het rotation effect, zorgt ervoor dat de ringen draaien door het opgegeven evenement, afhankelijk van de variabelen die gegeven zijn. (Ik heb hier nog niet mee gespeeld dus je zal moeten experimenten).
 
@@ -33,24 +33,24 @@ Het inschakelen van het step effect verandert de afstand tussen de ringen wannee
 ### Tube Light
 ![Tube Light](~@images/models/platforms/TubeLightScript.png)
 
-Dit script maakt knipperende verlichting mogelijk. Als je dit op een leeg gameObject plaatst verandert de achtergrond en voegt het een beetje kleur toe aan die ruimte volgens de IDs van de verlichting. Als er ook een mesh renderer op staat, zal het de kleur van de mesh aanpassen volgens de IDs van de verlichting. Als je dit gebruikt is er een color adding nodig, dus ik verander de grootte van het script naar 0.
+Dit script maakt knipperende verlichting mogelijk. Putting this on an empty gameObject changes the background and adds a bit of color to that space, according to the light ID's. When there's also a mesh renderer on it, it'll change the meshes color according to the light ID's. When using this no color adding is needed, so I change the size on the script to 0.
 
 ### Song Events
 ![Song Event Handler](~@images/models/platforms/SongEventHandler.png)
 
-De event manager is het meest nuttige script. Hiermee kun je een actie activeren op elk beat saber event (zelfs op ongebruikte). Voor het toevoegen van een event druk je op de `+` knop onder `On Trigger ()`. Sleep het object dat je wilt manipuleren in het vak dat zojuist gemaakt is. Klik op het uitklapmenu aan de rechter kant en kies wat dat object moet doen, door eerst te selecteren welk onderdeel en dan welke actie. Zorg ervoor dat je slechts 1 event Handler per gameObject gebruikt, omdat er maar 1 werkt per gameObject.
+The event manager is the most useful script. With it you can trigger an action on any beat saber event (even unused ones). Voor het toevoegen van een event druk je op de `+` knop onder `On Trigger ()`. Drag in the object you want to manipulate into the box that just got created. Press the dropdown menu to the right and choose what that object should do, by first selecting what component, then what action. Make sure that you only use 1 event Handler per gameObject, as only 1 will work per gameObject.
 
 ### Spectogram
 ![Spectogram](~@images/models/platforms/Spectogram.png)
 
-Het spectrogram script werkt zoals het track rings script en vereist ook een prefab of gameObject. Dit zal groter en kleiner worden volgens het geluid van het spel en de aangeboden variabelen. (Heb hier ook nog niet mee gespeeld).
+The spectrogram script works like the track rings script and also requires a prefab or gameObject. This will get stretched and shrunk according to the sound of the game and the variables provided. (Haven't played with this either).
 
 ## Exporteren
 
-![Opslaan](~@images/models/platforms/Save.png)
+![Saving](~@images/models/platforms/Save.png)
 
-Exporteer het platform doormiddel van het script dat je eerder aan het gameObject hebt toegevoegd op de locatie van jouw keuze. Bij voorkeur de map van het spel `Beat Saber/CustomPlatforms`.
+Export the platform trough the script that you previously added to the gameObject to the location of your choosing. Preferably the game's directory `Beat Saber/CustomPlatforms`.
 
-::: tip TIP **Wanneer je nieuwe platforms werken**, [kan je ze naar ModelSaber uploaden](https://modelsaber.com) als je ze wil delen met de hele wereld. :::
+::: tip NOTE **Once you've got your new platform working**, [upload them to ModelSaber](https://modelsaber.com) if you want to share them with the world. :::
 
-![Kat](~@images/models/platforms/Cat.png)
+![Cat](~@images/models/platforms/Cat.png)

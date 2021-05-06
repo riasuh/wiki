@@ -58,43 +58,48 @@ Dieser Typ kam aus dem nichts und fing an zu helfen indem er sagte, es sei eine 
 
 [Twitter](https://twitter.com/Radevirot) | [Spenden](paypal.me/Radevirot)
 
+## Rex
+I really like to help people. Yeah that's all.
+
+**Rollen:** Support
+
 ## rui2015
-Hat keine Kreativität und weiß nicht, was man hier schreiben soll. Ist jedoch ein cooler Mensch.
+Has no creativity and doesn't know what to put here. Is a cool person though.
 
 **Rollen:** Support
 
 ## Sands
-Er hat kein Leben und ist ziemlich dumm aber er kann mit BMBF helfen und das ist alles was zählt, richtig?
+He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
 
-**Rollen:** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
 ## Simme63
-"Koks Kopf"
+"Coke Head"
 
 **Rollen:** Support
 
 ## Squares
-Ich schwöre ich bin gut in Beat Saber und helfe. Frag einfach Boulders!
+I swear i'm good at Beat Saber and helping just ask Boulders!
 
-**Rollen:** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
 ## Toblersto
-Ich habe entschlossen eines Tages zu helfen und bin seither etwas süchtig geworden.
+I decided I wanted to help one day, and have been slightly addicted ever since.
 
-**Rollen:** Support
+**Roles:** Support
 
 ## Channel Monitor Bot
-Der Bot, der alles zusammenhält. Erstellt von Megalon, neu erschaffen von lolPants und verkörpert von Rolo!
+The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
 
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
 ---
 
-::: tip Siehe auch **3D Künstler:** [RedBrumbler](./3d-artists.md#redbrumbler)  
-**Modder:** [Kyle1413](./modders.md#kyle1413)  
-**Moderatoren:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
-**Mitarbeiter:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
+**Modders:** [Kyle1413](./modders.md#kyle1413)  
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
+**Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

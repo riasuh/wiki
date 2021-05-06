@@ -1,15 +1,15 @@
 ---
 sidebar: auto
-description: The list of keyboard shortcuts for modern community editors!
+description: L'elenco di scorciatoie da tastiera per gli editor della community moderna!
 ---
 
-# Editor Keybinds
-There are usually multiple ways to accomplish the same action, however, keyboard shortcuts are the most efficient.
+# Keybind dell'Editor
+Solitamente esistono più modi per compiere la stessa azione, tuttavia, le scorciatoie da tastiera sono le più efficienti.
 
-::: warning NOTE
+::: warning NOTA
 
-* These are the default keybinds which may change at any time. Some editors may also allow you to change the keybinds.
-* You can find more info on Beatmapper's keybinds [here](https://beatmapper.app/docs/keyboard-shortcuts). There are some actions that are very specific to Beatmapper that may not be noted on this page. :::
+* Questi sono i keybind predefiniti che potrebbero cambiare in ogni momento. Alcuni editor pootrebbero anche consentirti di cambiare i keybind.
+* Puoi trovare altre info sui keybind di Beatmapper [qui](https://beatmapper.app/docs/keyboard-shortcuts). There are some actions that are very specific to Beatmapper that may not be noted on this page. :::
 
 If this format doesn't work for you, this [Google Sheet](https://docs.google.com/spreadsheets/d/1iZLs80IH-KXeXE3NcNQA5kcc591XgAT-BUK6vZXcPAs/edit?usp=sharing), which this wiki page is based off of, is also available but is slightly out of date.
 

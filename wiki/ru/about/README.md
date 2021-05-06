@@ -29,7 +29,7 @@ From sabers to notes, custom models have always been a popular aspect of modded 
 > Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. Мы рекомендуем вам посетить сервер [Beat Saber Commissions server](https://discord.gg/4RbcH5G), если вас это заинтересовало
 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
-Группа опытных создателей карт, которым потребовалось много времени, чтобы записать и поделиться своими знаниями, в целях помощи другим начинающим членам сообщества или тем, кто хочет расширить уже имеющиеся знания. Ознакомьтесь с их картами и задумайтесь о поддержке авторов!
+Группа опытных создателей карт, которым потребовалось много времени, чтобы записать и поделиться своими знаниями, в целях помощи другим начинающим членам сообщества или тем, кто хочет расширить уже имеющиеся знания. Check out their maps and consider supporting them!
 
 ### [Translators](./translators.md)
 The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.

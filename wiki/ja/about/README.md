@@ -29,7 +29,7 @@
 > さらに、何かを委託したい場合は、マップ製作者やアーティストとクライアントをつなげる手助けをしているDiscordコミュニテがあります。 [Beat Saber Commissionsサーバー](https://discord.gg/4RbcH5G)で連絡を取ることをお勧めします。
 
 ### [Mapping Resources Contributors（譜面作成の知識を提供してくれた方々）](/mapping/mapping-credits.md)
-この経験豊富なマッパーのグループは、他の人が譜面作成を始めたり、改善するために自分の知識を共有してくださいました。 彼らの譜面をチェックし、彼らをサポートしてください!
+この経験豊富なマッパーのグループは、他の人が譜面作成を始めたり、改善するために自分の知識を共有してくださいました。 Check out their maps and consider supporting them!
 
 ### [Translators（翻訳）](./translators.md)
 wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割いてくださったことに感謝いたします。 このページに記載されているものは、現在ウェブサイト上で利用可能な言語用です。

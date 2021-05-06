@@ -58,10 +58,15 @@ This guy came out of nowhere and started helping in support saying it was some k
 
 [Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
+## Rex
+I really like to help people. Yeah that's all.
+
+**Roles:** Soporte
+
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
 
-**Roles:** Soporte
+**Roles:** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
@@ -73,7 +78,7 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 ## Simme63
 "Coke Head"
 
-**Roles:** Soporte
+**Roles:** Support
 
 ## Squares
 I swear i'm good at Beat Saber and helping just ask Boulders!

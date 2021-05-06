@@ -221,14 +221,16 @@ Installeer SiraUtil met Mod Assistant en start Beat Saber om een configuratie .j
 
 ![SiraUtil JSON instelling](~@images/mapping/sirautil-FPFC.png)
 
-**Voor Steam Gebruikers:** Open de spel eigenschappen en voeg `fpfc` toe aan de Steam lanceringsopties. ![FPFC lanceringeninstellingen](~@images/mapping/fpfc.png)
+**Voor Steam gebruikers:**
+
+Open de spel eigenschappen en voeg `fpfc` toe aan de Steam start opties in het "Algemeen" tabblad. ![FPFC lanceringeninstellingen](~@images/mapping/fpfc.png)
 
 **Voor Oculus gebruikers:**
 
 1. Rechtsklik op Beat Saber.exe en maak een snelkoppeling.
 2. Bewerk het doel en voeg "fpfc" toe aan het einde ervan. Bijv: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-Na het installeren van de mods en het toevoegen van het startparameter kan je nu bewegen en pauzeren in een level. De wisselknop om te schakelen tussen bril- en muis/toetsenbord bediening is <kbd>G</kbd>.
+Na het installeren van de mods en het toevoegen van het startparameter kan je nu bewegen en pauzeren in een level. De knop om te wisselen tussen bril- en muis/toetsenbord bediening is <kbd>G</kbd>.
 
 :::warning OPMERKING
 
@@ -254,7 +256,7 @@ Selecteer nu de shader die je wilt gebruiken voor jouw blok. Als je niet zeker w
 
 ![Een shader selecteren](~@images/models/notes/44.png)
 
-Pas dit material nu toe op zowel de mesh van jouw NoteLeft als de mesh van jouw NoteRight. Zorg ervoor dat je het toepast op ALLEBEI!
+Pas dit material nu toe op zowel de mesh van jouw `NoteLeft` als de mesh van jouw `NoteRight`. Zorg ervoor dat je het toepast op ALLEBEI!
 
 ![Op TriangleMesh klikken](~@images/models/notes/71.png)
 

@@ -9,7 +9,7 @@ description: Emmas Leitfaden zur Erstellung von Custom Platforms!
 _Emmas Leitfaden zur Erstellung von Custom Platforms._
 
 ## Projekt
-Öffne das aktuelle [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) mit [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
+Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) with [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
 
 ## Erste Schritte
 ![Custom Platform Skript](~@images/models/platforms/CustomPlatformScript.png)
@@ -19,10 +19,10 @@ Erstelle ein `Leeres Spielobjekt`, indem du mit der rechten Maustaste in das Hie
 ## Modelle hinzufügen
 ![Objekte](~@images/models/platforms/Objects.png)
 
-Ziehe alle Modelle, die du in deiner Plattform haben möchtest, in das im zweiten Schritt erstellte GameObject und positioniere sie nach Belieben. Stelle für die Materialien der Modelle sicher, dass Beat Saber kompatible Shader verwendest oder die, die du im Projekt findest, `_dark_replace` und `_glow_replace` im Namen haben. Dies sind benutzerdefinierte Materialien, die sich wie die Beat Saber Materialien verhalten, d. h. auf die Röhrenleuchten und den Nebel reagieren.
+Drag all models you want in your Platform into the GameObject created in the second step and position them to your liking. Stelle für die Materialien der Modelle sicher, dass Beat Saber kompatible Shader verwendest oder die, die du im Projekt findest, `_dark_replace` und `_glow_replace` im Namen haben. Dies sind benutzerdefinierte Materialien, die sich wie die Beat Saber Materialien verhalten, d. h. auf die Röhrenleuchten und den Nebel reagieren.
 
 ### Track Rings
-Das `Track Rings ` Skript macht Track Rings wie man sie im Spiel sieht. Um dies zu erreichen, nimmt das Skript ein Prefab. Momentan habe ich noch nicht herausgefunden, wie ich eine Prefab darin verwenden kann, also habe ich ein gameObject verwendet, das Teil der Plattformhierarchie ist, das ich später auf `y = -1000` verschoben habe. Damit die Ring-Vorschau korrekt angezeigt wird, verschiebe das gameObject auf (0,0,0), passe deine Einstellungen an und verschiebe es vor dem Importieren an einen Ort außerhalb des Bildschirms.
+Das `Track Rings ` Skript macht Track Rings wie man sie im Spiel sieht. Um dies zu erreichen, nimmt das Skript ein Prefab. Currently I haven't been able to figure out how to use a prefab in it, so I used a gameObject, that is part of the platform hierarchy, that I later moved off to `y = -1000`. For the ring-preview to show correctly, move this gameObject to (0,0,0) and adjust your settings and before importing move it off to somewhere offscreen.
 
 Die Aktivierung des Rotationseffekts bewirkt, dass sich die Ringe um das angegebene Ereignis drehen, abhängig von den angegebenen Variablen. (Ich habe mit den noch nicht herumgespielt, also experimentiere am besten).
 
@@ -33,24 +33,24 @@ Das Aktivieren des Stufeneffekts ändert die Ringabstände, wenn das angegebene 
 ### Röhren Licht
 ![Röhren Licht](~@images/models/platforms/TubeLightScript.png)
 
-Dieses Skript aktiviert blinkende Lichter. Wenn du dies auf ein leeres gameObject legst, ändert sich der Hintergrund und fügt dem Bereich ein wenig Farbe hinzu, je nach den Licht-IDs. Wenn ein Mesh-Renderer vorhanden ist, wird er die Farbe des Meshes entsprechend der Licht-IDs ändern. Wenn du dies verwendest, ist kein Hinzufügen von Farben erforderlich, also ändere ich die Größe im Skript auf 0.
+Dieses Skript aktiviert blinkende Lichter. Putting this on an empty gameObject changes the background and adds a bit of color to that space, according to the light ID's. When there's also a mesh renderer on it, it'll change the meshes color according to the light ID's. When using this no color adding is needed, so I change the size on the script to 0.
 
 ### Song Events
 ![Song Event Handler](~@images/models/platforms/SongEventHandler.png)
 
-Der Event-Manager ist das nützlichste Skript. Mit ihm kannst du bei jedem Beat Saber Event(auch bei unbenutzten) eine Aktion auslösen. Um ein Event hinzuzufügen, drücke die Taste `+` unterhalb von `Auslöser ()`. Ziehe das Objekt, das du manipulieren möchtest, in die soeben erstellte Box. Drücke das Dropdown-Menü auf der rechten Seite und wähle aus, was dieses Objekt tun soll, indem du zuerst die Komponente und dann die Aktion auswählst. Achte darauf, dass du nur 1 Event-Handler pro gameObject verwendest, da nur eins pro gameObject funktionieren wird.
+The event manager is the most useful script. With it you can trigger an action on any beat saber event (even unused ones). Um ein Event hinzuzufügen, drücke die Taste `+` unterhalb von `Auslöser ()`. Drag in the object you want to manipulate into the box that just got created. Press the dropdown menu to the right and choose what that object should do, by first selecting what component, then what action. Make sure that you only use 1 event Handler per gameObject, as only 1 will work per gameObject.
 
-### Spektogramm
-![Spektogramm](~@images/models/platforms/Spectogram.png)
+### Spectogram
+![Spectogram](~@images/models/platforms/Spectogram.png)
 
-Das Spektrogramm Skript funktioniert wie das Skript "Track Rings" und benötigt ebenfalls ein Prefab oder gameObject. Diese wird entsprechend dem Klang des Spiels und den bereitgestellten Variablen gedehnt und geschrumpft. (Auch damit habe ich noch nicht herumgespielt).
+The spectrogram script works like the track rings script and also requires a prefab or gameObject. This will get stretched and shrunk according to the sound of the game and the variables provided. (Haven't played with this either).
 
 ## Exportieren
 
-![Speichern](~@images/models/platforms/Save.png)
+![Saving](~@images/models/platforms/Save.png)
 
-Exportiere die Plattform über das Skript, das du zuvor zum gameObject hinzugefügt hast, an einen Ort deiner Wahl. Vorzugsweise das Verzeichnis des Spiels `Beat Saber/CustomPlatforms`.
+Export the platform trough the script that you previously added to the gameObject to the location of your choosing. Preferably the game's directory `Beat Saber/CustomPlatforms`.
 
-::: tip HINWEIS **Wenn du deine neue Plattform zum Laufen gebracht hast**, [lade sie auf ModelSaber hoch](https://modelsaber.com), wenn du sie mit der Welt teilen möchtest. :::
+::: tip NOTE **Once you've got your new platform working**, [upload them to ModelSaber](https://modelsaber.com) if you want to share them with the world. :::
 
-![Katze](~@images/models/platforms/Cat.png)
+![Cat](~@images/models/platforms/Cat.png)

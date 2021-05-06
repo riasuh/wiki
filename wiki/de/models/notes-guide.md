@@ -221,7 +221,9 @@ Install SiraUtil from Mod Assistant and run Beat Saber to create a config json f
 
 ![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
 
-**For Steam Users:** Open the game properties and add `fpfc` to the Steam launch options. ![Fpfc launch options](~@images/mapping/fpfc.png)
+**For Steam Users:**
+
+Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
 
 **For Oculus Users:**
 

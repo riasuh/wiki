@@ -94,20 +94,20 @@ MMA2はもっとも機能的な3Dエディタで譜面編集コミュニティ�
 ### 公式版エディター
 公式のエディタはBeat Games によって開発されており、Steam VRとOculus PC版であらかじめインストールされています。 これはゲーム内からワンクリックでアクセスできるのでテストプレイ中などに便利です。 公式のエディタは2次元なので3Dとして想像する力が必要です。これは初心者には難しいと思われます。 大多数の譜面作成者は[コミュニティのエディタ](#community-editors)を使っています。
 
-* To access, launch the editor from within Beat Saber in your HMD or use fpfc launch parameters to open directly from your PC
-* Check out Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM) for an overview of standard mapping!
+* アクセスするためにはヘッドセット内でBeatSaverのエディタを起動するかPCからfpfcをつかって直接起動させてください。
+* 標準的なマッピングの概要については、Megalonの [公式エディタチュートリアルビデオ](https://www.youtube.com/watch?v=5Ex6sOEVgrM) をご覧ください!
 
-Keep in mind the following features that official does not have compared to the [Community Editors](#community-editors) available.
+公式が [Community Editors](#community-editors) と比較して以下の機能を搭載していません。
 
-* Uncommon Precision such as 1/5 and associated multiples.
-* Regular autosave and recovery (Editor only autosaves when testing or saving)
-* Flexible mass select, copy, and paste
-* Edit in place (Change the direction of notes without needing to delete)
-* Chroma RGB Support
-* Actual audio offset for syncing. (The parameter in official offsets/delays not only the song but also hitsounds)
+* 1/5などの珍しい倍率での設定
+* オートセーブとバックアップ（公式エディタはテスト時と保存したときのみセーブされます）
+* 複数選択とコピー、ペースト
+* 配置しながらの編集（ノーツを削除することなく方向を変更できます）
+* Chroma RGB サポート
+* オーディオのオフセット設定 (公式のオフセット/遅延のパラメータは曲だけでなくヒットサウンドも含まれます)
 * エラーチェッカー
-* Contributor Fields
-* Mapping or Noodle Extensions Support
+* コントリビューターフィールド
+* MappingまたはNoodle Extensionsのサポート
 
 #### Migrating from Official Editor to a Community Editor
 Although it is recommended to start setup again following the [Quick Start](#mapping-quick-start) guides with a [Community Editor](#community-editors), it is possible to transfer your work in the Official Editor over.

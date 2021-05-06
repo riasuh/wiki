@@ -153,16 +153,18 @@ Installiere SiraUtil von Mod Assistant und führe Beat Saber aus, um eine config
 
 ![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
 
-**Für Steam-Benutzer:** Öffne die Spieleigenschaften und fügen `fpfc` zu den Steam Startoptionen hinzu. ![FPFC Startoptionen](~@images/mapping/fpfc.png)
+**For Steam Users:**
 
-**Für Oculus Besitzer:**
+Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
+
+**For Oculus Users:**
 
 1. Klicke mit der rechten Maustaste auf Beat Saber.exe und erstelle eine Verknüpfung.
 2. Bearbeite das Ziel, um "fpfc" am Ende hinzuzufügen. Zum Beispiel: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-Nach der Installation der Mods und dem Hinzufügen des Startparameters kannst du dich nun in einer Karte bewegen und pausieren. Die Umschalttaste zum Umschalten zwischen Headset- und Maus-/Tastatursteuerung ist <kbd>G</kbd>.
+After installing the mods and adding the launch parameter you can then now move around and pause in a map. The toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
 
-:::warning HINWEIS
+:::warning NOTE
 
 * Wenn du zurück in VR gehst und das Spiel auch im Headset nicht geladen wird:
   * Drücke die Taste <kbd>G</kbd>, bis das Headset das Spiel anzeigt  
@@ -172,7 +174,7 @@ Nach der Installation der Mods und dem Hinzufügen des Startparameters kannst du
 * Wenn der Mod nicht zu funktionieren scheint, stelle sicher, dass die Einstellung "Smooth Camera" im Spiel deaktiviert ist. :::
 
 ### Online mit BS Viewer
-Der [BS Viewer](https://skystudioapps.com/bs-viewer/) von **+1 Rabbit** ist ein Online-Tool, mit dem du bequem überprüfen kannst, wie deine Karte im Spiel aussehen könnte, ohne das Spiel zu starten. Lade einfach deine Karten ZIP auf die Website hoch und sieh dir die Vorschau an! Leider werden **IOS und Safari derzeit nicht unterstützt.**
+[BS Viewer](https://skystudioapps.com/bs-viewer/) by **+1 Rabbit** is an online tool that is a convenient way to checkout how your map might look in game without the game. Just upload your map zip to the website and preview! Unfortunately **IOS and Safari are currently not supported.**
 
 ## Credits
-Die Inhalte in diesem Abschnitt wurden von [LittleAsi](./mapping-credits.md#littleasi) und [Kolezan](./mapping-credits.md#kolezan) oder von Anleitungen von [Puds](./mapping-credits.md#puds) und [MandyNasty](./mapping-credits.md#mandynasty) abgeleitet. Mit visuellen Medienbeiträgen von [Aeroluna](./mapping-credits.md#aeroluna) und [Bullet](./mapping-credits.md#bullet).
+Content in this section was authored by [LittleAsi](./mapping-credits.md#littleasi) and [Kolezan](./mapping-credits.md#kolezan) or derived from guides by [Puds](./mapping-credits.md#puds) and [MandyNasty](./mapping-credits.md#mandynasty). With visual media contributions from [Aeroluna](./mapping-credits.md#aeroluna) and [Bullet](./mapping-credits.md#bullet).

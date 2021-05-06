@@ -2,81 +2,81 @@
 sidebar: auto
 ---
 
-# Impugnature e Consigli
-_A compilation of resources to help you to hit bloq._
+# Impugnature e Trucchi
+_Una raccolta di risorse per aiutarti a riuscire in bloq._
 
-## Mega-Tutorial di come scalare la classifica
-Un incredibile guida fatta da TeknozFR per aiutarvi a ottenere quei PP. [Guida alla Classifica & Punteggio](./ranking-guide)
+## Mega-Tutorial per Scalare le Classifiche
+Un'incredibile guida di TeknozFR per aiutarti a ottenere quei PP. [Guida alle Posizioni e ai Punteggi](./ranking-guide)
 
 ## Punteggi
-See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) about how the scoring system works.
+Guarda questo video da [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) su come funziona il sistema di punteggi.
 
 <YouTube url='https://www.youtube.com/watch?v=rVbXCGddspA' />
 
-Additionally, here's an image from the game developers about how the [hitboxes](https://twitter.com/Split82/status/979365834324889600) work
+Inoltre, ecco un'immagine dagli sviluppatori del gioco su come funzionano le [hitbox](https://twitter.com/Split82/status/979365834324889600)
 
-![Bloq Hitbox](~@images/mapping/hitbox-from-split.jpg)
+![Hitbox di Bloq](~@images/mapping/hitbox-from-split.jpg)
 
 ## Posizione
-*How does global ranking work? What are performance points? What are the numbers in my brackets? Why is my PP so small?*
+*Come funziona la posizione globale? Cosa sono i punti prestazione? Cosa sono i numeri tra le mie parentesi? Perché i miei PP sono così pochi?*
 
-You can find your global ranking and PP on [ScoreSaber](https://scoresaber.com/global) - here you can search for your name. Your ScoreSaber account is tied to your Steam / Oculus username.
+Puoi trovare la tua posizione globale e i PP su [ScoreSaber](https://scoresaber.com/global) - qui puoi cercare per nome. Il tuo profilo di ScoreSaber è collegato al tuo nome utente di Steam / Oculus.
 
-1. Ranked songs are assigned PP (PP = performance points). The exact amount of PP gained is determined by the accuracy you finish a ranked song with. How much PP a ranked song is worth is determined by a secret algorithm developed by Umbranox, our Panda God.
-2. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is `0.965^(x-1)` where `x` is the position of that score on your song list. e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP which is a 100% of the raw PP of that play. If your second top play is 247 raw PP, you will be rewarded 238 weighted PP which is the actual amount of PP you get after the curve applies. Here is a table to illustrate this system:
+1. Le canzoni classificate ricevono PP (PP = punti prestazione). L'importo esatto di PP guadagnati è determinato dall'accuratezza con cui finisci una canzone classificata. Quanti PP vale una canzone classificata è determinato da un algoritmo segreto sviluppato da Umbranox, il nostro Dio Panda.
+2. Per evitare di avere giocatori esperti che macinino molte delle canzoni più facili che valgono meno PP, è applicata una curva alle tue giocate. Questa curva è `0,965^(x-1)`, dove `x` è la posizione di quel punteggio sul tuo elenco di canzoni. es. Se la tua giocata migliore è una giocata da 260 PP, sarai premiato di 260 PP ponderati, un 100% dei PP grezzi di quella giocata. Se la tua seconda migliore giocata vale 247 PP grezzi, sarai premiato con 238 PP ponderati, l'importo reale di PP che ottieni applicando la curva. Ecco una tabella per illustrare questo sistema:
 
-| PP Grezzi | PP Ponderati                   |
-| --------- | ------------------------------ |
-| 260pp     | **260pp** (100% dei PP grezzi) |
-| 247pp     | **238pp** (96.5% of raw PP)    |
-| 246pp     | **229pp** (93.1% of raw PP)    |
-| 244pp     | **219pp**  (89.9% of raw PP)   |
+| PP Grezzi | PP Ponderati                     |
+| --------- | -------------------------------- |
+| 260pp     | **260pp** (100% dei PP grezzi)   |
+| 247pp     | **238pp** (96.5% dei PP grezzi)  |
+| 246pp     | **229pp** (93.1% dei PP grezzi)  |
+| 244pp     | **219pp**  (89.9% dei PP grezzi) |
 
-3. To get a better rank, there are quite a few tools you can use to find ranked songs that fit your skill level. First, it’s always good to go see your own [ScoreSaber](https://scoresaber.com/global) profile to see songs that you haven’t played in a while or that you could improve on and to know what your top scores look like. The [ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) or [ScoreSaber Country Leaderboard](https://github.com/motzel/ScoreSaberCountryLeaderboard#readme) browser extension can extend the functionality of your profile. [BaliBilo's ScoreSaber site](https://scoresaber.balibalo.xyz/peepee) and [Beat Savior](https://www.beatsavior.io/) are external sites that can help you find maps to improve on and keep track of your performance.
+3. Per ottenere un rango migliore, ci sono diversi strumenti che puoi usare per trovare le canzoni classificate adatte al tuo livello di abilità. Primo, va sempre bene vedere il tuo profilo di [ScoreSaber](https://scoresaber.com/global) per vedere le canzoni che non hai suonato da un po' o su cui potresti migliorare e sapere quali sono i tuoi punteggi migliori. L'estensione del browser [ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) o [ScoreSaber Country Leaderboard](https://github.com/motzel/ScoreSaberCountryLeaderboard#readme) possono estendere la funzionalità del tuo profilo. [Il sito ScoreSaber di Balibalo](https://scoresaber.balibalo.xyz/peepee) e [Beat Savior](https://www.beatsavior.io/) sono siti esterni che possono aiutarti a trovare le mappe su cui migliorare e tenere traccia delle tue prestazioni.
 
-You can find more information in the [Ranking & Scoring Guide](./ranking-guide.md).
+Puoi trovare altre informazioni nella [Guida alle Posizioni e ai Punteggi](./ranking-guide.md).
 
-*This section is adapted from Tek's writeup in the Beat Saber Canadian discord.*
+*Questa sezione è adattata dalla scrittura di Tek nel discord canadese di Beat Saber.*
 
-::: tip Songs are ranked by the team in the [ScoreSaber Discord](https://discord.gg/WpuDMwU). You can follow along in this server to see what changes happen! :::
+::: suggerimento Le canzoni sono classificate dal team nel Discord di [ScoreSaber](https://discord.gg/WpuDMwU). Puoi seguirlo per vedere che modifiche sono implementate! :::
 
-## Grips
-Cube Community made some videos showing off some of the more popular grips for Oculus Touch controllers (CV1) and Vive Wands.
+## Impugnature
+La Community di Cube ha creato dei video che mostrano alcune delle impugnature più popolari per i controller Oculus Touch (CV1) e Vive Wands.
 
 ### HTC Vive Wands
 <YouTube url='https://www.youtube.com/watch?v=G7x_wb7RrgU' />
 
-![Vive Grips Guide](~@images/grips-and-tricks/vive-grips-guide.jpg)
+![Guida alle Impugnature di Vive](~@images/grips-and-tricks/vive-grips-guide.jpg)
 
 ### Oculus Rift
 <YouTube url='https://www.youtube.com/watch?v=XFt90q69aEA' />
 
-![Oculus Grips Guide](~@images/grips-and-tricks/oculus-grips-guide.jpg)
+![Guida alle Impugnature dell'Oculus](~@images/grips-and-tricks/oculus-grips-guide.jpg)
 
 ### Oculus Rift S e Quest
-A video has not yet been made for Rift S and Quest controllers, but you can find some examples below! ![Oculus Rift S/Quest Guide](~@images/grips-and-tricks/touch2-grips.jpg)
+Non è ancora stato realizzato un video per i controller Rift S e Quest, ma puoi trovare qualche esempio qui sotto! ![Guida all'Oculus Rift S/Quest](~@images/grips-and-tricks/touch2-grips.jpg)
 
 ### Controller Valve Index
-A video has not yet been made for Index controllers, but you can find some examples in their `#tips-and-grips` channel! [CC Discord](https://discord.gg/dwe8mbC)
+Non è ancora stato realizzato un video per i controller Index, ma puoi trovare qualche esempio nel loro canale `#tips-and-grips`! [CC Discord](https://discord.gg/dwe8mbC)
 
 ### Oculus Quest 2
-A video has not yet been made for the Quest 2's controllers, but you can find some examples below! ![Oculus Quest 2](~@images/grips-and-tricks/touch3-grips.jpg)
+Non è ancora stato realizzato un video per i controller del Quest 2, ma puoi trovare qualche esempio qui sotto! ![Oculus Quest 2](~@images/grips-and-tricks/touch3-grips.jpg)
 
-Check out Cube Community's `#tips-and-grips` channel for more suggestions and examples in their [Discord](https://discord.gg/dwe8mbC). Please remember that everyone's playstyle and body is different; someone else's grip might not work exactly like you need it to. Don't be afraid to experiment and find what's right for you!
+Dai un'occhiata al canale `#tips-and-grips` della Community di Cube per altri suggerimenti ed esempi nel loro [Discord](https://discord.gg/dwe8mbC). Sei pregato di ricordare che lo stile di gioco e il corpo di tutti sono diversi; l'impugnatura di qualcun altro potrebbe non funzionare esattamente come ti serve. Non aver paura di sperimentare e trovare ciò che fa per te!
 
 ## Migliorare il monitoraggio del controller di Vive
-Your body may be blocking one lighthouse from seeing one of your controllers. Here are some steps that may help improve tracking.
+Il tuo corpo potrebbe impedire a un faro di vedere uno dei controller. Ecco alcuni passi che possono aiutare a migliorare il monitoraggio.
 
-1. Move into the corner of your playspace.
-2. Rotate your body 45 degrees so that your lighthouses can see both controllers.
-3. Rotate the room within Beat Saber's settings to compensate, so that you appear facing forward within the game.
+1. Spostati all'angolo della tua area di gioco.
+2. Ruota il tuo corpo di 45 gradi così che i tuoi fari possano vedere entrambi i controller.
+3. Ruota la stanza nelle impostazioni di Beat Saber per compensare, così che tu appaia rivolto in avanti nel gioco.
 
-![Vive Tracking Help](~@images/grips-and-tricks/vive-tracking-help.gif)
+![Guida al Monitoraggio di Vive](~@images/grips-and-tricks/vive-tracking-help.gif)
 
-This can apply to Oculus sensors too.
+Questo si può anche applicare ai sensori dell'Oculus.
 
-## Disconnettere Batteria del Controller Touch
-The force of your swings in Beat Saber can cause the spring in the touch controllers to compress and disconnect the battery for a brief moment. This is what happens when you see your saber lose positional tracking but still rotate in place. To alleviate this, ragesaq recommends adding extra springs inside the battery compartment to decrease the likelihood of battery disconnects happening, explained in this [Reddit post](https://www.reddit.com/r/oculus/comments/a2h7o4/psa_adding_an_additional_spring_to_the_battery/?st=JR9Q7OEZ&sh=a7a3d091)
+## Disconnettere la Batteria del Controller Touch
+La forza delle tue oscillazioni in Beat Saber può causare che la molla nei controller touch si comprima e disconnetta brevemente la batteria. Questo è ciò che succede quando vedi la tua sciabola perdere il monitoraggio posizionale, seppur ruotando sul posto. Per alleviare ciò, ragesaq consiglia di aggiungere molle extra nel compartimento della batteria per diminuire la probabilità che la batteria si disconnetta, spiegato in questo [post di Reddit](https://www.reddit.com/r/oculus/comments/a2h7o4/psa_adding_an_additional_spring_to_the_battery/?st=JR9Q7OEZ&sh=a7a3d091)
 
 ## Considera Anche
 ![Considera Anche](~@images/grips-and-tricks/allow-adequate-room-around-you-during-game-play-put-on-27689465.png)
