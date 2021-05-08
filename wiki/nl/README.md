@@ -29,16 +29,16 @@ tags:
 :::
 
 ::: feature Het maken van nieuwe content.
-* [Modders gids](/modding/)
-* [Mapper hulpmiddelen](/mapping/)
-* [3D modellen gids](/models/)
+* [Modders gids](/nl/modding/)
+* [Mapper hulpmiddelen](/nl/mapping/)
+* [3D modellen gids](/nl/models/)
 :::
 
 ::: feature Andere bronnen.
-* [Over ons](/about/)
+* [Over ons](/nl/about/)
 * [Gezondheid en veiligheid](./health-and-safety.md)
-* [Veel gestelde vragen](/faq/)
-* [Communities](/communities/)
+* [Veel gestelde vragen](/nl/faq/)
+* [Communities](/nl/communities/)
 :::
 
 </div>

@@ -37,7 +37,7 @@ Download en stel [SideQuest](https://sidequestvr.com/#/setup-howto) in als je da
 
 Open SideQuest en verbind je Quest met je PC.
 
-:::tip Als je eerder een Beat Saber hebt gemod of scores hebt waarvan je een back-up wilt maken, [maak dan eerst een back-up van je gegevens!](#backup-save-data-using-sidequest) :::
+:::tip Als je eerder een Beat Saber hebt gemod of scores hebt waarvan je een back-up wilt maken, [maak dan eerst een back-up van je gegevens!](#een-back-up-maken-van-je-gegevens-met-sidequest) :::
 
 Als je al het spel hebt gemod, dan moet je het ook verwijderen door op de `UNINSTALL APP` knop te drukken. Na het modden kan je jouw gegevens weer herstellen vanuit hetzelfde menu.
 
@@ -65,9 +65,9 @@ Ga verder naar de [Core mods](#core-mods) stap van het installatieproces.
 Dit is **NIET** de aanbevolen manier om BMBF te installeren en zou alleen moeten worden gebruikt als je geen toegang hebt tot een PC.
 
 * [Vereisten.](#vereisten)
-* [Het instellen van je telefoon.](#setup-your-phone)
-* [Het installeren van BMBF met jouw telefoon.](#installing-bmbf-with-your-phone)
-* [Het instellen van Beat Saber.](#setup-beat-saber)
+* [Het instellen van je telefoon.](#het-instellen-van-je-telefoon)
+* [Het installeren van BMBF met jouw telefoon.](#het-installeren-van-bmbf-met-jouw-telefoon)
+* [Het instellen van Beat Saber.](#het-instellen-van-beat-saber)
 
 #### Vereisten
 
@@ -143,11 +143,11 @@ Als één van de core mods niet kan worden inschakelt, verwijder dan de mod en k
 
 ### Vanuit je Quest
 :::warning Niet alle mods zijn beschikbaar op QuestBoard!  
-Als een mod hier niet op staat, moet je de [Met behulp van jouw PC](#using-your-pc) methode gebruiken. :::
+Als een mod hier niet op staat, moet je de [Met behulp van jouw PC](#met-behulp-van-jouw-pc) methode gebruiken. :::
 
 Open BMBF in je Quest en ga naar het tabblad `Browser`, daar zie je een wereldbol icoon, vergelijkbaar met wat hieronder word getoond. Klik hierop en klik vervolgens op de `QuestBoard` knop.
 
-![wereldbol in QuestBoard](~@images/beginners-guide/globequestboard.png)
+![Wereldbol icoon naar QuestBoard](~@images/beginners-guide/globequestboard.png)
 
 Je zou begroet moeten worden met de [QuestBoard](https://www.questmodding.com/) website zoals hieronder staat. Selecteer vervolgens het `DOWNLOAD MODS` tabblad.
 
@@ -164,15 +164,15 @@ Je kan Quest mods vinden en downloaden in de [BSMG Discord](https://discord.com/
 
 Open BMBF in je Quest en ga naar het tabblad `Tools`, daar zie je een webadres en een versienummer vergelijkbaar met wat hieronder word getoond.
 
-![IP](~@images/beginners-guide/ip.png)
+![IP adres in BMBF](~@images/beginners-guide/ip.png)
 
 Open een browser op jouw PC, en typ het adres in de zoekbalk.
 
 Je zou nu moeten worden begroet met het scherm hieronder.
 
-Als dit niet werkt klik dan [hier](#bmbf-web-interface-not-loading) voor enkele stappen om problemen op te lossen.
+Als dit niet werkt klik dan [hier](#de-bmbf-webinterface-laad-niet) voor enkele stappen om problemen op te lossen.
 
-![BMBF web](~@images/beginners-guide/bmbfweb.png)
+![BMBF webinterface](~@images/beginners-guide/bmbfweb.png)
 
 Sleep nu alle mods die gemaakt zijn voor de Quest naar het uploadvak en synchroniseer. Als een mod oorspronkelijk is gemaakt voor een oudere versie van het spel, zal deze niet automatisch worden ingeschakeld. Om een mod in te schakelen die gemaakt is voor een oudere versie van het spel, ga je naar het tabblad `Mods` en schakel het daar in.
 
@@ -199,11 +199,11 @@ Als je geen levels kan installeren vanuit je Quest, kan je dat ook proberen met 
 3. Volg de [Het installeren van mods met behulp van jouw PC](#met-behulp-van-jouw-pc) stappen voor het uploaden van bestanden via het upload-scherm.
 4. Sleep de zip in het upload venster en het zou geïnstalleerd moeten worden!
 
-Als het webinterface niet laad, klik dan [hier](#bmbf-web-interface-not-loading) voor enkele stappen die het probleem kunnen oplossen.
+Als het webinterface niet laad, klik dan [hier](#de-bmbf-webinterface-laad-niet) voor enkele stappen die het probleem kunnen oplossen.
 
 ::tip Je kan ook afspeellijsten op dezelfde manier downloaden. Je kan verschillende afspeellijsten vinden op [BeastSaber](https://bsaber.com/category/playlists/) of in verschillende community discords. Je kan ook je eigen afspeellijsten maken met [BMBF Manager](https://github.com/ComputerElite/BM#bmbf-manager) of [Playlist Editor Pro](https://beatsaberquest.com/playlisteditor-pro/).
 
-Als je een level wilt testen, bekijk dan de [nummers testen op een Quest](/mapping/#testing-on-a-quest) sectie in de mapping wiki voor stappen voor het klaar maken om nummers te testen! :::
+Als je een level wilt testen, bekijk dan de [nummers testen op een Quest](/nl/mapping/#testing-on-a-quest) sectie in de mapping wiki voor stappen voor het klaar maken om nummers te testen! :::
 
 ## Het installeren van modellen
 Wordt lid van de [Qosmetics Community](https://discord.gg/qosmetics) om te aan te kunnen passen hoe jouw menu titel, sabers, blokken en/of muren er uitzien in het spel!
@@ -225,7 +225,7 @@ In plaats daarvan is het beter de geschreven gidsen te volgen die hier op de wik
 ### Het toevoegen van mods van beatmods.com of modellen van modelsaber.com werkt niet
 De reden dat het toevoegen van mods van [BeatMods](https://beatmods.com/) of modellen van [ModelSaber](https://modelsaber.com/) niet werkt, is omdat dat deze mods en modellen voor de PC versie van het spel gemaakt zijn.
 
-Je kan Quest compatibele Mods op [QuestBoard](https://www.questmodding.com/) of in `#quest-mods` in de Beat Saber Modding Group Discord terugvinden, je kan ook Quest compatibele sabers, blokken en muren in de [Qosmetics Community](https://discord.gg/qosmetics) vinden. Als je je mod of model zip hebt, gebruikt dan het [BMBF webinterface](#met-behulp-van-jouw-pc) om deze te installeren.
+Je kan Quest compatibele Mods op [QuestBoard](https://www.questmodding.com/) of in `#quest-mods` in de Beat Saber Modding Group Discord terugvinden, je kan ook Quest compatibele sabers, blokken en muren in de [Qosmetics Community](https://discord.gg/qosmetics) vinden. Als je je mod of model zip hebt, gebruik dan het [BMBF webinterface](#met-behulp-van-jouw-pc) om deze te installeren.
 
 ### Het installeren van BMBF is mislukt
 Je krijgt de volgende error tijdens het installeren van BMBF `INSTALL_FAILED_UPDATE_INCOMPATIBLE: Package com.weloveoculus.BMBF

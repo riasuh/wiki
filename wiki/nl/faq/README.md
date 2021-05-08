@@ -36,7 +36,7 @@ Je kan [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-e
 Zie [Levels maken](/nl/mapping/)!
 
 ## Hoe gebruik ik PC mods die niet in Mod Assistant beschikbaar zijn?
-Zie [deze sectie](/pc-modding.md#manual-installation) in de Beginners Gids.
+Zie [deze sectie](/pc-modding.md#handmatige-installatie) in de Beginners Gids.
 
 ## Heeft Multiplayer Crossplay?
 Officieel is multiplayer gelimiteerd tot het spelen met mensen die het spel via dezelfde winkel hebben gekocht (Oculus/Steam). Bovendien zorgt het modden van het spel op Quest er voor dat de officiële multiplayer niet meer werkt.
@@ -52,7 +52,7 @@ De BeatMods database bevat enkel mods waarvan gecontroleerd is dat ze werken op 
 Als je hierdoor in de war bent geraakt, bekijk dan de [Beginners Gids](/beginners-guide.md).
 
 ## Hoe werkt het score systeem in Beat Saber? Hoe werkt de globale rang?
-We hebben paragrafen op de [grepen en trucks](/grips-and-tricks.md) pagina toegewijd aan het scoren en rang systemen, bekijk het eens!
+We hebben paragrafen op de [grepen en trucks](/nl/grips-and-tricks.md) pagina toegewijd aan het scoren en rang systemen, bekijk het eens!
 
 ## Mijn menu's zijn leeg en ik kan nergens op klikken
 Als het hoofdmenu in je spel leeg is, dan is je save file waarschijnlijk beschadigd.

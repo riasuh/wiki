@@ -13,10 +13,10 @@ description: |
   Learn more about Noodle and Mapping Extensions, 360/90 mapping, and Extended Characteristics!
 ---
 
-# Extended Mapping
-_Now that you know the rules, it’s time to break them._
+# 上級者向け譜面作成
+_ルールを学んだら、次はそれを破るときが来た_
 
-* [Glossary of Terms](./glossary.md)
+* [用語](./glossary.md)
 
 This page covers anything and everything that goes beyond standard 4 x 3 grid mapping, including map styles that require additional mods before the player can play and characteristics outside of the "vanilla" ones covered in Intermediate Mapping.
 
@@ -98,12 +98,12 @@ Precision placement allows the mapper to place blocks anywhere within the grid, 
 
 Precision rotation allows the mapper to rotate blocks at any angle, no longer limited to only 45 degrees. Often used in tandem with [Precision Placement](#precision-placement)
 
-### Wall Mapping
-::: tip NOTE This is a stub section. If you’d like to contribute, submit suggestions via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform). :::
+### ウォールアート
+::: tip NOTE このセクションは編集中です。 情報提供をしてくださるかたは[こちらのフォーム](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)へ。 :::
 
-Wall mapping allows the mapper to get incredibly creative with wall placement well outside of the standard grid. Editors that support Mapping Extensions can be used in some capacity to create these maps. However, more complex wall sequences are often accomplished through the use of scripting tools like [BeatWalls](#wall-mapping-using-beatwalls) by **SpookyGhost**. There currently are two categories of wall maps.
+ウォールアートは譜面作成時に信じられないほど創造性豊かに標準の位置以外に壁を設置できます。 Mapping Extensionsをサポートしているディテクターはいくつかその機能を持っています。 しかし、より複雑な壁は**SpookyGhost**によって作られた[BeatWalls](#wall-mapping-using-beatwalls)のようなツールを使って作られています。 現在2つのカテゴリーがあります。
 
-* **Atmospheric Walls:** Walls create an ambience to fit with the mood of the song
+* **Atmospheric Walls:**壁が曲の雰囲気に合わせて作成されます。
   * **Air (Mr FijiWiji Remix)** - Hellberg & Teqq ft. Taylr Renee mapped by Gevarred  
     [YouTube](https://www.youtube.com/watch?v=V-KFAdSjeKo) | [BeatSaver](https://beatsaver.com/beatmap/67ba)
   * **Cyberdemon** - Mick Gordon mapped by CyanSnow  
@@ -111,7 +111,7 @@ Wall mapping allows the mapper to get incredibly creative with wall placement we
   * **Keep the Rave Alive** - Jaus x Lazer Lazer Lazer mapped by Skyler Wallace & HeisenbergIRL  
     [YouTube](https://www.youtube.com/watch?v=lxfCwV_NZCA) | [BeatSaver](https://beatsaver.com/beatmap/540b)
 
-* **Interactive Walls:** Walls add to add cool effects based on the song.
+* **Interactive Walls:**曲をもとにクールな効果を追加します。
   * **Assemble** - Justin OH and Xilent mapped by xScaramouche  
     [YouTube](https://www.youtube.com/watch?v=LKkRgLkolw8) | [BeatSaver](https://beatsaver.com/beatmap/6709)
   * **Sky Fracture VIP** - Getsix ft. Miss Lina mapped by AnniversaryTeam (level by SpookyGhost)  
@@ -119,7 +119,7 @@ Wall mapping allows the mapper to get incredibly creative with wall placement we
   * **Warzone** - Boom Kitty mapped by Spooky Ghost  
     [YouTube](https://www.youtube.com/watch?v=6UwEjc6VGyM) | [BeatSaver](https://beatsaver.com/beatmap/7702)
 
-:::warning NOTE Too many walls will create heavy lag. Especially for players that do not have powerful computers. Test frequently and try to keep the wall-count down to keep your experience accessible for most players. :::
+:::warning NOTE 壁が多すぎるとラグが発生します。 特に高性能な機械をもっていないプレイヤーにとってはよく発生します。 頻繁にテストプレイを行いほとんどのプレイヤーにあなたの創造性を体験してもらえるように気を付けましょう。 :::
 
 #### Wall Mapping using MMA2
 After [editor setup](#set-up), check that you have at least 6 Lane Mode and Precision Placement enabled. When editing your map, if you select the wall placement tool the grid will expand, allowing you to place walls anywhere on the track similar to regular wall placement. To make smaller walls, you need to change the precision. Go into the editor menu by pressing <kbd>ESC</kbd> or clicking the hamburger in the top right and change the `Precision Snap` value. This is a similar to the `Cursor Precision` setting.

@@ -7,11 +7,11 @@ sidebar: auto
 ## Inhoudsopgave
 
 0. [Updates](#_0-updates)
-1. [Geen mods?](#_1-no-mods)
-2. [Problemen na modden van het spel](#_2-game-issues-post-modding)
-3. [Veelgestelde vragen](#_3-common-questions)
-4. [Diverse probleemoplossingen](#_4-miscellaneous-troubleshooting)
-5. [Nog steeds problemen](#_5-still-having-issues)
+1. [Geen mods?](#_1-geen-mods)
+2. [Problemen na modden van het spel](#_2-problemen-na-het-modden-van-het-spel)
+3. [Veelgestelde vragen](#_3-veelgestelde-vragen)
+4. [Diverse probleemoplossingen](#_4-diverse-probleemoplossingen)
+5. [Nog steeds problemen](#_5-nog-steeds-problemen)
 
 ## 0. Updates
 Na een update, heeft het BSMG discord `#modding-announcements` kanaal de meest actuele informatie over de status van mods. Hieronder volgt een meer gedetailleerde instructies voor het meest voorkomende problemen.
@@ -41,7 +41,7 @@ Als de vermelde details in sectie 1.1 hierboven juist zijn, probeer dan de onder
 
 ##### Oplossing 2 (alleen voor Steam)
 
-* [Verifieer je spelbestanden.](#verify-game-files-for-steam)
+* [Verifieer je spelbestanden.](#het-verifieren-van-het-spel-op-steam)
 * Update BSIPA naar de nieuwste versie.
 * Ga naar je Beat Saber map.
 * Start `IPA.exe`.
@@ -56,7 +56,7 @@ Als de vermelde details in sectie 1.1 hierboven juist zijn, probeer dan de onder
 
 ##### Oplossing 4
 
-* Voer een [Schone Installatie](#clean-installation) uit
+* Voer een [Schone Installatie](#nieuwe-installatie) uit
 
 #### 1.2 Mod Assistant lijkt geen mods te installeren
 De installatieprogrammas downloaden mods naar de map `Beat Saber/IPA/Pending`, BSIPA verplaatst deze bestanden naar de hoofd map tijdens het opstarten van het spel. Als je Plugins map hierna nog steeds leeg is, start dan `IPA.exe` nogmaals en zorg ervoor dat niets ervoor zorgt dat het zijn ding niet kan doen, bijvoorbeeld `Anti-virus programma's, administrator rechten, etc.`
@@ -73,12 +73,12 @@ Om dit probleem te oplossen:
 1. Deïnstalleer de anti-cheat software.
 2. Start uw PC opnieuw op.
 3. Controleer of er nog restanten van de software in de `AppData` mappen bestaan.
-4. Start het spel. Als er problemen zich blijven voordoen, probeer dan het volgende: `Extra opmerking: Het probleem kan blijven bestaan door het ontbreken van rechten of fouten. Elk programma dat BSIPA kan blokkeren, of programma's die als verdacht zijn gemarkeerd, kunnen ervoor zorgen dat dit probleem blijft bestaan` Steam: [verifieer spel bestanden](#verify-game-files-for-steam) Oculus: voer een [Schone Installatie](#clean-installation) uit.
+4. Start het spel. Als er problemen zich blijven voordoen, probeer dan het volgende: `Extra opmerking: Het probleem kan blijven bestaan door het ontbreken van rechten of fouten. Elk programma dat BSIPA kan blokkeren, of programma's die als verdacht zijn gemarkeerd, kunnen ervoor zorgen dat dit probleem blijft bestaan` Steam: [Verifieer spel bestanden](#het-verifieren-van-het-spel-op-steam) Oculus: Voer een [Schone Installatie](#nieuwe-installatie) uit.
 
 Dit zou het probleem moeten oplossen.
 
 #### 2.2 Bevroren bij Opstarten
-Als het spel bevroren is op het Health and Safety scherm, of je ziet een avatar T-posen zonder controle van het spel, [verifieer dan je bestanden](#verify-game-files-for-steam) als je het spel op Steam hebt of herinstalleer het spel bij Oculus. Volg daarvoor de [Schone Installatie](#clean-installation) sectie.
+Als het spel bevroren is op het Health and Safety scherm, of je ziet een avatar T-posen zonder controle van het spel, [verifieer dan je bestanden](#het-verifieren-van-het-spel-op-steam) als je het spel op Steam hebt of herinstalleer het spel bij Oculus. Volg daarvoor de [Nieuwe Installatie](#nieuwe-installatie) sectie.
 
 Dit lijkt te gebeuren tijdens het updaten van Beat Saber en het gebruiken van mods voor de update. maar niet voor gebruikers met schone installaties van het spel.
 
@@ -87,10 +87,10 @@ Dit lijkt te gebeuren tijdens het updaten van Beat Saber en het gebruiken van mo
 #### 2.3 Het spel lagged op een ondraaglijke manier na het installeren van mods
 Als het spel zo erg blijft laggen dat je nauwelijks op de `Continue` knop op het Health & Safety scherm kunt klikken, verifieer dan het spel als je het op Steam bezit of herinstalleer het spel als je het op Oculus hebt. Doe hetzelfde als het spel helemaal niet opstart en geen foutmeldingen laat zien bij het starten van het spel.
 
-Als dat het probleem niet oplost, bekijk dan sectie [2.4 framerate verbeteren](#framerate-issues)
+Als dat het probleem niet oplost, bekijk dan sectie [2.4 framerate verbeteren](#framerate-problemen)
 
 #### 2.4 Framerate verbeteren
-Als [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) je fps niet verbetert, dan kan het zijn dat je PC misschien gewoon moeite heeft om de stress, die veroorzaakt word door mods, bij te houden. Hier zijn enkele dingen die je kunt doen om de framerate te verbeteren, zonder specifieke volgorde:
+Als [2.3](#2-3-het-spel-lagged-op-een-ondraaglijke-manier-na-het-installeren-van-mods) je fps niet verbetert, dan kan het zijn dat je PC misschien gewoon moeite heeft om de stress, die veroorzaakt word door mods, bij te houden. Hier zijn enkele dingen die je kunt doen om de framerate te verbeteren, zonder specifieke volgorde:
 
 * Controleer of NVIDIA GEFORCE EXPERIENCE de renderingsschaal voor Beat Saber voorbij het standaard van 1.0 ingesteld heeft. Het kan het op een hoger nummer hebben ingesteld (bijvoorbeeld 1,4 of 1,8) waardoor de belasting op de GPU aanzienlijk toeneemd.
 * Gebruik een minder complexe custom avatar.
@@ -99,8 +99,8 @@ Als [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) je fps niet v
 * Zet de renderingsschaal, Anti-Aliasing, reflecties, het misteffect, etc. op een lagere stand in de basis spel instellingen.
 * Voor Oculus Rift (CV1) spelers: overweeg om 2 sensoren te gebruiken in plaats van 3 of meer.
 * Verminder je totale hoeveelheid mods en liedjes.
-* Voer een [Nieuwe Installatie](#clean-installation) van de spelbestanden uit.
-* Lage framerate kan ook worden veroorzaakt als er iets mis is met je AppData map. Om dit op te lossen, lees dan [Het verwijderen van je Beat Saber AppData map](#deleting-your-save-in-appdata).
+* Voer een [Nieuwe Installatie](#nieuwe-installatie) van de spelbestanden uit.
+* Lage framerate kan ook worden veroorzaakt als er iets mis is met je AppData map. Om dit op te lossen, lees dan [Het verwijderen van je Beat Saber AppData map](#het-verwijderen-van-je-bestanden-in-appdata).
 * Zet Counters+ opties zoals score counter en swing speed uit want deze kunnen lag veroorzaken.
 * HTTPStatus en DataPulller kunnen lag veroorzaken. Test het spel zonder deze mod om te kijken of het inderdaad hierdoor werd veroorzaakt.
 
@@ -111,7 +111,7 @@ VR is zeer CPU intensief, vooral als je mods toevoegt. Als je moeite hebt om het
 ### Overige
 
 #### 3.1 Leeg Menu, Geen knoppen
-Als het hoofdmenu van het spel leeg is, dan is jouw save file waarschijnlijk beschadigd. Om dit op te lossen, lees dan [Het verwijderen van uw Beat Saber AppData map](#deleting-your-save-in-appdata).
+Als het hoofdmenu van het spel leeg is, dan is jouw save file waarschijnlijk beschadigd. Om dit op te lossen, lees dan [Het verwijderen van jouw Beat Saber AppData map](#het-verwijderen-van-je-bestanden-in-appdata).
 
 :::: warning Waarschuwing Hierdoor worden je lokale scores en statistieken verwijderd. :::
 
@@ -169,7 +169,7 @@ Je CameraPlus display is te klein voor je scherm. Sleep de hoek om de grootte va
 ### BeatSaver Downloader
 
 #### 3.11 BeatSaver Downloader "More Songs" knop
-**De More Songs knop is te vinden aan de linkerkant onder de Mods tekst in het hoofdmenu.** Als de knop More Songs doorzichtig is, zorg er dan voor dat al jouw levels zijn geladen. Dit is te zien aan de hand van de regenboogkleurige vooruitgangsbalk in het hoofdmenu. Als jouw Mods menu er niet is, zorg er dan voor dat je mods en afhankelijkheden werken en correct zijn geïnstalleerd, en bekijk fr [Geen mods?](#_1-no-mods) sectie.
+**De More Songs knop is te vinden aan de linkerkant onder de Mods tekst in het hoofdmenu.** Als de knop More Songs doorzichtig is, zorg er dan voor dat al jouw levels zijn geladen. Dit is te zien aan de hand van de regenboogkleurige vooruitgangsbalk in het hoofdmenu. Als jouw Mods menu er niet is, zorg er dan voor dat je mods en afhankelijkheden werken en correct zijn geïnstalleerd, en bekijk fr [Geen mods?](#_1-geen-mods) sectie.
 
 #### 3.12 Niets zichtbaar in het "More Songs" menu
 De mogelijke oorzaken waardoor BeatSaver Downloader niet werkt, zijn:
@@ -194,7 +194,7 @@ Hieronder is een lijst met bekende foutcodes, wat ze betekenen en wat je kan doe
 | CFR-7      | Je hebt een versie van het spel dat niet wordt ondersteund door de servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | CFR-8      | Wachtwoord voor de lobby is incorrect. Controleer of je het juiste wachtwoord invult.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | CFR-9      | De matchmaking servers die Beat Games beheren, die openstaande publieke en privé lobby's bijhouden, zijn offline. Probeer het later opnieuw.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| CFR-10     | Je sessiesleutel van Steam of Oculus is niet geldig. Als je op Quest speelt en je game hebt gemod, bekijk dan dit [FAQ antwoord](/faq/README.md#does-multiplayer-have-crossplay) om hier mee om te gaan. Anders heb je een illegaal verkregen kopie van het spel dat niet wordt ondersteund.                                                                                                                                                                                                                                                                                                                                                                              |
+| CFR-10     | Je sessiesleutel van Steam of Oculus is niet geldig. Als je op Quest speelt en je game hebt gemod, bekijk dan dit [FAQ antwoord](/faq/README.md#heeft-multiplayer-crossplay) om hier mee om te gaan. Anders heb je een illegaal verkregen kopie van het spel dat niet wordt ondersteund.                                                                                                                                                                                                                                                                                                                                                                                  |
 | CFR-11     | Jouw internetverbinding is offline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 <!-- markdownlint-enable MD013 -->
 
@@ -245,7 +245,7 @@ Hier is een [video gids](https://www.youtube.com/watch?v=EBFfT4-ZiIc), hoewel de
 4. **Voordat je gaat modden, moet het spel minimaal een keer gestart (en weer afgesloten) zijn.**
 5. Start Mod Assitant, installeer jouw mods en start het spel.
 
-(Optioneel) Als je nog een stap verder wil gaan, leees dan ook: [Het verwijderen van je bestanden in AppData](#deleting-your-save-in-appdata).
+(Optioneel) Als je nog een stap verder wil gaan, leees dan ook: [Het verwijderen van je bestanden in AppData](#het-verwijderen-van-je-bestanden-in-appdata).
 
 ### Het verwijderen van je bestanden in AppData
 Dit zal je scores en lokale data verwijderen, maar niet je Custom levels scorebord / ScoreSaber statistieken. Je kan de map vinden in:

@@ -23,8 +23,8 @@ Als je niet zeker weet of iets wat je hebt geïnstalleerd malware is of niet, **
 Beat Saber heeft ingebouwde ondersteunding voor zelfgemaakte nummers, dus als dat alles is wat je nodig hebt, dan heb je geen extra mods nodig! Het is echter een goed idee om `SongCore` te installeren, omdat deze mod de basis functionaliteit van het spel uitbreid door het verbeteren van de laadtijden van custom nummers en extra functionaliteiten aan te bieden die andere mods, zoals de in-game downloder voor nummers, custom leaderboards, afspeellijsten, enz, kunnen gebruiken.
 
 ::: warning Waarschuwing Deze gids is geschreven voor PC modden op Windows.  
-Als je een Quest hebt, ga dan naar de [Quest modding pagina](/quest-modding.md).   
-Als je Linux gebruikt, ga dan naar de [Linux pagina](/modding/linux.md) of [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
+Als je een Quest hebt, ga dan naar de [Quest modding pagina](/nl/quest-modding.md).   
+Als je Linux gebruikt, ga dan naar de [Linux pagina](/nl/modding/linux.md) of [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
 Als je tegen problemen aanloopt, ga dan naar de [ondersteuningspagina](./support) en probeer de oorzaak van het probleem te identificeren voordat je het vraagt in de Discord server. De kans is groot dat het antwoord dat je zoekt al op die pagina staat!
 
@@ -90,7 +90,7 @@ _Waar is Beat Saber geïnstalleerd?_
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Handmatige installatie
-Een mod installatie programma is de aanbevolen manier om mods te installeren. Zie de sectie [hierboven](#installers). Als je het spel al mods hebt geïnstalleerd en alleen mods wil installeren die niet in het installatie programma beschikbaar zijn, ga dan direct door naar stap 4.
+Een mod installatie programma is de aanbevolen manier om mods te installeren. Zie de sectie [hierboven](#installatieprogrammas). Als je het spel al mods hebt geïnstalleerd en alleen mods wil installeren die niet in het installatie programma beschikbaar zijn, ga dan direct door naar stap 4.
 
 ::: warning WEES VOORZICHTIG TIJDENS HET INSTALLEREN VAN MODS Het modden van je spel met niet goedgekeurde mods, zoals de mods die gevonden worden in het `#pc-mods` kanaal, komt met risico's. Waaronder de mogelijkheid op kwaadaardige software dat zich gedraagt als een normale mod.
 
@@ -103,7 +103,7 @@ Als je een mod hebt gedownload en geïnstalleerd en je krijgt het Gebruikersacco
 ### BSIPA installeren
 
 1. Download [BSIPA](https://github.com/bsmg/BeatSaber-IPA-Reloaded/releases).
-2. Navigeer naar jouw [installatiemap.](#install-folder) En pak de inhoud van de BSIPA zip hierin uit. ![Directory Clean](~@images/beginners-guide/directory-clean.png "Directory Clean") ![Directory Ipa](~@images/beginners-guide/directory-ipa.png "Directory Ipa")
+2. Navigeer naar jouw [installatiemap.](#installatiemap) En pak de inhoud van de BSIPA zip hierin uit. ![Directory Clean](~@images/beginners-guide/directory-clean.png "Directory Clean") ![Directory Ipa](~@images/beginners-guide/directory-ipa.png "Directory Ipa")
 3. Dubbel-klik op IPA.exe om het spel te modden. Alle mods in de `Plugins` map worden nu geladen bij het starten van het spel. Als er foutmeldingen zijn, dan heb je waarschijnlijk stap 2 niet correct gevolgd. ![Directory Patched](~@images/beginners-guide/directory-patched.png "Directory Patched")
 
 ### Mods Installeren
