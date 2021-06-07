@@ -450,7 +450,7 @@ Autrement, vu que `_customData` <0>N'EST PAS</0> un champ requis, vous pourriez 
 Pour être compatible avec le nouveau schéma, trouvez et supprimez **tous les champs vides** ou remplissez-les dans votre `Info.dat` ou dans vos fichiers de difficulté.
 
 ### BeastSaber
-[BeastSaber](https://bsaber.com/) est un site d'analyse et de tri avec un côté social incluant des profils pour les membres, des forums, des news et des tutoriels. Toutes les maps publiées sur BeatSaver le sont aussi sur BeastSaber 10 à 15 minutes après. De plus, les maps supprimées de BeatSaver peuvent prendre jusqu'à 1 jour pour être supprimé de BeastSaber.
+[BeastSaber](http://www.bsaber.com) is a song review and curation site with social features including reviewing and commenting on songs. Toutes les maps publiées sur BeatSaver le sont aussi sur BeastSaber 10 à 15 minutes après. De plus, les maps supprimées de BeatSaver peuvent prendre jusqu'à 1 jour pour être supprimé de BeastSaber.
 
 ### Anxiété du Mapping
 Si vous avez du mal à trouver le courage de publier votre map, ou si vous prenez mal le fait de ne pas voir beaucoup de téléchargement ou de voir beaucoup de "j'aime pas", vous n'êtes pas seul. Beaucoup de mappeurs se sont sentis de la même façon. Vous pouvez en savoir plus à ce sujet sur la page [Faire face à l'Anxiété du Mapping](./mapping-anxiety.md).

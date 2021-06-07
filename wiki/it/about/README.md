@@ -26,7 +26,7 @@ Dalle sciabole alle note, i modelli personalizzati sono sempre stati un aspetto 
 ### Mappatori
 Ognuna delle tue mappe preferite è stata creata e testata con attenzione per molte ore da un mappatore talentuoso. Per quanto ci piacerebbe includere qui anche loro, ce ne sono DAVVERO troppi. Se ti piacciono le mappe di qualcuno, dagli un pollice in su nel gioco, recensiscile su [BeastSaber](https://bsaber.com) o diglielo personalmente! Lo apprezzeranno davvero tanto.
 
-> Inoltre, esiste un Discord gestito dalla community per aiutare a connettere mappatori/artisti con i clienti se vorresti commissionare qualcosa. Ti incoraggiamo a contattarli nel [server Beat Saber Commissions](https://discord.gg/4RbcH5G)
+> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
 
 ### [Collaboratori delle Risorse di Mappatura](/mapping/mapping-credits.md)
 Un gruppo di mappatori esperti che hanno impiegato del tempo per annotare e condividere la propria conoscenza per aiutare gli altri a iniziare o migliorare. Dai un'occhiata alle loro mappe e considera di supportarli!

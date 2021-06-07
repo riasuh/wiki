@@ -1,5 +1,5 @@
 ---
-sidebar: ложь
+sidebar: false
 ---
 
 <!-- Disable header rule to hide page from search -->
@@ -14,7 +14,7 @@ sidebar: ложь
 
 [Вернуться на главную страницу](/ru/)
 
-Help improve this page!  
-Last Updated  
-Home  
+Помогите улучшить эту страницу!  
+Последнее обновление  
+Главная  
 BSMG Discord

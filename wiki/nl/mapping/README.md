@@ -462,7 +462,7 @@ Als alternatief, `_customData` is **GEEN** verplicht veld. je kan alles verwijde
 Om te voldoen aan het nieuwe schema vind en verwijder of vul **lege velden** in jouw `info.dat` of moeilijkheidsgraad bestanden in.
 
 ### BeastSaber
-[BeastSaber](http://www.bsaber.com) is een site met beoordeling en curatie met een sociale kant voor leden profielen, forums, nieuws en gidsen. Alle gepubliceerde levels op BeatSaver worden binnen 10-15 minuten weergegeven op BeastSaber. Het kan een dag duren voordat levels die zijn verwijderd van BeatSaver ook worden verwijderd van BeastSaber.
+[BeastSaber](http://www.bsaber.com) is een website waar nummers worden beoordeeld en gecureerd, ook kan je reacties achterlaten op nummers. Alle gepubliceerde levels op BeatSaver worden binnen 10-15 minuten weergegeven op BeastSaber. Het kan een dag duren voordat levels die zijn verwijderd van BeatSaver ook worden verwijderd van BeastSaber.
 
 ### Mapping angst
 Als je het moeilijk vindt om de moed op te brengen om jouw level te uploaden, of je vindt het emotioneel belastend om om te gaan met een gebrek aan downloads of veel dislikes, dan ben je niet alleen. Veel level makers hebben deze gevoelens ervaren. Je kunt er meer over lezen op de [Omgaan met anxiety](./mapping-anxiety.md) pagina.

@@ -40,13 +40,6 @@ Poi!
 
 [Twitch](https://www.twitch.tv/br3uker)
 
-## Maladaze
-Can't hit jumps
-
-**Ruoli:** Moderatore
-
-[Twitch](https://www.twitch.tv/infjager)
-
 ## Olaf
 Any stroopwafels?
 
@@ -78,7 +71,7 @@ Literally no clue what he's doing when it comes to coding, at all, but he can fi
 
 **Roles:** Support, Moderator
 
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Dona](https://streamelements.com/sarpest_razor/tip)
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
 ## Shad
 "Every channel is just #pc-mod-support"
@@ -114,6 +107,13 @@ Pepega
 ## joelseph (Retired)
 \+ joelseph
 
-**Ruoli:** Moderatore
+**Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/tehjoelseph)
+
+## Maladaze (Retired)
+Can't hit jumps
+
+**Ruoli:** Moderatore
+
+[Twitch](https://www.twitch.tv/infjager)

@@ -8,7 +8,7 @@ sidebar: auto description: Começa na direção certa!
 O Beat Saber está disponível para PC e Oculus Quest. Tendo em conta que o cenario de mods é diferente para cada plataforma, o guia para iniciantes é dividido entre [PC Modding](#pc-modding) e [Quest Modding](#quest-modding).
 
 ### PC Modding
-If you are using SteamVR or the PC version in the Oculus Store, follow our [PC Modding](./pc-modding.md) guide.
+Se estás a usar o SteamVR ou a versão para PC da loja da Oculus, segue o nosso guia para [PC Modding](./pc-modding.md).
 
 Hardware aplicável inclui:
 
@@ -26,22 +26,22 @@ Hardware aplicável inclui:
 * Oculus Quest/Quest 2
 
 ## Criando conteúdo
-Uma das tuas músicas favoritas não está disponível? Tens uma ideia de um mod que queres implementar? Qures um modelo personalizado para usar no jogo? Poeds fazer com que isso aconteça de duas maneiras.
+Uma das tuas músicas favoritas não está disponível? Tens uma ideia de um mod que queres implementar? Queres um modelo personalizado para usar no jogo? You can make it happen in one of two ways.
 
-* Comissão para alguém na comunidade executar [Comissões do Discord](https://discord.gg/h8VMkhn)
-* Aprende como fazê-lo tu mesmo usando os recursos abaixo!
+* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
+* Learn how to make it yourself using the resources below!
 
 ### Criando Mapas
 Aprende como criar os teus próprios níveis seguindo o nosso guia de [mapping](./mapping/)!
 
 ### Criando Mods
-Get started creating mods for the game by following our [mod creation](./modding/) guide!
+Começa a criar mods para o jogo seguindo o nosso guia de [criação de mods](./modding/)!
 
 ### Criando modelos 3D
 Aprende como criar modelos 3D para o jogo!
 
-* [Sabres](./models/sabers-guide.md)
-* [Avatares](./models/avatars-guide.md)
-* [Plataformas](./models/platforms-guide.md)
-* [Notas](./models/notes-guide.md)
-* **Paredes** Nenhum guia está disponível neste momento, mas um está a ser criado.
+* [Sabers](./models/sabers-guide.md)
+* [Avatars](./models/avatars-guide.md)
+* [Platforms](./models/platforms-guide.md)
+* [Notes](./models/notes-guide.md)
+* **Walls** No guide is available at this time, but one is being worked on.

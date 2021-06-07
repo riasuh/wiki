@@ -42,3 +42,18 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 * Syskoh
 * Trolav
   * [Twitter](twitter.com/Trolav1)
+
+## Dutch | Nederlands
+
+### Proofreaders
+
+* Eris
+
+### Translators
+
+* boulders2000
+* Jestro
+* Marrlain
+* OnderHond
+* RedBrumbler
+* Rusty69

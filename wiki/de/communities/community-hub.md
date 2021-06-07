@@ -22,7 +22,7 @@ We are an Acc focused community that plans to be the new hub for Acc related eve
 ---
 
 ## BeatKhana
-We are BeatKhana, a Beat Saber community focused around pushing tournaments forward! What do we do?
+Wir sind BeatKhana, eine Beat Saber Community die sich darauf konzentriert Turniere voranzutreiben! Was machen wir?
 
 * Wir aktualisieren und kündigen kommende Online-Turniere an und geben dir alle Informationen, die du benötigst
 * Archivierung alter Turniere, damit du sie immer wieder finden kannst
@@ -44,7 +44,7 @@ Beat Saber Clan Hub is the hub for all things clan-related. If you want to join 
 ## Beat Saber Commissions
 Have a model, map, or mod that you'd like done? Get in contact with the professionals here.
 
-[Discord](https://discord.gg/4RbcH5G)
+[Discord](https://discord.gg/e4f3WBBVnr)
 
 ---
 

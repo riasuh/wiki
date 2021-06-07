@@ -8,36 +8,43 @@ _Le rôle Support est un symbole de remerciement. Merci pour les milliers de mes
 
 **Rôles :** Support
 
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
+
+**Rôles :** Support
+
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
+
 ## ComputerElite
 He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
 
-**Rôles :** Support
+**Roles:** Support
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-Peut-être ses spectaculaires plateformes vous sont parvenus aux oreilles, ou bien des entités plus raffinées : les Yeet Sabers.
+You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
 
-**Rôles :** Support, Artiste 3D
+**Roles:** Support, 3D Artist
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
 He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
 
-**Rôles :** Support
+**Roles:** Support
 
 ## Kolezan
-He'll teach you to fix your mods and your terribly off-beat first map. Nous sommes tous passés par là.
+He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
 
-**Rôles :** Support, Mapping Support, Mappeur
+**Roles:** Support, Mapping Support, Mapper
 
-[Twitch](https://www. twitch.tv/kolezan) | [Faire un don](https://paypal.me/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
 ## male
 is too uncreative to think of a bio
 
-**Rôles :** Support
+**Roles:** Support
 
 ## OneEyed
 2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
@@ -54,14 +61,14 @@ He'll give me his bio later today, or so he says.
 ## Radevirot
 This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
-**Roles:** Support
+**Rôles :** Support
 
 [Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 ## Rex
 I really like to help people. Yeah that's all.
 
-**Rôles :** Support
+**Roles:** Support
 
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
@@ -81,7 +88,7 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 **Roles:** Support
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
 **Roles:** Support
 

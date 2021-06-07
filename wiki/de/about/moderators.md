@@ -40,80 +40,80 @@ Poi!
 
 [Twitch](https://www.twitch.tv/br3uker)
 
-## Maladaze
-Kann Jumps nicht treffen
-
-**Rollen:** Moderator
-
-[Twitch](https://www.twitch.tv/infjager)
-
 ## Olaf
-Hast du Stroopwafels?
+Any stroopwafels?
 
 **Rollen:** Moderator
 
 [Twitch](https://twitch.tv/olafstad)
 
 ## Pink
-Der einzige Moderator, der uns geghosted hat, wenn er nach einer Beschreibung für diese Seite gefragt wurde.
+The only Moderator to ghost us when asked for a description for this page.
 
-**Rollen:** 3D Artists, Moderator, Support, Modder
+**Roles:** 3D Artists, Moderator, Support, Modder
 
-**Beiträge:** Ein Haufen Quest-Mods und Modelle
+**Contributions:** A bunch of Quest mods and models
 
 ## Pyrowarfare
-Ein BeastSaber-Admin, der den Großteil des Inhalts für [How to Playtest](./how-to-testplay.md), [Mapping Angst](./mapping-anxiety.md) geschrieben und an verschiedenen anderen Seiten mitgewirkt hat. Sei gewarnt: Du wirst aufgefordert werden, über deine Gefühle zu sprechen.
+A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
 
-**Rollen:** Moderator, Mapping Support
+**Roles:** Moderator, Mapping Support
 
 [BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
 
 ## RangeValley
 > Mein Vater hat jahrelang als Admin gearbeitet aber er wurde entlassen als Bots seinen Job übernommen wurden. Er kam an diesem Abend nach Hause und sagte mir, dass wir in den Van ziehen müssten, da wir uns die Miete nicht mehr leisten könnten. Dann hat er mich mit Überbrückungskabeln verprügelt. Shitposting sollte legal sein.
 
-**Rollen:** Moderator
+**Roles:** Moderator
 
 ## Razor
-Er hat buchstäblich keinen Schimmer was er tut wenn es um Programmierung geht, aber er kann Ploogin fixen.
+Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
 
-**Rollen:** Support, Moderator
+**Roles:** Support, Moderator
 
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Spenden](https://streamelements.com/sarpest_razor/tip)
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
 ## Shad
-"Jeder Kanal ist nur #pc-mod-support"
+"Every channel is just #pc-mod-support"
 
-**Rollen:** Moderator, Mapping Support
+**Roles:** Moderator, Mapper, Support
 
 [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
 
 ## Zion
 kinda vibing
 
-**Rollen:** Moderator
+**Roles:** Moderator
 
-## BeigeAnimal (Im Ruhestand)
-Wir mussten den Junge ein bisschen auf Vordermann bringen, aber jetzt ist er einer der effektivsten Moderatoren. Er ist nicht wirklich auf ein Gebiet spezialisiert aber er ist bereit zu helfen, **vorausgesetzt, man fragt im richtigen Kanal.** Außerdem hasst er Sketchfab Links.
+## BeigeAnimal (Retired)
+We had to whip this boy into a bit of shape but he's was one of the most effective moderators. He's not really specialized in any field but he's willing to lend a helping **provided they ask in the right channel.** Also hates sketchfab links.
 
-**Rollen:** Moderator, 3D Artist
+**Roles:** Moderator, 3D Artists
 
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
-## DeeJay (Im Ruhestand)
+## DeeJay (Retired)
 Pepega
 
-**Rollen:** Moderator
+**Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/deejayvr)
 
-## Guatapuri (Im Ruhestand)
-"Kam für das Spiel, blieb für die Umarmungen"
+## Guatapuri (Retired)
+"Came for the game, Stayed for the hugs"
 
-**Rollen:** Mapper, Moderator
+**Roles:** Mapper, Moderator
 
-## joelseph (Im Ruhestand)
+## joelseph (Retired)
 \+ joelseph
+
+**Roles:** Moderator
+
+[Twitch](https://www.twitch.tv/tehjoelseph)
+
+## Maladaze (Retired)
+Can't hit jumps
 
 **Rollen:** Moderator
 
-[Twitch](https://www.twitch.tv/tehjoelseph)
+[Twitch](https://www.twitch.tv/infjager)

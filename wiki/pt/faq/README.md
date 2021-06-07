@@ -13,7 +13,7 @@ Se transferires mapas manualmente do BeatSaver, extrai-os para uma pasta e coloc
 
 ### Ferramentas de Gestão de Músicas
 
-There are no working song management apps available at this time.
+Não há nenhuma aplicação de gerenciamento de músicas disponível neste momento.
 
 ## Como eu instalo playlists?
 
@@ -22,8 +22,8 @@ Você precisa instalar o mod [PlaylistManager](https://github.com/rithik-b/Playl
 
 Depois disso, podes:
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
+* Usa a ferramenta `Instalar Playlists` no separador Opções do Mod Assistant.
+* Coloca o ficheiro da playlist em `Beat Saber/Playlists`, seleciona o título desta no jogo e carrega em transferir tudo.
 
 Agora deves ver a lista de reprodução ao lado dos álbuns de Custom Levels no jogo. O mod também suporta o gerenciamento de playlists no jogo.
 
@@ -35,7 +35,7 @@ Você pode usar o [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools
 ## Como crio os meus próprios níveis personalizados?
 Veja a seção [como criar mapas](/mapping/)!
 
-## How do I load PC mods that aren't in Mod Assistant?
+## Como faço para carregar plugins que não estão no Mod Assistant?
 Vê [esta seção](/pc-modding.md#manual-installation) no guia para iniciantes.
 
 ## O multiplayer tem crossplay?
@@ -44,7 +44,7 @@ Oficialmente, o multiplayer é limitado a jogar com outras pessoas na versão da
 O mod BeatTogether é a solução atual para jogar entre as versões de jogo modificadas. Entre no [servidor do Discord](https://discord.com/invite/gezGrFG4tz) deles e verifique o canal `#install-instructions` para mais informações.
 
 ## O meu jogo atualizou e agora nenhum dos meus mods está a funcionar
-Todas as vezes que o jogo é atualizado é possível *(e muito provável)* que os mods existentes parem de funcionar e precisem de ser atualizados. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+Todas as vezes que o jogo é atualizado é possível *(e muito provável)* que os mods existentes parem de funcionar e precisem de ser atualizados. Para ter a certeza que a tua instalação não vai deixar de funcionar quando o jogo é carregado numa nova atualização pela primeira vez, tudo na pasta `Plugins` é automaticamente movido para uma nova pasta chamada `Old 1.xx.x Plugins`. **Deixa esses plugins lá!**
 
 Para ter os mods de volta, simplesmente **executa o instalador novamente.**  
 O repositório do BeatMods inclui apenas mods que foram confirmados para funcionar na versão mais recente do jogo!

@@ -1,17 +1,17 @@
-# Translators
-The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed here are for languages currently available on the website.
+# Переводчики
+Это усердно работающие люди, которые потратили своё время на перевод контента в вики на свои языки. Сердечно благодарим вас за уделенное нам время! Перечень доступных языков можно найти на сайте.
 
-If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+Если вы хотите присоединиться к переводу на ваш язык, вы можете [подать заявку, чтобы помочь перевести!](https://forms.gle/e3BqA3poMjESARe76)
 
-## French | Français
+## Французский язык | Français
 
-### Proofreaders
+### Корректоры
 
 * Awagi
 * Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+  * [Твиттер](https://twitter.com/Jeremiidesu)
 
-### Translators
+### Переводчики
 
 * COZAX
 * Cyborger
@@ -24,14 +24,14 @@ If you would like to join for your language, you can [apply to help translate!](
 * Pryd
 * risi
 
-## German | Deutsch
+## Немецкий | Deutsch
 
-### Proofreaders
+### Корректоры
 
 * Gregi
   * [Twitch](https://www.twitch.tv/grregi) | [Youtube](https://www.youtube.com/user/gregiplays)
 
-### Translators
+### Переводчики
 
 * ComputerElite
 * CookieDLX
@@ -41,4 +41,19 @@ If you would like to join for your language, you can [apply to help translate!](
 * SasSao
 * Syskoh
 * Trolav
-  * [Twitter](twitter.com/Trolav1)
+  * [Твиттер](twitter.com/Trolav1)
+
+## Нидерландский | Nederlands
+
+### Корректоры
+
+* Eris
+
+### Переводчики
+
+* boulders2000
+* Jestro
+* Marrlain
+* OnderHond
+* RedBrumbler
+* Rusty69

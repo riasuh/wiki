@@ -462,7 +462,7 @@ Alternativ kannst du auch alles löschen, was in die Eigenschaft `_customData` g
 Um dem neuen Schema zu entsprechen, musst du auch alle weiteren **leeren Felder** in der `Info.dat` or den Schwierigkeits-Dateien entweder entfernen oder ausfüllen.
 
 ### BeastSaber
-[BeastSaber](http://www.bsaber.com) ist eine Webseite für Bewertung und Kuration von Beatmaps. Die Seite hat dazu Profile, Foren, Neuigkeiten und Tutorials. Alle auf BeatSaver hochgeladenen Maps werden innerhalb von 10-15 Minuten auf BeastSaber gespiegelt. Es kann aber bis zu einem Tag dauern, bis eine von BeatSaver gelöschte Map von BeastSaber entfernt wird.
+[BeastSaber](http://www.bsaber.com) is a song review and curation site with social features including reviewing and commenting on songs. Alle auf BeatSaver hochgeladenen Maps werden innerhalb von 10-15 Minuten auf BeastSaber gespiegelt. Es kann aber bis zu einem Tag dauern, bis eine von BeatSaver gelöschte Map von BeastSaber entfernt wird.
 
 ### Mapping Angst
 Falls du nicht den Mut aufbringen kannst, eine Map auf BeatSaver hochzuladen, oder dich von negativem Feedback auf deine Maps niedergeschlagen fühlst: Denk daran, dass du nicht alleine bist. Viele Mapper kennen diese Gefühle. Mehr dazu findest du unter [Umgang mit Mapping-Angst](./mapping-anxiety.md).

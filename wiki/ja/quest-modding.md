@@ -53,7 +53,7 @@ Select the 以下に示す`Install APK from folder`ボタンを選択して最�
 
 Beat Saberを一度実行した後、以下の写真のように、unknown sourcesからBMBFを開きます。 ![UnknownSourced](~@images/beginners-guide/quest_home-menu.jpg)
 
-言われたとおりにそれぞれのステップを実行してください。 それから、 [bsaber.com](https://www.bsaber.com) を見つけてください。 そこで利用可能な任意のカスタム曲をダウンロードすることができます。 右上にある地球儀アイコンをクリックして、ビートセーバーに曲をダウンロードすることもできます。
+開いたら、正確にあなたのゲームをModの指示通りにBMBFの各ステップを進めてください。 完了すると、BMBFアプリの [Bsaber.com](https://www.bsaber.com) が表示されます。 そこで利用可能な任意のカスタム曲をダウンロードすることができます。 右上にある地球儀アイコンをクリックして、ビートセーバーに曲をダウンロードすることもできます。
 
 インストールプロセス中に `Restore App` ポップアップが表示されることがありますが、そのときは `Close` をクリックしてください。 この警告は、海賊版のゲームに向けられているので、Modを導入しているだけの場合無視をしてもほとんど影響はありません。
 
@@ -77,7 +77,7 @@ Beat Saberを一度実行した後、以下の写真のように、unknown sourc
 
 #### 携帯電話のセットアップ
 
-1. [bugjaeger app](https://play.google.com/store/apps/details?id=eu.sisik.hackendebug&hl=gsw&gl=US)をGoogleストアからダウンロードします。
+1. [Bugjaeger app](https://play.google.com/store/apps/details?id=eu.sisik.hackendebug&hl=gsw&gl=US)をGoogleストアからダウンロードします。
 2. 最新の[BMBF APK from bmbf.dev/stable](https://bmbf.dev/stable)をダウンロードします。
 3. この[ガイド](https://github.com/ComputerElite/wiki/wiki/Enable-Developer-Mode-for-OQ)を参考にクエストで開発者モードを実行できるようにしてください。
 4. 開発者モードを有効にする。
@@ -93,7 +93,7 @@ Beat Saberを一度実行した後、以下の写真のように、unknown sourc
 #### Android端末でBMBFをインストールする
 :::warning Modを入れる前に、ビートセイバーを一度起動して一つの曲をプレイしてください。すぐに失敗しても大丈夫です。 :::
 
-bugjaegerを携帯で起動します。その後クエストと接続します。 クエストと携帯でUSBのデバッグのポップが表示されます 両方のデバイスで許可を選択してください。 クエストがbugjaegerを認識したら、以下のようにBMBFをインストールしてください。
+Bugjaegerを携帯で起動します。その後クエストと接続します。 クエストと携帯でUSBのデバッグのポップが表示されます 両方のデバイスで許可を選択してください。 クエストがBugjaegerを認識したら、以下のようにBMBFをインストールしてください。
 
 ![installAPKusingPhone.png](~@images/beginners-guide/InstallAPK.png)
 
@@ -106,7 +106,7 @@ BMBFを正常にインストールし終えたらクエスト内のライブラ�
 
 それを起動するとファイルへのアクセス許可を促すポップが表示されます 画面上の指示に従ってください。 終わったら、 [BeastSaber](https://bsaber.com) を見てください
 
-インストールプロセス中に Restore App ポップアップが表示されることがありますが、そのときは Close をクリックしてください。 この警告は海賊版を防止するために表示されるものなので、正規版を購入している場合は無視をしてもかまいません。
+インストールプロセス中に `Restore App` ポップアップが表示されることがありますが、そのときは `Close` をクリックしてください。 この警告は海賊版を防止するために表示されるものなので、正規版を購入している場合は無視をしてもかまいません。
 
 引き続き[Core Mods](#core-mods)のインストールステップに進んでください。
 
@@ -197,11 +197,11 @@ Quest内で曲をインストールできない場合は、modのインストー
 1. お使いのコンピューターで [BeastSaber](https://bsaber.com/) または [BeatSaver](https://beatsaver.com/) をご覧ください
 2. zipファイルをダウンロード
 3. [PC を使用して Mod をインストールする](#using-your-pc) の手順に従って、ファイルのアップロード画面を開きます。
-4. マップのzipファイルをドラッグアンドドロップするとインストールされます！
+4. Drag and drop the map zip in, and it should be installed!
 
 これでウェブがうまく動かない場合は [こちら](#bmbf-web-interface-not-loading) をクリックしてトラブルシューティングの手順にしたがってください。
 
-:::tip プレイリストも同様にダウンロードできます。 様々なプレイリストが[Beastsaber](https://bsaber.com/category/playlists/)やディスコードのチャンネルで見つけることができます。 また、 [BMBF Manager](https://github.com/ComputerElite/BM#bmbf-manager)や[Playlist Editor Pro](https://beatsaberquest.com/playlisteditor-pro/)を使って自分自身だけのプレイリストを作ることもできます。
+:::tip プレイリストも同様にダウンロードできます。 You can find various playlists on [BeastSaber](https://bsaber.com/category/playlists/) or various community discords. また、 [BMBF Manager](https://github.com/ComputerElite/BM#bmbf-manager)や[Playlist Editor Pro](https://beatsaberquest.com/playlisteditor-pro/)を使って自分自身だけのプレイリストを作ることもできます。
 
 :::tip 作成したマップをテストしたい場合は、 [Questでテスト](/mapping/#testing-on-a-quest) の譜面作成セクション内の「テスト用」セクションを参照してください。 :::
 

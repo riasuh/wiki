@@ -8,82 +8,89 @@ _Die Support-Rolle ist ein Symbol des Dankes. Danke für die tausenden von Nachr
 
 **Rollen:** Support
 
-## ComputerElite
-Er macht Programme, die die Menschen schneller unterstützen und einige andere, die ihnen alles einfacher machen. (Isst gerne BMBF-Logs)
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
 
 **Rollen:** Support
+
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
+
+## ComputerElite
+He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
+
+**Roles:** Support
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-Du kennst Sie vielleicht für ihre spektakulären Platforms, oder für raffiniertere Personen: Yeet Sabers.
+You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
 
-**Rollen:** Support, 3D Artist
+**Roles:** Support, 3D Artist
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
-Er spielt gerne Beat Saber. Er hilft auch gerne Leuten ihre Probleme zu beheben, damit sie Beat Saber spielen können.
+He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
 
-**Rollen:** Support
+**Roles:** Support
 
 ## Kolezan
-Er wird dir beibringen deine Plugins und deine schrecklich schräge erste Map zu reparieren. Das haben wir alle schon erlebt.
+He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
 
-**Rollen:** Support, Mapping Support, Mapper
+**Roles:** Support, Mapping Support, Mapper
 
-[Twitch](https://www.twitch.tv/kolezan) | [Spenden](https://paypal.me/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
 ## male
-Ist zu unkreativ um sich eine Bio auszudenken
+is too uncreative to think of a bio
 
-**Rollen:** Support
+**Roles:** Support
 
 ## OneEyed
-2 Wahrheiten, eine Lüge: Pink süß, CMB fühlend, OneEyed hat gute Rechtschreibung
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
-**Rolle:** Support
+**Roles:** Support
 
 ## Pespiri
-Er gibt mir seine Bio im laufe des Tages. Sagte er zumindest.
+He'll give me his bio later today, or so he says.
 
-**Rollen:** Support, Modder
+**Roles:** Support, Modder
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-Dieser Typ kam aus dem nichts und fing an zu helfen indem er sagte, es sei eine Art von Sucht. Was für ein Spinner.
+This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
 **Rollen:** Support
 
-[Twitter](https://twitter.com/Radevirot) | [Spenden](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 ## Rex
 I really like to help people. Yeah that's all.
 
-**Rollen:** Support
+**Roles:** Support
 
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
 
-**Rollen:** Support
+**Roles:** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
 
-**Roles:** Support
+**Rollen:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
 ## Simme63
 "Coke Head"
 
-**Rollen:** Support
+**Roles:** Support
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
-**Roles:** Support
+**Rollen:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 

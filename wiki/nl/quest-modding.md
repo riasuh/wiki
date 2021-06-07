@@ -53,7 +53,7 @@ Het modden werkt momenteel niet als de experimentele multi-user functie in gebru
 
 Nadat je Beat Saber een keer hebt gestart, open je BMBF vanuit unknown sources zoals aangeduid op de afbeelding hieronder. ![Unknown Sources](~@images/beginners-guide/quest_home-menu.jpg)
 
-Eens geopend, volg je elke stap in BMBF zoals hierin wordt verteld om je spel te modden. Wanneer je klaar bent, zou je [bsaber.com](https://www.bsaber.com) moeten zien in de BMBF app. Dit is de website waarvan je alle beschikbare custom levels kan downloaden. Je kan ook op het wereldbol icoontje in de rechterbovenhoek klikken en naar BeatSaver gaan om nummers te downloaden.
+Eenmaal geopend, volg je elke stap in BMBF exact zoals hierin wordt verteld om je spel te modden. Wanneer je klaar bent, zou je [Bsaber.com](https://www.bsaber.com) moeten zien in de BMBF app. Dit is de website waarvan je alle beschikbare custom levels kan downloaden. Je kan ook op het wereldbol icoontje in de rechterbovenhoek klikken en naar BeatSaver gaan om nummers te downloaden.
 
 Als je op enig moment tijdens het installatieproces de `Restore App` pop-up krijgt te zien, klik dan op `Close`. Deze waarschuwing is meer gericht op illegale versies van het spel, dus als je alleen maar het spel mod, zullen er hoogstwaarschijnlijk geen consequenties zijn als je het negeert.
 
@@ -187,7 +187,7 @@ Er zijn 2 websites waar je levels kan vinden vanuit je Quest via het browservens
 
 Beiden hebben een OneClick™ knop die het level gemakkelijk op je Quest installeert. Je kan wisselen tussen deze websites door gebruik te maken van het wereldbol-pictogram rechts bovenin het browservenster.
 
-Een makkelijke manier om verschillende soorten nummers te downloaden, is door `Syncsaber` te gebruiken. Je kan het vinden in het `Syncsaber` tabblad in BMBF. Hier kan je levels downloaden met één enkele klik op een knop, en je kan uit verschillende "instellingen" kiezen. Je kan bijvoorbeeld de top 20 levels downloaden in de "hot" sectie van [BeatSaver](https://beatsaver.com/) of de 50 moeilijkste gerangschikte levels.
+Een makkelijke manier om verschillende soorten nummers te downloaden, is door `Syncsaber` te gebruiken. Deze kan je vinden in het `Syncsaber` tabblad in BMBF. Hier kan je levels downloaden met één enkele klik op een knop, en je kan uit verschillende "instellingen" kiezen. Je kan bijvoorbeeld de top 20 levels downloaden in de "hot" sectie van [BeatSaver](https://beatsaver.com/) of de 50 moeilijkste gerangschikte levels.
 
 Een andere manier is het gebruik van de `Bookmark` functie op [BeastSaber](https://bsaber.com/). Nadat je een account hebt aangemaakt, kan je op het bookmark icoontje van een level klikken, en als je later al je levels van je Quest verwijderd, kan je al de levels die je gebookmarkt hebt opnieuw downloaden door middel van OneClick™.
 
@@ -201,7 +201,7 @@ Als je geen levels kan installeren vanuit je Quest, kan je dat ook proberen met 
 
 Als het webinterface niet laad, klik dan [hier](#de-bmbf-webinterface-laad-niet) voor enkele stappen die het probleem kunnen oplossen.
 
-::tip Je kan ook afspeellijsten op dezelfde manier downloaden. Je kan verschillende afspeellijsten vinden op [BeastSaber](https://bsaber.com/category/playlists/) of in verschillende community discords. Je kan ook je eigen afspeellijsten maken met [BMBF Manager](https://github.com/ComputerElite/BM#bmbf-manager) of [Playlist Editor Pro](https://beatsaberquest.com/playlisteditor-pro/).
+::tip Je kan ook afspeellijsten op dezelfde manier downloaden. Je kan verschillende afspeellijsten vinden op [BeastSaber](https://bsaber.com/category/playlists/) of in verschillende community Discord servers. Je kan ook je eigen afspeellijsten maken met [BMBF Manager](https://github.com/ComputerElite/BM#bmbf-manager) of [Playlist Editor Pro](https://beatsaberquest.com/playlisteditor-pro/).
 
 Als je een level wilt testen, bekijk dan de [nummers testen op een Quest](/nl/mapping/#testing-on-a-quest) sectie in de mapping wiki voor stappen voor het klaar maken om nummers te testen! :::
 

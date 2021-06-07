@@ -8,6 +8,13 @@ _The Support role is a symbol of thanks. Thanks for the thousands of messages an
 
 **Roles:** Support
 
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
+
+**Roles:** Support
+
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
+
 ## ComputerElite
 He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
 
@@ -81,7 +88,7 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 **Roles:** Support
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
 **Roles:** Support
 

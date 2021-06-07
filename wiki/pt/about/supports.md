@@ -8,29 +8,36 @@ _O cargo de Support é um símbolo de agradecimento. Obrigado por milhares de me
 
 **Cargos:** Support
 
-## ComputerElite
-Ele faz programas para apoiar as pessoas mais rápido e outros para facilitar as pessoas. (gosta de comer Logs do BMBF)
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
 
 **Cargos:** Support
+
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
+
+## ComputerElite
+He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
+
+**Roles:** Support
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-Você pode conhecer suas plataformas espetaculares ou para indivíduos mais refinados: yeet sabers.
+You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
 
-**Cargos:** Support, 3D Artist
+**Roles:** Support, 3D Artist
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
-Ele gosta de jogar Beat Saber. Também gosta de ajudar as pessoas a resolver os seus problemas para que possam jogar Beat Saber.
+He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
 
-**Cargos:** Support
+**Roles:** Support
 
 ## Kolezan
-He'll teach you to fix your mods and your terribly off-beat first map. Todos estivemos lá.
+He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
 
-**Cargos:** Support, Mapping Support, Mapper
+**Roles:** Support, Mapping Support, Mapper
 
 [Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
@@ -81,7 +88,7 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 **Roles:** Support
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
 **Roles:** Support
 

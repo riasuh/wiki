@@ -42,76 +42,76 @@ Beat Saber Clan Hub è l'hub per tutte le cose correlate ai clan. Se vuoi unirti
 ---
 
 ## Beat Saber Commissions
-Vorresti far fare un modello, una mappa o una mod? Entra in contatto coi professionisti qui.
+Have a model, map, or mod that you'd like done? Get in contact with the professionals here.
 
-[Discord](https://discord.gg/4RbcH5G)
+[Discord](https://discord.gg/e4f3WBBVnr)
 
 ---
 
 ## Beat Saber Events
-Un luogo per pianificare, pubblicare, discutere ed esser notificati per eventi nella tua area.
+A place to plan, post, discuss, and get notifications for events in your area.
 
 [Discord](https://discord.gg/q92brWG)
 
 ---
 
 ## Beat Saber League
-Un torneo in stile campionato per Beat Saber!
+A League-style tournament for Beat Saber!
 
 [Discord](https://discord.gg/rNmazdz) | [Website](https://beatsaberleague.com/)
 
 ---
 
 ## Beat Saber Legacy Group
-Benvenuto al Beat Saber Legacy Group! Qui ci riuniamo per rivivere i vecchi giorni di Beat Saber creando risorse, mod e strumenti per migliorare la tua esperienza di Beat Saber! Qui, puoi persino effettuare il downgrade della tua versione insieme al supporto completo alle mod!
+Welcome to the Beat Saber Legacy Group! Here we come together to relive the old days of Beat Saber by creating assets, mods, and tools to enhance your experience of Beat Saber! You can even downgrade your version here along with full mod support!
 
 [Discord](https://discord.gg/MrwMx5e) | [Website](https://bslegacy.com/)
 
 ---
 
 ## BeatTogether Community
-Community per la mod BeatTogether. Questa mod consente il gioco incrociato tra piattaforme PC e Quest. Questo è un luogo per discutere la mod e discuterne progressi e rilasci!
+Community for the BeatTogether mod. This mod allows crossplay between PC platforms and Quest. This is a place to discuss the mod and follow its progress and releases!
 
 [Discord](https://discord.com/invite/gezGrFG4tz)
 
 ---
 
 ## Cube Community
-Risalti di gioco, di Beat Saber, guide ai punteggi, raccolte di clip, eventi della community e altro!
+Beat Saber gameplay spotlights, scoring guides, clip compilations, community events and more!
 
 [Discord](https://discord.gg/dwe8mbC) | [YouTube](https://youtube.com/CubeCommunity)
 
 ---
 
 ## KPOP Beat Saber
-Ciao! Siamo una piccola community dedicata alla mappatura di canzoni per Beat Saber. Punti bonus se è una canzone Kpop. Ma accogliamo chiunque sia interessato alla mappatura o voglia un feedback! Inoltre aggiorniamo il server con sciabole a tema Kpop e mappe Kpop recenti.
+Hi! We are a small community dedicated to mapping songs for Beat Saber. Bonus points if it's a Kpop song. But we welcome anyone who is interested in mapping or wants feedback! We also update the server with Kpop themed sabers and recent Kpop maps.
 
 [Discord](https://discord.gg/c9uHGYP)
 
 ---
 
 ## Saber Factory
-Benvenuti al server Saber Factory! Qui trovate tutte le risorse dedicate alla mod Saber Factory. Ottieni aiuto con l'uso e la creazione di contenuti, tieniti in contatto coi nuovi aggiornamenti, lascia suggerimenti e molto altro.
+Welcome to the Saber Factory server! Here you find all resources dedicated to the Saber Factory mod. Get help with the usage and creation of content, keep in touch with new updates, leave suggestions and much more.
 
 [Discord](https://discord.gg/PjD7WcChH3)
 
 ---
 
 ## ScoreSaber
-Classifiche personalizzate e ranghi globali!
+Custom leaderboards and global ranking!
 
 [Discord](https://discord.gg/WpuDMwU) | [Twitter](https://twitter.com/scoresaber)
 
 ---
 
 ## Qosmetics Community
-Qosmetics Community è una community incentrata sulla fornitura di modelli Personalizzati, inclusi bloq delle sciabole e muri per la ricerca! Ci sforziamo di migliorare e sviluppare la community dei Contenuti Personalizzati di Ricerca su un livello interamente nuovo. Vieni a giocare a modo tuo!
+Qosmetics Community is a community focused around providing Custom models, including sabers bloqs and walls to the quest! We are striving to improve and grow the community of the Quest Custom Content to a whole new level. Come play your way!
 
 [Discord](https://discord.gg/NXnPYEh)
 
 ---
 
 ## QuestBoard
-Siamo un server della community di Beat Saber incentrato sulla ricerca, dedicata al miglioramento dell'esperienza per quanti più giocatori possibili.
+We are a quest-focused beat saber community server, dedicated to improving the experience for as many players as we can.
 
 [Discord](https://discord.gg/d6DyW9v) | [Website](https://www.questmodding.com/)

@@ -42,3 +42,18 @@ Als je mee wilt doen met jouw taal, kan je [soliciteren voor het helpen met vert
 * Syskoh
 * Trolav
   * [Twitter](twitter.com/Trolav1)
+
+## Dutch | Nederlands
+
+### Proeflezers
+
+* Eris
+
+### Vertalers
+
+* boulders2000
+* Jestro
+* Marrlain
+* OnderHond
+* RedBrumbler
+* Rusty69

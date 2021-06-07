@@ -18,20 +18,20 @@ The [Basic Mapping](./basic-mapping.md) page is useful for learning what not to 
 :::warning This is a stub page, content is a work in progress! Ask in `#mapping-discussion` if you want more info! :::
 
 ## Rule Breaking
-Rules are made to be broken. However, they must be thoroughly understood before you can break rules and some have virtually no cases where breaking them is preferred. With experience and [outside](./#community-third-party-testing) feedback, there is always value to exploring the full design space of beat saber mapping and pushing the limits of the rules.
+ルールは破るためにあります。 しかし、ルールを破る前に破らないほうがよい場合も必ず存在するということを一通り理解する必要があります。 これまでの経験や[外部](./#community-third-party-testing)からのフィードバックとともに、完全に設計された譜面を探索することやルールの限界を超えることにはいつでも価値があります。
 
-Outside feedback is **critical** as the mapper! You know the rhythm and patterns better than any other person and will be ready to perform the motion before the notes ever show up. By getting [third party feedback](./#community-third-party-testing) on broken rules, such as in the BSMG `#testplays` channel, you can have confidence in your unique patterns and in your map.
+周りからのフィードバックは譜面作成において**とても重要**です。 他の人よりリズムやノーツパターンを知っているとき、あなたはノーツが出現する前に良いパフォーマンスができてしまうでしょう。 ルールを破ることについて`#testplays`チャンネルなどで[フィードバック](./#community-third-party-testing)を獲得することで、あなたの作る特徴的なパターンが間違いではないことを確かめられるでしょう。
 
-## Consistency & Variety
-Representing music via consistent note placement when there are similarities in the music and varying mapping when there changes in music are core techniques of intermediate mapping.
+## 一貫性 & バラエティー
+音楽にくり返しの要素がある場合には一貫したノーツ配置をし、音楽に変化があったときにノーツ配置にも変化を与えることは中級者として意識するべき点です。
 
-1. **Representation** is tied to music that your notes are following.  
-   At the basic level, the sounds that are mapped within each section should follow some kind of rule, such as following an instrument. You can get more complicated, such as mapping the left hand to drums, and the right hand to vocals, but there should be a rule for the mapping within each section.
+1. 音楽にノーツを結び付けて**代表させる**。  
+   基本的なレベルとして、それぞれのパートで特定の楽器の音に合わせてノーツを配置することなどです。 より複雑には、左でドラムパートを、右手でボーカパートを担当するなどです。そしてこのルールを適応するならそれぞれのパートで必ず守るべきです。
 
-2. **Consistency** and **Variety** come into play in two places, within a section and when comparing separate sections of a song.
-    1. Within a section, representation rhythm-wise should generally stay consistent as it allows players to establish that rhythm and enjoy the map. Being consistent with patterns is acceptable as well, but some variety of note placements within the bounds of the established patterns and rhythms is appreciated.
-    2. Consistency and variety are more important when comparing sections of a song, as properly varying your mapping between sections will help the song shine via the map.
-    3. Repeated sections of music should play similarly, and contrasting sections should play differently. The degree of this contrast is up to the mapper.
+2. **一貫性** と **バラエティ** は、1つパート内と曲中のほかのパートと比較したときに機能します。
+    1. 1つのパート内では1つのパート内ではリズムのルールに一貫性を持たせることでプレイヤーがリズムを取りやすく楽しみやすい譜面になるでしょう。 一定のパターンでも大丈夫ですが、ある程度の変化を持たせることのほうが評価されることがあります。
+    2. 一貫性とバラエティは曲中のほかのパートと比較したときにより重要になります。適切にパートの切り替えごとにバラエティをつくることであなたの譜面はより輝きます。
+    3. 音楽の繰り返しのパートは似たような譜面配置、対照的なパートには変化を与えましょう。 このコントラストの程度は譜面作成者によります。
         * This does not mean that the exact same patterns need to be used, but players should be able to feel the similarities between sections with similar music. This can be done in a variety of ways, primarily it is achieved by mapping the same rhythms. If you choose to map a different rhythm, using similar patterns and motions will provide a similar effect.
     4. Varying the mapping appropriately when the music changes is also important. When a change in the music happens, the effect is a lot stronger when the change is reflected in the mapping.
 
@@ -54,25 +54,25 @@ If you want to explore this more in depth, checkout [pishifat's video](https://w
 Players need to see the notes to comfortably prepare and react. Notes that are hidden until the last second are very jarring to play.
 
 ### Vision Blocks
-Speed influences visibility heavily, as the note jump speed and spawn distance dictate how much time the player has to see incoming notes. The player will have too little time to react to notes that spawn too close and approach too quickly. Likewise, vision blocks are more severe as the song gets faster- when the note exists for a shorter time, any time that the block is obscured is more impactful. At extreme speeds and slower note jump speeds, even bottom row blocks can obscure other bottom row notes (the same can be said for top row notes, but those are rarely used at a density where this is a problem).
+Speed influences visibility heavily, as the note jump speed and jump distance dictate how much time the player has to see incoming notes. The player will have too little time to react to notes that spawn too close and approach too quickly. Likewise, vision blocks are more severe as the song gets faster- when the note exists for a shorter time, any time that the block is obscured is more impactful. At extreme speeds and slower note jump speeds, even bottom row blocks can obscure other bottom row notes (the same can be said for top row notes, but those are rarely used at a density where this is a problem).
 
-### Note Jump Speed & Spawn Distance
-Note Jump Speed (NJS), Spawn Offset (or offset), and Spawn Distance are additional factors you need to consider for visibility.
+### Note Jump Speed & Jump Distance
+Note Jump Speed (NJS), Spawn Offset (or offset), and Jump Distance are additional factors you need to consider for visibility.
 
 Slower NJS is useful for visibility on easier songs where players need to see things coming to react. Faster NJS is useful for fast songs which would otherwise appear cluttered without note spacing. Faster NJS also helps for visually cluttered maps which heavily use elements such as bombs or sliders that otherwise create visual noise.
 
-Larger spawn distances are good for maps which need high visibility to catch unusual or large motions such as dancey maps. Shorter spawn distances are useful for maps which have simpler patterns but are faster- a shorter spawn distance means that fewer notes are on screen, therefore being less cluttered.
+Larger jump distances are good for maps which need high visibility to catch unusual or large motions such as dancey maps. Shorter jump distances are useful for maps which have simpler patterns but are faster- a shorter jump distance means that fewer notes are on screen, therefore being less cluttered.
 
-Offset is used to adjust a song’s spawn distance while keeping the NJS the same, since spawn distance varies with NJS and BPM. Spawn offsets can be positive or negative and usually don't go above 1 or below -1. Below is a table of NJS, spawn offset, and spawn distance values that can be used as a guide (but not as law) for determining your map’s parameters. Using this table, adjust the offset as needed to reach the target spawn distance.
+Offset is used to adjust a song’s jump distance while keeping the NJS the same, since jump distance varies with NJS and BPM. Spawn offsets can be positive or negative and usually don't go above 1 or below -1. Below is a table of NJS, spawn offset, and jump distance values that can be used as a guide (but not as law) for determining your map’s parameters. Using this table, adjust the offset as needed to reach the target jump distance.
 
-|        **Speed & Style**         | **Spawn Distance Target** | **Expert NJS** | **Expert+ NJS** |
-|:--------------------------------:|:-------------------------:|:--------------:|:---------------:|
-|    Slow (< 100 BPM) Standard     |           24-27           |     14-16      |      17-19      |
-|     Slow (< 100 BPM) Dancey      |           24-28           |     13-16      |      16-18      |
-| Average (100 - 160 BPM) Standard |           23-27           |     14-16      |      17-20      |
-|  Average (100 - 160 BPM) Dancey  |           24-28           |     13-16      |      16-19      |
-|    Fast (> 160 BPM) Standard     |           21-25           |     15-17      |      18-21      |
-|  Very Fast (> 200 BPM) Standard  |           20-24           |     16-19      |      20-23      |
+|        **Speed & Style**         | **Jump Distance Target** | **Expert NJS** | **Expert+ NJS** |
+|:--------------------------------:|:------------------------:|:--------------:|:---------------:|
+|    Slow (< 100 BPM) Standard     |          24-27           |     14-16      |      17-19      |
+|     Slow (< 100 BPM) Dancey      |          24-28           |     13-16      |      16-18      |
+| Average (100 - 160 BPM) Standard |          23-27           |     14-16      |      17-20      |
+|  Average (100 - 160 BPM) Dancey  |          24-28           |     13-16      |      16-19      |
+|    Fast (> 160 BPM) Standard     |          21-25           |     15-17      |      18-21      |
+|  Very Fast (> 200 BPM) Standard  |          20-24           |     16-19      |      20-23      |
 
 ## Understanding Flow
 In [Basic Mapping](./basic-mapping.md#do-mapping-with-flow) we covered the bare essentials of parity. Now we’ll dig deeper and explore why some hits just feel bad.
@@ -152,7 +152,7 @@ Left and right movement should feel natural and never be forced.
 Down movement is trickier as it is easier to do more harm than good.
 
 * Most players dislike crouch walls, be very selective when using them.
-  * Crouch walls should be avoided when the spawn distance is very short and NJS is high as they make even fully telegraphed crouch walls too fast to react to.
+  * Crouch walls should be avoided when the jump distance is very short and NJS is high as they make even fully telegraphed crouch walls too fast to react to.
 * Keep them short, there’s rarely a good reason to have them longer than 1-2 beats.
 * If you are ending a crouch wall with notes just after, be extremely careful with what direction you start (up/down).
   * Starting down too quickly is uncomfortable and almost always unnecessary.
@@ -181,9 +181,9 @@ As a result, bombs are not often used in maps other than for bomb resets. Bomb r
 ## Sliders
 Sliders are the use of multiple notes at different times all hit with the same swing. They fit well for sounds that are sustained for slightly longer than a normal note, but have significant restrictions.
 
-Conventionally, sliders are started with an arrow block and followed with dot blocks spaced at 1/12 or 1/16 from the original block. Sliders slower than these precisions require the player to alter their swing speed to successfully hit, which is not desired. Sliders faster than these precisions are essentially stacks/towers.
+Conventionally, sliders are started with an arrow block and followed with dot blocks spaced at 1/16 or 1/24 from the original block. Sliders slower than these precisions require the player to alter their swing speed to successfully hit, which is not desired. Sliders faster than these precisions are essentially stacks/towers.
 
-The using 1/12 vs. 1/16 precision depends on bpm though 1/16 is a safe choice for most speeds. **It is more important for sliders to be playable than to match with the rhythm.** If a 1/8 sound is mapped with 1/8 sliders, it may be too slow to play comfortably in one swing.
+The using 1/16 vs. 1/24 precision depends on bpm though 1/16 is a safe choice for most speeds. **It is more important for sliders to be playable than to match with the rhythm.** If a 1/8 sound is mapped with 1/8 sliders, it may be too slow to play comfortably in one swing.
 
 Note that there are directions that work more comfortably than others. Namely, sliders should travel clockwise for the left hand, and counterclockwise for the right hand. Sliders are almost always restricted to 3 notes or less, as changing directions mid-slider is extremely difficult to score well on. Sliders that end in the opposite lane (Such as left (Red) sliders ending in the rightmost lane) are easy to miss.
 

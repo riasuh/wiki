@@ -3,7 +3,7 @@ sidebar: auto
 ---
 
 # 持ち方とコツ
-_A compilation of resources to help you to hit bloq._
+_ブロックを切るときの便利なまとめ_
 
 ## ランキングを上げるためのチュートリアル
 PPを取るためのTeknozFRによる記事 [ランキング & スコアリングガイド](./ranking-guide)
@@ -62,7 +62,7 @@ Indexコントローラ用のビデオはまだ作成されていませんが、
 ### Oculus Quest 2
 Quest２コントローラ用のビデオはまだ作成されていませんが、以下のいくつかの例を示します！ ![Oculus Quest 2](~@images/grips-and-tricks/touch3-grips.jpg)
 
-[Cube コミュニティのDiscord](https://discord.gg/dwe8mbC)のチャンネル`#tips-and-grips`でより多くの例が示されています。 Please remember that everyone's playstyle and body is different; someone else's grip might not work exactly like you need it to. あなたに合う方法をいろいろ試して探してください！
+[Cube コミュニティのDiscord](https://discord.gg/dwe8mbC)のチャンネル`#tips-and-grips`でより多くの例が示されています。 誰もがプレイスタイルと体の動かし方が違うことを覚えておいてください。他の誰かの握り方があなた思うように機能しない場合があります。 あなたに合う方法をいろいろ試して探してください！
 
 ## Vive コントローラーのトラッキングを改善
 あなたの体がコントローラーの1つの信号源を妨げているかもしれません。 ここでは、トラッキングを改善するためのいくつかの手順を示します。

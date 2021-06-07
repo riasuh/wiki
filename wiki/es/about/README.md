@@ -26,7 +26,7 @@ Desde los sables hasta las notas, los modelos a medida siempre han sido un aspec
 ### Mapeadores
 Cada uno de tus mapas favoritos es cuidadosamente elaborado y probado durante muchas horas por un talentoso mapeador. Tanto como nos encantaría incluirlos aquí, hay demasiados de ellos. Si te gustan los mapas de alguien, dale un pulgar en el juego, evalualo en [BeastSaber](https://bsaber.com), ¡o diselo personalmente! Realmente lo apreciarán.
 
-> Además, hay una comunidad en discord para ayudar a conectar mapeadores/artistas con clientes si desea encargar algo. Te animamos a que te pongas en contacto con el servidor de [Comisiones de Beat Saber.](https://discord.gg/4RbcH5G)
+> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
 
 ### [Contribuidores de Recursos de Mapeo](/mapping/mapping-credits.md)
 Un grupo de mapeadores experimentados que se tomaron el tiempo para escribir y compartir sus conocimientos para ayudar a otros a comenzar o mejorar. Check out their maps and consider supporting them!

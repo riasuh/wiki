@@ -42,3 +42,18 @@ Wenn du in deiner Sprache mithelfen möchtest, kannst du dich [als Übersetzer b
 * Syskoh
 * Trolav
   * [Twitter](twitter.com/Trolav1)
+
+## Niederländisch (Nederlands)
+
+### Korrekturleser
+
+* Eris
+
+### Übersetzer
+
+* boulders2000
+* Jestro
+* Marrlain
+* OnderHond
+* RedBrumbler
+* Rusty69

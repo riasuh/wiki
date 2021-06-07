@@ -42,3 +42,18 @@ Si vous voulez aider à traduire dans votre langue, vous pouvez postuler [ici](h
 * Syskoh
 * Trolav
   * [Twitter](https://twitter.com/Trolav1)
+
+## Dutch | Nederlands
+
+### Proofreaders
+
+* Eris
+
+### Translators
+
+* boulders2000
+* Jestro
+* Marrlain
+* OnderHond
+* RedBrumbler
+* Rusty69

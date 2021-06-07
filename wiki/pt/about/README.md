@@ -26,7 +26,7 @@ De sabres a notas, custom models sempre foram um aspecto popular do Beat Saber, 
 ### Mappers
 Cada um dos seus mapas favoritos é cuidadosamente trabalhado e testado ao longo de muitas horas por um mapper talentoso. Por mais que gostaríamos de incluí-los aqui também, há MUITOS deles. Se você gosta dos mapas de alguém, dê uma avaliação no [BeastSaber](https://bsaber.com), ou conte a eles pessoalmente! Eles irão gostar muito.
 
-> Além disso, há uma comunidade no Discord para ajudar a conectar mappers/artistas com os clientes, se você quiser fazer commission de algo. Nós encorajamos você a entrar em contato no [servidor Beat Saber Commissions.](https://discord.gg/4RbcH5G)
+> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
 Um grupo de mapeadores experientes que levaram tempo para anotar e compartilhar seus conhecimentos para ajudar os outros a começarem ou melhorarem. Check out their maps and consider supporting them!

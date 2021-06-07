@@ -87,7 +87,7 @@ Das scheint beim updaten von Beat Saber zu passieren, während man bereits Mods 
 #### 2.3 Das Spiel stottert unerträglich nach dem installieren von Mods
 Falls das Spiel schlecht läuft, dass man kaum den `Continue` Knopf im Health & Safety Menü klicken kann, dann: Steam: Überprüfe die Spieldateien Oculus: Führe eine Neuinstallation durch Mache das gleiche, falls das Spiel überhaupt nicht startet und keine Fehlermeldung erscheint.
 
-Wenn das Problem nicht gelöst wurde, überprüfe den Abschnitt [2.4 Framerate verbessern](#FPS-Probleme)
+If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
 
 #### 2.4 Framerate verbessern
 Falls [2.3](#2-3-Das-Spiel-stottert-unerträglich-nach-der-Installation-von-Mods) deine FPS nicht verbessert hat, dann kann dein PC möglicherweise einfach nicht mit dem Stress, den Mods verursachen zurecht kommen. Hier sind ein paar Dinge, die du tun kannst um deine FPS zu verbessern, in keiner wirklichen Reihenfolge:
@@ -102,7 +102,7 @@ Falls [2.3](#2-3-Das-Spiel-stottert-unerträglich-nach-der-Installation-von-Mods
 * Führe eine [saubere Neuinstallation](#Saubere-Installation) der Spieldateien durch.
 * Low framerate can also be caused by something going wrong within your application data folder, refer to [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 * Deaktiviere manche CountersPlus-Features, wie zum Beispiel "Score Counter" und "Swing Speed", da sie ziemlich anfordernd werden können.
-* Die HTTPStatus-Mod kann Lagspikes verursachen. Teste dies ohne die Mod, um zu sehen, ob sich deine Lagspikes reduzieren oder verschwinden.
+* HTTPStatus and DataPuller can cause lag spikes. Teste dies ohne die Mod, um zu sehen, ob sich deine Lagspikes reduzieren oder verschwinden.
 
 VR ist sehr CPU intensiv, erst recht, wenn man Mods hinzufügt. Wenn du Schwierigkeiten hast, das Spiel mit den Mods auszuführen die du möchtest, überlege deine Hardware zu ersetzen. Anmerkung: Beat Saber ist nicht sehr GPU intensiv, da das Spiel grafisch sehr simpel ist.
 

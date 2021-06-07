@@ -109,41 +109,41 @@ MMA2はもっとも機能的な3Dエディタで譜面編集コミュニティ�
 * コントリビューターフィールド
 * MappingまたはNoodle Extensionsのサポート
 
-#### Migrating from Official Editor to a Community Editor
-Although it is recommended to start setup again following the [Quick Start](#mapping-quick-start) guides with a [Community Editor](#community-editors), it is possible to transfer your work in the Official Editor over.
+#### 公式エディターからコミュニティエディターへの移行
+[ コミュニティエディタ](#community-editors) を使用して[クイックスタート](#mapping-quick-start)ガイドに従って再度セットアップを開始することをお勧めします。公式のエディタに移行することができます。
 
-1. Install a [Community Editor](#community-editors)
-2. Locate your map files in your game's `CustomLevels` folder.
-    * Steam Example Location: `C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels`
-    * Oculus Example Location: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber_Data\CustomLevels`
-3. Move it to the folder your editor is looking in. This is commonly the `CustomWIPLevels` in the `Beat Saber_Data` folder.
-    * Steam: `C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Beat Saber_Data\CustomWIPLevels`
-    * Oculus: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber_Data\CustomWIPLevels`
-4. Convert your audio file to the `.ogg` format from `.wav` if you have not done so.
-    1. Download and Install [Audacity](https://www.audacityteam.org/)
-    2. Open the `.wav` file in Audacity
-    2. Click the `File menu -> Export -> Export as OGG.`
-    3. Name your file `song.ogg` and click <kbd>Save</kbd>.
-    4. Place the `song.ogg` file into the map folder.
-        * You no longer need the `.wav` song file in this folder
-5. Open the map in the community editor and change the song file name to `song.ogg` and click the save button.
+1. [コミュニティエディタ](#community-editors)をインストールします。
+2. `CustomLevels`にあなたの譜面を入れます。
+    * Steamの場合 ファイルの場所: `C:\Program Files (x86)\Steam\steamaps\common\Beat Saber\Beat Saber_Data_CustomLevels`
+    * Oculusの場合 ファイルの場所: `C:\Program Files\Oculus\Software\hyperbolic-magnetism-beat-saber\Beat Saber_Data\CustomLevels`
+3. エディタが探せる場所にファイルを移動します。 普通`Beat Saber_Data`の`CustomWIPLevels`ファイルのことを指します。
+    * Steamの場合 ファイルの場所: `C:\Program Files (x86)\Steam\steamaps\common\Beat Saber\CustomWIPLevels`
+    * Oculusの場合 ファイルの場所: `C:\Program Files\Oculus\Software\hyperbolic-magnetism-beat-saber\Beat Saber_Data\CustomWIPLevels`
+4. オーディオファイルを `.wav` から `.ogg` 形式に変換します。
+    1. [Audacity](https://www.audacityteam.org/) をダウンロードしてインストールする
+    2. Audacity で `.wav` ファイルを開く
+    2. `File メニュー -> Export -> Export as OGG`
+    3. ファイルに`song.ogg` と名前を付け、 <kbd>Save</kbd> をクリックします。
+    4. 譜面フォルダに `song.ogg` ファイルを入れます。
+        * フォルダに `.wav`ファイルは不要です。
+5. コミュニティエディターでマップを開き、曲ファイル名を `song.ogg` に変更し、保存ボタンをクリックします。
 
-You are now ready to continue editing your map!
+譜面の編集を続ける準備ができました！
 
 ### 追加のマッピングツール
 
 * [BS Viewer](https://skystudioapps.com/bs-viewer/) by **+1 Rabbit**  
-  A convenient way to see how your map might look in game without the game.
-  * IOS and Safari are currently not supported
+  ゲームを起動しなくても譜面がどのようにめるのかを確かめる便利なソフトです。
+  * IOSとSafariは現在サポートされていません
 * [+1 Rabbit's Mapping Tools](https://skystudioapps.com/mapping-tools/) by **+1 Rabbit**  
-  A suite of tools for mappers that includes:
-  * **Schema Fixer:** Easily fix maps made in Mediocre Mapper Mk4.1 and Mk5 for upload to BeatSaver.
-  * **Tempo Changer:** Change the BPM of an entire map and shift block placements accordingly.
-  * **Offset Remover:** Removes editor offset and snaps notes/obstacles/events to common precisions to try and mitigate floating point error.
-  * **Note Sorter:** Sorts unordered notes/obstacles/events in the map file to fix stack spawning.
-  * **Copy Timing:** Moves notes in one difficulty based on another within a certain window. Useful to apply small timing changes across all difficulties for specific sounds.
-  * **Copy Lighting:** Copies all of the lights, with the option to include/exclude custom events from one difficulty to all other difficulties.
-  * **Map Diff:** Compare between two versions of a map. Useful for testplayers and Ranking Team members to see if any changes were made.
+  譜面作成における便利なツールが含まれています。
+  * **Schema Fixer:** Mediocre Mapper Mk4.1 と Mk5 で作成したマップを簡単に修正して、BeatSaver にアップロードします。
+  * **Tempo Changer:** マップ全体の BPM を変更し、それに応じてブロック配置をシフトします。
+  * **Offset Remover:** 浮動小数点誤差を軽減するために、エディタのオフセットを削除し、ノーツ/ボム、壁/イベントを一般的なプリシションにスナップします。 浮動小数点誤差を軽減します。
+  * **Note Soter:** スタックを修正するために、マップファイル内の乱雑になっているノート/障害/イベントをソートします。
+  * **Copy Timing:**特定のノーツを他の難易度にコピーします。 すべての難易度にわたってある音に対してタイミングを少しだけずらしたい時などに便利です。
+  * **Copy Lighting:** 1つの難易度からほかの難易度すべてにカスタムイベントとすべての照明効果をコピーします。
+  * **Map Diff:** 譜面のバージョンの比較。 テストプレイやランキングチームでどこに変更が加えられたかを見るときに便利です。
 * [Parity Checker](https://galaxymaster2.github.io/bs-parity/) by **GalaxyMaster**  
   An error checker tool that focuses on finding issues with parity in a map.
 * [Map Check](https://kivalevan.github.io/BeatSaber-MapCheck/) by **Kival Evan**  
@@ -166,11 +166,11 @@ You are now ready to continue editing your map!
 * [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t) by **Fayhe**  
   Video guide on using the timing feature of osu!'s editor to find map bpm.
 
-### Useful Mods
-Here are some mods that might make your mapping workflow a little easier.
+### 便利なMod
+ここには譜面作成をすこし楽にするツールがあります。
 
 * [SiraUtil](./basic-lighting.md#in-game-with-fpfc) by **auros**  
-  With the First Person Flying Controller (FPFC) launch parameter, this allows you to control the game while a map is playing with your keyboard and mouse without using a headset. See the section in [Basic Lighting](./basic-lighting.md#in-game-with-fpfc) for links to the mods and how to set it up.
+  第一人称視点フライングコントローラー（FPFC）のパラメータを設定して、キーボードやマウスを使ってゲームのプレイ中に視点操作ができます。 Mod へのリンクや設定方法については、 [Basic Lighting](./basic-lighting.md#in-game-with-fpfc) のセクションを参照してください。
 * [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) by **Kyle1413**  
   Mod for Beat Saber to control playback speed, seek through songs and set up looping sections. Install the latest version from [Mod Assistant](https://github.com/Assistant/ModAssistant#readme)!
 * [ReLoader](https://github.com/Kylemc1413/ReLoader) by **Kyle1413**  
@@ -461,7 +461,7 @@ Alternatively, since `_customData` is **NOT** a required field, you can go ahead
 To be compliant with the new schema, please also find and remove or fill in any **blank fields** in your `Info.dat` or difficulty files.
 
 ### BeastSaber
-[BeastSaber](http://www.bsaber.com) is a song review and curation site with a social side for member profiles, forums, news, and tutorials. All songs published on BeatSaver are mirrored to BeastSaber within 10-15 minutes. Additionally, maps deleted from BeatSaver may take up to a day to be removed from BeastSaber.
+[BeastSaber](http://www.bsaber.com) is a song review and curation site with social features including reviewing and commenting on songs. All songs published on BeatSaver are mirrored to BeastSaber within 10-15 minutes. Additionally, maps deleted from BeatSaver may take up to a day to be removed from BeastSaber.
 
 ### Mapping Anxiety
 If you're finding it difficult to muster up the courage to upload your map, or are finding it emotionally taxing coping with a lack of downloads or a lot of dislikes, you're not alone. Many mappers have experienced these feelings. You can read more about it on the [Coping with Mapping Anxiety](./mapping-anxiety.md) page.

@@ -26,10 +26,10 @@ Anwendbare Hardware umfasst:
 * Oculus Quest/Quest 2
 
 ## Inhalt erstellen
-Einer deiner Lieblings-Songs ist nicht verfügbar? Du hast eine Mod-Idee, die du umsetzen möchtest? Möchtest du ein Custom Modell, das du im Spiel verwenden möchtest? Dies kannst du auf zwei Arten erreichen.
+Einer deiner Lieblings-Songs ist nicht verfügbar? Du hast eine Mod-Idee, die du umsetzen möchtest? Möchtest du ein Custom Modell, das du im Spiel verwenden möchtest? You can make it happen in one of two ways.
 
-* Beauftrage jemanden in der Community im [Commissions Discord](https://discord.gg/h8VMkhn)
-* Erfahre wie du es selbst machen kannst, indem du die unten stehenden Ressourcen verwendest!
+* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
+* Learn how to make it yourself using the resources below!
 
 ### Maps erstellen
 Erfahre, wie du deine eigenen Level erstellen kannst, indem du unserer [Mapping](./mapping/) Anleitung folgst!
@@ -40,8 +40,8 @@ Beginne mit der Erstellung von Plugins für das Spiel, indem du unserer [Anleitu
 ### 3D-Modelle erstellen
 Lerne, wie man 3D-Modelle für das Spiel erstellt!
 
-* [Saber](./de/models/sabers-guide.md)
-* [Avatare](./de/models/avatars-guide.md)
-* [Plattformen](./de/models/platforms-guide.md)
-* [Notes](./de/models/notes-guide.md)
-* **Custom Walls** Zurzeit ist noch keine Anleitung verfügbar, aber eine ist in Arbeit.
+* [Sabers](./models/sabers-guide.md)
+* [Avatars](./models/avatars-guide.md)
+* [Platforms](./models/platforms-guide.md)
+* [Notes](./models/notes-guide.md)
+* **Walls** No guide is available at this time, but one is being worked on.

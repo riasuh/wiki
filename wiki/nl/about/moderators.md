@@ -40,15 +40,8 @@ Poi!
 
 [Twitch](https://www.twitch.tv/br3uker)
 
-## Maladaze
-Kan jumps niet raken.
-
-**Rol:** Moderator.
-
-[Twitch](https://www.twitch.tv/infjager)
-
 ## Olaf
-Stroopwafels?
+Zijn er stroopwafels?
 
 **Rol:** Moderator.
 
@@ -74,7 +67,7 @@ Een BeastSaber admin die de meeste inhoud schreef voor [Hoe test je een level](.
 **Rol:** Moderator.
 
 ## Razor
-Letterlijk geen idee wat hij doet als het om programmeren gaat, maar hij kan plugins fixen.
+Werkelijk geen idee wat hij doet als het om programmeren gaat, maar hij kan plugins fixen.
 
 **Rollen:** Support, Moderator.
 
@@ -83,7 +76,7 @@ Letterlijk geen idee wat hij doet als het om programmeren gaat, maar hij kan plu
 ## Shad
 "Elk kanaal is gewoon #pc-mod-support"
 
-**Rollen:** Moderator, Mapper, Mapping Support.
+**Rollen:** Moderator, Mapper, Support.
 
 [Levels](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
 
@@ -100,7 +93,7 @@ We moesten deze jongen een beetje in vorm slaan, maar hij was een van de meest e
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
 ## DeeJay (Gepensioneerd)
-Pepega
+Pepega.
 
 **Rol:** Moderator.
 
@@ -117,3 +110,10 @@ Pepega
 **Rol:** Moderator.
 
 [Twitch](https://www.twitch.tv/tehjoelseph)
+
+## Maladaze (Gepensioneerd)
+Kan jumps niet raken.
+
+**Rol:** Moderator.
+
+[Twitch](https://www.twitch.tv/infjager)

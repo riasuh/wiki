@@ -38,7 +38,7 @@ Bekijk dan [Helen Carnate's 17 minute mapping guide](https://www.youtube.com/wat
 
 ::: warning Het is **ZEER** belangrijk om het bestand uit te pakken in stap 2 en alleen de exe in de nieuwe map te starten in plaats van de exe in de zip omdat het, als dat niet gebeurt, problemen zal veroorzaken met het maken en bewerken van levels! :::
 
-#### First Time Setup
+#### Eerste setup
 De eerste keer dat je MMA2 start, moet je deze doorverwijzen naar de locatie van twee mappen, namelijk: `CustomLevels` en `CustomWIPLevels`. Er zijn meerdere opties voor jouw:
 
 **Als je Beat Saber op de computer hebt geïnstalleerd:**
@@ -72,7 +72,7 @@ Al jouw bestanden gaan naar een map met naam van het nummer in deze CustomWIPLev
 Steam Play compatibiliteit tool` aan, en selecteer de laatste versie van Proton in het drop-down menu. In deze stap kan je het ook een nieuwe naam geven en er een pictogram aan toevoegen, omdat Linux het ingebouwde logo voor MMA2 niet kan lezen.
 6. Je kan MMA2 nu gebruiken door het te starten via Steam. Je kunt ook een snelkoppeling maken door met de rechtermuisknop op MMA2 in Steam te klikken en dan onder het `Manage` gedeelte te klikken op `Add Desktop Shortcut`.
 
-#### Linux First Time Setup
+#### Eerste setup op Linux
 De eerste keer dat je MMA2 start, moet je deze doorverwijzen naar de locatie van twee mappen, namelijk: `CustomLevels` en `CustomWIPLevels`. Er zijn meerdere opties voor jouw:
 
 **Als je Beat Saber op de computer hebt geïnstalleerd:**
@@ -91,13 +91,13 @@ De eerste keer dat je MMA2 start, moet je deze doorverwijzen naar de locatie van
 
 Al jouw bestanden gaan naar een map met naam van het nummer in deze CustomWIPLevels map.
 
-### Check the WIP File Path
-The path given from setup may not carry over from the main screen. Make sure the fields have the paths from your setup and are not blank. If blank, add the path(s) from [First Time Setup](#first-time-setup) and press <kbd>Enter</kbd> to confirm!
+### Het controleren van het WIP pad
+Het pad dat in de setup is opgegeven word niet altijd overgenomen vanuit het hoofdscherm. Zorg ervoor dat de velden de paden hebben die je in de setup hebt ingesteld en dat ze niet leeg zijn. Als ze leeg zijn voeg dan de paden vanuit [Eerste setup](#eerste-setup) en klik <kbd>Enter</kbd> om ze te bevestigen!
 
 ::: align center ![Check Paths Not Blank](~@images/mapping/mma2-checkWipSongPath.png) :::
 
 ### Editor instellingen
-Once you've set up your paths, these core settings are all available from the song selection page when you first open the program.
+Zodra je je paden hebt ingesteld zullen deze hoofdinstellingen beschikbaar zijn vanuit de song selection pagina wanneer je het programma voor het eerst opent.
 
 ::: align center ![Song Selection screen in Mediocre Map Assistant 2](~@images/mapping/mma2-song-setup.jpg) :::
 
@@ -119,7 +119,7 @@ Er zijn verschillende functies beschikbaar voor jou op dit scherm:
 ::: danger Levels die door de delete knop in MMA2 zijn verwijderd worden niet naar de prullenbak gestuurd en zijn **permanent verwijderd.**   
 Dit geld ook voor de autosaves map. Wees er alstublieft zeker van en houd eventueel back-ups van jouw werk op een aparte locatie. :::
 
-#### Map Creation
+#### Level creatie
 Onder het levelselectie scherm kan je een nieuwe lege map maken in `CustomWIPLevels` door de gewenste naam van jouw map (meestal naam van het nummer of artiest - naam van het nummer) in te voeren en door op <kbd>Create Level</kbd> te klikken.
 
 #### Instellingen
@@ -169,21 +169,21 @@ On the left side of the `Song Info` page is information that applies to your who
 * **Environment Name:** een dropdown menu van de standaard omgevingen of platforms die beschikbaar zijn. Zie [basis verlichting](./basic-lighting.md#omgevingsvoorbeelden) voor een overzicht van deze omgevingen.
 * **Custom Platform:** De naam van een custom platform van [ModelSaber](https://modelsaber.com/Platforms/). Deze functie is glitchy en het wordt aangeraden om het bestand handmatig te bewerken om enige custom platform informatie toe te voegen.
 
-De <kbd>Open Song Folder</kbd> knop opent de map van jouw nummer in Windows Explorer. This will help you confirm that you have your files in the right spot. The <kbd>Package Song to Zip</kbd> button will remove your autosaves folder and zip the files for BeatSaver. The <kbd>Save Song Info</kbd> button commits all of your metadata to the Info.dat file
+De <kbd>Open Song Folder</kbd> knop opent de map van jouw nummer in Windows Explorer. Dit zal jouw helpen bevestigen dat jouw bestanden in de juiste locatie zijn. De <kbd>Package Song to Zip</kbd> knop zal jouw autosaves folder verwijderen en jouw bestanden comprimeren voor BeatSaver. De <kbd>Save Song Info</kbd> knop plaatst al jouw metadata in het info.dat bestand.
 
-#### Difficulty Settings
-On the right side of the `Song Info` page is the area where you create individual difficulties and edit data that only applies to a single diffculty level.
+#### Niveau instellingen
+Aan de rechterkant van de `Song Info` pagina is de plek waar je individuele niveaus kan maken en data kan bewerken die alleen maar voor één niveau geld.
 
-To create your first difficulty:
+Om jouw allereerste niveau te maken:
 
-1. Click the **<kbd>Add Difficulty</kbd>** button.
-2. In the **Difficulty** dropdown select which difficulty you want to make (easy, normal, hard, expert, or expertplus).
-3. In the **Characteristic** dropdown you can select Standard, No Arrows, or Single Saber.
-4. **Difficulty Label** is optional and allows you to give your difficulties custom names in-game. If left blank, the difficulty set in the dropdown will be displayed instead. *This feature may not reliably work on all VR models*.
-5. The **Note Jump Speed** field is where you change the speed at which the notes move down the track. Click into the field for a pop-up of helpful information. See [Basic Mapping Practices](./basic-mapping.md#gauging-difficulty-down-mapping) for guidance on setting an appropriate NJS for your difficulty.
-6. The **Spawn Distance Modifier** field allows you to adjust how far down the track your blocks appear. Changing this value will adjust the "jump distance" guidance pop-up.
+1. Klik op de **<kbd>Add Difficulty</kbd>** knop.
+2. Selecteer welk niveau je wilt maken (easy, normal, hard, expert of expert plus) in de **Difficulty** dropdown.
+3. Je kan in de **Characteristic** dropdown selecteren of je Standard, No Arrows of Single Saber wilt.
+4. **Difficulty Label** is optioneel en staat je toe om de niveau labels een aangepaste naam te geven in het spel. Als dit leeg is word het niveau wat ingesteld is in de dropdown weergegeven. *Deze functie werkt misschien niet op alle VR modellen.*
+5. In het **Note Jump Speed** veld verander je de snelheid waarmee de blokken door het spoor bewegen. Klik op het veld voor een pop-up met handige informatie. Zie [Standaard mapping praktijken](./basic-mapping.md#gauging-difficulty-down-mapping) voor hulp met het instellen van een geschikte NJS voor jouw niveau.
+6. Het **Spawn Distance Modifier** veld laat je instellen hoe ver in het spoor de blokken verschijnen. Het aanpassen van deze waarde zal de "jump distance" begeleidingspop-up veranderen.
 
-::: tip You **must** click <kbd>Apply Modifications</kbd> if you make a change to difficulty settings, otherwise it will not be saved. In MMA2 this appears to automatically happen when you enter a song file for editing. :::
+::: tip Je **moet** op <kbd>Apply Modifications</kbd> klikken als je een aanpassing maakt in de niveau instellingen, anders word het niet opgeslagen. In MMA2 lijkt dit automatisch te gebeuren wanneer je een level bestand opent om deze aan te passen. :::
 
 Click <kbd>Edit Level</kbd> when you're ready to start mapping!
 

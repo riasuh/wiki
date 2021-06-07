@@ -417,9 +417,9 @@ Um número inteiro que representa o tipo exato de evento que este objeto represe
 |   `3`   | Controls lights in the `Right Rotating Lasers` group.                                                            |
 |   `4`   | Controls lights in the `Center Lights` group.                                                                    |
 |   `5`   | (Previously unused) Controls boost light colors (secondary colors).                                              |
-|   `6`   | Não usado.                                                                                                       |
-|   `7`   | Não usado.                                                                                                       |
-|   `8`   | Creates one ring spin in the environment. Is not affected by [`_value`](#value).                                 |
+|   `6`   | (Previously unused) Controls extra left side lights in the Interscope environment.                               |
+|   `7`   | (Previously unused) Controls extra right side lights in the Interscope environment.                              |
+|   `8`   | Creates one ring spin in the environment.                                                                        |
 |   `9`   | Controls zoom for applicable rings. Is not affected by [`_value`](#value).                                       |
 |  `10`   | (Previously unused) Official BPM Changes.                                                                        |
 |  `11`   | Não usado.                                                                                                       |
@@ -427,6 +427,8 @@ Um número inteiro que representa o tipo exato de evento que este objeto represe
 |  `13`   | Controls rotation speed for applicable lights in `Right Rotating Lasers`.                                        |
 |  `14`   | (Previously unused) 360/90 Early rotation. Rotates future objects, while also rotating objects at the same time. |
 |  `15`   | (Previously unused) 360/90 Late rotation. Rotates future objects, but ignores rotating objects at the same time. |
+|  `16`   | Lowers car hydraulics in the Interscope environment.                                                             |
+|  `17`   | Raises car hydraulics in the Interscope environment.                                                             |
 
 :::danger Just because an event type is listed as unused, does *not* mean you are freely available to use it!
 
@@ -456,7 +458,21 @@ It's default behavior is controlling brightness and color of lights, and follows
 |   `1`    | Turns the event on - switches to second pair of colors.           |
 
 ##### Controlling Rings
-When the event is used to control ring spin, or ring zoom, the `_value` of the event does nothing.
+When the event is used to control ring zoom, the `_value` of the event does nothing.
+
+When the event is used to control ring spin, the `_value` only affects cars in the Interscope environment and does nothing in other environments.
+
+##### Controlling Cars
+| `value` | Resultado                                         |
+|:-------:| ------------------------------------------------- |
+|   `0`   | Affects all the cars. Does not affect hydraulics. |
+|   `1`   | Affects all the cars.                             |
+|   `2`   | Affects the left cars.                            |
+|   `3`   | Affects the right cars.                           |
+|   `4`   | Affects the front-most cars.                      |
+|   `5`   | Affects the front-middle cars.                    |
+|   `6`   | Affects the back-middle cars.                     |
+|   `7`   | Affects the back-most cars.                       |
 
 ##### Official BPM Changes
 When the event is used to control the BPM, the `_value` represents the new BPM.
@@ -481,7 +497,7 @@ If `_value` is `0`, the random rotation offset for each laser will also be reset
 ##### Controlling 360/90 Rotation
 When the event is used to control rotation in a 360/90 degree level, the `_value` is used to add rotation equal to the following table:
 
-| `_value` | Resultado                   |
+| `_value` | Result                      |
 |:--------:| --------------------------- |
 |   `0`    | 60 Degrees Counterclockwise |
 |   `1`    | 45 Degrees Counterclockwise |
@@ -498,4 +514,4 @@ This is an optional field that contains data unrelated to the official Beat Sabe
 The exact specifics of what goes in `_customData` is entirely dependent on community-created content that needs them. As such, we cannot list all `_customData` fields here. You will have to do your own searching throughout the Beat Saber community to find map editors, tools, or mods that use this `_customData` object.
 
 ## Credits
-O conteúdo desta página foi criado pelo [Caeden117](./mapping-credits.md#caeden117).
+The content on this page was authored by [Caeden117](./mapping-credits.md#caeden117).

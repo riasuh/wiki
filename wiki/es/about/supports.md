@@ -8,36 +8,43 @@ _El rol de Soporte es un símbolo de agradecimiento. Gracias por los miles de me
 
 **Roles:** Soporte
 
-## ComputerElite
-Él hace programas para apoyar a la gente más rápido y algunos otros para que todo sea más fácil. (Le gusta comer troncos de BMBF)
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
 
 **Roles:** Soporte
+
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
+
+## ComputerElite
+He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
+
+**Roles:** Support
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-Podrías conocerlas por sus espectaculares plataformas o para personas más refinadas: sables yeet.
+You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
 
-**Roles:** Soporte, Artista 3D
+**Roles:** Support, 3D Artist
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
-Le gusta jugar Beat Saber. También le gusta ayudar a la gente a arreglar sus problemas para que puedan jugar Beat Saber.
+He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
 
-**Roles:** Soporte
+**Roles:** Support
 
 ## Kolezan
-He'll teach you to fix your mods and your terribly off-beat first map. Todos hemos estado ahí.
+He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
 
-**Roles:** Soporte, Mapeo de Soporte, Mapeo
+**Roles:** Support, Mapping Support, Mapper
 
-[Twitch](https://www.twitch.tv/kolezan) | [Donar](https://paypal.me/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
 ## male
 is too uncreative to think of a bio
 
-**Roles:** Soporte
+**Roles:** Support
 
 ## OneEyed
 2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
@@ -54,14 +61,14 @@ He'll give me his bio later today, or so he says.
 ## Radevirot
 This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
-**Roles:** Support
+**Roles:** Soporte
 
 [Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 ## Rex
 I really like to help people. Yeah that's all.
 
-**Roles:** Soporte
+**Roles:** Support
 
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
@@ -81,7 +88,7 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 **Roles:** Support
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
 **Roles:** Support
 

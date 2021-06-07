@@ -22,9 +22,9 @@ Wenn du dir nicht sicher bist, ob du dir gerade Malware installiert hast, ***fra
 
 Beat Saber ünterstützt von Haus aus eigene Songs. Wenn du also nur das haben willst, brauchst du keine Mods! Es ist empfehlenswert `SongCore` zu installieren, das diese Mod das Basisspiel mit einigen Funktionalitäten erweitert, wie verbesserte Ladezeiten und fügt Funktionalitäten für andere Mods ein, wie der In-Game Downloader, eigene Bestenlisten, Playlisten, usw.
 
-::: warning This guide is for PC-modding on Windows.  
-If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
-If you're on Linux, check out the [Linux page](/modding/linux.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
+::: warning Diese Anleitung ist für das PC-Modding unter Windows.  
+Hast du keine Quest, schau dir die[Quest Modding Seite](/quest-modding.md) an.  
+Benutzt du Linux, schau auf der [Linux Seite](/modding/linux.md) oder[Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) nach. :::
 
 Wenn du auf irgendwelche Probleme stoßen solltest, schau bitte auf der [Support Seite](./support) nach und identifiziere was falsch gelaufen ist, bevor du auf dem Discord Server nachfragst. Es kann gut sein, dass deine Frage dort beantwortet wird!
 
@@ -57,7 +57,7 @@ Die `BeatSaver Downloader` Mod erlaubt es dir Lieder im Spiel über den `MORE SO
 [BeatSaver](https://beatsaver.com) ist die Haupt-Datenbank an eigenen Songs, welche von der Community erstellt wurden. Viele andere Tools und Webseiten verbessern die Erfahrung beim Herunterladen von eigenen Songs. BeatSaver ist aber die Seite, auf der sie zur Verfügung gestellt werden. Um gedownloadete Songs von der Seite zu installieren, entpacke und platziere diese in `Beat Saber/Beat Saber_Data/CustomLevels`. Du kannst auch das eingebaute Downloader-Plugin, BeatList oder das OneClick™ Install-Feature von Mod Assistant verwenden.
 
 ### Beast Saber
-[Beast Saber](https://www.bsaber.com) (bsaber.com) ist eine Seite, die versucht, euch die Suche nach guten Maps zum Spielen zu erleichtern. Dies geschieht durch Kategorisierung der Tausenden von Songs auf BeatSaver und lässt diese nach dem Genre eines Songs und vielen anderen Attribut-Tags sortieren. Es besitzt auch ein soziales Feature, in der Spieler Songs bewerten und kommentieren können. Eines der meistgenutzten Funktionen ist die "Curator Recommended"-Funktion, bei der ein Team die meisten täglich veröffentlichten Songs durchspielen und die herausstechendsten empfiehlt, so dass sie diese [automatisch im Spiel herunterladen können](https://bsaber.com/beatsync/).
+[Beast Saber](https://www.bsaber.com) (bsaber.com) ist eine Seite, die versucht, euch die Suche nach guten Maps zum Spielen zu erleichtern. Dies geschieht durch Kategorisierung der Tausenden von Songs auf BeatSaver und lässt diese nach dem Genre eines Songs und vielen anderen Attributen sortieren. Es besitzt auch ein soziales Feature, in der Spieler Songs bewerten und kommentieren können. Eines der meistgenutzten Funktionen ist die "Curator Recommended"-Funktion, bei der ein Team die meisten täglich veröffentlichten Songs durchspielen und die herausstechendsten empfiehlt, so dass sie diese [automatisch im Spiel herunterladen können](https://bsaber.com/beatsync/).
 
 ### Song Management Apps
 

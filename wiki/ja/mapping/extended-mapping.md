@@ -71,7 +71,7 @@ Option 2:
 
 #### Map Setup in Mediocre Map Assistant 2
 
-1. [Open Mediocre Map Assistant 2](https://github.com/Assistant/MediocreMapAssistant2/releases/latest)
+1. [Open Mediocre Map Assistant 2](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
 2. In the Settings bar on the right, 3 new tick box options should be available under the Beta section:
    * **6 Lane Mode** - Extends the number of lanes available to map blocks to to 6 from 4. Also enables placement of walls outside of the lanes.
    * **Precision Placement** - Allows blocks, walls, and bombs to be placed at a finer resolution than the current grid.

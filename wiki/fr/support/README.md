@@ -87,7 +87,7 @@ Il semble que cela se produit lors en mettant à jour Beat Saber avec des mods p
 #### 2.3 Le jeu ralentit beaucoup après avoir installé les mods
 Si le jeu est si ralenti (*lag*) que vous pouvez à peine cliquer sur le bouton `Continue` sur l'écran *Health & Safety*, vérifiez vos fichiers si vous avez le jeu sur Steam, ou réinstallez le jeu sur Oculus. Faites de même s'il ne démarre pas du tout et vous affiche des messages d'erreur quand vous essayez de lancer le jeu.
 
-Si le problème n'a pas été résolu, essayez la section 2.4.
+If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
 
 #### 2.4 Améliorer la fréquence d'images (FPS)
 Si la [section 2.3](#2-3-le-jeu-ralentit-beaucoup-apres-avoir-installe-les-mods) n'a pas amélioré les performances, alors votre PC peut tout simplement ne pas être assez performant pour tenir le coup avec les mods. Voici quelques propositions que vous pouvez tenter pour améliorer les performances, sans ordre particulier :
@@ -102,7 +102,7 @@ Si la [section 2.3](#2-3-le-jeu-ralentit-beaucoup-apres-avoir-installe-les-mods)
 * Réalisez une [réinstallation propre](#installation-propre) du jeu.
 * De faibles performances peuvent aussi être causées par quelque chose qui ne va pas dans le dossier des données d'application. Pour y remédier, référez vous à [comment supprimer le dossier BeatSaber dans votre AppData](#supprimer-les-sauvegardes-dans-appdata).
 * Désactivez des compteurs Counters+ tels que Score Counter et Swing Speed, car ils peuvent être gourmands en ressources.
-* HTTPStatus/DataPuller peuvent créer des saccades. Testez le jeu sans ce mod pour voir si les pics de ralentissement disparaissent.
+* HTTPStatus and DataPuller can cause lag spikes. Testez le jeu sans ce mod pour voir si les pics de ralentissement disparaissent.
 
 La réalité virtuelle est très gourmande en processeur (CPU), surtout si vous ajoutez des mods. Si vous avez du mal à faire fonctionner le jeu avec les mods que vous voulez utiliser, pensez à améliorer votre matériel. Notez que Beat Saber n'utilise que peu de ressources graphiques (GPU) puisqu'il s'agit d'un jeu aux graphismes particulièrement simples.
 

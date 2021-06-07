@@ -40,13 +40,6 @@ Poi!
 
 [Twitch](https://www.twitch.tv/br3uker)
 
-## Maladaze
-Can't hit jumps
-
-**Roles:** Moderator
-
-[Twitch](https://www.twitch.tv/infjager)
-
 ## Olaf
 Any stroopwafels?
 
@@ -117,3 +110,10 @@ Pepega
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/tehjoelseph)
+
+## Maladaze (Retired)
+Can't hit jumps
+
+**Roles:** Moderator
+
+[Twitch](https://www.twitch.tv/infjager)

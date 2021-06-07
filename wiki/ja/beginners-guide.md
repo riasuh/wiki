@@ -26,10 +26,10 @@ Oculus Quest バージョンのゲームを使用している場合は、 [Quest
 * Oculus Quest/Quest 2
 
 ## コンテンツの作成
-お気に入りの曲はありませんか？ 実装したいModのアイデアをお持ちですか？ ゲーム内で使用したいカスタムモデルが必要ですか? それらには二つの方法があります。
+お気に入りの曲はありませんか？ 実装したいModのアイデアをお持ちですか？ ゲーム内で使用したいカスタムモデルが必要ですか? You can make it happen in one of two ways.
 
-* コミュニティの誰かに [コミッションDiscord](https://discord.gg/h8VMkhn)で依頼する
-* 以下のリソースをつかって自分で作成する
+* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
+* Learn how to make it yourself using the resources below!
 
 ### 譜面作成
 [マッピング](./mapping/) ガイドに従って、オリジナルの譜面を作成する方法を学びましょう！
@@ -40,8 +40,8 @@ Oculus Quest バージョンのゲームを使用している場合は、 [Quest
 ### 3Dモデルの作成
 ゲーム用の3Dモデルの作成方法を学びましょう!
 
-* [セイバー](./models/sabers-guide.md)
-* [アバター](./models/avatars-guide.md)
-* [プラットフォーム](./models/platforms-guide.md)
-* [ノーツ](./models/notes-guide.md)
-* **Walls** 現時点ではガイドは利用できませんが、作成中です。
+* [Sabers](./models/sabers-guide.md)
+* [Avatars](./models/avatars-guide.md)
+* [Platforms](./models/platforms-guide.md)
+* [Notes](./models/notes-guide.md)
+* **Walls** No guide is available at this time, but one is being worked on.

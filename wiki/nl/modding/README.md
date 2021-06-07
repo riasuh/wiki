@@ -1,7 +1,7 @@
 # Het maken van mods
 
 ## Mods injecteren
-Beat Saber _**heeft geen**_ mod ondersteuning ingebouwd.
+Beat Saber _**heeft geen**_ ondersteuning voor mods ingebouwd.
 
 In plaats daarvan hangen de meeste mods in het mod installatieprogramma af van [BSIPA (Beat Saber Illusion Plugin Architecture)](https://github.com/nike4613/BeatSaber-IPA-Reloaded/) om de mods te injecteren in het spel, zowel als het bieden van handige tools voor ons modders.
 

@@ -6,7 +6,7 @@ tagline: Добро пожаловать в Beat Saber Modding Group вики!
 description: Добро пожаловать в Beat Saber Modding Group вики!
 actionText: Руководство для начинающих
 actionLink: ./beginners-guide.md
-footer: Copyright © 2019-2021 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
+footer: Авторское право © 2019-2021 Beat Saber Modding Group | Лицензировано по стандарту CC BY-NC-SA 4.0
 tags:
   - bsmg
   - beat saber
@@ -20,28 +20,28 @@ tags:
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
-::: feature Getting Started
+::: feature Начните с этого
 
-* [PC Modding](./pc-modding.md)
-* [Quest Modding](./quest-modding.md)
-* [Common Problems](./support/)
-* [Grips and Tricks](./grips-and-tricks.md)
-* [Ranking & Scoring Guide](./ranking-guide.md)
+* [Модифицирование на ПК](./pc-modding.md)
+* [Модифицирование на Quest](./quest-modding.md)
+* [Частые проблемы](./support/)
+* [Хваты и советы](./grips-and-tricks.md)
+* [Руководство Рейтинг & Подсчёт очков](./ranking-guide.md)
 :::
 
-::: feature Creating new Content
+::: feature Создание нового контента
 
-* [Modder's Guide](/modding/)
-* [Mapper Resources](/mapping/)
-* [3D Models Guide](/models/)
+* [Руководство по созданию модификаций](/ru/modding/)
+* [Создание карт](/ru/mapping/)
+* [Руководство по 3D моделям](/ru/models/)
 :::
 
-::: feature Other Resources
+::: feature Другая информация
 
-* [About Us](/about/)
-* [Health and Safety](./health-and-safety.md)
-* [Frequently Asked Questions](/faq/)
-* [Communities](/communities/)
+* [Про нас](/ru/about/)
+* [Здоровье и безопасность](./health-and-safety.md)
+* [Часто задаваемые вопросы](/ru/faq/)
+* [Communities](/ru/communities/)
 :::
 
 </div>
@@ -52,14 +52,14 @@ tags:
 ## Внешние ссылки
 
 * [Заходите на наш сервер Discord!](https://discord.gg/beatsabermods)
-* [Contact Us](http://bit.ly/MessageBSMG) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
-* [BSMG Patreon](https://www.patreon.com/beatsabermods) - Support the BSMG Services!
-* [BeatMods](https://beatmods.com) - Repository of PC mods that are reflected in installers like Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Download custom songs here
-* [BeastSaber](https://bsaber.com/) - Reviews, articles, playlists, and more!
-* [ModelSaber](https://modelsaber.com/) - Download PC custom sabers, avatars, bloqs, and platforms!
-* [Qosmetics Discord](https://discord.gg/qosmetics) - Download Quest custom sabers, walls, and bloqs!
-* [ScoreSaber](https://scoresaber.com/) - Custom map leaderboards
-* [Apply to Help Translate the Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localize the wiki to your language!
+* [Свяжитесь с нами](http://bit.ly/MessageBSMG) - предложите свои навыки, проспонсируйте нас, обжалуйте блокировку чата/на сервере, пожалуйтесь на пользователя и т.д.
+* [BSMG Patreon](https://www.patreon.com/beatsabermods) - Поддержите сервисы BSMG!
+* [BeatMods](https://beatmods.com) - Репозиторий модификаций для ПК, откуда они появляются в установщиках по типу Mod Assistant
+* [BeatSaver](https://beatsaver.com/) - Скачайте пользовательские песни тут
+* [BeastSaber](https://bsaber.com/) - Обзоры, статьи, плейлисты и многое другое!
+* [ModelSaber](https://modelsaber.com/) - Скачайте пользовательские мечи, аватары, ноты и платформы для ПК!
+* [Qosmetics Discord](https://discord.gg/qosmetics) - Скачайте пользовательские мечи, стены и ноты для Quest!
+* [ScoreSaber](https://scoresaber.com/) - Пользовательская таблица рекордов
+* [Заявка на помощь в переводе Вики!](https://forms.gle/e3BqA3poMjESARe76) - Переведите вики на ваш язык!
 * [Страницы игры в магазине Steam](https://store.steampowered.com/app/620980/Beat_Saber/)
 * [Страница игры в магазине Oculus](https://www.oculus.com/experiences/rift/1304877726278670/)

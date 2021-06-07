@@ -87,7 +87,7 @@ Consulte o Instalação Limpa Parece que isto acontece quando atualiza o Beat Sa
 #### 2.3 O jogo laga de forma insuportável após instalar mods
 Se o jogo fica lagando tanto que você mal consegue clicar no botão `Continue` na tela de Health& Safety, então verifique os arquivos do jogo se você tiver o jogo no Steam, ou reinstale o jogo na Oculus Home. Faça o mesmo se não iniciar e não mostrar mensagens de erro ao tentar iniciar o jogo.
 
-Se isso não resolveu o problema, verifique a seção [2.4 Melhorando framerate](#framerate-issues)
+If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
 
 #### 2.4 - Melhorando o Framerate
 Se a [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) não melhorou seus fps, então seu PC pode estar simplesmente tendo dificuldade para acompanhar o estresse causado pelos mods. Aqui estão algumas coisas que você pode fazer para melhorar a taxa de quadros, em nenhuma ordem em particular:
@@ -102,7 +102,7 @@ Se a [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) não melhoro
 * Realize uma [Instalação Limpa](#clean-installation) dos arquivos do jogo.
 * Low framerate can also be caused by something going wrong within your application data folder, refer to [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 * Disable Counters+ counters like score counter and swing speed as they can be expensive.
-* HTTPStatus or DataPuller can cause lag spikes. Teste sem esse mod para ver se os lag spikes vão embora.
+* HTTPStatus and DataPuller can cause lag spikes. Teste sem esse mod para ver se os lag spikes vão embora.
 
 VR é muito intenso em CPU, especialmente se você adicionar mods. Se você está com dificuldades para executar o jogo com os mods que você quer, considere atualizar seu hardware. Note que o Beat Saber não utiliza a GPU muito pois visualmente é um jogo simples.
 

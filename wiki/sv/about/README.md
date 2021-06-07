@@ -26,7 +26,7 @@ Från sablar till block har modeller alltid varit en populär aspekt av ett modd
 ### Mappare
 Var och en av dina favoritbanor är noggrant utformad och testad under många timmar av en begåvad mappare. Vi hade mer än gärna tagit med dem här, men det finns så OTROLIGT många. Om du gillar någons bana, ge dem gärna en tumme upp i spelet, skriv en recension på [BeastSaber](https://bsaber.com), eller berätta för dem personligen! Det uppskattar de verkligen.
 
-> Det finns dessutom en discordserver som styrs av gemenskap där man kan få direktkontakt med mappare eller konstnärer om du vill beställa något. Vi uppmuntrar dig att nå ut på [Beat Saber Commissions-servern.](https://discord.gg/4RbcH5G)
+> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
 
 ### [Medverkande av mappningsresurser](/mapping/mapping-credits.md)
 En grupp erfarna mappare som tog sig tid att skriva ner och dela med sig av sina kunskaper för att hjälpa andra att komma igång eller bli bättre. Check out their maps and consider supporting them!

@@ -26,7 +26,7 @@ From sabers to notes, custom models have always been a popular aspect of modded 
 ### Mappers
 Hver af dine yndlings baner er omhyggeligt udformet og testet over mange timer af en talentfuld mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! De vil virkelig sætte pris på det.
 
-> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. Vi opfordrer dig til at række ud i [Beat Saber Commissions-serveren.](https://discord.gg/4RbcH5G)
+> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
 En gruppe af erfarne mappers der har taget sig tiden til at nedskrive og dele deres viden for at hjælpe andre med at komme i gang eller forbedre sig. Check out their maps and consider supporting them!
