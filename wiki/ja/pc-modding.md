@@ -20,10 +20,11 @@ Modに関連する問題でゲーム開発者を非難しないでください�
 
 もしインストールしたModが悪意のあるものかどうかわからない場合は、***私たちのディスコードで誰かに聞いてみてください*** :::
 
-Beat Saberはカスタム曲をネイティブにサポートしているので、カスタム曲をお探しの場合は、多くのModは必要ありません! `SongCore` をインストールするのが賢明なアイデアです。 このModはベースゲームの機能を拡張し、ロード時間を改善し、ゲーム内ダウンローダーやリーダーボード、プレイリストのような他のMODと連携します。
+Beat Saberはカスタム曲をサポートしているので、カスタム曲をプレイするだけならば必要なModは多くはないです！ `SongCore` をインストールするのが賢明なアイデアです。 このModはベースゲームの機能を拡張し、ロード時間を改善し、ゲーム内ダウンローダーやリーダーボード、プレイリストのような他のMODと連携します。
 
-::: warning このガイドはWindowsのPC用のガイドです。  
-クエストをお使いの方は[クエストへのMod](/quest-modding.md)を参照してください。 もしLinuxをお使いの場合は[Linux ページ](/modding/linux.md) もしくは [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme)を参照してください。 :::
+::: warning このガイドはWindows PC用のガイドです。  
+Oculus Questをお使いの方は[Quest用Mod](/quest-modding.md)を参照してください。  
+もしLinuxをお使いの場合は[Linux用Modガイド](/modding/linux.md) もしくは [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme)を参照してください。 :::
 
 問題に遭遇した場合 [サポート ページ](./support) に行き、Discordサーバーで質問する前に何が間違っているのかを確認することができます。 解決法はそのページにある可能性があります！
 

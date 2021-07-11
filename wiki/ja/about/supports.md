@@ -1,5 +1,5 @@
-# Supports
-_The Support role is a symbol of thanks. Thanks for the thousands of messages and hundreds of hours spent helping people sort out their mods, and for for building a knowledge of troubleshooting base through macros and the wiki. We don't typically give this role out, but when we do it's because someone has gone above and beyond for the server._
+# Supports（サポート）
+_「サポート」のロールは感謝のシンボルです。 Modを整理するのを助けるため、 マクロやwikiによるトラブルシューティングの基礎知識を得るためにサポートチャンネルに送信された何千ものメッセージをありがとうございます。 私たちは通常、 このロールを与えませんが、サーバーをこえてより大きな支援をくださった方にこのロールを渡しています。_
 
 ## boulders2000
 > "even though his brain is a mess he knows his stuff (kinda)"

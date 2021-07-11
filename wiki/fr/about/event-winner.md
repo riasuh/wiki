@@ -5,17 +5,17 @@ sidebar: auto
 # Vainqueur des événements
 Vainqueur des dernier événement/concours tenu sur le discord. Suivez `#server-announcements` pour connaître les événements en cours ou ceux à venir !
 
-If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
+Si vous voulez nous voir organiser d'autres évènements plus amusants, pensez à contribuer au niveau "Events" sur le [Patreon BSMG](https://www.patreon.com/beatsabermods) !
 
-## 2021 Battle Royale
-Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
+## Battle Royale 2021
+Aussi connu sous le nom de *The Culling*, cet évènement était une Battle Royale sur le thème de Skyrim. Il a été tenu sur le 1er avril et a duré 5 heures. Avec plus de 100 participants, les nombreuses clés de jeu à la clé ont été généreusement données par Bobbie, Sam et raftario, avec le niveau "Events" de notre Patreon qui aura financé la copie de Skyrim destinée au vainqueur. De plus, pendant la finale streamée de 10 personnes, Zyxi a offert 50 abonnements, ce qui a permis de financer un jeu supplémentaire de son choix pour le vainqueur !
 
 ---
 
-[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+[Annonce des vainqueurs](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
 
-### Finalists
-In no particular order... these people made it to the top 6 and earned themselves the role!
+### Finalistes
+Sans ordre particulier, ces personnes ont atteint le top 6 et ont gagné le rôle !
 
 * DaNike
 * Pink
@@ -27,8 +27,8 @@ In no particular order... these people made it to the top 6 and earned themselve
 ### Battle Master
 GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
 
-### Victory Royale
-The one person who stood above all the rest... Caeden117
+### Victoire Royale
+La personne qui s'est tenue par dessus les autres... Caeden117
 
 ## 2020 Christmas Contest
 The third Holiday/Winter contest, Christmas 2: Electric Padoru.

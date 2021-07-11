@@ -3,34 +3,34 @@ sidebar: auto
 ---
 
 # Exceptions
-Quick explanation on exception errors which usually occur whilst modding the game.  
-Numbered explanations means it could be one of the listed issues.
+Mod開発中に発生する例外エラーについての簡単な説明です。  
+　説明に番号が付いているものは、原因がいくつかある例外エラーである事を意味します。
 
 ## ArgumentException
-Path is a zero-length string, contains only white space, or contains one or more invalid characters as defined by `InvalidPathChars`.
+Pathが、0文字か、半角スペースを含むか、`InvalidPathChars`にて定義されている無効な文字が含まれています。
 
 ## ArgumentNullException
-Path is null.
+Pathがnullとなっています。
 
 ## DirectoryNotFoundException
-The specified path is invalid.
-> Example: It is on an unmapped drive.
+指定されたパスが無効な時に生じます。
+> 例：マウントされていないドライブにある。
 
 ## IOException
 
-1. The specified file is in use.
-2. There is an open handle on the file, and the operating system is Windows XP or earlier. This open handle can result from enumerating directories and files.
+1. 指定されたファイルは使用中です。
+2. ファイルにオープンハンドルがあり、OSがWindowsXP以前の場合に生じます。 このオープンハンドルは、ディレクトリはファイルを列挙する事で生じる事があるようです。(訳注：エラー自体はXP以前特有のものであるため原則として起こり得ないとのこと。)
 
 ## NotSupportedException
-Path is in an invalid format.
+Pathが無効なフォーマットとなっています。
 
 ## PathTooLongException
-The specified path, file name, or both exceed the system-defined maximum length.
+指定されたパス・ファイル名のいずれか、もしくは両方が、システムで定義できる最大文字数を超えています。
 
 ## UnauthorizedAccessException
 
-1. The caller does not have the required permission.  
-   This could mean that a program is also blocking the user from accessing the file, such as `Anti Viruses, and programs that would block suspicious programs/processes/activity` Other causes would be not having rights aka **lacking admin rights and the likes.** i.e your user or pc has insufficient rights to access/write files and data in anyway.
-2. The file is an executable file that is in use.
-3. Path is a directory.
-4. Path specified a read-only file.
+1. 呼び出し側で必要な権限がありません。.  
+   これは、 `アンチウィルスソフトや、ブロッキングソフト`といったユーザがファイル・プログラム・プロセス・アクティビティへアクセスするのをブロックしている可能性があります。また、**管理者権限**といった権限を持っていない可能性もあります。 つまり、ファイル・データへの読み書きについて十分な権限が与えられていない状態です。
+2. ファイルを使用中のexeがあります。
+3. Pathにディレクトリを指定しています。
+4. Pathが読み取り専用のファイルを指定しています。

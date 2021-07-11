@@ -32,7 +32,7 @@ Dr. Leviのビデオは多くのプレイヤーの手首を守ってきました
 
 ![十分なプレイエリアを確保する](~@images/health-and-safety/allow-adequate-room-around-you.png "十分なプレイエリアを確保する")
 
-or contribute to translation effort [here](https://github.com/bsmg/wiki). :::
+::: warning 備考 Beat SaberはNintendo Wiiでは発売されておらず、あくまでもイメージとして当画像を利用しています。 :::
 
 ## TammyMattyからのショートメッセージ
 身体的な怪我のリスクを減らすために、常にBeat Saberをプレイする前と後にストレッチすることを忘れないでください。 以下の点を確認してください。

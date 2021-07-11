@@ -1,5 +1,5 @@
 ---
-description: Installation, Usage, and Creation Guides for Model Mods!
+description: 3DモデルMODのインストール、使用方法、作成ガイドについて記載されています。
 ---
 
 # 3D モデル
@@ -16,7 +16,7 @@ description: Installation, Usage, and Creation Guides for Model Mods!
 ### ModelSaber
 [ModelSaber](https://modelsaber.com/) - PCのカスタムセーバー、アバター、ブロック、およびプラットフォームがダウンロードできます！ プレビューがみれたりOneClick&trade; があったりします。
 
-or contribute to translation effort [here](https://github.com/bsmg/wiki). Please do not reupload any already existing models to the website. :::
+::: tip NOTE 全てのモデルは、サイト掲載前に手動で承認されます。 既存モデルの再アップロードはご遠慮ください。 :::
 
 ### ディスコード
 PCでは[BSMG Discord](https://discord.gg/beatsabermods) の`#pc-models`チャンネル、クエストでは[Qosmetics Discord](https://discord.gg/qosmetics)で精錬されていないモデルも（それでも多くの）見つけることができます。

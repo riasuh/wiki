@@ -43,13 +43,13 @@ Si vous voulez aider à traduire dans votre langue, vous pouvez postuler [ici](h
 * Trolav
   * [Twitter](https://twitter.com/Trolav1)
 
-## Dutch | Nederlands
+## Néerlandais | Nederlands
 
-### Proofreaders
+### Relecteurs
 
 * Eris
 
-### Translators
+### Traducteurs
 
 * boulders2000
 * Jestro

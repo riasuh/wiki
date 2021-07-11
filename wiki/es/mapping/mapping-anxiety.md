@@ -1,31 +1,31 @@
 ---
 sidebar: auto
 tags:
-  - mental health
+  - salud mental
   - beat saber mapping
 description: |
-  Mental health is important!
-  You are not alone in your feelings of imposter syndrome, anxieties around uploading, or trouble coping with harsh criticism. Read more on coping with these feeling here!
+  La salud mental es importante!
+  Tu no estas solo en tus semtimientos o del sindrome del impostor, ansiedades alrededor de subir el mapa, o problemas dejando pasar la critizacion dura. Lee mas en como hacer frente a estos sentimientos aqui!
 ---
 
-# Coping with Mapping Anxiety
-Mapping is a creative artform, and like all the other arts, you put a small piece of yourself into every map. As such, it can be emotionally difficult to receive a lot of downvotes and negative feedback, or even getting no engagement at all. This is especially true for those that are already sensitive by nature, or those that have never put themselves out there before. However, it is important to remember that your maps, and what people think of them, has no bearing on your worth as a person. You’re also not alone in your feelings of imposter syndrome, anxieties around uploading, or trouble coping with harsh criticism. Raising awareness and starting conversations about these feelings in the first step to addressing them.
+# Superar la ansiedad del Mapping
+Mapping es una manera creativa de crear arte, como los otros tipos de arte, pones una pequeña parte de ti en todos los mapas. Como tal, puede ser difícil recibir muchos votos negativos o comentarios negativos, o no conseguir ningún compromiso. Esto es especificamente verdadero para aquellos que son sensibles por naturaleza, o para aquellos que nunca se han puesto alla afuera. Sin embargo, es importante que recuerdes que tus mapas, y lo que la gente piensa de ellos, no tiene nada que ver con tu persona. Tu tampoco estas solo en tus sentimientos de sindrome de impostor, ansiedad alrededor de subir to mapa, o problemas con hacer pasar la critización dura. Aumentando conciencia y empezando conversaciones de estos sentimientos es el primer paso para superarlos.
 
-This page is not a substitute, in any way, for real, professional help. If these sorts of feelings plague you, especially in your day-to-day life, then please consider reaching out to a professional, or someone close to you. There is no shame in needing help; it does not make you weak or needy. It is important to have these sorts of conversations and acknowledge them as very real feelings that anyone can experience, and that sometimes there are greater issues lying beneath the surface.
+Esta pagina no sustituye, de ninguna manera, real, ayuda profesional. Si este tipo de sentimientos te plagan, específicamente en tu dia a dia, entonces por favor considera ponerte en contacto con un profesional o alguien cercano. No hay verguenza en necesitar ayuda, no te hace debil o nececitado. Es importante tener este tipo de conversaciones y reconocerlos como sentimientos verdaderos que cualquiera puede experimentar, y que a veces hay problemas mayores debajo de la superficie.
 
-## Likes and Dislikes
-It is very easy to look at a bunch of numbers, which naturally have a quantitative value, and try and apply them as a way of judging quality. There’s even a public rating system directly attached to BeatSaver for every single map. It can be difficult to look at these and not take them to heart, especially if your map receives a lot of downvotes or very few downloads. However, there are so many factors that can go into these numbers, and it is unfair to you to try and use them to validate your maps, and yourself. If you are feeling anxious over a lot of dislikes or low downloads, consider some of these points:
+## Votos Positivos y Negativos
+Es muy facil mirar a muchos numeros, que naturalmente tienen un valor cuantitativo, y intentar y aplicarlos de una manera para juzgar calidad. Incluso hay un sistema de calificacion directamente conectado a BeatSaver por cada mapa. Puede ser dificil mirar los numeros y no tomarlos en serio, especialmente si tu mapa recive muchos votos negativos o muy pocas descargas. Sin embargo, hay muchos factores que pueden entrar en estos numeros, y es injusto que tu intentes usarlos para validar tus mapas y tu mismo. Si tu te estas sintiendo ansioso con muchos votos negativos o muy pocas descargas considera estos puntos:
 
-* They may have misclicked.
-* They may not like the song.
-* They may have been unhappy they failed.
-* The lights may have been uncomfortable.
-* The song could be very unpopular.
-* Your name might not be very well-known.
-* You posted at a bad time.
-* Your map was buried by other maps very quickly.
+* Pudieron haber picado el boton incorrecto.
+* Puede que no les haya gustado la cancion.
+* Ellos pudieron estar tristes que fallaran.
+* Las luces pudieron ser incomodas.
+* La cancion puede ser muy unpopular.
+* Tu nombre puede que no sea muy conocido.
+* Lo publicaste en el momento incorrecto.
+* Tu mapa fue enterrado entre los otros mapas muy rapido.
 
-Of course, it’s also entirely possible that you made mistakes within your map, or that the player did not agree with your mapping choices. That’s okay. There is always something new to learn, especially in the early stages of your mapping journey. Again, a ‘bad’ map doesn’t reflect on you, not even as a mapper. Everyone learns at different speeds, and everyone has different opinions on what does and doesn’t work. If you notice that you’re getting a lot of negative feedback on your maps, take a step back and consider if you need to go back and work on some of the fundamentals. If you do, that’s also okay. Your ‘bad’ maps will not haunt you or hang over you forever; they are not permanent, and no one will think about them as much as you do.
+Por supuesto, puede er completamente posible que pudiste haber hecho errores en tu mapa, o el jugador no pudo estar de acuerdo con como construiste tu mapa. Esta bien. Siempre hay algo nuevo que aprender, especialmente si estas en la etapa temprana de el aprendizaje del Mapping. De nuevo, un mapa "malo" no se refleja en ti, nisiquiera como un mapper. Todos aprendemos a diferentes velocidades, y todos tenemos diferentes opiniones en que funciona y que no. If you notice that you’re getting a lot of negative feedback on your maps, take a step back and consider if you need to go back and work on some of the fundamentals. If you do, that’s also okay. Your ‘bad’ maps will not haunt you or hang over you forever; they are not permanent, and no one will think about them as much as you do.
 
 If you have controversial mapping opinions, or are mapping primarily for yourself and choose to ignore certain mapping rules, you are more likely to attract negative feedback (although you may also attract a very loyal fanbase that love your specific style!). It’s completely fine to map for yourself and to create what makes you happy, but it can be a trade-off that you must be willing to accept as a mapper. It’s possible that, with time, the community’s opinions will grow to be more aligned with your own, but you cannot count on it. As such, everytime you choose to break a commonly accepted mapping rule, consider whether or not you’re okay with your map not being well-received.
 

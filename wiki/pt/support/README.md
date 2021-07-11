@@ -14,7 +14,7 @@ sidebar: auto
 5. [Ainda tens problemas](#_5-still-having-issues)
 
 ## 0. Atualizações
-After an update, the BSMG discord `#modding-announcements` channel should have the most up to date information on the status of mods. As seguintes são instruções mais pormenorizadas do procedimento mais comum.
+Após uma atualização, o canal no Discord do BSMG `#modding-announcements` deverá ter as informações mais atualizadas sobre o estado dos mods. As seguintes são instruções mais pormenorizadas do procedimento mais comum.
 
 ### Uma atualização desativou os meus mods
 **Executa o jogo uma vez** na nova atualização. Em seguida, reinstala seus mods utilizando um instalador linkado no [guia de iniciantes](/beginners-guide), preferencialmente o Mod Assistant.
@@ -26,7 +26,7 @@ After an update, the BSMG discord `#modding-announcements` channel should have t
 #### 1.1 Nenhum mod aparece em uma nova cópia do jogo
 Primeiro, certifique-se de que o seguinte está certo:
 
-* **Você executou o jogo uma vez antes de instalar os mods**. BSIPA remove todos os mods na primeira execução de uma nova atualização para impedir que mods antigos quebrados carreguem em uma nova versão. Reinstale o mods novamente se esse for o caso.
+* **Você executou o jogo uma vez antes de instalar os mods**. BSIPA remove todos os mods na primeira execução de uma nova atualização para impedir que mods antigos quebrados carreguem em uma nova versão. Reinstale os mods novamente se esse for o caso.
 * Steam/Oculus está iniciando o Beat Saber na **mesma instalação** em que os mods estão. *por exemplo, mods estão no disco D mas a Steam está iniciando a partir do disco C.* Defina o local de instalação correto na sua escolha do instalador.
 * Se você instalou os mods manualmente, tenha certeza de ter incluído todos os arquivos de download e colocá-los nas pastas corretas, bem como suas dependências.
 
@@ -35,30 +35,30 @@ Se os detalhes da seção 1.1 acima estiverem corretos, tente as soluções abai
 
 ##### Solução 1
 
-* Update BSIPA to the latest version (in Mod Assistant or manually)
-* Para sua pasta do Beat Saber
+* Atualize o BSIPA para a versão mais recente (no Mod Assistant ou manualmente)
+* Entre na sua pasta Beat Saber
 * Execute o `IPA.exe`
 
-##### Solution 2 (Steam Only)
+##### Solução 2 (Apenas Steam)
 
-* [Verify your game files](#verify-game-files-for-steam)
+* [Verifique os seus arquivos do jogo](#verify-game-files-for-steam)
 * Atualize o BSIPA para a versão mais recente
-* Para sua pasta do Beat Saber
+* Entre na sua pasta Beat Saber
 * Execute o `IPA.exe`
 
 ##### Solução 3
 
-* Para sua pasta do Beat Saber
+* Entre na sua pasta Beat Saber
 * Faça um backup da pasta `UserData` (opcional)
 * Exclua a pasta UserData
 
-::: warning This will reset all mod settings! :::
+::: warning Isto irá redefinir todas as configurações de mods! :::
 
 ##### Solução 4
 
 * Realize uma [Instalação Limpa](#clean-installation)
 
-#### 1.2 Mod Assistant doesn't seem to be installing any mods
+#### 1.2 O Mod Assistant não parece estar instalando nenhum mod
 Os instaladores baixam mods em `Beat Saber/IPA/Pending`, o BSIPA move esses arquivos para a pasta raiz quando você iniciar o jogo. Se a pasta de Plugins do seu jogo ainda estiver vazia depois disso, execute o `IPA.exe` novamente e certifique-se de que nada está impedindo que ele seja executado, por exemplo, `Antivírus, permissões de admin, etc.`
 
 ## 2. Problemas no jogo após instalar mods
@@ -87,7 +87,7 @@ Consulte o Instalação Limpa Parece que isto acontece quando atualiza o Beat Sa
 #### 2.3 O jogo laga de forma insuportável após instalar mods
 Se o jogo fica lagando tanto que você mal consegue clicar no botão `Continue` na tela de Health& Safety, então verifique os arquivos do jogo se você tiver o jogo no Steam, ou reinstale o jogo na Oculus Home. Faça o mesmo se não iniciar e não mostrar mensagens de erro ao tentar iniciar o jogo.
 
-If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
+Se isso não resolveu o problema, verifique a seção [2.4 Melhorando framerate](#_2-4-improving-framerate)
 
 #### 2.4 - Melhorando o Framerate
 Se a [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) não melhorou seus fps, então seu PC pode estar simplesmente tendo dificuldade para acompanhar o estresse causado pelos mods. Aqui estão algumas coisas que você pode fazer para melhorar a taxa de quadros, em nenhuma ordem em particular:

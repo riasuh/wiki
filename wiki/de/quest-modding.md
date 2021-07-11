@@ -17,9 +17,9 @@ sidebar: auto
 
 Bitte greife die Entwickler im Bezug mit Problemen bei Mods nicht an. Modder und Entwickler sind zwei verschiedene Gruppen. Sei kein Trottel. :::
 
-:::warning Ich habe ein Video Tutorial angeschaut, aber es hägt/hat nicht funktioniert. Was bedeutet das? Wir, die BSMG raten **strikt** von Video Tutorials für's Modding ab. Often, we find that they are either outdated or contain incomplete, erroneous, or straight up incorrect information.
+:::warning Ich habe ein Video Tutorial angeschaut, aber es hägt/hat nicht funktioniert. Was bedeutet das? Wir, die BSMG raten **strikt** von Video Tutorials für's Modding ab. Meistens ist es so, dass diese veraltet, unvollständig, irrtümlich oder einfach falsch sind.
 
-Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
+Stattdessen solltest du den schriftlichen Anleitungen hier im Wiki folgen oder Hilfe im [BSMG Discord](https://discord.gg/beatsabermods) suchen. :::
 
 ## Installation
 Currently the only recommended way to install custom songs and mods is BMBF sideloaded with SideQuest using a PC.

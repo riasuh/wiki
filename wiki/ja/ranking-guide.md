@@ -3,108 +3,108 @@ sidebar: auto
 ---
 
 # ランキング & スコアのガイド
-Written by Teknoz
+作成者：Teknoz
 
-*Note for translators: this page was generated automatically, please remove this content before starting translation*
+*文法ミスの修正や、有用な情報を提供頂いたFlee氏に感謝いたします。*
 
-:::warning Disclaimer このガイドはもともと2019年2月7日に作成されたものです。 It has been updated multiple times but some information may be inaccurate or missing. If you notice inaccurate/missing information in this guide, you can submit a pull request on the [BSMG Wiki GitHub](https://github.com/bsmg/wiki#readme) or send me a message on Discord (teknoz#6900). :::
+:::warning Disclaimer このガイドはもともと2019年2月7日に作成されたものです。 数回更新は行われていますが、一部情報が不正確か不足している可能性があります。 このガイドに不正確・不足している情報がある場合は、 [BSMG Wiki GitHub](https://github.com/bsmg/wiki#readme)にプルリクエストを送るか、Discordで私にメッセージを送ってください。(teknoz#6900). :::
 
 ## 正確性とスコア
 
 ### スコア倍率
-外側を円で囲われているスコア倍率は以下のように機能します。 As said in the name, the multiplier has an effect on your score. You start the song with a multiplier of **1x** and the outer ring shows the progression to the next multiplier. When you hit the note that brings you up to the next multiplier, that note is affected by the new multiplier and not the old one. スコア倍率は**1x, 2x, 4x, 8x**があります。 Every time you lose combo which involves missing a note, cutting in the wrong direction or the with the wrong saber, hitting a bomb or going through an obstacle, your multiplier will be cut in half.
+スコア倍率は、外側が円に囲まれている状態で画面に表示されます。 名前の通り、スコア倍率はあなたのスコアに影響します。 倍率は**1x** の状態から始まり、外側の円は次の倍率への進捗が表示されます。 倍率が上がった後にノーツを斬った場合、そのノーツは新しい倍率の影響を受け、古い倍率は影響しなくなります。 スコア倍率は**1x, 2x, 4x, 8x**があります。 ノーツを見逃す・間違った方向や異なる色のセイバーで斬る・セイバーに爆弾が当たる・障害物に頭が当たる、といった場合はコンボを失い、そのたびに倍率は半分になってしまいます。
 
-![Score Multiplier](~@images/ranking-guide/score_multiplier.png "Score Multiplier")
+![スコア倍率](~@images/ranking-guide/score_multiplier.png "スコア倍率")
 
 ### スコア
-Scoring well in Beat Saber isn’t as simple as keeping a high combo and not missing notes, it is also determined by your score per block. ブロックをカットして得られる最大スコアは **115** です(スコア倍率を考慮しないとき)。 While cutting a block, you must achieve the correct swing angles and you must slice it in the center to achieve the best score for that cut.
+Beat Saberで高得点を取るためには、コンボを維持し、ミスをしなければ良いというわけではなく、ノーツごとにスコアが決まります。 ブロックをカットして得られる最大スコアは **115** です(スコア倍率を考慮しないとき)。 ノーツを斬る際、まず正しい角度でセイバーを振る必要があり、最大スコアを出すためには、さらに中央を斬らなければなりません。
 
-Here is how score is calculated for a cut:
-| Component          | Point Value |
-| ------------------ | ----------- |
-| 100° Approach      | 70 Points   |
-| 60° Follow Through | 30 Points   |
-| Cutting in Half    | 15 Points   |
+斬った際のスコアは下記のように計算されます。
+| 構成要素           | 得点     |
+| -------------- | ------ |
+| 100°の角度から振りかぶる | 70ポイント |
+| 60° の角度まで振り抜く  | 30ポイント |
+| ちょうど半分にカット     | 15ポイント |
 
-This shows how important it is to do proper swings to get the right angles and the best score possible. Remember, it’s better to get a bad cut than a miss since a miss counts as **0 points** and breaks your combo.
+この表を見ると、正しい角度で最大スコアを出すためには適切なスイングがいかに重要かが分かるかと思います。 さらに、ノーツを斬らずに見逃した場合のミスは**0点**となり、コンボが途切れてしまうため、見逃しミスより、精度が低いカットの方が良い事を覚えておいてください。
 
 ### Hitboxes（ヒットボックス）
-A common misconception in Beat Saber would be that most people think that the hitboxes for the notes are the blocks themselves. While that used to be the case, the hitboxes have changed quite a few times through the different versions of the game and a lot of the pictures out there are mistaken. Here is an image showing the current hitbox. As you can see, the hitbox is pretty big and extends a lot on the sides and the front. With this information, it is recommended to hit with the tip of the saber to maximize the angle and get the best cut possible.
+BeatSaberでよくある勘違いとしては、音符の判定範囲（Hitboxes）がノーツのブロックそのものだと考えてられている点です。 現状、ゲームのバージョンが更新されるたびに、判定範囲は更新されており、多くの写真や解説は誤っている状態となっています。 現在の判定範囲は、下記のようになっています。 ご覧のように、判定範囲はかなり広くなっており、ノーツ側面と全面に大きく広がっています。 この情報を基に、角度をセイバーの先端で出来る限り角度を付けてノーツを斬ることをお勧めします。（訳注：2019年7月のアップデートにより、現在の判定範囲はキューブの見た目通りになっているようです。）
 
-![Hitboxes](~@images/ranking-guide/hitbox.png "Hitboxes")
+![判定範囲](~@images/ranking-guide/hitbox.png "判定範囲")
 
 ### 達成度
-Accuracy is shown on the left after enabling the **Advanced HUD** option in the Player Settings. Accuracy is shown by a percentage and a letter. While the best "possible" accuracy is **100%**, it is practically impossible since it would require no combo break and 115 cuts on every block. Even then, accuracy is still a great way to measure performance on a map and one’s ability to score properly and avoid missing notes. Accuracy is calculated using information such as the scores per hit, the score multiplier and the amount of miss.
+プレイヤーオプションより、**Advanced HUD**を有効にすると、左側に達成度が表示されるようになります。 達成度は、パーセンテージと文字で表示されます。 最高の「理論値」制度は**100%**ですが、それには、コンボを繋いだ状態かつ、全てのブロックを115が出るようにカットが必要となるため、現実的には不可能です。 それでも、譜面において実力を確認する良い方法として、やはり精度は重要であり、ノーツを外したりしないように適切にスコアを稼ぐ能力も重要となります。 精度は、カット毎のスコア、スコア倍率、ミス数等の情報を使用して計算されます。
 
-Here is the connection between the letters and accuracy percentage:
-| Letter Grade | Accuracy Percentage |
-| ------------ | ------------------- |
-| SS           | 90-99.99%           |
-| S            | 80-89.99%           |
-| A            | 65-79.99%           |
-| B            | 50-64.99%           |
-| C            | 35-49.99%           |
-| D            | 20-34.99%           |
-| E            | < 19.99%            |
+下記で、ランクを示す文字と精度の関係をご紹介します。
+| ランク | 精度(%)     |
+| --- | --------- |
+| SS  | 90-99.99% |
+| S   | 80-89.99% |
+| A   | 65-79.99% |
+| B   | 50-64.99% |
+| C   | 35-49.99% |
+| D   | 20-34.99% |
+| E   | < 19.99%  |
 
 ## ランク付けのながれ
 
 ### Ranked と Unranked
-A lot of people (like I did) will spend dozens and dozens of hours without knowing the difference between ranked and unranked maps when they start. While a map being ranked doesn’t make it better for any reason, it’s great for new players to learn what the difference is, especially if they ever decide to try ranking up.
+(私もそうでしたが) 多くの人は、始めたばかりの時はランク付けされている譜面とされていない譜面の違いが分からずに何十時間もプレイしている場合があります。 譜面がランク付けされたからと言って、その譜面が良くなるわけではありませんが、その違いを知っておくと、新しいプレイヤーにとっては良い事になると思います。
 
-#### Ranked
-A ranked map is assigned a certain difficulty level measured in stars (★) and is worth a certain amount of PP (performance points) for that difficulty. An amount of that PP can be earned by a player for completing the map. More PP will be rewarded for a player that got a higher accuracy. Ranked maps *mostly* respect criteria and are considered as "good maps". They are the only way to climb the [global leaderboard](https://scoresaber.com/global).
+#### ランク付けされている譜面（Ranked）
+ランク付けされている譜面には、星(★) で表される難易度が設定されており、その難易度に応じて、一定のPP(パフォーマンスポイント) が付与されます。 プレイヤーは譜面をクリアする事で、そのPPを獲得できます。 より高い精度でクリアしたプレイヤーは、より多くのPPが獲得できます。 ランク付けされている譜面は、 *ほとんどが* 基準を満たしており、「良い譜面」とみなされています。 ランク付けされた譜面は、[global leaderboard](https://scoresaber.com/global) でランクアップする、その唯一の道となっています。
 
-#### Unranked
-An unranked map is any map that has been published on [BeatSaver](https://beatsaver.com/). It does not need to be actually possible to pass and maps can be made by anybody using the a mapping editor. Also, it is not possible to know the difficulty level of an unranked map except by looking at the difficulty name which is not always an accurate measure of the difficulty since the mapper chooses it.
+#### ランク付けされていない譜面（Unranked）
+ランク付けされていない譜面とは、[BeatSaver](https://beatsaver.com/)等で公開されている譜面を指します。 ランク付けの基準を満たす必要はなく、譜面の作成は編集ソフトを使用する事で誰でも作成可能です。 また、ランク付けされていない譜面の難易度を知るためには、難易度名を見る以外に方法はありません。ランク付けされていない譜面の難易度は、難易度名を見る以外に知ることができませんが、難易度名は譜面製作者が選択するため、必ずしも正確な尺度ではありません。
 
 ### 基準とランキングプロセス
-The ranking team ranks maps through a communal evaluation process. Those maps are then assigned PP based on an algorithm that determines the difficulty once they are ranked based on a variety of factors. PP, which stands for performance points, is given for completing ranked maps based on how high you scored in the level. Full details about the ranking process, criteria, and additional FAQs can be found in the [ScoreSaber Discord server](https://discord.com/invite/WpuDMwU).
+ランキングチームは、共同で評価作業を行い、譜面をランク付けします。 それらの譜面は、さまざまな要素に基づいてランク付けされた後、難易度を決定するアルゴリズムに基づいてPPが割り当てられます。 PPとは、パフォーマンスポイントの略で、ランク付けされた譜面をクリアすると、そのレベルでの得点に応じて与えられます。 ランク譜面についての評価作業、基準、その他のFAQについての詳細は、 [ScoreSaber Discord server](https://discord.com/invite/WpuDMwU)にてご覧いただけます。
 
 ## ランキングシステムの説明 (PPシステム)
-The PP system is probably one of the most misunderstood things when it comes to ranking in the game. Personally, I find it that people misunderstand it so often that I ended up writing a message about it and pinned it on the Beat Saber Canadian Discord so I wouldn’t need to explain it anymore, so here is "all" you need to know about it.
+PPシステムは、恐らくゲーム内のランキングについて、最も誤解されているものの1つでしょう。 個人的には、あまりに多くの人が誤解していると感じたので、これ以上説明しなくても良いように、メッセージを書いてBeat Saber Canadian Discordに貼り付けました。ここでは、知っておくべき「全て」をご紹介します。
 
 ### PPを取得するにはどうすればよいですか?　グローバルランキングはどのよう仕組みですか?
-You can find your global ranking on [ScoreSaber](https://scoresaber.com/global) by typing your username in the search bar. Your ScoreSaber profile is tied to your Steam/Oculus profile on which you play the game.
+[ScoreSaber](https://scoresaber.com/global) の検索バーに、あなたのユーザ名を入力すると、グローバルランキングにあなたが載っていると思います。 あなたのScoreSaberプロフィールは、SteamやOculusでのプレイ実績と連動しています。
 
-As said earlier, you can earn PP (performance points) by playing ranked maps. The amount of PP a map is worth is determined when the map is ran through the PP algorithm. The algorithm is kept secret to prevent mappers from trying to intentionally make songs to only be worth a lot of PP (to avoid breaking the system basically). The exact amount of PP gained by a player is determined by their accuracy on that map and the curve it represents compared to the max amount of PP that map is worth. You can find more information in the [ScoreSaber Discord server](https://discord.com/invite/WpuDMwU).
+上で述べたように、ランク付けされた譜面をプレイすることで、PP(パフォーマンスポイント) を獲得できます。 譜面のPPの価値は、譜面がPPアルゴリズムにかけられた時に決定されます。 このアルゴリズムは、譜面製作者が意図的に高PP曲だけを作るのを防ぐために、秘密となっています。(基本的なシステムを壊さないようにするためです。) プレイヤーが得るPPの正確な量は、その譜面の精度と、最大PP量を比較した際の曲線によって決定されます。 詳細は、 [ScoreSaber Discord server](https://discord.com/invite/WpuDMwU)でご覧いただけます。
 
-### How does the PP system work and what is weighted PP?
-To prevent skilled players from grinding hundreds of easier maps worth less PP to rank up, a curve is applied to your plays. This curve is **0.965^(x-1)** where **x** is the position of that score on your ranked map list which can be found on your profile.
+### PPのシステムはどのように機能して、補正PP（Weighted PP） とは何ですか？
+熟練プレイヤーがランクを上げるために簡単な楽曲を片っ端からプレイするのを防ぐために、あなたのプレイには補正曲線が適用されます。 補正曲線の式は**0.965^(x-1)** で、**x** はプロフィールにあるランク譜面一覧で、現状のスコア位置を表します。
 
-You might have noticed that in your list, there are 2 numbers which end with PP. One of these numbers is **blue** and represents the raw amount of PP you get from that play, before the curve is applied. The second number is gray and in parenthesis showing the actual weighted amount of PP you are getting from that play after the curve is applied.
+楽曲一覧に、PPで終わる2つの数値がある事に気づいたかもしれません。 1つ目の数値は**青色**で表示され、補正曲線が適用される以前の、そのままの楽曲PPが表示されています。 2つ目の数値は括弧内にグレーで表示され、補正曲線適用後のそのプレイから実際に得られる補正PP（Weighted PP） を示しています。
 
-![Raw and Weighted PP](~@images/ranking-guide/raw&weighted_pp.png "Raw & Weighted PP")
+![楽曲PPと補正PP](~@images/ranking-guide/raw&weighted_pp.png "楽曲PPと補正PP")
 
-As said before, the amount of weighted PP you will receive is determined by the curve and the placement of that song in your list. As an example, if your top play is a **260 raw PP** play, you will be rewarded **260 weighted PP** which is a **100%** of the raw PP of that play. If your second top play is **247 raw PP**, you will be rewarded **238 weighted PP** which is the actual amount of PP you get after the curve is applied on it.
+前述したように、あなたが実際に得る補正PPは、補正曲線と曲一覧内での順位によって決定します。 例えば、あなたの曲一覧内で最大のPPが**260PP**だった場合、補正PPは**100%** である**260PP**そのままが付与されます。 そして、2番目に大きいPPが**247PP**だった場合、補正PPとして **238PP**が付与されます。
 
-Here is an example of how the curve works:
-| Raw PP | Weighted PP                  |
-| ------ | ---------------------------- |
-| 260pp  | **260pp** (100% of raw PP)   |
-| 247pp  | **238pp** (96.5% of raw PP)  |
-| 246pp  | **229pp** (93.1% of raw PP)  |
-| 244pp  | **219pp**  (89.9% of raw PP) |
+下記は補正曲線がどのように適用されるかの例です。
+| 楽曲PP  | 補正PP                   |
+| ----- | ---------------------- |
+| 260pp | **260pp** (楽曲PPの100%)  |
+| 247pp | **238pp** (楽曲PPの96.5%) |
+| 246pp | **229pp** (楽曲PPの93.1%) |
+| 244pp | **219pp** (楽曲PPの89.9%) |
 
-### Why is my total PP not increasing as much as the weighted PP I got on my new score?
-A common question people seem to have when they get a new score worth, for example, **100 weighted PP** is why they are not getting **+100 pp** on their total amount of performance points. As explained earlier, since the effect of the curve on your plays increases the further you go down your list, when you make a new play, it takes the place of an older play which makes all the plays that are under go down 1 place in the list. Even if you are getting **+100 pp** from this new play, all your lower plays are weighed down even more then before so you lose a certain amount of PP on them. This is why when getting a new play or making a better play on a map, you will never (one exception) get the same amount of PP on your total amount of performance points.
+### 自分の合計PPに、新しく獲得した補正PPの値がそのまま加算されないのは何故ですか？
+よくある質問として、例えば**100PP**の補正PPを獲得した時に、合計PPにそのまま**+100 pp** と加算されないのはなぜか、というものがあります。 先程説明したように、プレイに対する補正曲線の影響は、楽曲一覧の下の方へ行くほど大きくなり、新しい曲をクリアすると、その曲より補正PPが低い他の曲は一つずつ下へ下がっていきます。 新しい曲で**+100 pp** を手に入れたとしても、他曲の補正が強くなり、一定のPPが失われる事になります。 このため、新しい曲をクリアしたり、譜面を完璧に捌ききったとしても、合計PPでそのままの楽曲PPを得る事は(一部例外を除いて) ありません。
 
-The only exception to this is if you get a better accuracy on your current top play. Since your top play is not affected by the curve, meaning that none of your songs will change places in your list, there will be no lost of PP on your other plays. An example would be if your top play is on Avalanche with **250 pp** and you manage to get a better accuracy and that play is now worth **260 pp**, you will then get **+10 pp** on your total amount of PP.
+唯一の例外としては、現在の最高PP曲の精度が上がった場合です。 最高PPの曲は補正の影響がなく、他の楽曲をプレイしたとしても、PPに補正はかからず減る事がありません。 例えばあなたの最高PP曲が「Avalance」の**250 pp**で、より高精度でプレイ出来て**260 pp**となった場合だと、あなたの合計PPに**+10 pp** がそのまま加算されます。
 
-### How can I improve and get more PP?
-To improve and get a better rank in the global ranking, there are quite a few tools you can use to find ranked songs that fit your skill level. First, it’s always good to go see your own [ScoreSaber](https://scoresaber.com/global) profile to see songs that you haven’t played in a while or that you could improve on and to know what your top scores look like. The [ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) or [ScoreSaber Country Leaderboard](https://github.com/motzel/ScoreSaberCountryLeaderboard#readme) browser extension can extend the functionality of your profile. [BaliBilo's ScoreSaber site](https://scoresaber.balibalo.xyz/peepee) and [Beat Savior](https://www.beatsavior.io/) are external sites that can help you find maps to improve on and keep track of your performance.
+### どうすればもっとPPを増やす事が出来ますか？
+世界ランキングでより高い順位になるために、自分の実力に合ったランク譜面を見つけるためのツールがいくつか存在します。 まず、自分の [ScoreSaber](https://scoresaber.com/global)のプロフィールを確認し、しばらくプレイしていない曲や、もっと上達できそうな曲を確認したり、自分の最高PPの曲を知る事はどんな時でも良い選択です。 また、[ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) や[ScoreSaber Country Leaderboard](https://github.com/motzel/ScoreSaberCountryLeaderboard#readme)といったブラウザ拡張機能は、プロフィールの機能を拡張できます。 [Balibilo's ScoreSaber site](https://scoresaber.balibalo.xyz/peepee) や [Beat Saveria](https://www.beatsavior.io/) は、改善するべき譜面や、パフォーマンスを記録するのに役立つ外部サイトです。
 
-For more precise tips and tricks, go refer to the [Useful Tips & Links](#useful-tips-links) chapter.
+より正確なヒントやコツについては、[お役立ち情報・リンク](#useful-tips-links) を参照してください。
 
-## Modifiers
+## プレイオプション
 
-### Modifiers & Ranked songs
-When it comes to ranked maps, all the **Negative Modifiers** such as No Fail apply on the score. This means **Negative Modifiers** can be used on any ranked map but they will obviously penalize your score and reward less PP. **Positive Modifiers** only take effect on two ranked maps as of now; [Overkill mapped by Nuketime](http://scoresaber.com/leaderboard/87194) and [Overkill mapped by Kry](http://scoresaber.com/leaderboard/86492). They are used to test the effects of **Positive Modifiers** on ranked maps and to find a way to integrate them on all the other ranked maps. You can obviously play any other map (including ranked ones) and the modifiers will all work but they will only increase your score and PP on the two versions of Overkill. The modifiers used on any score on the leaderboards can be seen to the right of the score.
+### プレイオプションとランク譜面
+ランク譜面は、"No Fail"といった全ての**ネガティブオプション** がスコアに反映されます。 This means **Negative Modifiers** can be used on any ranked map but they will obviously penalize your score and reward less PP. **Positive Modifiers** only take effect on two ranked maps as of now; [Overkill mapped by Nuketime](http://scoresaber.com/leaderboard/87194) and [Overkill mapped by Kry](http://scoresaber.com/leaderboard/86492). They are used to test the effects of **Positive Modifiers** on ranked maps and to find a way to integrate them on all the other ranked maps. You can obviously play any other map (including ranked ones) and the modifiers will all work but they will only increase your score and PP on the two versions of Overkill. The modifiers used on any score on the leaderboards can be seen to the right of the score.
 
 With this said, here is a list of all the modifiers in the game, their effects on score and how they affect gameplay:
 
 <!-- markdownlint-disable MD013 -->
-| Modifier                    | Description                                                                                                                                                                       |
+| オプション                       | 効果/内容                                                                                                                                                                             |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | No Fail (0.00/-0.50)        | Acts as a safety net letting you continue playing if you fail. As of version 1.13.2, this modifier applies the score penalty only if you lose all of your health during the song. |
 | No Obstacles (-0.05)        | Removes all of the obstacles (walls) from the map.                                                                                                                                |
@@ -125,40 +125,40 @@ An alternative grip can be an adjustment of the default saber angles, an alterna
 ### List of Grips
 Refer to the Grips section of [Grips And Tricks](./grips-and-tricks.md) for some examples of commonly used grips used in the community.
 
-## Useful Tips & Links
+## お役立ち情報・リンク
 
-### Tips & tricks
-After all this time playing Beat Saber, I’ve hit many walls. Hitting a wall can be really annoying since it can take time to figure out what to do to keep improving. Here is a small list of tips to improve as a player.
+### ヒント・コツ
+BeatSaberをプレイしていて、私は多くの壁にぶつかりました。 壁にぶつかる事は、上達のために何をしたら良いのかを考え把握するのに時間がかかる事もあり、とても悩ましい問題です。 ここでは、プレイヤーとして上達するためのヒントをいくつかご紹介します。
 
-#### Challenge yourself
-While it sounds obvious, many players never try to improve and play harder maps and simply play the same maps over and over again. Extend your song list and push yourself to learn the things you are the worst at.
+#### 自分自身に挑戦しよう
+当たり前と思うかもしれませんが、多くのプレイヤーは上達しようと難しいマップをプレイせず、同じマップを繰り返しプレイしています。 まず、曲を増やしていき、自分が一番苦手なものを学習し自分を追い込んでいきましょう。
 
-#### Play more
-You don't get better at playing an instrument without a lot of experience. The same goes for Beat Saber - simply playing more will improve pattern recognition, condition your body, and build muscle memory.
+#### もっとプレイしていこう
+楽器の演奏、というのは多くの経験を積まないと上達しません。 BeatSaberも同じ事が言え、たくさんプレイする事で、パターンの認識力が上がり、体も鍛えられ、筋肉にも覚えさせる事が出来ます。
 
-#### Evaluate your own gameplay
-Recording yourself is great to see where you could improve, whichever it’s only your gameplay or it is with a webcam. Analyzing yourself play can be really useful to see your common mistakes. You can also watch your own replays by clicking the info icon next to your score in the leaderboard, then the button in the top right corner of the info card.
+#### 自分のプレイを評価してみよう
+Webカメラや、画面を録画するといった方法で、自分のプレイを記録する事は、改善点を確認するのにとても有効です。 自分のプレイを分析する事で、自分のよくあるミスを知ることが出来ます。 また、リーダーボードにある自分のスコアの横にあるボタンをクリックすると、自分のリプレイを見ることが出来ます。
 
-Note: Quest currently requires an additional mod to record and watch replays.
+注意：Quest版で、リプレイを録画・視聴するためには、現状MODが必要となります。
 
-#### Watch better players play and ask them tips
-If you have an opportunity, try to watch better players and use some of their techniques to improve. Copying everything about a pro player won’t make you one but can surely help you improve. Watch their replays and compare their movements to your own. Also if you ever have the opportunity, always ask for tips (just don’t be annoying or disrespectful).
+#### 上手い人のプレーからヒントを貰おう
+機会があれば、上手い人のプレーを見て、そのテクニックを参考にしてみましょう。 プロ選手の動きを全てコピーしてもプロになれるわけではありませんが、上達には必ず役立ちます。 彼らのリプレイを見て、自分の動きと比較してみてください。 そして、機会があるのなら、ヒントを求めてみてください。(迷惑にならない程度に)
 
-#### Don’t overthink it
-If you can’t finish a map or can’t achieve a higher score, don’t overthink it. I made the mistake of getting angry over this way too many times and it will create a mental wall. Simply play another song and come back to it another day.
+#### 深く考えないようにしよう
+マップをクリアできなかったり、スコアが出なかったとしても、深く考えすぎない方が良いです。 私はこれで何回も失敗してしまいましたが、怒りを感じると知らず知らずのうちに心に壁を作ってしまいます。 別の曲をプレイし、別の日にまた戻ってくれば良いのです。
 
-#### Practice hard patterns
-If you are struggling with a section of a map, slow it down with the Slower Song modifier or decrease the speed in practice mode.
+#### 難しいパターンを練習しよう
+譜面の一部に苦戦している場合は、Slower Songオプションや練習モードで楽曲の速度を下げてみましょう。
 
-#### BSRA
-Check out Cube Community's [Beat Saber Replay Analysis playlist](https://www.youtube.com/watch?v=rxf68rH4S20&list=PLwx5EB8PdMNdElyEBfO7VktSWSNZukfqP). This series help viewers understand how top Beat Saber plays are made and how they can improve.
+#### BSRAを見てみよう
+Cube Communityチャンネルの[Beat Saber Replay Analysis playlist](https://www.youtube.com/watch?v=rxf68rH4S20&list=PLwx5EB8PdMNdElyEBfO7VktSWSNZukfqP)を見てみましょう。 このシリーズは、BeatSaberのトッププレイがどのようにして作られるのかや、どのように改善できるのかを理解するのに役立ちます。
 
-#### Have fun
-At the end of the day, this is a game. The important part is that you have fun and enjoy playing it. If you hate playing this "one ranked map that sucks but is worth so much PP", then simply don’t play it. Don’t try to force yourself to play songs you dislike and play however you want. It’s when you have fun that you’ll see the time fly by and you’ll improve the most. If you don’t care about rank, it’s all good, just have fun 🙂
+#### 楽しもう
+最後となりますが、これはあくまでもゲームです。 重要なのは、プレイを楽しむという事です。 もし、「楽しくないが高PPが獲得できるランク譜面」をプレイするのが嫌ならば、単純にプレイをしなければ良いのです。 嫌いな曲を無理にプレイしようとせずに、自分のやりたいようにプレイをすれば良いのです。 楽しんでいる時こそ、時間はあっという間に過ぎていき、結果的にそれが一番上達への近道になるのではないのでしょうか。 あまりランク譜面に対して気負わずに、楽しんでプレイしていきましょう 🙂
 
-### Links
+### リンク集
 
-* [ScoreSaber](http://scoresaber.com/) Official website with the leaderboards for all the maps and the global ranking leaderboard
-* [ScoreSaber Discord](https://discordapp.com/invite/WpuDMwU) Official ScoreSaber Discord to get informed about maps getting ranked, criteria, etc
-* [BaliBilo's ScoreSaber Site](https://scoresaber.balibalo.xyz/peepee) Get play suggestions based on your scores to improve your global rank
-* [Beat Savior](https://www.beatsavior.io/) Track your ranked stats and performance
+* [ScoreSaber](http://scoresaber.com/) 全てのマップと、世界ランキングのリーダーボードがあります。
+* [ScoreSaber Discord](https://discordapp.com/invite/WpuDMwU) ScoreSaber公式Discordでは、ランキング入りしたマップや、基準といった情報を見る事が出来ます。
+* [BaliBilo's ScoreSaber Site](https://scoresaber.balibalo.xyz/peepee) あなたのスコアに応じて、グローバルランキングを上げるための提案をします。
+* [Beat Savior](https://www.beatsavior.io/) あなたのランク情報や、パフォーマンスを追跡します。

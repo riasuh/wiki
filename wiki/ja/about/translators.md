@@ -5,7 +5,7 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 
 ## フランス語 - Français
 
-### 公正
+### 校正
 
 * Awagi
 * Jeremiidesu

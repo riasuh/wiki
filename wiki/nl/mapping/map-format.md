@@ -567,9 +567,9 @@ Een geheel getal dat aangeeft welk soort evenement dit object vertegenwoordigt.
 |   `3`   | Bepaalt de lichten in de `Right Rotating Lasers` groep.                                                                        |
 |   `4`   | Bepaalt de lichten in de `Center Lights` groep.                                                                                |
 |   `5`   | (Eerder niet gebruikt) Bepaalt de boost lichtkleuren (secundaire kleuren).                                                     |
-|   `6`   | (Previously unused) Controls extra left side lights in the Interscope environment.                                             |
-|   `7`   | (Previously unused) Controls extra right side lights in the Interscope environment.                                            |
-|   `8`   | Creates one ring spin in the environment.                                                                                      |
+|   `6`   | (Eerder niet gebruikt) Bestuurd extra lichten aan de linker kant in de interscopre omgeving.                                   |
+|   `7`   | (Eerder niet gebruikt) Bestuurd extra lichten aan de rechter kant in de interscopre omgeving.                                  |
+|   `8`   | Maakt een draai aan een ring in de omgeving.                                                                                   |
 |   `9`   | Bepaalt de zoom voor toepasselijke ringen. Wordt niet beïnvloed door [`_value`](#value).                                       |
 |  `10`   | (Eerder niet gebruikt) Officiële BPM wijzigingen.                                                                              |
 |  `11`   | Ongebruikt.                                                                                                                    |
@@ -577,8 +577,8 @@ Een geheel getal dat aangeeft welk soort evenement dit object vertegenwoordigt.
 |  `13`   | Bepaalt de rotatiesnelheid voor toepasselijke lichten in `Right Rotating Lasers`.                                              |
 |  `14`   | (Eerder niet gebruikt) 360/90 Early rotation. Draait toekomstige objecten, terwijl het tegelijkertijd ook objecten draait.     |
 |  `15`   | (Eerder niet gebruikt) 360/90 Late rotation. Draait toekomstige objecten, terwijl het tegelijkertijd ook objecten niet draait. |
-|  `16`   | Lowers car hydraulics in the Interscope environment.                                                                           |
-|  `17`   | Raises car hydraulics in the Interscope environment.                                                                           |
+|  `16`   | Verlaagt de auto's in de interscore omgeving.                                                                                  |
+|  `17`   | Verhoogt de auto's in de interscore omgeving.                                                                                  |
 
 
 :::danger Gewoon omdat er een evenement type is dat staat aangegeven als ongebruikt, betekent *niet* dat je vrij bent om deze te gebruiken!
@@ -623,39 +623,39 @@ Het standaardgedrag is het regelen van de helderheid en kleur van de lichten, en
 
 ##### Rings besturen
 
-When the event is used to control ring zoom, the `_value` of the event does nothing.
+Wanneer het evenement wordt gebruikt om de ring zoom te besturen, doet de `_value` van het evenement niets.
 
-When the event is used to control ring spin, the `_value` only affects cars in the Interscope environment and does nothing in other environments.
-
-
-
-##### Controlling Cars
-
-| `value` | Resultaat                                         |
-|:-------:| ------------------------------------------------- |
-|   `0`   | Affects all the cars. Does not affect hydraulics. |
-|   `1`   | Affects all the cars.                             |
-|   `2`   | Affects the left cars.                            |
-|   `3`   | Affects the right cars.                           |
-|   `4`   | Affects the front-most cars.                      |
-|   `5`   | Affects the front-middle cars.                    |
-|   `6`   | Affects the back-middle cars.                     |
-|   `7`   | Affects the back-most cars.                       |
+Wanneer het evenement wordt gebruikt om de ring spin te besturen, beïnvloed de `_value` waarde alleen maar de auto's in de interscope omgeving en doet verder niets in andere omgevingen.
 
 
 
+##### Auto's besturen
 
-##### Official BPM Changes
+| `waarde` | Resultaat                                                          |
+|:--------:| ------------------------------------------------------------------ |
+|   `0`    | Heeft invloed op alle auto's. Heeft geen invloed op de hydraulica. |
+|   `1`    | Heeft invloed op alle auto's.                                      |
+|   `2`    | Beïnvloedt de linker auto's.                                       |
+|   `3`    | Beïnvloedt de rechter auto's.                                      |
+|   `4`    | Beïnvloedt de voorste auto's.                                      |
+|   `5`    | Beïnvloedt de auto's die vooraan in het midden staan.              |
+|   `6`    | Beïnvloedt de auto's die achterin in het midden staan.             |
+|   `7`    | Beïnvloedt de achterste auto's.                                    |
 
-When the event is used to control the BPM, the `_value` represents the new BPM.
 
-The new BPM does not shift internal [`_time`](#time-2) values for future objects. Instead, it essentially recalculates internal game values (Such as Half Jump Duration and Jump Distance) to match the effect of playing the map at the new BPM.
 
-One caveat to this is that the `_value` must *always* be an integer, and does not support floating point numbers (No decimals).
 
-:::warning As of Beat Saber `1.10.0`, Official BPM Changes are broken, and produce unwanted effects when used in a level.
+##### Officiële BPM wijzigingen
 
-If you absolutely want to work around this, you must create a new BPM Change event so that:
+Wanneer het evenement wordt gebruikt om de BPM te besturen, representeert `_value` de nieuwe BPM.
+
+De nieuwe BPM verplaatst de interne [`_time`](#time-2) waardes voor toekomstige objecten niet. In plaats daarvan berekent het de interne game waarden (zoals Half Jump Duration en Jump Distance) opnieuw om het effect van het spelen van het level op de nieuwe BPM te verbeteren.
+
+Een nadeel hiervan is dat `_value` *altijd* een heel getal moet zijn, en het ondersteund geen floating point nummers (geen decimalen).
+
+:::warning Sinds Beat Saber `1.10.0` zijn officiële BPM wijzigingen kapot en hebben ongewenste effecten wanneer deze gebruikt worden in een level.
+
+Als je hier absoluut omheen wilt werken, moet je een new BPM change evenement maken, zodat:
 
 1. Dit nieuwe evenement *moet* exact dezelfde [_time</code>](#time-2) waarde hebben als de BPM change evenement dat je correct wilt laten starten.
 2. Dit nieuwe evenement *moet* exact dezelfde `_value` als de vorige BPM change hebben, of de [`_beatsPerMinute`](#beatsperminute) gedefinieerd in [`Info.dat`](#info-dat).
@@ -664,40 +664,40 @@ If you absolutely want to work around this, you must create a new BPM Change eve
 
 
 
-##### Controlling Laser Rotation Speed
+##### Laser Rotation Speed besturen
 
-When the event is used to control laser speed for a group of lights, the `_value` is used as a multiplier to their base rotational velocity.
+Wanneer het evenement dat gebruikt word om laser speed te besturen op een groep lichten, word de `_value` gebruikt als vermenigvuldigingsfactor van hun basis snelheid.
 
-If `_value` is `0`, the random rotation offset for each laser will also be reset, causing all rotating lasers to line up perfectly.
+Als `_value` `0` is, wordt de willekeurige rotatie offset voor elke laser ook gereset, wat er voor zorgt alle roterende lasers perfect in elkaar zitten.
 
 
 
-##### Controlling 360/90 Rotation
+##### 360/90 rotatie besturen
 
-When the event is used to control rotation in a 360/90 degree level, the `_value` is used to add rotation equal to the following table:
+Wanneer het evenement dat gebruikt word rotatie in een 360/90 graden level te besturen, word de `_value` gebruikt om rotatie toe te voegen wat gelijk staat aan de volgende tabel:
 
-| `_value` | Result                      |
-|:--------:| --------------------------- |
-|   `0`    | 60 Degrees Counterclockwise |
-|   `1`    | 45 Degrees Counterclockwise |
-|   `2`    | 30 Degrees Counterclockwise |
-|   `3`    | 15 Degrees Counterclockwise |
-|   `4`    | 15 Degrees Clockwise        |
-|   `5`    | 30 Degrees Clockwise        |
-|   `6`    | 45 Degrees Clockwise        |
-|   `7`    | 60 Degrees Clockwise        |
+| `_value` | Resultaat           |
+|:--------:| ------------------- |
+|   `0`    | 60 graden linksom.  |
+|   `1`    | 45 graden linksom.  |
+|   `2`    | 30 graden linksom.  |
+|   `3`    | 15 graden linksom.  |
+|   `4`    | 15 graden rechtsom. |
+|   `5`    | 30 graden rechtsom. |
+|   `6`    | 45 graden rechtsom. |
+|   `7`    | 60 graden rechtsom. |
 
 
 
 
 #### _customData
 
-This is an optional field that contains data unrelated to the official Beat Saber level format. If no custom data exists, this object should be removed entirely.
+Dit is een optioneel veld dat gegevens bevat die niet gerelateerd zijn aan het officiële Beat Saber level formaat. Als er geen custom data is, dan moet dit object volledig verwijderd worden.
 
-The exact specifics of what goes in `_customData` is entirely dependent on community-created content that needs them. As such, we cannot list all `_customData` fields here. You will have to do your own searching throughout the Beat Saber community to find map editors, tools, or mods that use this `_customData` object.
+De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan de content dat gemaakt is door de community die het nodig heeft. Daarom kunnen we hier niet alle `_customData` velden vermelden. Je moet je eigen onderzoek doen in de Beat Saber community om level editors, programma's of mods te vinden die dit `_customData` object gebruiken.
 
 
 
 ## Bijdragen
 
-The content on this page was authored by [Caeden117](./mapping-credits.md#caeden117).
+De inhoud van deze pagina is geschreven door [Caeden117](./mapping-credits.md#caeden117).

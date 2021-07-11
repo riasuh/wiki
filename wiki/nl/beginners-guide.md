@@ -26,10 +26,10 @@ Hardware waarbij dit geld:
 * Oculus Quest/Quest 2.
 
 ## Content maken
-Is één van je favoriete nummers niet beschikbaar? Heb je een idee voor een mod dat je wil maken? Wil je een custom model maken om in het spel te gebruiken? You can make it happen in one of two ways.
+Is één van je favoriete nummers niet beschikbaar? Heb je een idee voor een mod dat je wil maken? Wil je een custom model maken om in het spel te gebruiken? Dit kan je op twee manieren laten gebeuren.
 
-* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
-* Learn how to make it yourself using the resources below!
+* Betaal iemand in de community om het voor jou te doen in de [Commissions Discord](https://discord.gg/e4f3WBBVnr).
+* Leer hoe je het zelf kan maken met één van de onderstaande gidsen!
 
 ### Het maken van levels
 Leer hoe je je eigen level kan maken door onze [mapping](./mapping/) gids te volgen!
@@ -40,8 +40,8 @@ Begin met het maken van mods voor het spel door onze [mod creatie](./modding/) g
 ### 3D modellen maken
 Leer hoe je 3D-modellen voor het spel kan maken!
 
-* [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
-* **Walls** No guide is available at this time, but one is being worked on.
+* [Sabers.](./models/sabers-guide.md)
+* [Avatars.](./models/avatars-guide.md)
+* [Platformen.](./models/platforms-guide.md)
+* [Blokken.](./models/notes-guide.md)
+* **Muren** Er is op dit moment geen gids voor beschikbaar, maar er wordt aan gewerkt.

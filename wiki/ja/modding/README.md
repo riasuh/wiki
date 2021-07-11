@@ -17,17 +17,17 @@ Unityやそのほか関連するツールを以下の[リンク](#other-links)�
 Modの導入とデバッグをより簡単にする便利な引数を設定します。
 
 <!-- markdownlint-disable MD013 -->
-| 引数&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 説明                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `--verbose`                                                                      | Enables the output log window for IPA. This will show the debug console that mods use.                                                                                                                                |
-| `fpfc`                                                                           | "First Person Flying Controller"<br /><br />This allows you to use WASD and the mouse to navigate around the menu in game. This makes testing much easier, because you don't have to put on your headset! |
-| `-vrmode oculus`                                                                 | If you are running Beat Saber through Steam, this allows you to play the game on an Oculus headset.                                                                                                                   |
+| 引数&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 説明                                                                                                                                             |
+| -------------------------------------------------------------------------------- |:---------------------------------------------------------------------------------------------------------------------------------------------- |
+| `--verbose`                                                                      | IPAのログ出力ウィンドウを有効にします。 ここには、Modのデバッグコンソールが表示されます。                                                                                               |
+| `fpfc`                                                                           | "First Person Flying Controller（一人称でのコントローラ）"<br /><br />これにより、ゲーム内でWASDとマウスを使用してメニューを操作できます。 ヘッドセットを装着しなくても良くなるため、テストがとても簡単になります！ |
+| `-vrmode oculus`                                                                 | BeatSaberをSteamで起動している場合、このオプションによってOculusのヘッドセットでゲームがプレイできます。                                                                                 |
 <!-- markdownlint-enable MD013 -->
 
-## Other Links
+## その他リンク
 
 * [BeatMods](https://beatmods.com)
-* [BeatMods Approval Guidelines](https://docs.google.com/document/d/15RBVesZdS-U94AvesJ2DJqcnAtgh9E2PZOcbjrQle5Y/edit?usp=sharing)
+* [BeatMod承認ガイドライン（英語）](https://docs.google.com/document/d/15RBVesZdS-U94AvesJ2DJqcnAtgh9E2PZOcbjrQle5Y/edit?usp=sharing)
 * [Unity Scripting API](https://docs.unity3d.com/ScriptReference/index.html)
 * [dnSpy](https://github.com/0xd4d/dnSpy)
 * [Harmony](https://github.com/pardeike/Harmony)

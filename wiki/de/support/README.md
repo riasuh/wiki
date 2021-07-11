@@ -87,7 +87,7 @@ Das scheint beim updaten von Beat Saber zu passieren, während man bereits Mods 
 #### 2.3 Das Spiel stottert unerträglich nach dem installieren von Mods
 Falls das Spiel schlecht läuft, dass man kaum den `Continue` Knopf im Health & Safety Menü klicken kann, dann: Steam: Überprüfe die Spieldateien Oculus: Führe eine Neuinstallation durch Mache das gleiche, falls das Spiel überhaupt nicht startet und keine Fehlermeldung erscheint.
 
-If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
+Wenn damit das Problem nicht gelöst wurde, schaue dir den den Abschnitt [2.4 Framerate verbessern](#_2-4-improving-framerate) an.
 
 #### 2.4 Framerate verbessern
 Falls [2.3](#2-3-Das-Spiel-stottert-unerträglich-nach-der-Installation-von-Mods) deine FPS nicht verbessert hat, dann kann dein PC möglicherweise einfach nicht mit dem Stress, den Mods verursachen zurecht kommen. Hier sind ein paar Dinge, die du tun kannst um deine FPS zu verbessern, in keiner wirklichen Reihenfolge:
@@ -95,7 +95,7 @@ Falls [2.3](#2-3-Das-Spiel-stottert-unerträglich-nach-der-Installation-von-Mods
 * Überprüfe ob NVIDIA GEFORCE EXPERIENCE die Rendering-Skalierung über den Standardwert von 1 gesetzt hat. Möglicherweise hat es dies auf eine höhere Zahl wie 1,4 oder 1,8 gesetzt, was die GPU-Last erheblich erhöht.
 * Verwende einen weniger komplexen Avatar.
 * Die Custom Saber **Plasma Katanas** hat unglaublich viele Effekte und ist bekannt dafür Lags zu verursachen, wenn du Noten verfehlst.
-* Camera2 and CameraPlus can be very taxing, especially if you have multiple cameras or increase the FOV.
+* CameraPlus kann sehr anfordernd sein. Vor allem wenn du mehrere Kameras aktiviert hast und das FOV erhöhst.
 * Stelle die Renderskallierung, Anti-Aliasing, Mirror, Fog etc. in den Grundeinstellungen aus.
 * Für Oculus Rift (CV1) Spieler: Versuche 2 anstatt 3 oder mehr Sensoren zu nutzen.
 * Reduziere deine Gesamtanzahl an Mods und Songs.

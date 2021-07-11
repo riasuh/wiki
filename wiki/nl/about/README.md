@@ -26,7 +26,7 @@ Van sabers tot blokken, andere modellen zijn altijd een populair aspect geweest 
 ### Mappers
 Elk van je favoriete nummers wordt zorgvuldig gemaakt en getest door een getalenteerde mapper. Hoe graag we het ook willen om ze allemaal hier ook te vermelden, zijn er daar alleen vééls te veel van. Als je iemands nummers leuk vindt, geef het dan een duimpje in het spel, laat een recensie achter op [BeastSaber](https://bsaber.com) of vertel het ze persoonlijk! Ze zullen het echt waarderen.
 
-> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
+> Bovendien is er een community discord die er voor staat om mappers/artiesten te verbinden met klanten als je iets wilt laten maken. We moedigen je aan om de verbinding te maken in de [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
 
 ### [Mapping Resources Contributors](/mapping/mapping-credits.md)
 Een groep ervaren mappers die de tijd hebben genomen om hun kennis op te schrijven en te delen om anderen te helpen beginnen of hun nummers te verbeteren. Bekijk hun nummers en overweeg deze mensen te ondersteunen!

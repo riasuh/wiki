@@ -26,10 +26,10 @@ Von Sabern zu Noten, eigene Modelle waren immer ein beliebter Aspekt von gemodde
 ### Mapper
 Jeder deiner Lieblingssongs wird über viele Stunden von einem talentierten Mapper sorgfältig erstellt und getestet. So sehr wir sie auch gerne hier einbeziehen würden, gibt es VIEL zu viele von ihnen um sie hier zu zeigen. Wenn du die Maps von jemandem magst, gib diesen einen Daumen nach oben im Spiel, schreibe ein Review auf [BeastSaber](https://bsaber.com), oder sage es Ihm persönlich! Sie werden es wirklich schätzen.
 
-> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
+> Des Weiteren gibt es einen Community Discord-Server, durch den du dich mit Mappern oder Künstlern in Verbindung setzen kannst, falls du etwas in Auftrag geben möchtest. Wir raten dir, dich dazu im [Beat Saber Commissions Server](https://discord.gg/e4f3WBBVnr) umzuschauen.
 
 ### [Mitwirkende für Mapping-Ressourcen ("Mapping Resources Contributors")](/de/mapping/mapping-credits.md)
-Eine Gruppe erfahrener Mapper, die sich die Zeit genommen haben, ihr Wissen aufzuschreiben und zu veröffentlichen, um anderen dabei zu helfen, anzufangen oder sich zu verbessern. Check out their maps and consider supporting them!
+Eine Gruppe erfahrener Mapper, die sich die Zeit genommen haben, ihr Wissen aufzuschreiben und zu veröffentlichen, um anderen dabei zu helfen, anzufangen oder sich zu verbessern. Schau dir gerne deren Maps an und unterstütze sie!
 
 ### [Übersetzer](./translators.md)
 Die fleißigen Leute, die sich die Zeit genommen haben, den Inhalt des Wiki's in ihre eigenen Sprachen zu übersetzen. Ein herzliches Dankeschön für eure Zeit! Die auf dieser Seite aufgeführten sind für Sprachen, die derzeit auf der Website verfügbar sind.

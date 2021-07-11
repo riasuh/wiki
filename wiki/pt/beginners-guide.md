@@ -26,10 +26,10 @@ Hardware aplicável inclui:
 * Oculus Quest/Quest 2
 
 ## Criando conteúdo
-Uma das tuas músicas favoritas não está disponível? Tens uma ideia de um mod que queres implementar? Queres um modelo personalizado para usar no jogo? You can make it happen in one of two ways.
+Uma das tuas músicas favoritas não está disponível? Tens uma ideia de um mod que queres implementar? Queres um modelo personalizado para usar no jogo? Podes fazer com que isso aconteça de duas maneiras.
 
-* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
-* Learn how to make it yourself using the resources below!
+* Pagar a alguém no [Discord de Comissões](https://discord.gg/e4f3WBBVnr)
+* Aprende como fazê-lo tu mesmo usando os recursos abaixo!
 
 ### Criando Mapas
 Aprende como criar os teus próprios níveis seguindo o nosso guia de [mapping](./mapping/)!
@@ -40,8 +40,8 @@ Começa a criar mods para o jogo seguindo o nosso guia de [criação de mods](./
 ### Criando modelos 3D
 Aprende como criar modelos 3D para o jogo!
 
-* [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
-* **Walls** No guide is available at this time, but one is being worked on.
+* [Sabres](./models/sabers-guide.md)
+* [Avatares](./models/avatars-guide.md)
+* [Plataformas](./models/platforms-guide.md)
+* [Notas](./models/notes-guide.md)
+* **Paredes** Nenhum guia está disponível neste momento, mas um está a ser criado.

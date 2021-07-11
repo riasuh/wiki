@@ -87,7 +87,7 @@ Dit lijkt te gebeuren tijdens het updaten van Beat Saber en het gebruiken van mo
 #### 2.3 Het spel lagged op een ondraaglijke manier na het installeren van mods
 Als het spel zo erg blijft laggen dat je nauwelijks op de `Continue` knop op het Health & Safety scherm kunt klikken, verifieer dan het spel als je het op Steam bezit of herinstalleer het spel als je het op Oculus hebt. Doe hetzelfde als het spel helemaal niet opstart en geen foutmeldingen laat zien bij het starten van het spel.
 
-If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
+Als dat het probleem niet oplost, check dan sectie [2.4 framerate verbeteren](#_2-4-improving-framerate).
 
 #### 2.4 Framerate verbeteren
 Als [2.3](#2-3-het-spel-lagged-op-een-ondraaglijke-manier-na-het-installeren-van-mods) je fps niet verbetert, dan kan het zijn dat je PC misschien gewoon moeite heeft om de stress, die veroorzaakt word door mods, bij te houden. Hier zijn enkele dingen die je kunt doen om de framerate te verbeteren, zonder specifieke volgorde:
@@ -102,7 +102,7 @@ Als [2.3](#2-3-het-spel-lagged-op-een-ondraaglijke-manier-na-het-installeren-van
 * Voer een [Nieuwe Installatie](#nieuwe-installatie) van de spelbestanden uit.
 * Lage framerate kan ook worden veroorzaakt als er iets mis is met je AppData map. Om dit op te lossen, lees dan [Het verwijderen van je Beat Saber AppData map](#het-verwijderen-van-je-bestanden-in-appdata).
 * Zet Counters+ opties zoals score counter en swing speed uit want deze kunnen lag veroorzaken.
-* HTTPStatus and DataPuller can cause lag spikes. Test het spel zonder deze mod om te kijken of het inderdaad hierdoor werd veroorzaakt.
+* HTTPStatus en DataPulller kunnen lag veroorzaken. Test het spel zonder deze mod om te kijken of het inderdaad hierdoor werd veroorzaakt.
 
 VR is zeer CPU intensief, vooral als je mods toevoegt. Als je moeite hebt om het spel te draaien met de mods die je wil gebruiken, overweeg dan om je hardware te upgraden. Beat Saber gebruikt de GPU in mindere mate omdat het visueel gesproken een redelijk simpel spel is.
 

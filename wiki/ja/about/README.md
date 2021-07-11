@@ -26,10 +26,10 @@
 ### Mappers（マップ製作者）
 あなたの好きな譜面は、才能のあるマップ製作者によって時間をかけて慎重に作成され、テストされています。 もしここに彼らを含めたいと思っているのであれば、方法たくさんあります。 誰かの譜面が気に入ったら、ゲーム内もしくは [BeastSaber](https://bsaber.com)で評価するか、個人的に伝えてあげてください！ 彼らはとても感謝すると思います。
 
-> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
+> さらに、コミュニティが運営するDiscordでは、マップ製作者/アーティストと依頼人を繋ぐことが出来ます。 ぜひ、[Beat Saber Commissions server](https://discord.gg/e4f3WBBVnr)で声をかけてみてください。
 
 ### [Mapping Resources Contributors（譜面作成の知識を提供してくれた方々）](/mapping/mapping-credits.md)
-この経験豊富なマッパーのグループは、他の人が譜面作成を始めたり、改善するために自分の知識を共有してくださいました。 Check out their maps and consider supporting them!
+この経験豊富なマッパーのグループは、他の人が譜面作成を始めたり、改善するために自分の知識を共有してくださいました。 彼らの譜面をチェックし、サポートの検討をお願いします!
 
 ### [Translators（翻訳）](./translators.md)
 wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割いてくださったことに感謝いたします。 このページに記載されているものは、現在ウェブサイト上で利用可能な言語用です。

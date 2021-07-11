@@ -16,7 +16,7 @@ sidebar: "false"
 ## 0. 更新情報
 アップデート後、BSMGのディスコードチャンネル `#server-announcements` は、Modのステータスに関する最新の情報があります。 以下に、最も一般的な手順の詳細な手順を示します。
 
-### アップデートがModを停止させました。
+### アップデート後、Modが動きません。
 **新しいアップデートで** 一度ゲームを実行します。 次に、Mod アシスタントなど、 [初心者ガイド](/beginners-guide)にリンクされているインストーラを使用して Mod を再インストールします。
 
 ## 1. Modがありませんか？
@@ -87,7 +87,7 @@ Clean Installationを参照してください これはModをインストール�
 #### 2.3 Modをインストールした後、ゲームの音ズレに我慢できない。
 ゲームのラグがひどすぎて、Health & Safetyの画面で `Continue` ボタンをクリックすることができなくなった場合、 Steamでゲームをプレイしている場合はファイルを確認するか、Oculus Homeでゲームを再インストールしてください。 ゲームを起動しようとしたときにエラーメッセージが表示されない場合やゲームが起動されないときは同様に対応します。
 
-If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
+問題が解決しなかった場合は、セクション [2.4 フレームレートの改善](#_2-4-improving-framerate) を確認してください。
 
 #### 2.4 フレームレートの改善
 [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) でFPSが改善しなかった場合、お使いのPCがModによるストレスによって単純に重くなっている可能性があります。 フレームレートを向上させるために、いくつかの方法があります。
@@ -95,14 +95,14 @@ If that didn't solve the issue, then check section [2.4 Improving framerate](#_2
 * NVIDIA GEFORCE EXPERIENCE で Beat Saber のレンダリングスケールがデフォルト設定の1.0を超えていないかを確認します。 GPUの負荷が大幅に増加する1.4または1.8に設定されている可能性があります。
 * あまり複雑でないカスタムアバターを使用します。
 * カスタムセイバー **Plasma Katanas** には多くのカスタムイベントがあり、あなたがミスをしたときににラグが発生することが知られています。
-* Camera2やCameraPlusはとても重たくなりやすいです。特に複数のカメラを表示したり、FOVを大きくすると非常に重たくなりやすいです。
+* Camera2やCameraPlusは非常に負荷がかかります。特に複数のカメラを表示したり、FOVを大きくすると非常に負荷が大きくなります。
 * ゲーム内の設定でレンダリングスケールやアンチエイリアシングをさげ、ミラー、霧の効果などをオフにします。
 * Oculus CV1やRiftプレーヤー: 3+の代わりに2つのセンサーを使用することを検討してください。
 * Modと曲を減らします。
 * [クリーンインストール](#clean-installation)を実行する.
-* 低いフレームレートは、アプリケーションデータフォルダ内で問題が発生する場合もあります。 これを修正するには、 [AppData内のBeatsaberフォルダの削除](#deleting-your-save-in-appdata)を参照してください。
+* フレームレートの低下は、アプリケーションのデータフォルダ内で問題が発生している場合にも起こりえます。 これを修正するには、 [AppData内のBeatsaberフォルダの削除](#deleting-your-save-in-appdata)を参照してください。
 * 重たい原因になりやすいので、score counterやswing speedのようなCountersPlusカウンターを無効にします。
-* HTTPStatus and DataPuller can cause lag spikes. このMODを無効にしてラグが消えるかどうかをテストします。
+* HTTPStatus mod とDataPullerはラグを引き起こす可能性があります。 このMODを無効にしてラグが消えるかどうかをテストします。
 
 VRはCPUに負荷がかかります。特にModを導入すると負荷が大きくなります。 あなたが望み通りのMODでゲームを実行するのに苦労している場合は、ハードウェアのアップグレードを検討してください。 Beat Saberは、視覚的にはかなりシンプルなゲームであるため、GPUをあまり利用していません。
 
@@ -119,9 +119,9 @@ VRはCPUに負荷がかかります。特にModを導入すると負荷が大き
 Mod アシスタントを使用している場合は、Modをクリックし、"Mod Info" ボタンを押します。 [BeatMods](http://beatmods.com)ではMore Infoボタンを押すことで詳細のデータが得られます。
 
 #### 3.3 振動の問題
-Gameplay Modifiers Plusにはコントローラーの振動の有効と無効を切り替える機構がありました。 もし無効にしたModを削除したい場合は手動で書き込む保存ファイルを変更する必要があります。 `%appdata%\..\LocalLow\Hyperbolic Magnetism\Beat Saber\settings.cfg` を開き、 `controllersRumbleEnabled` を `true` に設定します。
+Gameplay Modifiers Plusにはコントローラーの振動有無を切り替える設定項目がありました。 もし無効にしたModを削除したい場合は手動で書き込む保存ファイルを変更する必要があります。 `%appdata%\..\LocalLow\Hyperbolic Magnetism\Beat Saber\settings.cfg` を開き、 `controllersRumbleEnabled` を `true` に設定します。
 
-もしこれらの原因が当てはまらない場合は以下の項目を参照して、当てはまるか確認してください。
+もしこれらの原因が当てはまらない場合は以下の項目を参照してください。
 
 * 振動がとても小さい
 * ノーツを切ったときの振動がない
@@ -148,7 +148,7 @@ Beat SaberがマザーボードのUSBコントローラーを過負荷にして�
 #### 3.6 楽曲が見つかりません
 `Beat Saber/Beat Saber_Data/` にある `CustomLevels`フォルダに曲が入っていることを確認してください。 これは、ゲームが基本的にカスタム曲を読み込むディレクトリです。
 
-**** 古い `Beat Saber/CustomSongs` フォルダに曲をいれないでください。 カスタム 曲の仕様が変更されたため、この場所は非推奨です。 もし古いフォーマットの曲 (`.json`や `.ogg` ファイルではなく`.dat`や `.egg`ファイル)がある場合 `Beat Saber/CustomSongs`フォルダのほうに入れておいてください。 BeatSaverから再度ダウンロードする必要があります。
+**** 古い `Beat Saber/CustomSongs` フォルダに曲をいれないでください。 カスタム曲の仕様が変更されたため、この場所は非推奨です。 もし古いフォーマットの曲 (`.json`や `.ogg` ファイルではなく`.dat`や `.egg`ファイル)がある場合 `Beat Saber/CustomSongs`フォルダのほうに入れておいてください。 BeatSaverから再度ダウンロードする必要があります。
 
 あるいは、代わりに[Song Converter](https://github.com/lolPants/songe-converter)をつかって手動で書き出すことができます。しかしこの方法は自分でプログラムをコンパイルする必要があります。
 
@@ -179,7 +179,7 @@ BeatSaverダウンローダが動作していない原因として次の可能�
 3. Beatsaverのレート制限に達している。もうしばらくおまちください。
 
 ### マルチプレイのエラーコード
-ここには既知のエラーコードのリスト、それらが何を意味し、それらを修正するための対処法です。
+ここでは、既知のエラーコード一覧とその意味、およびそれらを修正するための方法について説明します。
 
 <!-- Disable line length rule because of table -->
 <!-- markdownlint-disable MD013 -->
@@ -192,43 +192,43 @@ BeatSaverダウンローダが動作していない原因として次の可能�
 | CFR-5        | サーバーが存在しません。 接続していたロビーは参加中に閉鎖された可能性があります。                                                                                                                                                                                                                                                                                                        |
 | CFR-6        | サーバーが満員です 別のサーバーを選択してください                                                                                                                                                                                                                                                                                                                        |
 | CFR-7        | サーバーでサポートされていないゲームのバージョンを使用しています。                                                                                                                                                                                                                                                                                                                |
-| CFR-8        | Lobby password is incorrect. Double check you are entering the right password.                                                                                                                                                                                                                                                                   |
-| CFR-9        | The matchmaking servers Beat Games run, which keeps track of open public and private lobbies, is offline. Try again later.                                                                                                                                                                                                                       |
-| CFR-10       | Your session key from Steam or Oculus is not valid. If you are playing on Quest and have modded your game, check out this [FAQ answer](/faq/README.md#does-multiplayer-have-crossplay) to work around this. Otherwise you are on a pirated copy of the game which is not supported.                                                              |
-| CFR-11       | Your internet connection is offline.                                                                                                                                                                                                                                                                                                             |
+| CFR-8        | パスワードが違います 正しいパスワードを入力しているか確認してください。                                                                                                                                                                                                                                                                                                             |
+| CFR-9        | ロビーの接続を追跡するBeat Gamesのサーバがオフラインです。 後でもう一度お試しください。                                                                                                                                                                                                                                                                                                |
+| CFR-10       | SteamまたはOculusのセッションキーが無効です。 QuestでプレイしていてゲームにModを導入している場合は、この [FAQ](/faq/README.md#does-multiplayer-have-crossplay) の回答を確認してください。 それ以外の場合は、サポートされていない海賊版のゲームの可能性があります。                                                                                                                                                                          |
+| CFR-11       | インターネット接続がオフラインです。                                                                                                                                                                                                                                                                                                                               |
 <!-- markdownlint-enable MD013 -->
 
 ## 4. その他のトラブルシューティング
 
 ### ログの読み取り
-If you're on Steam you can go to
-> Beat Saber > Properties > General > Add `--verbose` to the launch options field
+Steamを利用している場合は、
+> Beat Saber > Properties > General > の起動オプションに `--verbose`を追加してください。
 
-If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
+Oculusを使用している場合は、Beat Saber.exeを右クリックしてショートカットを作成してください。 そして次のように編集して最後に"--verbose"を追加します。 例: `C:\Program Files\Oculus\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs
+verboseを追加することで、アバター、セイバー、カスタム曲に関するエラーが表示されるようになるでしょう。
 
-* This may not show 100% of the time for avatars and sabers, and you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
+* しかしこのエラーは完全ではありません。最終的には原因と考えられるModやモデル、曲を一つずつ取り除いて検証していく必要があります。
 
-These messages are also written to `Beat Saber/Logs`.
+エラーメッセージは `Beat Saber/Logs` にも書き込まれます。
 
-A list of common exceptions can be found [here](./exceptions.md).
+一般的な例外のリストは [こちら](./exceptions.md) にあります。
 
-### Verify Game Files For Steam
-To verify integrity of game files follow these steps:
+### Steam用のゲームファイルの確認
+ゲームファイルの整合性を確認するには、以下の手順に従ってください:
 
-1. Make sure SteamVR is closed as it wont let you verify your games otherwise.
-2. Go to your steam library and find Beat Saber
-3. Right click Beat Saber and click on Properties
-4. Go to the "Local Files" tab in properties
-5. Select the "Verify Integrity Of Game Files" option.
-6. Let it finish verifying and downloading any missing files and you should be good to go.
+1. SteamVRが閉じていることを確認してください。
+2. Steamライブラリに行き、Beat Saberを探してください。
+3. Beat Saberを右クリックし、プロパティをクリックしてください
+4. プロパティの「ローカルファイル」タブに移動します
+5. Verify Integrity of Game Fileオプションを選択します。
+6. ファイルが検証され、不足しているファイルがあればどこからインストールできるかが表示されます。
 
-Here is a [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) although it is on the old steam UI, the steps are still the same.
+以下は [ビデオガイド](https://www.youtube.com/watch?v=EBFfT4-ZiIc) です。古いSteamUIですが、 ステップは同じです。
 
-### Clean Installation
+### クリーンインストール
 
-1. (Optional) Back up your downloaded custom content by making a copy of the following folders:
+1. (必要があれば)以下のフォルダのコピーを作成して、ダウンロードしたカスタム コンテンツをバックアップしてください。
 
 * `Beat Saber\Beat Saber_Data\CustomLevels`
 * `Beat Saber\CustomSabers`
@@ -236,47 +236,47 @@ Here is a [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) although it
 * `Beat Saber\CustomNotes`
 * `Beat Saber\CustomAvatars`
 
-2. **Delete the ENTIRE Beat Saber Folder.** This is different from uninstalling the game on steam, as those methods will not remove files that did not come with the game.
+2. **すべてのビートセイバーのファイルを削除する** これはSteamからアンインストールすることとは異なります。アンインストールゲームファイルが取り除かれないことがあります。
 
 > Steam: ``\steamapps\common\Beat Saber\`
   Oculus:``\hyperbolic-magnetism-beat-saber\`
 
-3. Reinstall the game via the Steam or Oculus store
-4. **Before modding, launch the game once**
-5. Run Mod Assistant, install your mods, and boot up the game.
+3. SteamまたはOculusストア経由でゲームを再インストールします
+4. **Modを入れる前に、一度ゲームを起動してください**
+5. Mod アシスタントを実行し、Modをインストールしてゲームを起動します。
 
-(Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
+(必要があれば)以下を参照してください: [AppData内のBeatsaberフォルダの削除](#deleting-your-save-in-appdata)
 
-### Deleting Your Save in AppData
-This will delete your scores and local data, but not your custom leaderboard/ScoreSaber stats. You can find the folder at
+### AppData 内のデータを削除する。
+ローカルに保存されているスコアデータは削除されますが、カスタム曲のScoreSaberに送信されたデータは削除されません。 以下にファイルがあります。
 > `%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
-Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
+上のパスをファイルエクスプローラーから検索して、すべてのファイルを削除してください。
 
-You can also get to this folder by showing hidden items and navigating to your
+次のようにたどることで非表示にされているファイルにも移動できます。
 > Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Deleting this folder in Appdata will also delete your local scores and statistics. :::
+::: warning Appdataでこのフォルダを削除すると、ローカルのスコアデータも削除されます。 :::
 
-#### Desperate Measures
-::: warning Disabling your anti-virus involves security risks, be sure to know what you're doing (i.e don't download or open suspicious files while it's turned off) and don't forget to re-enable it as soon as you finished these steps. :::
+#### 最終手段
+::: warning セキュリティソフトをオフにすることにはリスクが伴います。自身で行うことに伴うリスクを理解してください。 （セキュリティソフトを無効にしている間は信頼できないファイルのダウンロードやインストールを行わず、操作の後には有効に戻してください） :::
 
-* Make sure your current user **is an administrator**
-* Turn your anti-virus **Off** (for the meantime at least)
-* Ensure that you have permission to create folders and edit files within the disk drive/your pc, (from what I heard a windows update recently caused problems for people)
-* Ensure that your drivers are up to date
-* Check that the problem doesn't lie within your headset, or operating system, or your hardware/software
-* Check your internet connection, and that nothing is blocking anything related to beatsaber modding and steam etc.
+* 現在のユーザーが **管理者であることを確認してください**
+* ウイルス対策を**オフ** にします。
+* ディスクドライブ内でファイルの作成、編集を行う権限があることを確認してください。 (最近ウィンドウのアップデートがこの権限の確認が必要になっているみたいです)
+* ドライバが最新であることを確認してください
+* ヘッドセットやOS、ハードウェア/ソフトウェアに問題がないことを確認してください
+* インターネット接続を確認し、BeatSaberのModやSteamに関連する接続がブロックされていないことも確認してください。
 
 ## 5. まだ問題が解決しませんか？
-If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
+このページで問題を解決出来ていない場合は、気軽にdiscordで質問してください! あなたの問題をいち早く解決するために次のようなことをチェックしてみましょう
 
-* Use the correct channels please, `#pc-help` for pc mod support and `#quest-help` for quest mod support. Use `#pc-3d-modeling` and `#quest-3d-modeling` for questions about **making your own avatars, platforms, notes, or sabers**, and `#mapping-discussion` for questions about **making maps.**
-* Be polite and respectful
-* Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple?
+* 正しいチャンネルを使用してください。 PCユーザーのための`#pc-help`とクエストユーザーのための `#quest-help`チャンネルがあります。 **アバター、プラットフォーム、ノーツ作成**に関することは`#pc-3d-modeling`か`#quest-3d-modeling`チャンネルを**譜面作成**にかかわることは`#mapping-discussion`チャンネルでお尋ねください。
+* 礼儀正しく敬意を払って質問しましょう
+* 問題を詳細に説明してください。 「うまくいかなかった」とだけ言うことは簡単ですが、それでは何も進展しません。 なにが動かなかったのか、どのようなことを試したのか。 画面に表示されるメッセージがあったか? 画面全体が明るい紫色に変わりましたか？
 
-::: tip NOTE Those with the `Support` role are volunteers that might choose to help out in their free time. The support role is in recognition of the knowledge and effort they have put forth, but it doesn't necessarily mean that they'll be around to help just because they're online. :::
+::: tip NOTE `Support`の役割を持つ人たちは彼らに時間があるときにサポートをしてくれるボランティアです。 サポートの役割は、彼らの知識と努力がサポートとしてふさわしいものを示すにすぎません。彼らがオンラインだからと言って必ず助けになってくれるとは限りません。 :::
 
 Credit to Saber-Chan for their hard work on this page.

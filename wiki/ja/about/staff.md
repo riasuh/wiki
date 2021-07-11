@@ -1,31 +1,31 @@
 # Staff
-_Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can)._
+_プロジェクトの管理、プラグインの承認、中枢サービスの管理、イベントの調整、そのほか多くの見えないプロジェクトなどたくさんのタスクがあります。 この素晴らしい個人が貢献した膨大な時間がなければ、このコミュニティは存在しないでしょう。 彼らに感謝をしましょう。(そして、可能なら支援をお願いします)_
 
 ## +1 Rabbit
 ::: danger Sorry, this page has not been translated yet, you can either:
 
-**Roles:** Staff, Modder **Contributions:** BS-Viewer, Mapping Tools
+**ロール:** Staff, Modder **主な仕事:** BS-Viewer, Mapping Tools
 
 [GitHub](https://github.com/PlusOneRabbit) | [Twitch](https://www.twitch.tv/plusonerabbit) | [Donate](https://ko-fi.com/plusonerabbit)
 
 ## Bloodcloak
-A mapper that is really into Japanese and EDM music with the occasional K-pop song and loves creating dance style maps. *Totally* hasn't fallen into the vTuber hole.
+日本の曲やEDM、ときどきK-popにはまっているマッパーでダンス譜面を作ることが特に好きです。 *決して*Vtuberの沼に落ちているわけではない
 
-**Roles:** Staff, Mapping Support, Mapper  
-**Contributions:** Wiki Management, Mapping Resources Maintainer
+**ロール:** Staff, Mapping Support, Mapper  
+**主な仕事:** Wiki Management, Mapping Resources Maintainer
 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
 
 ## Bobbie
-Remind him to watch his glucose.
+グルコースを見ると彼を思い出す。
 
-**Roles:** Staff, Modder, 3D Artists, Moderator  
-**Contributions:** Custom Notes, ModelSaber Admin
+**ロール:** Staff, Modder, 3D Artists, Moderator  
+**主な仕事:** Custom Notes, ModelSaber Admin
 
-Make sure he watches his glucose [Important](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Donate](https://ko-fi.com/bobbievr)
+グルコースを見ているか確認してください。 [Important](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Donate](https://ko-fi.com/bobbievr)
 
 ## Lillie
-Makes mods for quest and likes to PP farm in her free time.  
+Quest用のModを作成したり、スキマ時間にPPを稼いだりしています  
 *Lillie not cutest*
 
 **Roles:** Staff, Modder, Moderator  
@@ -34,76 +34,76 @@ Makes mods for quest and likes to PP farm in her free time.
 [GitHub](https://github.com/Rugtveit)
 
 ## lolPants
-One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during their time as Staff, and continues to help out when their services are needed.
+開発者の一人であり靴下好き lolPantsはスタッフの間たくさんのポリシーや手続きの土台を作り上げました。現在も必要であれば手助けをしています。
 
-**Roles:** Modder, Admin (Retired), Staff, Moderator  
-**Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
+**ロール:** Modder, Admin (Retired), Staff, Moderator  
+**主な仕事** CMB, ModSaber, Moderation, BeatSaver Reloaded
 
 [GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [PayPal](https://www.paypal.me/jackbarondev) | [Ko-fi](https://ko-fi.com/lolpants) | [Patreon](https://www.patreon.com/JackBaron) | [Donate](https://monzo.me/jackbaron)
 
 ## Megalon
-Co-creator of the BSMG as well as Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice.
+BSMGとChannel Monitor Botの共同作成者。 彼は創造的なstream overlaysと素晴らしいASMRで知られています。
 
-**Roles:** Admin, Staff, Support, Modder  
-**Contributions:** CMB, BeatMods Approval, Stream Overlays, Moderation, PodCasts, Wiki
+**役割:** Admin, Staff, Support, Modder  
+**主な仕事:** CMB, BeatMods Approval, Stream Overlays, Moderation, PodCasts, Wiki
 
 [GitHub](https://github.com/megalon) | [Twitch](https://twitch.tv/megalonttv) | [Donate](https://ko-fi.com/megalon)
 
 ## Melopod ƸӜƷ
-Likes pies, tartes, and helping people fix their mods!
+パイとタルトとMod修理の手助けが好きです！
 
-**Roles:** Staff, Support, Moderator
+**ロール:** Staff, Support, Moderator
 
 [Twitch](https://www.twitch.tv/mamamelo) | [Donate](https://ko-fi.com/melopod)
 
 ## OrangeW
-The first professional Beat Saber player, representing Team Gravity. Former Admin of the ScoreSaber global leaderboards.
+Team Gravityを代表するBeatSaber最初のプロプレイヤー 元ScoreSaberグローバルリーダーボード管理者。
 
-**Roles:** Staff  
-**Contributions:** ScoreSaber
+**ロール:** Staff  
+**主な仕事:** ScoreSaber
 
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
 
 ## Reaxt
-BSMG server owner and rhythm game fanatic. We wouldn't be here today without this very special boy.
+BSMGサーバーの管理者でありリズムゲーム狂信者。 彼なくして今日の我々は存在しません。
 
-**Roles:** Admin, Staff, Modder  
-**Contributions:** Server Owner, Custom Sabers, PodCasts
+**ロール:** Admin, Staff, Modder  
+**主な仕事:** Server Owner, Custom Sabers, PodCasts
 
 [GitHub](https://github.com/reaxt) | [Twitch](https://twitch.tv/reaxt)
 
 ## Sam
-He's either talking about Steven or being way too patriotic in chat (BS Nordic Admin btw). Don't call him cute, he hates that. He also makes maps, check them out below.
+彼はスティーブンについて話しているか、チャットで愛国心豊かに振舞います(BS Nordicの管理者) 彼をかわいいと呼ばないでください。 彼はそれを嫌います。 マップも作ります。以下のリンクから見てください。
 
-**Roles:** Staff, Moderator, Mapper
+**ロール:** Staff, Moderator, Mapper
 
 [Twitch](https://twitch.tv/justsamuelok) | [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850326)
 
 ## Steven 🎀
-The manager of many, Steven's always around to lend a helping hand as long as you don't mess with the blue haired cute girls.
+Stevenはいつでもあなたの手助けをします。青髪のかわいい女の子をいじめない限りはね。
 
-**Roles:** Admin, Staff, Support, Modder  
-**Contributions:** THE ModelSaber Admin
+**ロール:** Admin, Staff, Support, Modder  
+**主な仕事:** THE ModelSaber Admin
 
 [GitHub](https://github.com/DeadlyKitten) | [Twitch](https://www.twitch.tv/steventhecat)  | [Donate](https://streamlabs.com/steventhecat)
 
 ## Umbranox
-ScoreSaber Supreme Leader, creator of the custom leaderboards/rank system. Always trying to do way too much work with not enough rest. Remember to pat your Umbranox once a day!
+ScoreSaberの最高指導者、カスタムリーダーボード/ランクシステムの作成者。 いつも十分な休みを取らずに多くの仕事をしようとしてしまいます。 毎日1回Umbranoxをパットすることを忘れないでください!
 
-**Roles:** Staff  
-**Contributions:** ScoreSaber
+**ロール:** Staff  
+**主な仕事:** ScoreSaber
 
 [Twitch](https://www.twitch.tv/umbranoxius) | [Twitter](https://twitter.com/Umbranoxus) | [Patreon](https://www.patreon.com/scoresaber)
 
 ## williums
-Project manager, wiki maintainer, bread baker. Despite what everyone says, I like girls.
+プロジェクトマネージャー、wikiのメンテナンスそしてパンを焼くことが好きです。 誰が何と言おうと私は彼女が好きです。
 
-**Roles:** Staff, Support  
-**Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
+**ロール:** Staff, Support  
+**主な仕事:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
 
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 
-## Assistant (Retired)
+## Assistant (引退)
 Overseeer of core services, including BeatSaver and BeatMods servers. The original Support and creator of the custom avatar guide, Mod Assistant, and ModelSaber.
 
 **Roles:** Staff, Support, 3D Artists  

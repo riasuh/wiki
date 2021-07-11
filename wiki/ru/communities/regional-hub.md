@@ -17,7 +17,7 @@ sidebar: auto
 ### Канада
 
 #### Beat Saber Canada
-The official Discord for the Canadian Beat Saber community!
+Официальный Discord для Канадского сообщества Beat Saber!
 
 [Discord](https://discord.gg/vvq7wX3)
 
@@ -26,16 +26,16 @@ The official Discord for the Canadian Beat Saber community!
 ## Азия
 
 ### Beat Saber Asia
-Community for Asian players and VR organizations. We have a limited quota for International members depending on our server size.
+Сообщество для Азиатских игроков и VR организаций. В связи с размером нашего сервера, у нас ограничена квота для международных пользователей.
 
-[Application](https://forms.gle/Ga3jWoCkugPBD6BZ6)
+[Заявка](https://forms.gle/Ga3jWoCkugPBD6BZ6)
 
 ---
 
-### Israel
+### Израиль
 
 #### Beat Saber Israel
-A server made to bring Isreali Beat Saber players together. International players welcome.
+Сервер, созданный для объединения игроков Beat Saber из Израиля. Международные игроки приветствуются.
 
 [Discord](https://discord.gg/HHH7sK8)
 
@@ -88,7 +88,7 @@ Official Beat Saber server for people that can pronounce "rød grød med fløde"
 
 ---
 
-### Finland
+### Финляндия
 
 #### Tahti Sapeli
 Finnish Beat Saber community, everyone welcome!
@@ -97,7 +97,7 @@ Finnish Beat Saber community, everyone welcome!
 
 ---
 
-### France
+### Франция
 
 #### Beat Saber FR
 Discord server for the French Beat Saber community.
@@ -106,7 +106,7 @@ Discord server for the French Beat Saber community.
 
 ---
 
-### Germany
+### Германия
 
 #### German Beat Saber Community
 Official German Beat Saber Discord for German players, but people from other countries are also welcome :)
@@ -115,7 +115,7 @@ Official German Beat Saber Discord for German players, but people from other cou
 
 ---
 
-### Italy
+### Италия
 
 #### Italian Beat Saber Community
 A chill and accessible place for Italian players to hang around and meet each other
@@ -124,7 +124,7 @@ A chill and accessible place for Italian players to hang around and meet each ot
 
 ---
 
-### The Netherlands
+### Нидерланды
 
 #### Dutch Beat Saber Group
 The Dutch Beat Saber Group, featuring multiplayer rooms, movie nights, VRC nights, and more! Compare your ScoreSaber profile with other players using their custom BeatSaber Bot.
@@ -133,7 +133,7 @@ The Dutch Beat Saber Group, featuring multiplayer rooms, movie nights, VRC night
 
 ---
 
-### Spain
+### Испания
 
 #### Beat Saber España
 Discord server for the Spanish Beat Saber community, people from other countries are welcome too :D
@@ -142,7 +142,7 @@ Discord server for the Spanish Beat Saber community, people from other countries
 
 ---
 
-### Sweden
+### Швеция
 
 #### Beat Saber Sweden
 We're the people who has fika with kanelbulle, and sometimes köttbullar...  
@@ -152,7 +152,7 @@ The official Swedish discord, right here!
 
 ---
 
-### Switzerland
+### Швейцария
 
 #### SwissSaber
 Official Beat Saber Discord for Swiss players, but people from other countries are also welcome.
@@ -161,7 +161,7 @@ Official Beat Saber Discord for Swiss players, but people from other countries a
 
 ---
 
-### UK
+### Великобритания
 
 #### British Beat Saber Discord
 We have tea!
@@ -170,7 +170,7 @@ We have tea!
 
 ---
 
-### Norway
+### Норвегия
 
 #### Beat Saber Norge
 We are a small community based in the relatively small country of Norway. We want to have an accepting community of people from all countries with the use of our bot made by Rocker!
@@ -179,7 +179,7 @@ We are a small community based in the relatively small country of Norway. We wan
 
 ---
 
-### Ireland
+### Ирландия
 
 #### Beat Saber Ireland
 Discord server for the Irish Beat Saber community, international players are welcome too!

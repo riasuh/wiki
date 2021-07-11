@@ -9,74 +9,74 @@ _De Support rol staat symbool voor dank. Bedankt voor de duizenden berichten die
 **Rol:** Support.
 
 ## Burrito
-Ironically doesn't like burritos, thinks tacos are better (true facts)
+Houdt ironisch genoeg niet van burritos, en denkt dat taco's beter zijn (en dat is een feit).
 
 **Rol:** Support.
 
-[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [Donneer](https://streamelements.com/burritosoft/tip)
 
 ## ComputerElite
-He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
+Hij maakt programma's om mensen sneller te kunnen helpen en sommige anderen voor hen om alles makkelijker te maken. (Vindt het leuk om BMBF logs te eten).
 
-**Roles:** Support
+**Rol:** Support.
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
+Je kent ze misschien van hun spectaculaire platformen, of voor meer verfijnde individuen: yeet sabers.
 
-**Roles:** Support, 3D Artist
+**Rollen:** Support, 3D Artists.
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
-He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
+Hij speelt graag Beat Saber. Hij houdt er ook van mensen te helpen hun problemen op te lossen, zodat ze Beat Saber kunnen spelen.
 
-**Roles:** Support
+**Rol:** Support.
 
 ## Kolezan
-He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
+Hij zal je leren om je mods te fixen en je vreselijke allereerste off-beat level te verbeteren. We zijn er allemaal geweest.
 
-**Roles:** Support, Mapping Support, Mapper
+**Rollen:** Support, Mapping Support, Mapper.
 
-[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Doneer](https://paypal.me/kolezan)
 
 ## male
-is too uncreative to think of a bio
+is te oncreatief om een bio te bedenken.
 
-**Roles:** Support
+**Rol:** Support.
 
 ## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+2 waarheden en een leugen: Pink is schattig, CMB is bewust, OneEyed heeft goede spelling.
 
-**Roles:** Support
+**Rol:** Support.
 
 ## Pespiri
-He'll give me his bio later today, or so he says.
+Hij zal me later vandaag zijn bio geven, tenminste... Dat is wat hij zegt.
 
-**Roles:** Support, Modder
+**Rollen:** Support, Modder.
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
+Deze man kwam uit de lucht vallen en begon te helpen en zij dat het een soort verslaving was, wat een sukkel.
 
 **Rol:** Support.
 
-[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Doneer](paypal.me/Radevirot)
 
 ## Rex
-I really like to help people. Yeah that's all.
+Ik help mensen graag. Dat was het wel zo'n beetje.
 
-**Roles:** Support
+**Rol:** Support.
 
 ## rui2015
-Has no creativity and doesn't know what to put here. Is a cool person though.
+Heeft geen creativiteit en weet niet wat hij hier moet zeggen. Is wel een gaaf persoon.
 
-**Roles:** Support
+**Rol:** Support.
 
 ## Sands
-He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
+Hij heeft geen leven en hij is best dom, maar hij kan wel met je BMBF helpen en dat is alles wat belangrijk is, toch?
 
 **Rol:** Support.
 
@@ -85,28 +85,28 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 ## Simme63
 "Coke Head"
 
-**Roles:** Support
+**Rol:** Support.
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask boulders!
+Ik sweer dat ik goed ben in Beat Saber en helpen, vraag het maar aan boulders!
 
 **Rol:** Support.
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
 ## Toblersto
-I decided I wanted to help one day, and have been slightly addicted ever since.
+Ik heb ooit besloten om te helpen en ben sindsdien een beetje verslaafd.
 
-**Roles:** Support
+**Rol:** Support.
 
 ## Channel Monitor Bot
-The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
+De bot die alles bij elkaar houdt. Gemaakt door Megalon, opnieuw gemaakt door lolPants, en gepersonaliseerd door Rolo!
 
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
 ---
 
-::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
-**Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
+::: tip Zie ook **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)   
+**Modders:** [Kyle1413](./modders.md#kyle1413)   
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)   
 **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
