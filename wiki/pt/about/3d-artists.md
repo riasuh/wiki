@@ -69,6 +69,6 @@ Toneladas e toneladas de suporte com Full Body Tracking!
 ---
 
 <!-- markdownlint-disable MD013 -->
-::: tip Veja Também **Support:** [Emma](./supports.md#emma)  
-**Moderadores:** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
-**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) :::
+::: tip See Also **Support:** [Emma](./supports.md#emma)  
+**Moderators:** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
+**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) | [Pink](./staff.md#pink) :::

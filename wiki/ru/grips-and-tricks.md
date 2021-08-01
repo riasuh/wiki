@@ -3,7 +3,7 @@ sidebar: auto
 ---
 
 # Хваты и трюки
-_A compilation of resources to help you to hit bloq._
+_Подборка ресурсов, которые помогут вам лучше разрезать ноты._
 
 ## Общее мега-руководство
 Отличное описание от пользователя TeknozVR, которое поможет вам получить то самое PP. [Ранг и подсчет очков](./ranking-guide)
@@ -18,14 +18,14 @@ Additionally, here's an image from the game developers about how the [hitboxes](
 ![Bloq Hitbox](~@images/mapping/hitbox-from-split.jpg)
 
 ## Рейтинг
-*Как работает мировой рейтинг? Что такое очки PP (performance points)? Что за числа в скобочках? Почему мой пипи такой маленький?*
+*Как работает мировой рейтинг? Что такое очки PP (performance points)? Что за числа в скобочках? Почему мой PP такой маленький?*
 
 Вы можете найти свой глобальный рейтинг и PP на сайте [ScoreSaber](https://scoresaber.com/global) - здесь вы можете найти свое имя. Your ScoreSaber account is tied to your Steam / Oculus username.
 
 1. Ranked songs are assigned PP (PP = performance points). The exact amount of PP gained is determined by the accuracy you finish a ranked song with. How much PP a ranked song is worth is determined by a secret algorithm developed by Umbranox, our Panda God.
 2. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is `0.965^(x-1)` where `x` is the position of that score on your song list. e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP which is a 100% of the raw PP of that play. If your second top play is 247 raw PP, you will be rewarded 238 weighted PP which is the actual amount of PP you get after the curve applies. Here is a table to illustrate this system:
 
-| Чистое РТ | Взвешенное PP                    |
+| Чистое РP | Взвешенное PP                    |
 | --------- | -------------------------------- |
 | 260pp     | **260pp** (100% от чистого PP)   |
 | 247pp     | **238pp** (96.5% от чистого PP)  |
@@ -41,7 +41,7 @@ You can find more information in the [Ranking & Scoring Guide](./ranking-guide.m
 ::: tip Совет Карты признаются ranked командой ScoreSaber: [ScoreSaber Discord](https://discord.gg/WpuDMwU). На этом сервере можно узнать что происходит с картами и рейтингом! :::
 
 ## Хваты
-Cube Communitu выпустило некоторые видео, показывающие некоторые из наиболее популярных хватов для контроллеров Oculus Touch (CV1) и Vive Wands.
+Cube Community выпустило некоторые видео, показывающие некоторые из наиболее популярных хватов для контроллеров Oculus Touch (CV1) и Vive Wands.
 
 ### Контроллеры HTC Vive Wands
 <YouTube url='https://www.youtube.com/watch?v=G7x_wb7RrgU' />
@@ -53,7 +53,7 @@ Cube Communitu выпустило некоторые видео, показыв�
 
 ![Oculus Grips Guide](~@images/grips-and-tricks/oculus-grips-guide.jpg)
 
-### Контроллеры Oculus Rift S and Quest
+### Контроллеры Oculus Rift S и Quest
 Видео для Oculus Rift S и Oculus Quest пока нет, но вы можете увидеть несколько примеров ниже! ![Oculus Rift S/Quest Guide](~@images/grips-and-tricks/touch2-grips.jpg)
 
 ### Контроллеры Valve Index

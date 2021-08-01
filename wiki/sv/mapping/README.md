@@ -20,22 +20,22 @@ description: |
 För många animebanor? Inte tillräckligt med animebanor?  
 Ta saken i egna händer och lär dig att göra banor här!
 
-::: tip INFO  
-If you have feedback on how we can improve the mapping resources fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)!
+::: Tips INFO  
+Om du har feedback på hur vi kan förbättra mappningsresurserna fyll i detta [formulär!](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)!
 
-You can also visit `#mapping-discussion` on the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) to get involved! :::
+Du kan även besöka `#mapping-discussion` i [Beat Saber Modding Group Discorden](https://discord.gg/beatsabermods)! :::
 
 * [Mappningsordlista](./glossary.md)
 
 ## Mappning Snabbstart
 > Wikin är dina byggstenar, gemenskapen är din inspiration, och du är kreativiteten.
 
-Great mappers are not made in a day. It takes dedication with no one really able to hold your hand. The best we can do is provide you the tools with this wiki and clarify any questions you have to succeed in your mapping career!
+Stora mappare är inte gjorda på en dag. Det krävs engagemang utan att någon håller din hand. Det bästa vi kan göra är att ge dig verktygen med denna wiki och klargöra alla frågor du har för att lyckas i din mappningskarriär!
 
 1. Ladda ner de nödvändiga verktygen: en [ljudredigerare](https://www.audacityteam.org/) och en [nivåredigerare](#map-editing-resources).
 2. [Konfigurera din ljudfil](#audio-editing-resources), hitta och bekräfta rätt BPM, och exportera i OGG-format.
-3. Set up your song in your mapping editor (steps vary by editor but here's the [user guide](./mediocre-map-assistant.md) for MMA2).
-4. Get mapping! Review [basic mapping practices](./basic-mapping.md) before you start. [Playtest](#playtesting) your own work early and often while mapping.
+3. Konfigurera din låt i din nivåsredigerare (stegen varierar beroende på program, men här är [användarhandboken](./mediocre-map-assistant.md) för MMA2).
+4. Börja mappa! Granska [grundläggande mappningspraxis](./basic-mapping.md) innan du börjar. [Playtest](#playtesting) your own work early and often while mapping.
 5. Get lighting! Review [basic lighting information](#lighting-practices). Simple manual lighting is easier than you think!
 6. Get your map [playtested](#playtesting)! Third-party playtesting via the [BSMG Discord](https://discord.gg/beatsabermods) is highly recommended to get constructive feedback and to get past your own "map blindness."
 7. Once your song has been mapped, lighted, and playtested you’re ready to [release](#publishing-songs) your song to the world on BeatSaver.

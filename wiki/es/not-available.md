@@ -4,17 +4,17 @@ sidebar: false
 
 <!-- Disable header rule to hide page from search -->
 <!-- markdownlint-disable MD041 -->
-Sorry, this page has not yet been translated.
+Lo sentimos, esta página aún no ha sido traducida.
 
-You can:
+Puedes:
 
-* Switch to the English version from the language menu.
-* Wait until this page has been translated.
-* Help translate this page from English along with the rest of the wiki by [applying here](https://forms.gle/e3BqA3poMjESARe76)!
+* Cambiar a la versión en inglés desde el menú de idiomas.
+* Esperar hasta que esta página haya sido traducida.
+* ¡Ayudar a traducir esta página del inglés junto con el resto de la wiki [solicitándolo aquí](https://forms.gle/e3BqA3poMjESARe76)!
 
-[Return to the Homepage](/)
+[Volver a la página principal](/)
 
-Help improve this page!  
-Last Updated  
-Home  
+Ayuda a mejorar esta página  
+Última actualización  
+Inicio  
 BSMG Discord

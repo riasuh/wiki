@@ -8,8 +8,8 @@ Si vous voulez aider à traduire dans votre langue, vous pouvez postuler [ici](h
 ### Relecteurs
 
 * Awagi
-* Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Twitter](https://twitter.com/AarcNoa)
 
 ### Traducteurs
 
@@ -48,6 +48,7 @@ Si vous voulez aider à traduire dans votre langue, vous pouvez postuler [ici](h
 ### Relecteurs
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
 ### Traducteurs
 

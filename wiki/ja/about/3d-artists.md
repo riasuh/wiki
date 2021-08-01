@@ -1,16 +1,16 @@
 # 3D Artists（3Dモデル制作者）
-From sabers to notes, custom models have always been a popular aspect of modded beat saber which wouldn't be possible without them.
+セイバーからノーツまで、カスタムモデルもまたModビートセイバーの魅力の一つです。彼らなしではこの魅力はあり得ません。
 
 ## AkaRaiden
-::: danger Sorry, this page has not been translated yet, you can either:
+**ロール:** 3D Artist
 
 ## angeloid0103
-Wrote the custom saber creation guide among other fantastic contributions.
+custom saberの作成ガイドをほかの素晴らしい仲間とともに作った。
 
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 ## Derpy Hooves
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 ## Fusion
 They've got some impressive shaders and they're not afraid to use them.
@@ -71,4 +71,4 @@ Tons and tons of Full Body Tracking support!
 <!-- markdownlint-disable MD013 -->
 ::: tip See Also **Support:** [Emma](./supports.md#emma)  
 **Moderators:** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
-**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) :::
+**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) | [Pink](./staff.md#pink) :::

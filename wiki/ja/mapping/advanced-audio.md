@@ -2,33 +2,33 @@
 sidebar: auto
 prev: ./basic-audio.md
 next: false
-description: Dive deeper into audio editing.
+description: 音源編集をもっと
 ---
 
-# Advanced Audio Editing
-_Dive deeper into audio editing._
+# 高度なオーディオ設定
+_音源編集をもっと_
 
-* [Glossary of Terms](./glossary.md)
+* [用語](./glossary.md)
 
-On this page you will find additional guides and resources for better understanding audio or more advanced techniques of editing audio.
+このページでは音源編集の発展的な技術をより理解するための追加のガイドや資料があります。
 
-## Checking Audio Quality
-Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be 'up-converted' from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice. For more information on audio formats [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
+## 音源の質の確認
+普通は、ルールとして**WAV(E) やFLAC (ロスレス書き出しや通常の書き出し)**ファイルがマップ音源として使われます。これは**通常MP3やAAC、OGGは書き出しの際に音源情報が失われてしまい、**再編集ができないからです このため書き出されたOGGファイルを使用して音源編集を行わないでください。 可能であればロスレスの音源ファイルを使うようにしてください。 しかし、いくつかのFLACファイルは「アップコンバート」によって情報の復元を行うことができます。スペクトル解析ツールを使用して、音源ファイルを使用する前に確認することをお勧めします。 音源についての詳細は[こちらの記事をお勧めします](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html)
 
-::: tip Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from without having to redo everything from the start. :::
+::: tip 編集の際はこまめにロスレスのWAV(E)ファイルを保存しておいて、再編集する際に一からやり直さなくてもよいようにしましょう :::
 
-The best way to check for source quality and quality loss is using [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
+音質を確認するには[Spek](http://spek.cc/)の無料波形解析ソフトが便利です！
 
 ![Spectrum example](https://i.imgur.com/fdOZR2K.png "Spectrum example")
 
-This tool shows the time of the song from left to right, the frequencies from lowest at the bottom to highest at the top and the loudness of the frequencies in color (legend to the right). This screenshot shows the same song with the top graph being a WAVE file and the bottom graph being an OGG file export of the same WAVE file.
+このソフトは横軸は時間、縦軸は周波数、色が音の大きさに対応しています。 このスクリーンショットは上のグラフはWAVファイルで下のグラフは同じ音源をOGGファイルに書き出したものです。
 
-How to spot low quality:
+音質の見分け方
 
-* The biggest difference between the two graphs is the frequency cut off at the top of the graph of the lossy format. This is a common technique for lossy formats to save on data as these high frequencies aren’t as important for the overall sound reproduction. This is also because the human hearing range, which spans from 20hz to 20khz at birth, can be affected by [noise-induced hearing loss](https://en.wikipedia.org/wiki/Noise-induced_hearing_loss) and/or [age](https://en.wikipedia.org/wiki/Presbycusis) which leads some people to lose hearing in frequencies above 15khz gradually with time. So it saves data by not using these freqencies, something an unaware listener wouldn't notice anyway.
-* More importantly, if you look more closely at the frequencies in the audible spectrum (20hz to 20khz) you can see that the top graph looks a lot smoother with good gradients and dark blue areas (faint sounds) compared to the bottom graph which is more jagged and doesn’t include much of the finer gradients, most faint blue areas are black here instead.
+* 2つのグラフの最大の違いは、グラフの上部の高い周波数がカットされていることです。 これはOGGファイルの書き出しでは一般的に高い周波数はサウンドの再生においては重要とみなされません。 また、これは人間の聞き取れる周波数が生まれたときに20hzから20khzほどであることとにも起因します。[ノイズによる難聴](https://en.wikipedia.org/wiki/Noise-induced_hearing_loss)や[加齢](https://en.wikipedia.org/wiki/Presbycusis)によっても聞き取れる周波数は（特に15khzを超えるような）狭くなっていきます。 なので、書き出しの際はこれらの音域をカットして保存します。
+* より大切なことは、人間が聞き取れる周波数帯を注意深く観察すると、上のグラフでは濃い青色（小さな音）の部分できれいなグラデーションになっているのに対して下のグラフは音がガタガタになっていてグラデーションが省略され、濃い青のグラデーションがただ黒くなっています。
 
-These two characteristics are what you can look for this when analysing your source sound files. For more info on spectrum analysis [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/spectral-analysis/index.html).
+これらの2つの特徴は、音源ファイルを分析する際に確認するべき点です。 波形分析についてより詳細な情報は[こちらの記事](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/spectral-analysis/index.html)をご覧ください。
 
 To use this tool simply open Spek.exe then drag and drop the audio file from file explorer into the Spek window. You can resize the window for more detail in the graph.
 

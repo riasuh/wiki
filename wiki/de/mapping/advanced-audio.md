@@ -144,8 +144,8 @@ Es gibt mehrere Methoden, um variable BPM zu behandeln:
 
 * Verzerre den Sound mit Hilfe einer DAW Software zu einem festen BPM-Wert. Siehe [Verziehen mit Reaper](#verziehen-mit-reaper) für Informationen.
 * Nimm die BPM-Änderungen in MMA2 manuell vor.
-  * [Video tutorial by BennyDaBeast here](https://www.youtube.com/watch?v=6AwR4SeaiHU)  
-    **NOTE:** Benny uses an older editor, Mediocre Mapper, in this tutorial. Einige UI-Elemente haben sich zwar im neuesten Editor, [MMA2](./#mediocre-map-assistant-2) verändert, aber der Rest des Inhalts ist großartig!
+  * [Video-Tutorial von BennyDaBeast hier](https://www.youtube.com/watch?v=6AwR4SeaiHU)  
+    **Hinweis:** Benny verwendet in diesem Tutorial einen älteren Editor, Mediocire Mapper. Einige UI-Elemente haben sich zwar im neuesten Editor, [MMA2](./#mediocre-map-assistant-2) verändert, aber der Rest des Inhalts ist großartig!
 * Nutzen die DAW-Software und finden alle Änderungen im Tempo mit einem Tempo Track Editor. Verwenden Jumps anstelle von Rampen, da so MMA2 das Tempo ändert. Wenn du alle Tempo Änderungen gefunden hast, gebe diese in MMA2 ein. (Remember, DAW softwares usually displays measures and beats, but MMA2 only displays beats.)
 
 ### Verformung mit Reaper

@@ -41,7 +41,7 @@ Eerste bijdrager aan ChroMapper en MMA2 onderhouder. Zal ooit een keer een level
 
 [BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
 
-::: tip Zie ook **Supports:** [Kolezan](./supports.md#kolezan)   
-**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare)   
+::: tip Zie ook **Supports:** [Kolezan](./supports.md#kolezan)|   
+**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)   
 **Staff:** [Bloodcloak](./staff.md#bloodcloak)   
 :::

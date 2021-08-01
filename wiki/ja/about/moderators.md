@@ -1,23 +1,22 @@
-# Moderators
-With a server so large, a lot of moderation is required to keep everything under control. You can thank this team for keeping the streets clean.
+# Moderators（モデレーター）
+非常に大きなサーバーを維持するためには多くのモデレートが必要になります。 このチームがサーバーをクリーンにしてくれることに感謝します。
 
 ## 24Kings
-"Join the Qvolution, also Pink cute"
+"Qvolutionに参加しよう、そしてPinkはかわいい"
 
-**Roles:** Moderator
+**ロール:** Moderator
 
-## Caeden117
-How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and ChroMapper, a soon to be released mapping software with Chroma RGB light support.
+## Burrito
+皮肉なことにブリトーはあまり好きではないです。タコスのほうがいいと思います（事実）
 
-**Roles:** Modder, Moderator  
-**Contributions:** Counters+, wiki modding tutorials
+**ロール:** Moderator, Support
 
-[GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
-brrrrrr
+crippling destiny addiction
 
-**Roles:** Support, 3D Artists, Moderator
+**ロール:** Support, 3D Artists, Moderator
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
@@ -33,12 +32,20 @@ Camellia is SourPls
 
 [Twitch](https://www.twitch.tv/hydrandvr)
 
-## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
-Poi!
+## John
+"Tired at all times"
 
-**Roles:** 3D Artists, Support, Moderator
+**Roles:** Moderator
 
-[Twitch](https://www.twitch.tv/br3uker)
+## Kuru
+All they can say is that the R in Kuru stands for Rat
+
+**Roles:** Moderator
+
+## Nym
+"i like the gaymes. Addicted to many, don't like any of them, send cat pics."
+
+**Roles:** Moderator
 
 ## Olaf
 Any stroopwafels?
@@ -47,19 +54,10 @@ Any stroopwafels?
 
 [Twitch](https://twitch.tv/olafstad)
 
-## Pink
-The only Moderator to ghost us when asked for a description for this page.
+## OneEyed
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
-**Roles:** 3D Artists, Moderator, Support, Modder
-
-**Contributions:** A bunch of Quest mods and models
-
-## Pyrowarfare
-A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
-
-**Roles:** Moderator, Mapping Support
-
-[BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
+**Roles:** Support, Moderator
 
 ## RangeValley
 > My dad worked for years as an admin, but he got laid off when bots took over. He came home that night and told me we had to move into the van, since we couldn't afford rent anymore, then he beat the shit out of me with jumper cables. Shitposting should be legal.
@@ -104,6 +102,13 @@ Pepega
 
 **Roles:** Mapper, Moderator
 
+## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Retired)
+Poi!
+
+**Roles:** 3D Artists, Support, Moderator
+
+[Twitch](https://www.twitch.tv/br3uker)
+
 ## joelseph (Retired)
 \+ joelseph
 
@@ -117,3 +122,10 @@ Can't hit jumps
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
+
+## Pyrowarfare (Retired)
+A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
+
+**Roles:** Moderator, Mapping Support
+
+[BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)

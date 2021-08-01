@@ -15,19 +15,19 @@ description: |
   Take matters into your own hands and learn to map here!
 ---
 
-# Mapping
+# Создание карт
 
-Too many anime maps? Not enough anime maps?  
-Take matters into your own hands and learn to map here!
+Слишком много аниме песен? Недостаточно аниме песен?  
+Возьмите дело в свои руки, и научитесь создавать карты тут!
 
-::: tip INFO  
-If you have feedback on how we can improve the mapping resources fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)!
+::: tip ИНФОРМАЦИЯ  
+Если у вас есть предложения, как нам улучшить инструкции по созданию карт, заполните эту [форму](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)!
 
-You can also visit `#mapping-discussion` on the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) to get involved! :::
+Вы также можете посетить `#mapping-discussion` в [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods), чтобы принять участие! :::
 
 * [Mapping Term Glossary](./glossary.md)
 
-## Mapping Quick Start
+## Быстрый старт по созданию карт
 > The wiki is your building blocks, the community is your inspiration, and you are the creativity.
 
 Great mappers are not made in a day. It takes dedication with no one really able to hold your hand. The best we can do is provide you the tools with this wiki and clarify any questions you have to succeed in your mapping career!
@@ -92,13 +92,13 @@ A 3D editor that has stellar support for lighting, Chroma RGB, and shares simila
 
 ::: tip Interested in making your own editor or converter? You may find the [Map Format Page](./map-format.md) and the [SongCore Readme](https://github.com/Kylemc1413/SongCore/blob/master/README.md) helpful! :::
 
-### Official Editor
-The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of Beat Saber. It makes playtesting convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](#community-editors).
+### Официальный редактор
+Официальный редактор разрабатывается и поддерживается Beat Games, и уже есть внутри самой игры в версии Steam VR, так и Oculus ПК. It makes playtesting convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](#community-editors).
 
 * To access, launch the editor from within Beat Saber in your HMD or use fpfc launch parameters to open directly from your PC
 * Check out Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM) for an overview of standard mapping!
 
-Keep in mind the following features that official does not have compared to the [Community Editors](#community-editors) available.
+Заметьте, что по сравнению с [редакторами от сообщества](#community-editors), официальный не поддерживает некоторые функции.
 
 * Uncommon Precision such as 1/5 and associated multiples.
 * Regular autosave and recovery (Editor only autosaves when testing or saving)
@@ -167,7 +167,7 @@ You are now ready to continue editing your map!
 * [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t) by **Fayhe**  
   Video guide on using the timing feature of osu!'s editor to find map bpm.
 
-### Useful Mods
+### Полезные моды
 Here are some mods that might make your mapping workflow a little easier.
 
 * [SiraUtil](./basic-lighting.md#in-game-with-fpfc) by **auros**  

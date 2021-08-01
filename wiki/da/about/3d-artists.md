@@ -71,4 +71,4 @@ Tons and tons of Full Body Tracking support!
 <!-- markdownlint-disable MD013 -->
 ::: tip See Also **Support:** [Emma](./supports.md#emma)  
 **Moderators:** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
-**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) :::
+**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) | [Pink](./staff.md#pink) :::

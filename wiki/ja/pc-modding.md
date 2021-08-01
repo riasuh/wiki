@@ -6,10 +6,10 @@ sidebar: auto
 
 ## はじめに
 
-::: danger Sorry, this page has not been translated yet, you can either:
+::: danger 注意 しっかりと理解してからModを利用しましょう
 
 * 初期設定（バニラ）には存在しない問題が発生する可能性があります。 99.9％のバグ、クラッシュや遅延はMODによるものです。
-* Modはゲームのアップによって動かなくなる可能性がありますが、普通のことです。このようなことが起きた場合は忍耐強く、敬意をもって待ちましょう。Mod作成者はボランティアです。
+* Modはゲームのアップデートによって動かなくなる可能性があります。このようなことが起きた場合は忍耐強く、敬意をもって待ちましょう。Mod作成者はボランティアです。
 * Beat Gamesは、意図的にMODを破壊しようとはしていません。 コードベースで動作することを想定しているので、Modを壊すこともありますが、Modを排除しようとはしません。
 
 Modに関連する問題でゲーム開発者を非難しないでください。 ただのクレーマーになってはいけません。 :::
@@ -28,7 +28,7 @@ Oculus Questをお使いの方は[Quest用Mod](/quest-modding.md)を参照して
 
 問題に遭遇した場合 [サポート ページ](./support) に行き、Discordサーバーで質問する前に何が間違っているのかを確認することができます。 解決法はそのページにある可能性があります！
 
-:::warning Elite Ericのビデオを見ましたが、動かなくなりました。 いったい何が起こったのでしょうか。 BSMGはElite Ericによるチュートリアルを使用しないことを**強く**お勧めします。 多くの場合、それらは 時代遅れであるか、不完全で誤った、正しくない情報が含まれていることがわかります。
+::: warning YouTubeのチュートリアルを見たのですが、うまくいきませんでした。 いったい何が起こったのでしょうか。 BSMGはビデオでのチュートリアルを利用しないことを**強く**お勧めします。 多くの場合、それらは 時代遅れであるか、不完全で誤った、正しくない情報が含まれていることがわかります。
 
 代わりに、ここで書かれたガイドに従うか、 [BSMG Discord](https://discord.gg/beatsabermods) のヘルプを参照してください。 :::
 
@@ -43,7 +43,7 @@ Mod managerに似たシンプルなBeat Saber Modインストーラですが、M
 
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
-## どうすれば曲が追加出来る？
+## どうすればカスタム曲を追加できますか？
 ::: tip よい譜面作成方法が作られる前に、「すべての曲から」「レイト」「ダウンロード数」「プレイ数」によってソートできます。 2019年後半から今の間にリリースされた曲をダウンロードして、最高の 創作譜面を体験してみてください。 :::
 
 ::: warning 定期的に `CustomLevels` フォルダのバックアップをしておくことをお勧めします。アップデートによってリセットされたときに役に立つ可能性があります。
@@ -54,12 +54,12 @@ Mod managerに似たシンプルなBeat Saber Modインストーラですが、M
 `BeatSaver Downloader` プラグインを使用すると、 `MODS` メニュー画面の `SONG` メニューボタンを使用してゲーム内でマップをダウンロードできます。 [BeatSaver](https://beatsaver.com)からも直接マップをインストールできます。
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) はコミュニティによって作られたカスタム曲のまとめです。 他の多くのツールやサイトは、カスタム曲をダウンロードする方法をより詳細に説明します, しかし、この場所は、ツール作成者自らが運営しています。. サイトからダウンロードした曲をインストールするには、フォルダを解凍し、 `Beat Saber/Beat Saber_Data/CustomLevels` に配置します。 ゲーム内ダウンローダプラグイン、BeatList、Mod AssistantのOneClick™インストール機能を使用することもできます。
+[BeatSaver](https://beatsaver.com) はコミュニティによって作られたカスタム曲のまとめです。 他の多くのツールやサイトは、カスタム曲をダウンロードする方法をより詳細に説明していますが、このWikiは、ツール作成者自ら運営しています。 サイトからダウンロードした曲をインストールするには、フォルダを解凍し、 `Beat Saber/Beat Saber_Data/CustomLevels` に配置します。 ゲーム内ダウンローダプラグイン、BeatList、Mod AssistantのOneClick™インストール機能を使用することもできます。
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) (bsaber.com) は、プレイできる素晴らしいマップを見つけるのに役立つサイトです。 これは、Beatsaver上の何千もの曲を分類することによって行われ、曲のジャンルや他の多くの属性タグでソートすることができます。 また、プレイヤーが曲をレビューしたり、コメントしたりできるソーシャル機能も備えています。 最も使用されている機能の一つは、リリースされたほとんどの曲をチームが再生し、素晴らしいものを推奨する「キュレーター推奨」機能です。 [ゲーム内で自動的にこれらの](https://bsaber.com/beatsync/)をダウンロードさせます。
 
-### Song Management Apps
+### 楽曲管理アプリ
 
 現時点で楽曲を管理するアプリは利用できません。
 
@@ -118,12 +118,12 @@ ModインストーラはModをインストールするための推奨方法で�
 ## より多くのことが知りたい方へ
 
 * [持ち方とコツ](./grips-and-tricks.md)
-* [譜面作成](/mapping/)
-* [カスタムセイバー](/models/custom-sabers.md)
-* [カスタムアバター](/models/custom-avatars.md)
-* [カスタムプラットフォーム](/models/custom-platforms.md)
+* [譜面作成](/ja/mapping/)
+* [カスタムセイバー](/ja/models/custom-sabers.md)
+* [カスタムアバター](/ja/models/custom-avatars.md)
+* [カスタムプラットフォーム](/ja/models/custom-platforms.md)
 * [カスタムでのマルチプレイ](https://discord.com/invite/gezGrFG4tz)
-* [Modを作る](/modding/)
+* [Modを作る](/ja/modding/)
 
 ## 質問がありますか？
 [BSMG Discord](https://discord.gg/beatsabermods) のサポートチャンネルをご覧ください！

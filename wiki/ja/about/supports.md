@@ -8,13 +8,6 @@ _「サポート」のロールは感謝のシンボルです。 Modを整理す
 
 **Roles:** Support
 
-## Burrito
-Ironically doesn't like burritos, thinks tacos are better (true facts)
-
-**Roles:** Support
-
-[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
-
 ## ComputerElite
 He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
 
@@ -43,11 +36,6 @@ He'll teach you to fix your mods and your terribly off-beat first map. We've all
 
 ## male
 is too uncreative to think of a bio
-
-**Roles:** Support
-
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
 **Roles:** Support
 
@@ -108,5 +96,4 @@ The bot that holds it all together. Created by Megalon, recreated by lolPants, a
 
 ::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
 **Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
-**Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

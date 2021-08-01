@@ -4,17 +4,17 @@ sidebar: false
 
 <!-- Disable header rule to hide page from search -->
 <!-- markdownlint-disable MD041 -->
-Sorry, this page has not yet been translated.
+Tyvärr, denna sida har ännu inte översatts.
 
-You can:
+Du kan:
 
-* Switch to the English version from the language menu.
-* Wait until this page has been translated.
-* Help translate this page from English along with the rest of the wiki by [applying here](https://forms.gle/e3BqA3poMjESARe76)!
+* Växla till den engelska versionen från språkmenyn.
+* Vänta tills denna sida har översatts.
+* Hjälp till att översätta denna sida från engelska tillsammans med resten av wikin genom att [ansöka här](https://forms.gle/e3BqA3poMjESARe76)!
 
-[Return to the Homepage](/)
+[Gå tillbaka till startsidan](/)
 
-Help improve this page!  
-Last Updated  
-Home  
+Hjälp till att förbättra denna sida!  
+Senast uppdaterad  
+Hem  
 BSMG Discord

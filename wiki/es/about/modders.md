@@ -50,36 +50,43 @@ Creador de CustomUI, haciendo que la creación de nuevos componentes de la inter
 
 [GitHub](https://github.com/brian91292) | [Donar](https://ko-fi.com/brian91292)
 
+## ckosmic
+Creator of CustomEnergyBars and SpectroSaber! Modding the funny cut block music game is cool. Also if you create any content for my mods I will probably remember you on my deathbed.
+
+**Roles:** Modder **Contributions:** CustomEnergyBars, SpectroSaber
+
+[GitHub](https://github.com/ckosmic) | [Donate](https://paypal.me/ckosmic)
+
 ## DaNike
-Creador de la versión personalizada de IPA (arquitectura de plugins de ilusión) BSIPA, un inyector de mod para permitir a Beat Saber usar mods. Una increíble herramienta que hace que moddear beat saber sea tan fácil como lo es.
+Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods. An incredible tool that makes modding beat saber as easy as it is.
 
-**Roles:** Modder **Contribuciones:** BSIPA
+**Roles:** Modder **Contributions:** BSIPA
 
-[GitHub](https://github.com/nike4613) | [Donar](https://ko-fi.com/danike)
+[GitHub](https://github.com/nike4613) | [Donate](https://ko-fi.com/danike)
 
 ## emulamer
-Un contribuyente masivo al desarrollo de mods de quest.
+A massive contributor to the development of quest mods.
 
 **Roles:** Modder
 
 ## Eris
-Uno de muchos con un horario de sueño muy cuestionable. Creador de MorePrecisePlayerHeight. Terminó manteniendo una variedad salvaje de mods después de adoptarlos de sus creadores originales. También lindo rosa.
+One of many with a very questionable sleep schedule. Creator of MorePrecisePlayerHeight. Ended up maintaining a wild variety of mods after adopting them from their original creators. Also Pink cute.
 
-**Roles:** Modder **Contribuciones:**MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
+**Roles:** Modder **Contributions:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
 
-[GitHub](https://github.com/erisapps) | [Donar](https://ko-fi.com/erisapps)
+[GitHub](https://github.com/erisapps) | [Donate with Patreon](https://www.patreon.com/erisapps) | [Donate with Ko-fi](https://ko-fi.com/erisapps)
 
 ## Goobie
-Mantenedora de los mods que te ayudan a jugar con tus amigos de la manera correcta. Se considera a sí misma la mejor chica, pero piensa que Zenject necesita más simps en su lugar.
+Maintainer of the mods that help you play with friends the right way. Considers herself best girl but thinks that Zenject needs more simps instead.
 
-**Roles:** Modder **Contribuciones:** MultiplayerExtension, MultiQuestensions
+**Roles:** Modder **Contributions:** MultiplayerExtensions, MultiQuestensions
 
-[GitHub](https://github.com/goobwabber) | [Twitch](https://www.twitch.tv/goobwabber) | [Donar](https://ko-fi.com/goobwabber)
+[GitHub](https://github.com/goobwabber) | [Twitch](https://www.twitch.tv/goobwabber) | [Donate](https://ko-fi.com/goobwabber)
 
 ## halsafar
-Te ayuda a ordenar tus 5000 canciones personalizadas de una manera razonable.
+Helps you sort out your 5000 custom songs in a reasonable manner.
 
-**Roles:** Modder **Contribuciones:** SongBrowser
+**Roles:** Modder **Contributions:** SongBrowser
 
 [GitHub](https://github.com/halsafar)
 
@@ -215,11 +222,11 @@ Our own LIV insider and creator of Saber Tailor and the original Custom Colors p
 [GitHub](https://github.com/sc2ad) | [Twitch](https://www.twitch.tv/sc2ad) | [PayPal](https://paypal.me/sc2ad) | [Ko-Fi](https://ko-fi.com/sc2ad_support)
 
 ## Shadnix
-Current maintainer of Saber Tailor
+Current maintainer of Saber Tailor and Particle Overdrive. Made some other small things that since have become part of the base game options.
 
-**Roles:** Modder **Contributions:** Saber Tailor, Level Pack Mover
+**Roles:** Modder **Contributions:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover, AdaptiveSFXRemover
 
-[GitHub](https://github.com/Shadnix-was-taken)
+[GitHub](https://github.com/Shadnix-was-taken) | [Twitch](https://www.twitch.tv/shadnix)
 
 ## Shoko84
 Making sure we're all nice and hydrated after cutting the blocks.
@@ -279,5 +286,4 @@ Original creator of SongLoader and CameraPlus, and a major contributor to the cu
 ---
 
 ::: tip See Also **Support:** [Pespiri](./supports.md#pespiri)  
-**Moderator:** [Caeden117](./moderators.md#caeden117)  
-**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::
+**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [Caeden117](./staff.md#caeden117) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) |  [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::

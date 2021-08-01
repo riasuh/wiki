@@ -41,7 +41,7 @@ Collaboratore alle prime appe di ChroMapper e manutentore di MMA2. Potrebbe fini
 
 [BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
 
-::: tip Vedi Anche **Supporti:** [Kolezan](./supports.md#kolezan)  
-**Moderatori:** [Pyrowarfare](./moderators.md#pyrowarfare)  
+::: tip See Also **Supports:** [Kolezan](./supports.md#kolezan)  
+**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)  
 **Staff:** [Bloodcloak](./staff.md#bloodcloak)  
 :::

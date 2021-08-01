@@ -8,17 +8,10 @@ _Die Support-Rolle ist ein Symbol des Dankes. Danke für die tausenden von Nachr
 
 **Rollen:** Support
 
-## Burrito
-Ironically doesn't like burritos, thinks tacos are better (true facts)
-
-**Rollen:** Support
-
-[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
-
 ## ComputerElite
 He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
 
-**Roles:** Support
+**Rollen:** Support
 
 [Github](https://github.com/ComputerElite/)
 
@@ -46,11 +39,6 @@ is too uncreative to think of a bio
 
 **Roles:** Support
 
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
-
-**Roles:** Support
-
 ## Pespiri
 He'll give me his bio later today, or so he says.
 
@@ -61,7 +49,7 @@ He'll give me his bio later today, or so he says.
 ## Radevirot
 This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
-**Rollen:** Support
+**Roles:** Support
 
 [Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
@@ -73,12 +61,12 @@ I really like to help people. Yeah that's all.
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
 
-**Roles:** Support
+**Rollen:** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
 
-**Rollen:** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
@@ -108,5 +96,4 @@ The bot that holds it all together. Created by Megalon, recreated by lolPants, a
 
 ::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
 **Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
-**Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

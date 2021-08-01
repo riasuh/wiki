@@ -16,8 +16,8 @@ This page is not a substitute, in any way, for real, professional help. If these
 ## Likes and Dislikes
 It is very easy to look at a bunch of numbers, which naturally have a quantitative value, and try and apply them as a way of judging quality. There’s even a public rating system directly attached to BeatSaver for every single map. It can be difficult to look at these and not take them to heart, especially if your map receives a lot of downvotes or very few downloads. However, there are so many factors that can go into these numbers, and it is unfair to you to try and use them to validate your maps, and yourself. If you are feeling anxious over a lot of dislikes or low downloads, consider some of these points:
 
-* refer to the [original English version](../../mapping/mapping-anxiety.md),
-* wait for a translation to be done,
+* They may have misclicked.
+* They may not like the song.
 * They may have been unhappy they failed.
 * The lights may have been uncomfortable.
 * The song could be very unpopular.

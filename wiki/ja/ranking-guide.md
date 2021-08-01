@@ -99,31 +99,31 @@ PPシステムは、恐らくゲーム内のランキングについて、最も
 ## プレイオプション
 
 ### プレイオプションとランク譜面
-ランク譜面は、"No Fail"といった全ての**ネガティブオプション** がスコアに反映されます。 This means **Negative Modifiers** can be used on any ranked map but they will obviously penalize your score and reward less PP. **Positive Modifiers** only take effect on two ranked maps as of now; [Overkill mapped by Nuketime](http://scoresaber.com/leaderboard/87194) and [Overkill mapped by Kry](http://scoresaber.com/leaderboard/86492). They are used to test the effects of **Positive Modifiers** on ranked maps and to find a way to integrate them on all the other ranked maps. You can obviously play any other map (including ranked ones) and the modifiers will all work but they will only increase your score and PP on the two versions of Overkill. The modifiers used on any score on the leaderboards can be seen to the right of the score.
+ランク譜面は、"失敗なし"といった全ての**ネガティブオプション** がスコアに反映されます。 これは**ネガティブオプション**をどのランクマップでも使用できることを意味しますが、大きくスコアとＰＰを減らすことになります。 **ポジティブオプション**は現在2つのマップのみで使用可能となっています。 [Overkill mapped by Nuketime](http://scoresaber.com/leaderboard/87194)と[Overkill mapped by Kry](http://scoresaber.com/leaderboard/86492)です。 これらは**ポジティブオプション**がランク譜面においてどのように機能するのかをテストするためです。そしてほかのすべてのランク譜面に統合する方法を模索するためでもあります。 実際すべてのマップ（ランク譜面も含む）でオプションを利用することは可能です。しかし、それらがPPに適応されるのはOverkillのマップだけです。 スコアの右側に使用されているオプションが表示されます。
 
-With this said, here is a list of all the modifiers in the game, their effects on score and how they affect gameplay:
+ここにオプションのリストとスコアやプレイに対する効果を説明します。
 
 <!-- markdownlint-disable MD013 -->
-| オプション                       | 効果/内容                                                                                                                                                                             |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| No Fail (0.00/-0.50)        | Acts as a safety net letting you continue playing if you fail. As of version 1.13.2, this modifier applies the score penalty only if you lose all of your health during the song. |
-| No Obstacles (-0.05)        | Removes all of the obstacles (walls) from the map.                                                                                                                                |
-| No Bombs (-0.10)            | Removes all of the bombs from the map.                                                                                                                                            |
-| Slower Song (-0.30)         | Slows down the song to 85% of the original speed.                                                                                                                                 |
-| Insta Fail (0.00)           | Makes you fail on the first miss you make.                                                                                                                                        |
-| Battery Energy (0.00)       | Stops the health bar from replenishing. This limits the total amount of misses and bad cuts you can have before failing.                                                          |
-| Disappearing Arrows (+0.07) | Makes the arrows disappear from the note as they approach you. You still need to remember the direction as you need to cut in the correct direction as always.                    |
-| Faster Song (+0.08)         | Speeds up the song to 120% of the original speed.                                                                                                                                 |
-| Ghost Notes (+0.11)         | Notes are invisible and the arrows disappear shortly before you hit them, similarly to Disappearing Arrows.                                                                       |
+| オプション             | 効果/内容                                                                      |
+| ----------------- | -------------------------------------------------------------------------- |
+| 失敗なし (0.00/-0.50) | 失敗してもプレイを続けるセーフティネットです。 バージョン1.13.2から、曲に失敗した場合のみスコアペナルティが課されるようになりました。     |
+| 障害物なし (-0.05)     | すべての障害物（壁）をマップから削除します。                                                     |
+| 爆弾なし (-0.10)      | すべてのボムをマップから削除します。                                                         |
+| スローダウン（-0.30）     | 曲を元の速度の85%に減速します。                                                          |
+| ノーミス(0.00)        | １回でもミスするとゲーム失敗になります                                                        |
+| バッテリー (0.00)      | 体力ゲージの回復を停止します。 これは、ミスやBADの判定の上限の回数を制限します。                                 |
+| ノーアロー（+0.07）      | 矢印が近づくにつれてノーツから消えます。 あなたはいつものように正しい方向にカットする必要があるので、どの方向に切るべきが覚えておく必要があります。 |
+| スピードアップ(+0.08)    | 曲を元の速度の120%に加速します。                                                         |
+| ゴーストノーツ (+0.11)   | ノーツが見えなくなり、矢印は当たる直前に消えます。ノーアローと同様です。                                       |
 <!-- markdownlint-enable MD013 -->
 
 ## 握り方
 
-### Why should I use a grip?
-An alternative grip can be an adjustment of the default saber angles, an alternative method of holding the controller, or a combination of both. There's no single grip that works for everyone, and using an alternative grip won't magically make you better at the game. It is not necessarily better than the default way the controller is meant to be held, or the default angles that Beat Saber uses. However, alternative grips can have many benefits, from being more comfortable for long periods of play to helping you optimize your swings. They can redistribute the weight of a poorly balanced Vive wand, or increase the range of wrist motion with a Touch controller. Below are some popular grips used in the competitive community. Don't be afraid to adjust or experiment to find what's right for you!
+### グリップを使う理由は?
+異なる握り方や持ち方（もしくはその組み合わせ）は基本のセイバー角度の調整ができます。 誰にとってもよい握り方はありません。また、握り方を変えることで劇的にゲームが上達することもありません。 コントローラーの一般的な持ち方から変えることが必ずしも良いとは限りません。 しかし、握り方を改善することで長時間のスイングをより快適にすることができる可能性があります。 バランスの悪い Viveコントローラーの重心を調節したり、Touchコントローラーでも手首の可動域を広げたりできます。 以下は競技シーンで用いられる代表的な握り方です。 あなたに合う方法をいろいろ試して探してください！
 
-### List of Grips
-Refer to the Grips section of [Grips And Tricks](./grips-and-tricks.md) for some examples of commonly used grips used in the community.
+### 握り方一覧
+コミュニティ内でよく使用されている握り方の例については、[持ち方とコツ](./grips-and-tricks.md) の「握り方」の項を参照してください。
 
 ## お役立ち情報・リンク
 

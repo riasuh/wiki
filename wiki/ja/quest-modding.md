@@ -274,7 +274,7 @@ Questでライブラリを開きます。 Beat Saberの隣にある3つの点を
 ---
 
 ### SaberとModが有効になりません！
-これは、おそらく時代遅れのBMBFクライアントが最新の [BMBFリリース](https://bmbf.dev/stable)と互換性をもたないためです。 適切なBeat SaberのBMBFバージョンがない場合は、BMBFが更新されるまでしばらくお待ちください。
+これは、BMBFアプリが古いことが原因である可能性が高いため、最新の [BMBFリリース](https://bmbf.dev/stable)を入手してください。 適切なBeat SaberのBMBFバージョンがない場合は、BMBFが更新されるまでしばらくお待ちください。
 
 * あなたのMODがBMBFのバージョンと互換性があるはずの場合。 zipファイルを区切るフォルダがないことを確認してください。
 * カスタム曲がロードされない場合は、#quest-mods からmapping extensionsをインストールしてみてください. Noodle ExtensionsというModを要求されることがありますがこれはまだQuestには実装されていません。

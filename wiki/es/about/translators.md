@@ -1,17 +1,17 @@
-# Translators
-The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed here are for languages currently available on the website.
+# Traductores
+La gente trabajadora que se tomó el tiempo de traducir el contenido de la wiki a sus propios idiomas. ¡Un sincero agradecimiento por vuestro tiempo! Los que se enumeran aquí son para los idiomas actualmente disponibles en el sitio web.
 
-If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+Si quieres participar en tu idioma, puedes [presentarte para ayudar a traducir](https://forms.gle/e3BqA3poMjESARe76)
 
-## French | Français
+## Francés | Français
 
-### Proofreaders
+### Correctores
 
 * Awagi
-* Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Twitter](https://twitter.com/AarcNoa)
 
-### Translators
+### Traductores
 
 * COZAX
 * Cyborger
@@ -24,14 +24,14 @@ If you would like to join for your language, you can [apply to help translate!](
 * Pryd
 * risi
 
-## German | Deutsch
+## Alemán | Deutsch
 
-### Proofreaders
+### Correctores
 
 * Gregi
   * [Twitch](https://www.twitch.tv/grregi) | [Youtube](https://www.youtube.com/user/gregiplays)
 
-### Translators
+### Traductores
 
 * ComputerElite
 * CookieDLX
@@ -43,13 +43,14 @@ If you would like to join for your language, you can [apply to help translate!](
 * Trolav
   * [Twitter](twitter.com/Trolav1)
 
-## Dutch | Nederlands
+## Holandés | Nederlands
 
-### Proofreaders
+### Correctores
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
-### Translators
+### Traductores
 
 * boulders2000
 * Jestro

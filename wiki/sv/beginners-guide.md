@@ -26,10 +26,10 @@ Tillämplig hårdvara inkluderar:
 * Oculus Quest/Quest 2
 
 ## Skapa innehåll
-Är en av dina favoritlåtar inte tillgänglig? Har du en idé till ett mod som du vill implementera? Vill du ha en egen modell som du vill använda i spelet? You can make it happen in one of two ways.
+Är en av dina favoritlåtar inte tillgänglig? Har du en idé till ett mod som du vill implementera? Vill du ha en egen modell som du vill använda i spelet? Då kan du göra det på två olika sätt.
 
-* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
-* Learn how to make it yourself using the resources below!
+* Kommissionera någon i communityn som driver [Commissions Discord](https://discord.gg/e4f3WBBVnr)
+* Lär dig hur du gör det själv genom att använda resurserna nedan!
 
 ### Skapa banor
 Lär dig hur du skapar din egen nivå genom att följa vår [mappning](./mapping/) guide!
@@ -40,8 +40,8 @@ Kom igång med att skapa mods för spelet genom att följa vår [modskapnings](.
 ### Skapa 3D-modeller
 Lär dig hur man skapar 3D-modeller för spelet!
 
-* [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
-* **Walls** No guide is available at this time, but one is being worked on.
+* [Sablar](./models/sabers-guide.md)
+* [Avatarer](./models/avatars-guide.md)
+* [Plattformar](./models/platforms-guide.md)
+* [Noter](./models/notes-guide.md)
+* **Väggar** Ingen guide finns tillgänglig just nu, men arbetas på.

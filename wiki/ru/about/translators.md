@@ -8,8 +8,8 @@
 ### Корректоры
 
 * Awagi
-* Jeremiidesu
-  * [Твиттер](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Твиттер](https://twitter.com/AarcNoa)
 
 ### Переводчики
 
@@ -48,6 +48,7 @@
 ### Корректоры
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
 ### Переводчики
 

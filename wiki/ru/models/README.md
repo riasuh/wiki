@@ -8,7 +8,7 @@ All custom model mods were created separately by different people. Each mod has 
 * [Пользовательские модели мечей](./custom-sabers.md)
 * [Пользовательские модели аватаров](./custom-avatars.md)
 * [Пользовательские платформы (модели окружения)](./custom-platforms.md)
-* [Пользовательские модели блоков](./custom-notes.md)
+* [Пользовательские модели нот](./custom-notes.md)
 * [Пользовательские модели стен](./custom-walls.md)
 
 ## Где найти модели
@@ -27,5 +27,5 @@ You can also find an uncurated list _(with potentially more items)_ in the `#pc-
 * [Руководство для создания мечей](./sabers-guide.md)
 * [Руководство для создания аватаров](./avatars-guide.md)
 * [Руководство для создания платформ](./platforms-guide.md)
-* [Руководство для создания блоков](./notes-guide.md)
+* [Руководство для создания нот](./notes-guide.md)
 * [Руководство для создания моделей для платформы Oculus Quest](https://github.com/RedBrumbler/Qosmetics/wiki)

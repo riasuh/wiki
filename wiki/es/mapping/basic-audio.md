@@ -96,8 +96,8 @@ Los pasos listados a continuación son los mismos que los utilizados en el [Vide
 
 ##### La ejecución del código no puede continuar porque no se encontró MSVCP120.dll
 
-* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
-  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
+* Instala [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) en tu idioma preferido e inténtalo de nuevo.
+  * Si sigue sin funcionar, asegúrate de que estás descargando la versión `x86` que hay al final de la página. No la versión `x64`.
 
 :::danger **¡Este es un paso crítico!**  
 No usar un archivo `.ogg` o usando la función de exportación en AV **desincronizará** la canción por una cantidad inconsistente de tiempo. :::
@@ -154,7 +154,7 @@ Después de generar el silencio puedes hacer clic en la línea oscura de la canc
    ![Eliminar la pista](~@images/mapping/audacity-delete_track.png)
 9. Hecho. Ahora puede saltar a [exportar](#exporting) o ir a [edición opcional de audio](#optional-audio-editing).
 
-> If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#sync-using-arrow-vortex) with the new file to get a positive offset.
+> Si no te sientes cómodo eliminando la cantidad exacta, puedes eliminar más de lo necesario, exportar el `.ogg` modificado y [re-sincronizar usando tu herramienta](#sync-using-arrow-vortex) con el nuevo archivo para obtener un desplazamiento positivo.
 
 ### Sincronizar usando una pista de clic
 

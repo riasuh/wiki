@@ -6,7 +6,7 @@ Por alguna razón, gasta mucho más tiempo hablando de mapeo que mapeando.
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c855ce3) | [BeastSaber](https://bsaber.com/members/alzaraf/)
 
 ## Bullet
-Ha aportado muchas cosas a la sección de Mapeo de la wiki. Tiene un nombre de usuario interesante...  
+Ha aportado muchas cosas a la sección de mapeo de la wiki. Tiene un nombre de usuario interesante...  
 [BeatSaver](https://beatsaver.com/uploader/5e84a9933f476a000645dd88) | [BeastSaber](https://bsaber.com/members/xace1337manx/)
 
 ## CyanSnow
@@ -24,7 +24,7 @@ Un mapeador que se centra en la creación de mapas expert+ accesibles y mas bajo
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c852683) | [BeastSaber](https://bsaber.com/members/fruhead/)
 
 ## Helen Carnate
-La reina de peluche que organizó la mayoría de los recursos de mapeo. Las guías no serían como lo son a día de hoy sin ella!
+La reina de los peluches que organizó la mayoría de los recursos de mapeo. ¡Las guías no serían como son hoy sin ellos!
 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c8553d2) | [BeastSaber](https://bsaber.com/members/helencarnate/) | [Etsy Shop](https://www.etsy.com/shop/HelenCarnateDesigns)
 
@@ -34,14 +34,14 @@ Portador del daño ocular con sus shows de luces parpadeantes, también puede ay
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85507f) | [BeastSaber](https://bsaber.com/members/skeelie/) | [YouTube](https://www.youtube.com/user/xSkeelie) | [Twitch](https://www.twitch.tv/skeelie)
 
 ## Top_Cat
-First time ChroMapper contributor and MMA2 maintainer. Might finish a map one day.
+Primer contribuidor a ChroMapper y mantenedor de MM2. Podría terminar un mapa algún día.
 
 ## Vaser888
-"He's like batman. He shows up, drops testplays, vanishes into the night"
+"Es como Batman. Aparece, suelta pruebas de juego y se desvanece en la noche"
 
 [BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
 
-::: tip See Also **Supports:** [Kolezan](./supports.md#kolezan)  
-**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare)  
-**Staff:** [Bloodcloak](./staff.md#bloodcloak)  
+::: tip Ver también **Soporte:** [Kolezan](./supports.md#kolezan)  
+**Moderadores:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)  
+**Personal:** [Bloodcloak](./staff.md#bloodcloak)  
 :::

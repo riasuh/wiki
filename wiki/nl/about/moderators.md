@@ -6,16 +6,15 @@ Met een server die zo groot is, is veel moderatie nodig om alles onder controle 
 
 **Rol:** Moderator.
 
-## Caeden117
-Hoeveel statistieken kunnen we in één counters mod passen? Blijkbaar zijn dat best wel veel. Hij is ook verantwoordelijk voor de modding handleidingen op deze wiki en ChroMapper, en een binnenkort verkrijgbare level editor met Chroma RGB verlichtingsondersteuning.
+## Burrito
+Houdt ironisch genoeg niet van burritos, en denkt dat taco's beter zijn (en dat is een feit).
 
-**Rollen:** Modder, Moderator.   
-**Bijdragen:** Counters+ en wiki modding tutorials.
+**Rollen:** Moderator, Support.
 
-[GitHub](https://github.com/caeden117) | [Doneer](https://ko-fi.com/Caeden117)
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub sponsoren](https://github.com/sponsors/burritosoftware) | [Fooi](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
-brrrrrr
+crippling destiny addiction
 
 **Rollen:** Support, 3D Artists, Moderator.
 
@@ -29,91 +28,104 @@ brrrrrr
 ## Hydrand
 Camellia is SourPls.
 
-**Rollen:** Mapper, moderator.
+**Rollen:** Mapper, Moderator.
 
 [Twitch](https://www.twitch.tv/hydrandvr)
 
-## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
-Poi!
-
-**Rollen:** 3D Artists, Support, Moderator.
-
-[Twitch](https://www.twitch.tv/br3uker)
-
-## Olaf
-Zijn er stroopwafels?
+## John
+"Altijd moe"
 
 **Rol:** Moderator.
 
+## Kuru
+All they can say is that the R in Kuru stands for Rat
+
+**Rol:** Moderator.
+
+## Nym
+"i like the gaymes. Addicted to many, don't like any of them, send cat pics."
+
+**Rol:** Moderator.
+
+## Olaf
+Any stroopwafels?
+
+**Roles:** Moderator
+
 [Twitch](https://twitch.tv/olafstad)
 
-## Pink
-De enige moderator die ons negeert wanneer we om een beschrijving voor deze pagina vragen.
+## OneEyed
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
-**Rollen:** 3D Artists, Moderator, Support, Modder.
-
-**Bijdragen:** Vele Quest mods en models.
-
-## Pyrowarfare
-Een BeastSaber admin die de meeste inhoud schreef voor [Hoe test je een level](./how-to-testplay.md), [Level makers angst](./mapping-anxiety.md), en op verschillende andere pagina's heeft geholpen. Wees gewaarschuwd: je wordt gevraagd om over jouw gevoelens te praten.
-
-**Rollen:** Moderator, Mapping Support.
-
-[BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
+**Roles:** Support, Moderator
 
 ## RangeValley
 > Mijn vader werkte al jaren als admin, maar hij werd ontslagen toen bots de macht overnamen. Hij kwam die nacht thuis en vertelde me dat we in de bus moesten gaan. Aangezien we ons geen huur meer konden betalen, toen sloeg hij me helemaal verrot met jumperkabels. Shitposting zou legaal moeten zijn.
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 ## Razor
-Werkelijk geen idee wat hij doet als het om programmeren gaat, maar hij kan plugins fixen.
+Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
 
-**Rollen:** Support, Moderator.
+**Roles:** Support, Moderator
 
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Doneer](https://streamelements.com/sarpest_razor/tip)
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
 ## Shad
-"Elk kanaal is gewoon #pc-mod-support"
+"Every channel is just #pc-mod-support"
 
-**Rollen:** Moderator, Mapper, Support.
+**Roles:** Moderator, Mapper, Support
 
-[Levels](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
+[Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
 
 ## Zion
-Lekker aan t hangen.
+kinda vibing
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
-## BeigeAnimal (Gepensioneerd)
-We moesten deze jongen een beetje in vorm slaan, maar hij was een van de meest effectieve moderators. Hij is niet echt gespecialiseerd in een veld, maar hij is wel bereid om hulp te lenen **mits ze dat in het juiste kanaal vragen.** haat links van sketchfab.
+## BeigeAnimal (Retired)
+We had to whip this boy into a bit of shape but he's was one of the most effective moderators. He's not really specialized in any field but he's willing to lend a helping **provided they ask in the right channel.** Also hates sketchfab links.
 
-**Rollen:** Moderator, 3D Artists.
+**Roles:** Moderator, 3D Artists
 
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
-## DeeJay (Gepensioneerd)
-Pepega.
+## DeeJay (Retired)
+Pepega
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/deejayvr)
 
-## Guatapuri (Gepensioneerd)
-"kwam voor het spel, bleef voor de knuffels."
+## Guatapuri (Retired)
+"Came for the game, Stayed for the hugs"
 
-**Rollen:** Mapper, moderator.
+**Roles:** Mapper, Moderator
 
-## joelseph (Gepensioneerd)
+## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Retired)
+Poi!
+
+**Roles:** 3D Artists, Support, Moderator
+
+[Twitch](https://www.twitch.tv/br3uker)
+
+## joelseph (Retired)
 \+ joelseph
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/tehjoelseph)
 
-## Maladaze (Gepensioneerd)
-Kan jumps niet raken.
+## Maladaze (Retired)
+Can't hit jumps
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
+
+## Pyrowarfare (Retired)
+A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
+
+**Roles:** Moderator, Mapping Support
+
+[BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)

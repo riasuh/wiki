@@ -8,8 +8,8 @@ Als je mee wilt doen met jouw taal, kan je [soliciteren voor het helpen met vert
 ### Proeflezers
 
 * Awagi
-* Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Twitter](https://twitter.com/AarcNoa)
 
 ### Vertalers
 
@@ -48,6 +48,7 @@ Als je mee wilt doen met jouw taal, kan je [soliciteren voor het helpen met vert
 ### Proeflezers
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
 ### Vertalers
 

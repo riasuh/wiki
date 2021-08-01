@@ -8,8 +8,8 @@ If you would like to join for your language, you can [apply to help translate!](
 ### Proofreaders
 
 * Awagi
-* Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Twitter](https://twitter.com/AarcNoa)
 
 ### Translators
 
@@ -48,6 +48,7 @@ If you would like to join for your language, you can [apply to help translate!](
 ### Proofreaders
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
 ### Translators
 

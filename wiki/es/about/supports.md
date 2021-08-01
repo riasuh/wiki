@@ -8,17 +8,10 @@ _El rol de Soporte es un símbolo de agradecimiento. Gracias por los miles de me
 
 **Roles:** Soporte
 
-## Burrito
-Ironically doesn't like burritos, thinks tacos are better (true facts)
-
-**Roles:** Soporte
-
-[Twitter](https://twitter.com/BurritoSOFTWARE) | [Tip](https://streamelements.com/burritosoft/tip)
-
 ## ComputerElite
 He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
 
-**Roles:** Support
+**Roles:** Soporte
 
 [Github](https://github.com/ComputerElite/)
 
@@ -46,67 +39,61 @@ is too uncreative to think of a bio
 
 **Roles:** Support
 
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
-
-**Roles:** Support
-
 ## Pespiri
-He'll give me his bio later today, or so he says.
+Me dará su biografía más tarde hoy, o eso dice.
 
-**Roles:** Support, Modder
+**Roles:** Soporte, Modder
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
+Este tipo salió de la nada y empezó a ayudar en soporte diciendo que era algún tipo de adicción, que loco.
 
 **Roles:** Soporte
 
-[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Donar](paypal.me/Radevirot)
 
 ## Rex
-I really like to help people. Yeah that's all.
+Me gusta mucho ayudar a la gente. Sí, eso es todo.
 
-**Roles:** Support
+**Roles:** Soporte
 
 ## rui2015
-Has no creativity and doesn't know what to put here. Is a cool person though.
+No tiene creatividad y no sabe qué poner aquí. Sin embargo, es una persona genial.
 
-**Roles:** Support
+**Roles:** Soporte
 
 ## Sands
-He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
+No tiene vida y es bastante tonto pero puede ayudarte con tu bmbf y eso es lo único que importa ¿no?
 
-**Roles:** Support
+**Roles:** Soporte
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
 ## Simme63
-"Coke Head"
+"Cocainómano"
 
-**Roles:** Support
+**Roles:** Soporte
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask boulders!
+Te juro que soy bueno en Beat Saber y en ayudar, ¡sólo pregúntale a Boulders!
 
 **Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
 ## Toblersto
-I decided I wanted to help one day, and have been slightly addicted ever since.
+Un día decidí que quería ayudar, y desde entonces soy un poco adicto.
 
-**Roles:** Support
+**Roles:** Soporte
 
-## Channel Monitor Bot
-The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
+## Bot de monitorización de canales
+El bot que lo mantiene todo unido. ¡Creado por Megalon, recreado por lolPants y personificado por Rolo!
 
-[Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
+[¡Merchandising!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
 ---
 
-::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
+::: tip See Also **Artistas 3D:** [RedBrumbler](./3d-artists.md#redbrumbler)  
 **Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn)  
-**Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+**Moderadores:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Personal:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

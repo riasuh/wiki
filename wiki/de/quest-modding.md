@@ -22,15 +22,15 @@ Bitte greife die Entwickler im Bezug mit Problemen bei Mods nicht an. Modder und
 Stattdessen solltest du den schriftlichen Anleitungen hier im Wiki folgen oder Hilfe im [BSMG Discord](https://discord.gg/beatsabermods) suchen. :::
 
 ## Installation
-Currently the only recommended way to install custom songs and mods is BMBF sideloaded with SideQuest using a PC.
+Momentan ist der einzige empfohlene Weg custom Songs un Mods zu installieren BMBF, welches du mit SideQuest installierst über einen PC.
 
-If you do not have access to a PC you can use an [Android Phone](#installing-bmbf-with-an-android-phone).
+Wenn du keinen Zugriff auf einen PC hast, kannst du ein [Android Telefon](#bmbf-mit-einem-android-telefon-installieren) benutzen.
 
 * [BMBF Apk](https://bmbf.dev/stable) :::warning Wenn du BMBF installierst und du das Spiel modifizierst, wird der offizielle Multiplayer sowie das Anzeigen und Hochladen von Spielständen in den Basis-Spiel-Ranglisten deaktiviert. Wenn du den modifizierten Multiplayer spielen möchtest, benötigst du den Mod `Beat Together`, die Cross-Play zwischen Pc und Quest erlaubt und die Verwendung von Custom Songs, wenn beide Parteien den Song besitzen. Den Mod findest du in der Beat Saber Modding Group in `#quest-mods` oder auf der [Questboard](https://questmodding.com) Seite.
 
-To get leaderboards on custom songs and to be able to get Performance Points (PP) from ranked songs you need the [ScoreSaber](https://new.scoresaber.com/quest) mod. [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
+Um Ranglisten für Custom Songs zu erhalten und um Performance-Punkte (PP) aus gerankten Songs zu erhalten, benötigst du den [ScoreSaber](https://new.scoresaber.com/quest) Mod. [Dieser Link](https://new.scoresaber.com/quest) bringt dich auf die ScoreSaber Seite, um es einzurichten. ScoreSaber ersetzt nicht die Bestenlisten des Basis Games, sondern fügt nur Bestenlisten für Custom Songs hinzu.
 
-**Note:** Check the updates channel in the [ScoreSaber discord](https://discord.gg/WpuDMwU) to see if the mod is available for the current game version. :::
+**Hinweis:** Überprüfe den Aktualisierungskanal im [ScoreSaber Discord](https://discord.gg/WpuDMwU), um zu sehen, ob die Mod für die aktuelle Spielversion verfügbar ist. :::
 
 ### BMBF mit SideQuest installieren
 If you haven't already, download and setup [SideQuest](https://sidequestvr.com/#/setup-howto)
@@ -235,7 +235,7 @@ You will need to uninstall the BMBF version on your Quest. You can do this from 
 
 ### Kern-Mods funktionieren nicht
 
-If you are having problems with core mods, please verify that you are not trying to use any outdated mods. Any mod made for a previous game version is considered outdated. Once you have removed them:
+Wenn du Probleme mit den Kern-Mods hast, stelle bitte sicher, dass du keine veralteten Mods verwenden möchtest. Jede Mod, die für eine frühere Spielversion erstellt wurde, gilt als veraltet. Sobald du diese entfernt hast:
 
 1. Gehe zu `Tools`
 2. Klicke auf `Exit BMBF`
@@ -252,7 +252,7 @@ If you are having problems with core mods, please verify that you are not trying
 ---
 
 ### Das BMBF Web Interface lädt nicht
-If your BMBF Web Interface is not loading, be sure that you're typing the IP from the tools tab into your browser on your computer that's on the same network. Make sure that:
+Wenn dein BMBF Web-Interface nicht lädt, stelle sicher, dass du die IP von dem Tools Tab von BMBF in dem Browser auf deinen PC eingibst und deine Quest und dein Computer in dem selben Netzwerk sind. Stelle sicher, dass:
 
 1. Deine IP nicht `127.0.0.1` ist. Wenn dies angezeigt wird, starte deine Quest und/oder Router neu.
 2. BMBF im Headset geöffnet ist
@@ -261,13 +261,13 @@ If your BMBF Web Interface is not loading, be sure that you're typing the IP fro
 5. Dein PC und deine Quest befinden sich im selben WLAN Netzwerk
 6. Deine IP ist immer noch die gleiche, da sie sich von Zeit zu Zeit ändern kann
 
-If none of these work, restart your Quest and go through the list again.
+Wenn nicht davon funktioniert, starte deine Quest neu und gehe wieder durch die Liste.
 
 ---
 
 ### BMBF lädt die Konfiguration nicht nach ein paar Minuten
-This is likely due to using BMBF on a game version it was not built for. Such as using BMBF for Beat Saber version `1.13.0` when the version of the game installed on the headset is `1.12.2`.  
-If the game version matches what the BMBF release page says its built for, try restarting your headset. If it still does not work use the [BMBF Web Interface](#using-your-pc) and click `Quick Fix` in the Tools tab.
+Wahrscheinlich wird eine BMBF Version verwendet, die nicht für diese Spieleversion entwickelt wurde. Beispielsweise, wenn man eine BMBF Version verwendet welche für Beat Saber `1.13.0` entwicket wurde, die installierte Version auf dem Headset jedoch `1.12.2` ist.  
+Falls die Spiel-Version dem entspricht was auf der BMBF Release Seite steht wofür es entwickelt wurde, starte bitte dein Headset neu. Falls es immer noch nicht funktionieren sollte, benutze das [BMBF Web Interface](#deinen-pc-benutzen) und klicke auf `Quick Fix` unter dem Tab Tools.
 
 ### Beat Saber ist schwarz, wenn ich es starte
 Open the library on your Quest. Click the three dots next to Beat Saber and then click `Permissions`. In the menu that pops up, enable storage permissions and try launching the game again.

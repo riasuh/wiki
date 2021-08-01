@@ -2,13 +2,13 @@
 sidebar: auto
 ---
 
-# Event Winners
-Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
+# Event Winners（大会受賞者）
+Discordで開催された過去のコンテストやイベントの受賞者。 今後行われるイベントは`#server-announcements` でチェックしましょう！
 
-If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
+もっと楽しいイベントを開催したい場合は、 [Patreon](https://www.patreon.com/beatsabermods) でイベントへの寄付をしてみてください!
 
-## 2021 Battle Royale
-Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
+## 2021 バトルロワイアル
+*The Culling*と題されたこのイベントはエイプリルフールの終わりまで5時間ほど開催されたイベントで、スカイリムをテーマにしたバトルロワイヤルでした。 With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
 
 ---
 
@@ -30,7 +30,7 @@ GLHolmstroff is honored with the event role for leading the Whiterun Guard into 
 ### Victory Royale
 The one person who stood above all the rest... Caeden117
 
-## 2020 Christmas Contest
+## 2020クリスマスコンテスト
 The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 ---

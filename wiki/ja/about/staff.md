@@ -2,7 +2,7 @@
 _プロジェクトの管理、プラグインの承認、中枢サービスの管理、イベントの調整、そのほか多くの見えないプロジェクトなどたくさんのタスクがあります。 この素晴らしい個人が貢献した膨大な時間がなければ、このコミュニティは存在しないでしょう。 彼らに感謝をしましょう。(そして、可能なら支援をお願いします)_
 
 ## +1 Rabbit
-::: danger Sorry, this page has not been translated yet, you can either:
+[in-browser map previewer](https://skystudioapps.com/bs-viewer/) や、たくさんの [マップ作成ツール](https://skystudioapps.com/mapping-tools/)の製作者。
 
 **ロール:** Staff, Modder **主な仕事:** BS-Viewer, Mapping Tools
 
@@ -24,27 +24,26 @@ _プロジェクトの管理、プラグインの承認、中枢サービスの�
 
 グルコースを見ているか確認してください。 [Important](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Donate](https://ko-fi.com/bobbievr)
 
-## Lillie
-Quest用のModを作成したり、スキマ時間にPPを稼いだりしています  
-*Lillie not cutest*
+## Caeden117
+1つのカウンターModにはどのくらいの統計情報を入れることができると思いますか？ とてもたくさんです。 彼はこのwikiのMod作成チュートリアルやChroMapper（もうすぐリリースされるChroma RGBがサポートされたマップ作成ソフト）を担当しています。
 
-**Roles:** Staff, Modder, Moderator  
-**Contributions:** QuestSounds, QSettings+, FPSCounter.
+**ロール:** Staff, Modder, Moderator  
+**主な仕事:** Counters+, wikiのMod作成ガイド
 
-[GitHub](https://github.com/Rugtveit)
+[GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
 
 ## lolPants
 開発者の一人であり靴下好き lolPantsはスタッフの間たくさんのポリシーや手続きの土台を作り上げました。現在も必要であれば手助けをしています。
 
 **ロール:** Modder, Admin (Retired), Staff, Moderator  
-**主な仕事** CMB, ModSaber, Moderation, BeatSaver Reloaded
+**主な仕事** CMB, ModSaber, モデレーター, BeatSaver Reloaded
 
 [GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [PayPal](https://www.paypal.me/jackbarondev) | [Ko-fi](https://ko-fi.com/lolpants) | [Patreon](https://www.patreon.com/JackBaron) | [Donate](https://monzo.me/jackbaron)
 
 ## Megalon
 BSMGとChannel Monitor Botの共同作成者。 彼は創造的なstream overlaysと素晴らしいASMRで知られています。
 
-**役割:** Admin, Staff, Support, Modder  
+**ロール:** Admin, Staff, Support, Modder  
 **主な仕事:** CMB, BeatMods Approval, Stream Overlays, Moderation, PodCasts, Wiki
 
 [GitHub](https://github.com/megalon) | [Twitch](https://twitch.tv/megalonttv) | [Donate](https://ko-fi.com/megalon)
@@ -63,6 +62,14 @@ Team Gravityを代表するBeatSaber最初のプロプレイヤー 元ScoreSaber
 **主な仕事:** ScoreSaber
 
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
+
+## Pink
+このページの説明を求められたとき私たちは幽霊になります。
+
+**Roles:** Staff, Moderator, Support, Modder, Event Winner  
+**Contributions:** QuestBoard, PinkCore, BSMG YouTube, A bunch of Quest mods and models.
+
+[QuestBoard](https://www.questmodding.com) | [Patreon](https://www.patreon.com/moddingpink) | [YouTube](https://www.youtube.com/channel/UCTBR-IvVKylym05Dq0zFcaw) | [GitHub](https://github.com/BSMGPink)
 
 ## Reaxt
 BSMGサーバーの管理者でありリズムゲーム狂信者。 彼なくして今日の我々は存在しません。
@@ -99,34 +106,43 @@ ScoreSaberの最高指導者、カスタムリーダーボード/ランクシス
 プロジェクトマネージャー、wikiのメンテナンスそしてパンを焼くことが好きです。 誰が何と言おうと私は彼女が好きです。
 
 **ロール:** Staff, Support  
-**主な仕事:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
+**主な仕事:** Wikiの管理、Moderation, 大会の運営、 BeatMods Approvals
 
 [Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
 
 ## Assistant (引退)
-Overseeer of core services, including BeatSaver and BeatMods servers. The original Support and creator of the custom avatar guide, Mod Assistant, and ModelSaber.
+BeatSaverとBeatModsサーバーを含むコアサービスの監視。 サポートの第一人者でありカスタムアバターガイド、ModelSaberの作成者。
 
-**Roles:** Staff, Support, 3D Artists  
-**Contributions:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platform Creation Guides, Moderation, ModelSaber, BeatSaver Admin, BSMG Podcasts
+**ロール:** Staff, Support, 3D Artists  
+**主な仕事:** BeatMods Approval Staff, Multiplayer/Saber/Avatar/Platformの作成ガイド、 Moderation, ModelSaber, BeatSaver Admin, BSMG Podcasts
 
 [GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 
-## Balsa (Retired)
-He's the reason we have somewhere to get our custom songs in the first place. He shows up in once in a while to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes. He's since stepped down from the staff team, but we wouldn't be here without him.
+## Balsa (引退)
+彼こそがカスタムマップをダウンロードできるようにした人物です。 彼はBeatSaverの番号を見せびらかすためにたびたび現れ、私たちをオタクと呼び、劣化したミームを送り付けてきました。 そのあと、彼はチームを離れましたが彼なしでは我々は存在しませんでした。
 
-**Contributions:** BeatSaver Creator.
+**主な仕事:** BeatSaver Creator.
 
-## elliotttate (Retired)
-Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. He also runs BeastSaber to help you find the best curated maps.
+## elliotttate (引退)
+公式BSMG広報大使。 100Kコンテストのようなイベントは彼の努力とネットワークがなければ開催できませんでした。 また、最高の譜面をお勧めするBeastSaberを運営しています。
 
-**Roles:** Staff, BSMG PR  
-**Contributions:** BeastSaber, Contest Management
+**ロール:** Staff, BSMG PR  
+**主な仕事:** BeastSaber, Contest Management
 
 [Patreon](https://www.patreon.com/beastsaber)
 
-## Klouder (Retired)
-Longtime server member and active contributor. She was the server mom!
+## Klouder (引退)
+長い間サーバーの管理とサポートを行っていました。 彼女はサーバーのママ！
 
-**Contributions:** ScoreSaber Admin, Moderation
+**主な仕事:** ScoreSaber Admin, Moderation
 
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
+
+## Lillie (引退)
+Quest用のModを作成したり、スキマ時間にPPを稼いだりしています  
+*Lillie not cutest*
+
+**ロール:** Staff, Modder, Moderator  
+**主な仕事:** QuestSounds, QSettings+, FPSCounter.
+
+[GitHub](https://github.com/Rugtveit)

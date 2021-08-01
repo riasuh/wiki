@@ -14,7 +14,7 @@ Also known as *The Culling* this event was a Skyrim themed Battle Royale held du
 
 [Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
 
-### Finalists
+### Finalistas
 In no particular order... these people made it to the top 6 and earned themselves the role!
 
 * DaNike
@@ -56,12 +56,12 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 ### Gran Premio
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
-## 2020 Halloween Contest
+## Concurso de Halloween 2020
 The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
-[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
+[Anuncio de ganadores](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
 ### Map Winners
 
@@ -81,7 +81,7 @@ The third Halloween contest. This time with celebrity judges, LostVint, Protosta
 * **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
 * **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
-### Grand Prize
+### Gran Premio
 [Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) by **nitronik.exe**
 
 ## 2020 Battle Royale
@@ -92,7 +92,7 @@ An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challeng
 [Victory Royale Announcement](https://discord.com/channels/441805394323439646/441807344591044619/695297076669448203)
 
 ### Top 7
-In no particular order...
+En ningún orden particular...
 
 * **Alzaraf**
 * **Bobbie**
@@ -103,9 +103,9 @@ In no particular order...
 * **Shad**
 
 ### Victory Royale
-**Arti** also known as **ratsby**
+**Arti** también conocido como **ratsby**
 
-## 2019 Christmas Contest
+## Competición de Navidad 2019
 The second Holiday/Winter contest. This time throwing the holidays out of the window for Christmas, Padoru, and a Grand Prize.
 
 ---
@@ -119,7 +119,7 @@ The second Holiday/Winter contest. This time throwing the holidays out of the wi
 * **3rd:** [After the Rain - Black Christmas (JubyPhonic English Cover)](https://beatsaver.com/beatmap/7748) by **Bloodcloak**
 
 #### Menciónes honoríficas
-In no particular order...
+En ningún orden particular...
 
 * [August Burns Red - Carol of the Bells](https://beatsaver.com/beatmap/8fe5) by **Skeelie**
 * [Sunrise Skater Kids - All I Want For Christmas is You](https://beatsaver.com/beatmap/779d) by **Malakite**
@@ -132,12 +132,12 @@ In no particular order...
 * **Sabers:** [Frozen Sabers](https://modelsaber.com/Sabers/?id=1575735225) by **Raphpower**
 
 ### Mod Winner
-A special version (3.0.1 for Beat Saber 1.7) of [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) by **Sc2ad** for Quest
+Una versión especial (3.0.1 para Beat Saber 1.7) de [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) de **Sc2ad** para Quest
 
 ### Grand Prize
 [Bossfight - Carol of the Cartels](https://beatsaver.com/beatmap/73c9) by **Fefeland**
 
-## 2019 Halloween Contest
+## Competición de Halloween 2019
 The second Halloween contest, Halloween 2: Electric Boogaloo.
 
 ---

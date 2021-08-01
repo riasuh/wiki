@@ -108,7 +108,7 @@ Ouvrez-le et autorisez l'accès au stockage si vous y êtes invité. Suivez ensu
 
 Si à tout moment pendant l'installation vous voyez la pop-up `Restaurer l'app`, cliquez sur `Fermer`. Cet avertissement est principalement à l'intention des personnes qui ont piraté le jeu, il n'y a donc pas de quoi s'inquiéter si vous possédez une copie légitime du jeu.
 
-Vous pouvez maintenant continuer à l'étape [Mods principaux](#mods-principaux) du processus d'installation.
+Continuez à l'étape [Mods essentiels](#mods-essentiels) du processus d'installation.
 
 ## Gérer les données de sauvegarde
 

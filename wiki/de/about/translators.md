@@ -8,8 +8,8 @@ Wenn du in deiner Sprache mithelfen möchtest, kannst du dich [als Übersetzer b
 ### Korrekturleser
 
 * Awagi
-* Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Twitter](https://twitter.com/AarcNoa)
 
 ### Übersetzer
 
@@ -48,6 +48,7 @@ Wenn du in deiner Sprache mithelfen möchtest, kannst du dich [als Übersetzer b
 ### Korrekturleser
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
 ### Übersetzer
 

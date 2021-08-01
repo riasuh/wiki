@@ -14,33 +14,33 @@ tags:
   - wiki
   - サポート
   - ヘルプ
-  - how are beat maps make?
+  - 譜面の作り方
 ---
 
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
-::: feature Getting Started
+::: feature はじめに
 
-* [PC Modding](./pc-modding.md)
-* [Quest Modding](./quest-modding.md)
-* [Common Problems](./support/)
-* [Grips and Tricks](./grips-and-tricks.md)
-* [Ranking & Scoring Guide](./ranking-guide.md)
+* [PC用Mod](./pc-modding.md)
+* [Quest用Mod](./quest-modding.md)
+* [よくある問題](./support/)
+* [持ち方とコツ](./grips-and-tricks.md)
+* [ランキングとスコア](./ranking-guide.md)
 :::
 
-::: feature Creating new Content
+::: feature コンテンツ作成
 
-* [Modder's Guide](/modding/)
-* [Mapper Resources](/mapping/)
-* [3D Models Guide](/models/)
+* [Mod作成ガイド](/modding/)
+* [譜面作成ガイド](/mapping/)
+* [3Dモデル作成ガイド](/models/)
 :::
 
-::: feature Other Resources
+::: feature その他
 
-* [About Us](/about/)
-* [Health and Safety](./health-and-safety.md)
-* [Frequently Asked Questions](/faq/)
+* [私たちについて](/about/)
+* [安全と健康](./health-and-safety.md)
+* [よくある質問](/faq/)
 * [Communities](/communities/)
 :::
 

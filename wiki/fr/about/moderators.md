@@ -2,43 +2,50 @@
 Avec un serveur aussi vaste, énormément de modération est nécessaire pour faire respecter l'ordre. Vous pouvez remercier cette équipe pour garder les rues propres.
 
 ## 24Kings
-"Join the Qvolution, also Pink cute"
+"Rejoignez la Qvolution, d'ailleurs Pink cute"
 
-**Roles:** Moderator
+**Rôles :** Modérateur
 
-## Caeden117
-How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and ChroMapper, a soon to be released mapping software with Chroma RGB light support.
+## Burrito
+Ironiquement, n'aime pas les burritos, pense que les tacos sont meilleurs (faits avérés)
 
-**Roles:** Modder, Moderator  
-**Contributions:** Counters+, wiki modding tutorials
+**Rôles :** Modérateur, Support
 
-[GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
-brrrrrr
+crippling destiny addiction
 
-**Roles:** Support, 3D Artists, Moderator
+**Rôles :** Support, Artiste 3D, Modérateur
 
-[Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
+[Communauté Qosmetics](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
 ## Eradawn
-"Findus says hai"
+"Findus dit bonjour"
 
-**Roles:** Moderator, Support
+**Rôles :** Modérateur, Support
 
 ## Hydrand
-Camellia is SourPls
+Camellia est SourPls
 
-**Roles:** Mapper, Moderator
+**Rôles :** Mappeur, Modérateur
 
 [Twitch](https://www.twitch.tv/hydrandvr)
 
-## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯
-Poi!
+## John
+"Fatigué en permanence"
 
-**Roles:** 3D Artists, Support, Moderator
+**Rôles :** Modérateur
 
-[Twitch](https://www.twitch.tv/br3uker)
+## Kuru
+All they can say is that the R in Kuru stands for Rat
+
+**Rôles :** Modérateur
+
+## Nym
+"i like the gaymes. Addicted to many, don't like any of them, send cat pics."
+
+**Rôles :** Modérateur
 
 ## Olaf
 Any stroopwafels?
@@ -47,22 +54,13 @@ Any stroopwafels?
 
 [Twitch](https://twitch.tv/olafstad)
 
-## Pink
-The only Moderator to ghost us when asked for a description for this page.
+## OneEyed
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
 
-**Roles:** 3D Artists, Moderator, Support, Modder
-
-**Contributions:** A bunch of Quest mods and models
-
-## Pyrowarfare
-A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
-
-**Roles:** Moderator, Mapping Support
-
-[BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
+**Roles:** Support, Moderator
 
 ## RangeValley
-> Mon père a travailler des années comme admin, mais il s'est fait renvoyé quand les robots ont pris le contrôle. Il est revenu à la maison cette nuit et m'a raconté que nous devions déménager dans le van, puisqu'on ne pouvait plus payer loyer, puis il m'a défoncé à coup de câbles de démarrage. Le shitpost devrait être légal.
+> Mon père a travaillé des années comme admin, mais il a été viré quand les robots ont pris le contrôle. Il est revenu à la maison cette nuit et m'a raconté que nous devions déménager dans le van, puisqu'on ne pouvait plus payer le loyer, puis il m'a défoncé à coup de câbles. Le shitpost devrait être légal.
 
 **Roles:** Moderator
 
@@ -104,6 +102,13 @@ Pepega
 
 **Roles:** Mapper, Moderator
 
+## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Retired)
+Poi!
+
+**Roles:** 3D Artists, Support, Moderator
+
+[Twitch](https://www.twitch.tv/br3uker)
+
 ## joelseph (Retired)
 \+ joelseph
 
@@ -117,3 +122,10 @@ Can't hit jumps
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
+
+## Pyrowarfare (Retired)
+A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
+
+**Roles:** Moderator, Mapping Support
+
+[BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)

@@ -4,57 +4,57 @@
 ¡Echa un vistazo a nuestra [guía de principiantes](/beginners-guide.md)!
 
 ## ¿Cómo puedo obtener más canciones?
-> [BeatSaver](https://beatsaver.com) es el repositorio principal de canciones personalizadas hechas por la comunidad. Muchas otras herramientas y sitios mejoran la experiencia de descargar canciones personalizadas, pero este sitio es la fuente de la verdad.
+> [BeatSaver](https://beatsaver.com) es el repositorio principal de canciones personalizadas hechas por la comunidad. Muchas otras herramientas y sitios mejoran la experiencia de descargar canciones personalizadas, pero este es el sitio donde están alojadas.
 
-Si descargas mapas manualmente desde BeatSaver, extraelos en una carpeta y coloca los archivos en `Beat Saber/Beat Saber_Data/CustomLevels`. Este es el directorio del cual el juego lee nativamente los mapas personalizados.
+Si descargas mapas manualmente desde BeatSaver, extraelos en una carpeta y coloca los archivos en `Beat Saber/Beat Saber_Data/CustomLevels`. Esta es la carpeta desde el cual el juego lee de forma nativa los mapas personalizados.
 
 ### BeastSaber
 [Beast Saber](https://www.bsaber.com) es un sitio de reseñas que tiene como objetivo curar todas las canciones en BeatSaver. También puedes descargar listas de reproducción, seguir mappers, encontrar canciones usando métodos avanzados de ordenación, y mucho más.
 
 ### Herramientas de administración de canciones
 
-There are no working song management apps available at this time.
+En este momento no hay aplicaciones de gestión de canciones que funcionen.
 
 ## ¿Cómo puedo instalar listas de reproducción?
 
 ### PC
 Necesitas instalar el mod [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest).
 
-Después las opciones serán:
+Después las opciones son:
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
+* Utilizar la herramienta `Install Playlist` en la pestaña Options de Mod Assistant.
+* Colocar el archivo de la lista de reproducción en `Beat Saber/Playlists`, seleccionar la cabecera del título de la lista de reproducción en el juego, y luego pulsa descargar todas las canciones.
 
 Deberías ver la lista de reproducción junto al álbum de niveles personalizados dentro del juego. El mod también soporta la gestión de listas de reproducción dentro del juego.
 
 ### Quest
-Puedes usar [Editor de lista de reproducción Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) para administrar las listas de tus Quest. Ten en cuenta que un nivel personalizado sólo puede aparecer una vez dentro del juego debido a una limitación con BMBF.
+Puedes usar [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) para administrar las listas de tus Quest. Ten en cuenta que un nivel personalizado sólo puede aparecer sólo una vez dentro del juego debido a una limitación con BMBF.
 
-:::warning ADVERTENCIA para usuarios de Quest Recargar su Carpeta de Canción personalizada restablece toda la organización de la lista de reproducción. :::
+:::warning ADVERTENCIA para usuarios de Quest Volver a cargar tu carpeta Custom Songs restablece toda la organización de la lista de reproducción. :::
 
 ## ¿Cómo creo mis propios niveles personalizados?
-¡Echa un vistazo a [mapeo](/mapping/)!
+¡Echa un vistazo a [Mapping](/mapping/)!
 
-## How do I load PC mods that aren't in Mod Assistant?
+## ¿Cómo cargo mods de PC que no estén en Mod Assistant?
 Mira [esta sección](/pc-modding.md#manual-installation) en la guía de principiantes.
 
 ## ¿El multijugador tiene crossplay?
 Oficialmente, el multijugador se limita a jugar con otras personas en la versión de la tienda (Oculus/Steam) que hayas comprado. Además, modificar el juego en Quest desactiva el multijugador oficial.
 
-El mod BeatTogether es la solución actual para el juego multiplataforma entre las versiones del juego. Únete a su [servidor de Discord](https://discord.com/invite/gezGrFG4tz) y revisa el canal `#install-instructions` para más información.
+El mod BeatTogether es la solución actual para el juego multiplataforma entre las versiones del juego modificadas. Únete a su [servidor de Discord](https://discord.com/invite/gezGrFG4tz) y revisa el canal `#install-instructions` para más información.
 
-## ¡Mi juego se actualizo y ahora ninguno de mis mods está funcionando!
-Cada vez que el juego se actualiza es posible *(y muy probablemente)* que tus mods actuales dejen de funcionar y necesiten ser actualizados. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+## ¡Mi juego se actualizó y ahora ninguno de mis mods está funcionando!
+Cada vez que el juego se actualiza es posible *(y muy probablemente)* que tus mods actuales dejen de funcionar y necesiten ser actualizados. Para asegurarte de que tu instalación no se rompe cuando el juego se ejecute en una nueva actualización por primera vez, todo lo que hay en la carpeta `Plugins` es movido automáticamente a una nueva carpeta llamada `Old 1.xx.x Plugins`. **¡Deja esos plugins/mods ahí!**
 
 Para recuperar tus mods simplemente **ejecuta el instalador de nuevo.**  
 ¡El repositorio de BeatMods sólo incluye mods que han sido confirmados para trabajar en la última versión del juego!
 
-Si estás confundido por cualquiera de esto, visita [Guía de principiantes](/beginners-guide.md).
+Si estás confundido sobre alguna cosa relacionada con esto, visita [Guía de principiantes](/beginners-guide.md).
 
 ## ¿Cómo funciona el sistema de puntuación en Beat Saber? ¿Cómo funciona el ranking global?
 Tenemos secciones en la página de [agarres y trucos](/grips-and-tricks.md) dedicadas a los sistemas de puntuación y de ranking, ¡échale un vistazo!
 
-## Mis menú está en blanco y no tengo nada en el que hacer click
+## Mi menú está en blanco y no tengo nada en lo que hacer clic
 Si la ventana principal de tu juego está en blanco, es probable que tu archivo de guardado esté dañado.
 
 Para arreglarlo, navega a: `%AppData%\..\LocalLow\Hyperbolic Magnetism`

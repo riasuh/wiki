@@ -11,8 +11,8 @@ Creador del [previsualizador de mapas en el navegador](https://skystudioapps.com
 ## Bloodcloak
 Un mapeador al que realmente le gusta la música japonesa y EDM con alguna ocasional canción K-pop y le encanta crear mapas de estilo de baile. *Definitivamente* no ha caído en el agujero de vTuber.
 
-**Roles:** Personal, Soporte de Mapeo, Mapeo  
-**Contribuciones:** Gestión de Wiki, Mantenedor de recursos de mapeo
+**Roles:** Staff, Mapping Support, Mapper, Event Winner  
+**Contributions:** Server Operations, Wiki Management, Mapping Resources Maintainer
 
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donar](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
 
@@ -24,14 +24,13 @@ Recuérdale que debe cuidar su glucosa.
 
 Asegúrate de que cuida su glucosa [Importante](https://i.imgur.com/REWmoI9.jpg) | [Twitter](https://twitter.com/vrbobbie) | [YouTube](https://www.youtube.com/channel/UCdpHoaYSHm2GwgvapMsXgsQ) | [Donar](https://ko-fi.com/bobbievr)
 
-## Lillie
-Makes mods for quest and likes to PP farm in her free time.  
-*Lillie not cutest*
+## Caeden117
+How many statistics could we fit into a single counters mod? A lot apparently. He's also responsible for the modding tutorials on this wiki and ChroMapper, a soon to be released mapping software with Chroma RGB light support.
 
 **Roles:** Staff, Modder, Moderator  
-**Contributions:** QuestSounds, QSettings+, FPSCounter.
+**Contributions:** Counters+, wiki modding tutorials
 
-[GitHub](https://github.com/Rugtveit)
+[GitHub](https://github.com/caeden117) | [Donate](https://ko-fi.com/Caeden117)
 
 ## lolPants
 One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during their time as Staff, and continues to help out when their services are needed.
@@ -63,6 +62,14 @@ The first professional Beat Saber player, representing Team Gravity. Former Admi
 **Contributions:** ScoreSaber
 
 [Twitch](https://twitch.tv/orangew2) | [Donate](https://streamlabs.com/orangew2)
+
+## Pink
+The only Staff to ghost us when asked for a description for this page.
+
+**Roles:** Personal, Moderador, Soporte, Modder, Ganador de evento  
+**Contribuciones:** QuestBoard, PinkCore, Canal de YouTube de BSMG, un montón de mods y modelos de Quest.
+
+[QuestBoard](https://www.questmodding.com) | [Patreon](https://www.patreon.com/moddingpink) | [YouTube](https://www.youtube.com/channel/UCTBR-IvVKylym05Dq0zFcaw) | [GitHub](https://github.com/BSMGPink)
 
 ## Reaxt
 BSMG server owner and rhythm game fanatic. We wouldn't be here today without this very special boy.
@@ -124,9 +131,18 @@ Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible w
 
 [Patreon](https://www.patreon.com/beastsaber)
 
-## Klouder (Retirado)
-Miembro del servidor durante un largo tiempo y contribuidor activo. ¡Ella era la mama del servidor!
+## Klouder (Retired)
+Longtime server member and active contributor. She was the server mom!
 
-**Contribuciones:** Administrador de ScoreSaber, Moderación
+**Contributions:** ScoreSaber Admin, Moderation
 
-[Twitch](https://www.twitch.tv/klouderrr) | [Donar](https://streamlabs.com/klouderrr)
+[Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
+
+## Lillie (Retired)
+Makes mods for quest and likes to PP farm in her free time.  
+*Lillie not cutest*
+
+**Roles:** Staff, Modder, Moderator  
+**Contributions:** QuestSounds, QSettings+, FPSCounter.
+
+[GitHub](https://github.com/Rugtveit)

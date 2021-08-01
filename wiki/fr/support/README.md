@@ -238,8 +238,7 @@ Voici [un court guide vidéo (texte en anglais)](https://www.youtube.com/watch?v
 
 2. **Supprimez la TOTALITÉ du dossier Beat Saber.** À la différence de la désinstallation du jeu, cette méthode supprime tout le contenu et pas uniquement les fichiers du jeu.
 
-> Steam: ``\steamapps\common\Beat Saber\`
-  Oculus:``\hyperbolic-magnetism-beat-saber\`
+> Steam: `\steamapps\common\Beat Saber\` `Oculus: `\hyperbolic-magnetism-beat-saber\`
 
 3. Réinstallez le jeu via Steam ou l'Oculus Store.
 4. **Avant de le modder, lancez le jeu une fois**

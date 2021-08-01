@@ -50,36 +50,43 @@ Criador do CustomUI, fazendo com que a criação de novos componentes UI seja mo
 
 [GitHub](https://github.com/brian91292) | [Donate](https://ko-fi.com/brian91292)
 
-## DaNike
-Criador da versão personalizada do IPA (illusion plugin architecture) BSIPA, um injetor de mods para permitir que o Beat Saber use mods. Uma ferramenta incrível que facilita o modding no Beat Saber da maneira como é.
+## ckosmic
+Creator of CustomEnergyBars and SpectroSaber! Modding the funny cut block music game is cool. Also if you create any content for my mods I will probably remember you on my deathbed.
 
-**Cargos:** Modder **Contribuições:** BSIPA
+**Roles:** Modder **Contributions:** CustomEnergyBars, SpectroSaber
+
+[GitHub](https://github.com/ckosmic) | [Donate](https://paypal.me/ckosmic)
+
+## DaNike
+Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods. An incredible tool that makes modding beat saber as easy as it is.
+
+**Roles:** Modder **Contributions:** BSIPA
 
 [GitHub](https://github.com/nike4613) | [Donate](https://ko-fi.com/danike)
 
 ## emulamer
-Um contribuidor em tanto para o desenvolvimento dos mods de Quest.
+A massive contributor to the development of quest mods.
 
-**Cargos:** Modder
+**Roles:** Modder
 
 ## Eris
-Um dos muitos que têm um horário de sono muito questionável. Criador do MorePrecisePlayerHeight. Terminou mantendo uma variedade vasta de mods após adotá-los de seus criadores originais. E também, Pink cute.
+One of many with a very questionable sleep schedule. Creator of MorePrecisePlayerHeight. Ended up maintaining a wild variety of mods after adopting them from their original creators. Also Pink cute.
 
-**Cargos:** Modder **Contribuições:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
+**Roles:** Modder **Contributions:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
 
-[GitHub](https://github.com/erisapps) | [Donate](https://ko-fi.com/erisapps)
+[GitHub](https://github.com/erisapps) | [Donate with Patreon](https://www.patreon.com/erisapps) | [Donate with Ko-fi](https://ko-fi.com/erisapps)
 
 ## Goobie
-Mantedora dos mods que ajudam você a jogar com amigos da maneira certa. Considers herself best girl but thinks that Zenject needs more simps instead.
+Maintainer of the mods that help you play with friends the right way. Considers herself best girl but thinks that Zenject needs more simps instead.
 
-**Cargos:** Modder **Contribuições:** MultiplayerExtensions, MultiQuestensions
+**Roles:** Modder **Contributions:** MultiplayerExtensions, MultiQuestensions
 
 [GitHub](https://github.com/goobwabber) | [Twitch](https://www.twitch.tv/goobwabber) | [Donate](https://ko-fi.com/goobwabber)
 
 ## halsafar
-Ajuda você a organizar suas 5.000 custom songs de uma boa maneira.
+Helps you sort out your 5000 custom songs in a reasonable manner.
 
-**Cargos:** Modder **Contribuições:** SongBrowser
+**Roles:** Modder **Contributions:** SongBrowser
 
 [GitHub](https://github.com/halsafar)
 
@@ -215,11 +222,11 @@ Our own LIV insider and creator of Saber Tailor and the original Custom Colors p
 [GitHub](https://github.com/sc2ad) | [Twitch](https://www.twitch.tv/sc2ad) | [PayPal](https://paypal.me/sc2ad) | [Ko-Fi](https://ko-fi.com/sc2ad_support)
 
 ## Shadnix
-Current maintainer of Saber Tailor
+Current maintainer of Saber Tailor and Particle Overdrive. Made some other small things that since have become part of the base game options.
 
-**Roles:** Modder **Contributions:** Saber Tailor, Level Pack Mover
+**Roles:** Modder **Contributions:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover, AdaptiveSFXRemover
 
-[GitHub](https://github.com/Shadnix-was-taken)
+[GitHub](https://github.com/Shadnix-was-taken) | [Twitch](https://www.twitch.tv/shadnix)
 
 ## Shoko84
 Making sure we're all nice and hydrated after cutting the blocks.
@@ -279,5 +286,4 @@ Original creator of SongLoader and CameraPlus, and a major contributor to the cu
 ---
 
 ::: tip See Also **Support:** [Pespiri](./supports.md#pespiri)  
-**Moderator:** [Caeden117](./moderators.md#caeden117)  
-**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::
+**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [Caeden117](./staff.md#caeden117) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) |  [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::

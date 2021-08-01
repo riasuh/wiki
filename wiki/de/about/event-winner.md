@@ -14,8 +14,8 @@ Also known as *The Culling* this event was a Skyrim themed Battle Royale held du
 
 [Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
 
-### Finalists
-In no particular order... these people made it to the top 6 and earned themselves the role!
+### Finalisten
+In keiner bestimmten Reihenfolge... diese Leute schafften es auf die Top 6 und verdienten sich die Rolle!
 
 * DaNike
 * Pink
@@ -56,24 +56,24 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 ### Hauptpreis
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
-## 2020 Halloween Contest
+## 2020 Halloween Wettbewerb
 The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
-[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
+[Bekanntgabe der Gewinner](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
-### Map Winners
+### Map Gewinner
 
 #### Vanilla
 
-* **1st:** [Marnik - Hocus Pocus (Original Mix)](https://beatsaver.com/beatmap/10377) by **ETAN**
-* **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) by **Jamman360**
-* **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) by **FireStrike**
+* **1.:** [Marnik - Hocus Pocus (Original Mix)](https://beatsaver.com/beatmap/10377) von **ETAN**
+* **2.:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) von **Jamman360**
+* **3.:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) von **FireStrike**
 
 #### Gemodded
 
-* **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
+* **1.:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) von **aggrogahu**
 
 ### Model Winners
 

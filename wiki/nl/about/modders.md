@@ -4,28 +4,28 @@ Zorgen ervoor dat het spel eruit ziet zoals we dat willen, een mod per keer.
 ## Aeroluna
 De gek achter Noodle Extensions en de huidige onderhouder van Chroma en Technicolor. Hij is een van de mensen die Mod charts mogelijk heeft gemaakt!
 
-**Rollen:** Modder **Bijdragen:** Noodle Extension, Chroma, Technicolor.
+**Rol:** Modder **Bijdragen:** Noodle Extension, Chroma, Technicolor.
 
 [GitHub](https://github.com/Aeroluna) | [Doneer](https://ko-fi.com/aeroluna)
 
 ## andruzzzhka
 Een enorme bijdrager aan de in-game downloader mod en ontwikkelaar van de onofficiële multiplayer plugin.
 
-**Rollen:** Modder **Bijdragen:** BeatSaver Downloader, Unoffical Multiplayer, Custom Menu Music (original).
+**Rol:** Modder **Bijdragen:** BeatSaver Downloader, Unoffical Multiplayer, Custom Menu Music (original).
 
 [GitHub](https://github.com/andruzzzhka) | [Doneer](http://ko-fi.com/andruzzzhka)
 
 ## angturil
 Maker van Song Request Manager, wat twitch-requests mogelijk maakt. Bekijk de [stream van zijn vrouw](https://www.twitch.tv/sehria_k).
 
-**Rollen:** Modder **Bijdragen:** Enhanced Stream Chat, StreamCore, SongRequestManager.
+**Rol:** Modder **Bijdragen:** Enhanced Stream Chat, StreamCore, SongRequestManager.
 
 [GitHub](https://github.com/angturil) | [Doneer](https://paypal.me/sehria)
 
 ## Arti
 Heeft iemand tekst custimization mods gezegd?
 
-**Rollen:** Modder **Bijdragen:** HitScoreVisualiser, CustomMenuText, CustomFailText.
+**Rol:** Modder **Bijdragen:** HitScoreVisualiser, CustomMenuText, CustomFailText.
 
 [GitHub](https://github.com/artemiswkearney) | [GitLab](https://gitlab.com/artemiswkearney) | [Doneer](https://ko-fi.com/artibs)
 
@@ -39,7 +39,7 @@ Anders gebouwd. Op de goog.
 ## bigfoot
 Heeft grote voeten, misschien??
 
-**Rollen:** Modder **Bijdragen:** Full Combo Display, Immersive Mode, StreamInfo.
+**Rol:** Modder **Bijdragen:** Full Combo Display, Immersive Mode, StreamInfo.
 
 [GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Doneer](https://streamlabs.com/bigfooott)
 
@@ -50,24 +50,31 @@ De maker van CustomUI wat het maken van nieuwe UI componenten een makkie maakt v
 
 [GitHub](https://github.com/brian91292) | [Doneer](https://ko-fi.com/brian91292)
 
+## ckosmic
+Maker van CustomEnergyBars en SpectroSaber! Het modden van het leuke hak blok muziek spel is cool. Owja, als je iets maakt voor mijn mods zal ik je waarschijnlijk herinneren op mijn sterfbed.
+
+**Rol:** Modder **Bijdragen:** CustomEnergyBars, SpectroSaber.
+
+[GitHub](https://github.com/ckosmic) | [Doneer](https://paypal.me/ckosmic)
+
 ## DaNike
 Maker van de op maat gemaakte versie van IPA (illusion plugin architecture) BSIPA, een mod injector wat Beat Saber toe te staat mods te gebruiken. Een ongelooflijk programma dat het modden van Beat Saber zo makkelijk maakt als het is.
 
-**Rollen:** Modder **Bijdragen:** BSIPA.
+**Rol:** Modder **Bijdragen:** BSIPA.
 
 [GitHub](https://github.com/nike4613) | [Doneer](https://ko-fi.com/danike)
 
 ## emulamer
 Een enorme bijdrager aan de ontwikkeling van quest mods.
 
-**Rollen:** Modder.
+**Rol:** Modder.
 
 ## Eris
 Een van de velen met een zeer twijfelachtig slaapschema. Maker van MorePrecisePlayerHeight. Is uiteindelijk de onderhouder geworden van een wilde variatie aan mods nadat deze waren geadopteerd van de originele makers. Owja, Pink is schattig.
 
-**Rollen:** Modder **Bijdragen:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
+**Rol:** Modder **Bijdragen:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
 
-[GitHub](https://github.com/erisapps) | [Doneer](https://ko-fi.com/erisapps)
+[GitHub](https://github.com/erisapps) | [Doneer met Patreon](https://www.patreon.com/erisapps) | [Doneer met Ko-fi](https://ko-fi.com/erisapps)
 
 ## Goobie
 Onderhouder van de mods die je helpen om op de juiste manier met je vrienden te spelen. Vind zichzelf best girl, maar denk dat Zenject meer simps nodig heeft.
@@ -79,7 +86,7 @@ Onderhouder van de mods die je helpen om op de juiste manier met je vrienden te 
 ## halsafar
 Helpt je om je 5000 custom levels op een redelijke manier te sorteren.
 
-**Rollen:** Modder **Bijdrage:** SongBrowser.
+**Rol:** Modder **Bijdrage:** SongBrowser.
 
 [GitHub](https://github.com/halsafar)
 
@@ -95,7 +102,7 @@ Iedereen is favoriete Franse furry. Hij kickte modding vroeg af met de originele
 
 > C'est pain au chocolat
 
-**Rollen:** Modder, 3D Artist, ~~Staff~~ (gepensioneerd) **Bijdragen:** EditSaber, Custom Avatars, Custom Sabers, vele andere oude plugins.
+**Rollen:** Modder, 3D Artist, ~~Staff~~ (gepensioneerd) **Bijdragen:** EditSaber, Custom Avatars, Custom Sabers, vele andere oudere mods.
 
 [GitHub](https://github.com/Ikeiwa)
 
@@ -116,14 +123,14 @@ Maker van de [BSDataPuller](https://github.com/kOFReadie/BSDataPuller/) mod wat 
 ## Kyle1413
 Onze eigen Kirby en modder. Een van de meest actieve modders en een enorme rol in de evolutie van mods wanneer de oorspronkelijke modders er niet meer aan werken zoals SongLoader/SongCore en Custom Colors. 6 lanen, custom color en platform ondersteuning, custom muren en custom karaktiristieken zijn maar enkele voorbeelden van de bijdragen van Kyle aan custom level formaten.
 
-**Rol:** Modder, Support **Bijdragen:** Te veel. Hij maakt en onderhoudt een ongewoon aantal aan mods, zowel voor de PC als voor de Quest.
+**Rollen:** Modder, Support **Bijdragen:** Veel. Hij maakt en onderhoudt een ongewoon aantal aan mods, zowel voor de PC als voor de Quest.
 
 [GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Doneer](https://ko-fi.com/kyle1413k)
 
 ## Lauriethefish (TheProff)
 Maker van de discord presence integration mod voor quest, evenals de CustomFailText port en AutoDebris.
 
-**Rol:** Modder, Support **Bijdragen:** CustomFailText, Discord Presence en AutoDebris (Quest).
+**Rol:** Modder **Bijdragen:** CustomFailText, Discord Presence en AutoDebris (quest).
 
 [Github](https://github.com/Lauriethefish)
 
@@ -133,9 +140,9 @@ Bijdrager aan de beatsaber hooks die gebruikt worden in quest modding en helpt b
 **Rol:** Modder.
 
 ## monkeymanboy
-aap
+monkey
 
-**Rol:** Modder **Bijdragen:** Perfection Display, Custom Campaign, CustomUI.
+**Rol:** Modder **Bijdragen:** Perfection Display, Custom Campaign en CustomUI.
 
 [GitHub](https://github.com/monkeymanboy) | [Twitch](https://www.twitch.tv/monkeymanboy) | [Doneer](https://ko-fi.com/monkeymanboy)
 
@@ -210,19 +217,19 @@ Onze eigen LIV insider en maker van Saber Tailor en de originele Custom Colors p
 ## Sc2ad
 > Hij speelt een enorme rol in de Quest community en heeft vele modders geholpen om geweldige mods te creëren! Hij gebruikt veel van zijn tijd in het verbeteren van de core library voor de Quest om het gemakkelijker te maken voor modders en werkt momenteel aan een package manager! Hij is er vanaf het begin bij geweest en we waarderen al het werk dat hij heeft gedaan om de Quest community te helpen! <br/> \- Iemand van BSMG
 
-**Rol:** Modder **Bijdragen:** quest.
+**Rol:** Modder **Bijdragen:** Quest.
 
 [GitHub](https://github.com/sc2ad) | [Twitch](https://www.twitch.tv/sc2ad) | [PayPal](https://paypal.me/sc2ad) | [Ko-Fi](https://ko-fi.com/sc2ad_support)
 
 ## Shadnix
-Huidige onderhouder van Saber Tailor.
+Huidige onderhouder van Saber Tailor en Particle Overdrive. Heeft ook andere kleine dingen gemaakt die sindsdien deel zijn geworden van het spel.
 
-**Rol:** Modder **Bijdragen:** Saber Tailor en Level Pack Mover.
+**Rol:** Modder **Bijdragen:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover en AdaptiveSFXRemover.
 
-[GitHub](https://github.com/Shadnix-was-taken)
+[GitHub](https://github.com/Shadnix-was-taken) | [Twitch](https://www.twitch.tv/shadnix)
 
 ## Shoko84
-Zorgt ervoor dat we allemaal mooi gehydrateerd zijn na het hakken van de blokken.
+Zorg ervoor dat we allemaal mooi gehydrateerd zijn na het hakken van de blokken.
 
 **Rol:** Modder **Bijdragen:** Custom Exit en Drink Water Mod.
 
@@ -238,7 +245,7 @@ De gek die aan Chroma en Chromatoggle begon. Hij voegde dingen toe aan het spel 
 ## Soliel
 Moeder van de originele `!bsr` mod.
 
-**Rol:** Modder **Bijdragen:** De originele Twitch-integration.
+**Rol:** Modder **Bijdrage:** De originele Twitch-integration.
 
 [GitHub](https://github.com/soliel) | [Doneer](https://streamlabs.com/soliela)
 
@@ -265,7 +272,7 @@ Een enorme bijdrager aan de ontwikkeling van quest mods.
 ## vanZeben
 Snelste Steam melding stuurder simulatorontwikkelaar in het Westen. Hij maakte ook de BeatMods website!
 
-**Rol:** Modder **Bijdragen:** Beat Saber Online en is maker van BeatMods.
+**Rol:** Modder **Bijdragen:** Beat Saber Online, de maker van BeatMods.
 
 [GitHub](https://github.com/vanZeben) | [Twitch](https://www.twitch.tv/vanzeben)
 
@@ -279,5 +286,4 @@ Oorspronkelijke maker van SongLoader en CameraPlus en een belangrijke bijdrager 
 ---
 
 ::: tip Zie ook **Support:** [Pespiri](./supports.md#pespiri)   
-**Moderator:** [Caeden117](./moderators.md#caeden117)   
-**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::
+**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [Caeden117](./staff.md#caeden117) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::

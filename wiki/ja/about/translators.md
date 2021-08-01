@@ -8,8 +8,8 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 ### 校正
 
 * Awagi
-* Jeremiidesu
-  * [Twitter](https://twitter.com/Jeremiidesu)
+* Noa
+  * [Twitter](https://twitter.com/AarcNoa)
 
 ### Translators
 
@@ -48,6 +48,7 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 ### Proofreaders
 
 * Eris
+  * [Twitter](https://twitter.com/ErisApps)
 
 ### Translators
 

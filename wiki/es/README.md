@@ -10,7 +10,7 @@ footer: Copyright © 2019-2021 Beat Saber Modding Group | Licensed under CC BY-N
 tags:
   - bsmg
   - beat saber
-  - modeando
+  - modding
   - wiki
   - soporte
   - ayuda
@@ -21,11 +21,11 @@ tags:
 <div class='features'>
 
 ::: feature Comenzando
-* [Modeando en PC](./pc-modding.md)
-* [Modeando en Quest](./quest-modding.md)
+* [Modding en PC](./pc-modding.md)
+* [Modding en Quest](./quest-modding.md)
 * [Problemas comunes](. support/)
 * [Agarres y trucos](./grips-and-tricks.md)
-* [Guía de clasificación y puntuación](./ranking-guide. d)
+* [Guía de puntuación y clasificación](./ranking-guide. d)
 :::
 
 ::: feature Creando nuevo contenido
@@ -34,8 +34,8 @@ tags:
 * [Guía de Modelos 3D](/models/)
 :::
 
-::: feature Other Resources
-* [Acerca de nosotros](/about/)
+::: feature Otros recursos
+* [Sobre nosotros](/about/)
 * [Salud y seguridad](. health-and-nby.md)
 * [Preguntas Frecuentes](/faq/)
 * [Comunidades](/communities/)
@@ -49,14 +49,14 @@ tags:
 ## Enlaces externos
 
 * [Únete al servidor de Discord!](https://discord.gg/beatsabermods)
-* [Contact Us](http://bit.ly/MessageBSMG) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
-* [BSMG Patreon](https://www.patreon.com/beatsabermods) - Support the BSMG Services!
-* [BeatMods](https://beatmods.com) - Repository of PC mods that are reflected in installers like Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Download custom songs here
-* [BeastSaber](https://bsaber.com/) - Reviews, articles, playlists, and more!
-* [ModelSaber](https://modelsaber.com/) - Download PC custom sabers, avatars, bloqs, and platforms!
-* [Qosmetics Discord](https://discord.gg/qosmetics) - Download Quest custom sabers, walls, and bloqs!
-* [ScoreSaber](https://scoresaber.com/) - Custom map leaderboards
-* [Apply to Help Translate the Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localize the wiki to your language!
-* [Steam Store Page](https://store.steampowered.com/app/620980/Beat_Saber/)
-* [Oculus Store Page](https://www.oculus.com/experiences/rift/1304877726278670/)
+* [Contacta con nosotros](http://bit.ly/MessageBSMG) - Ofrece tus habilidades, patrocinanos, solicita un muteo/baneo del servidor, denuncia a un usuario, etc.
+* [Patreon de BSMG](https://www.patreon.com/beatsabermods) - ¡Apoya los servicios de BSMG!
+* [BeatMods](https://beatmods.com) - Repositorio de mods para PC que aparecen en instaladores como Mod Assistant
+* [BeatSaver](https://beatsaver.com/) - Descarga aquí canciones personalizadas
+* [BeastSaber](https://bsaber.com/) - ¡Reseñas, artículos, listas de reproducción y mucho más!
+* [ModelSaber](https://modelsaber.com/) - ¡Descarga sables personalizados para PC, avatares, bloques y plataformas!
+* [Qosmetics Discord](https://discord.gg/qosmetics) - ¡Descarga sables personalizados para Quest, muros y bloques!
+* [ScoreSaber](https://scoresaber.com/) - Tabla de clasificación de mapas personalizados
+* [¡Inscríbete para ayudar a traducir la wiki!](https://forms.gle/e3BqA3poMjESARe76) - ¡Traduce la wiki a tu idioma!
+* [Página en la tienda de Steam](https://store.steampowered.com/app/620980/Beat_Saber/)
+* [Página en la tienda de Oculus](https://www.oculus.com/experiences/rift/1304877726278670/)

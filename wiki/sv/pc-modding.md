@@ -4,7 +4,7 @@ sidebar: auto
 
 # PC Moddning
 
-## Preface
+## Förord
 
 ::: danger VARNING När du väljer att använda mods, förstår du att:
 
@@ -16,9 +16,9 @@ Attackera inte spelutvecklare för frågor som rör mods, och vice versa - modda
 
 :::warning VAR SÄKER NÄR DU INSTALLERAR MODS Beat Saber kommer **ALDRIG** be dig att köra ett mod som administratör.
 
-If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. What you installed is a malicious mod!
+Om du har hämtat och installerat en mod och du får User Account Control prompt, så klicka **INTE** på acceptera, och sedan rapportera. Vilket mod som du installerat och var skadligt!
 
-If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
+Om du är osäker på om något du installerat är en skadelig kod eller inte, ***vänligen fråga någon i vår discord server***. :::
 
 Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
 
