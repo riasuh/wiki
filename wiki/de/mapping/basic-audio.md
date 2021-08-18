@@ -96,8 +96,8 @@ Die unten aufgeführten Schritte sind die gleichen wie in Rygers [Arrow Vortex B
 
 ##### Die Codeausführung kann nicht fortgesetzt werden, da MSVCP120.dll nicht gefunden wurde
 
-* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
-  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
+* Installiere [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in deiner bevorzugten Sprache und versuche es erneut.
+  * Falls es immer noch nicht funktioniert, stelle sicher, dass du die `x86` Version am Ende der Seite herunterlädst. Nicht die `x64` Version.
 
 :::danger **Dies ist ein kritischer Schritt!**  
 Wenn du keine `.ogg`-Datei verwendest oder die Exportfunktion in AV nutzt, **wird** dein Song um eine unbestimmte Zeit desynchronisiert. :::
@@ -154,7 +154,7 @@ Nach dem Erzeugen der Stille kannst du auf die dunkle Linie in der Songspur klic
    ![Track löschen](~@images/mapping/audacity-delete_track.png)
 9. Fertig. Du kannst nun zu [Exportieren](#exportieren) oder zu [Optionale Audio Bearbeitung](#optionale-audio-bearbeitung) wechseln.
 
-> If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#sync-using-arrow-vortex) with the new file to get a positive offset.
+> Wenn du nicht die exakte Menge entfernen möchtest, kannst du mehr als nötig entfernen, die geänderte `.ogg` exportieren und [mit deinem Tool neu synchronisieren](#sync-using-arrow-vortex), um einen positiven Offset zu erhalten.
 
 ### Synchronisieren mit einem Klick-Track
 

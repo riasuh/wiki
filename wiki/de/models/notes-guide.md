@@ -18,11 +18,11 @@ Diese Anleitung erfordert Grundwissen über 3D-Modellierung und die Unity Engine
 ## Unity Projekt
 ::: danger DISCLAIMER Stelle sicher, dass du die Unity-Version 2018.1.6f1 verwendest! ::: Öffne das Custom Notes Projekt mit Unity.
 
-![Unity Project](~@images/models/notes/unity_window.png)
+![Unity Projekt](~@images/models/notes/unity_window.png)
 
 Im Hierarchie-Fenster auf der linken Seite findest du einige Beispiel-Noten.
 
-![Object Hierarchy](~@images/models/notes/02.png)
+![Objekthierarchie](~@images/models/notes/02.png)
 
 Wenn du auf eine dieser Beispiel-Noten klickst, siehst du, dass sie mit einem `"NoteDescriptor"` versehen ist.
 
@@ -33,7 +33,7 @@ Lass uns kurz überfliegen, was jede dieser Einstellungen bewirkt.
 ### Note Name & Autor Name
 Dies sollte einfach sein. Der Name der Note und der des Autors wird in der Benutzeroberfläche für die Auswahl der Noten angezeigt, wie in der folgenden Abbildung dargestellt.
 
-![Ingame example of note name and author name](~@images/models/notes/04.png)
+![Beispiel für den Namen einer Note und den Namen des Autors im Spiel](~@images/models/notes/04.png)
 
 ### Icon
 Diese Einstellung nimmt ein Bild auf, das als Symbol verwendet werden soll. Das Symbol wird in der Benutzeroberfläche für die Auswahl von Notizen angezeigt, wie in der Abbildung oben zu sehen.
@@ -44,252 +44,252 @@ Wenn diese Einstellung aktiviert ist, werden die Pfeile auf den Noten unsichtbar
 ### Verwende Noten Farben
 Wenn diese Option aktiviert ist, werden die aktuell eingestellten Noten-Farben des Players verwendet, um Ihre Noten entsprechend zu färben. Damit können deine Noten `CustomColors` unterstützen. Wenn du dies richtig nutzen willst, solltest du unbedingt den Abschnitt lesen, der sich damit beschäftigt, wie du deine Noten mit benutzerdefinierten Farben veränderst.
 
-### Noten-Farbe Stärke
+### Stärke der Noten Farben
 Diese Option wird nur verwendet, wenn `Uses Note Color` aktiviert ist. Die Stärke der Noten-Farbe legt fest, wie stark die auf die Noten angewendete Tönung ist und ist standardmäßig auf 1 eingestellt. Je niedriger du diese Zahl einstellst, desto dezenter wird die Tönung sein.
 
 ## Noten erstellen
 Du solltest bereits ein 3D-Modell haben, das du für deine Noten verwenden möchtest. Für das Tutorial werde ich ein einfaches Dreiecks-Mesh verwenden, das ich in Blender erstellt habe. Fahre fort und importiere dein Modell in das Projekt.
 
-![Importing into the unity project](~@images/models/notes/05.png)
+![Importieren in das Unity-Projekt](~@images/models/notes/05.png)
 
 Nachdem du das Modell importiert hast, erstelle ein neues leeres `GameObject` in der Hierarchieansicht und nenne es so, wie du deine Note benennen willst. Ich nenne meine `TriangleNote`.
 
-![Creating a new gameobject](~@images/models/notes/07.png)
+![Erstellung eines neuen GameObject](~@images/models/notes/07.png)
 
 Klickenim `GameObject` deiner Note auf `Komponente hinzufügen` und füge einen `NoteDescriptor` hinzu. Kümmere dich jetzt nicht darum, irgendwelche Optionen im `NoteDescriptor` zu ändern, das kommt später.
 
-![Adding a NoteDescriptor](~@images/models/notes/08.png)
+![Hinzufügen eines NoteDescriptors](~@images/models/notes/08.png)
 
-Now we can go ahead and start adding children to our custom note's main GameObject. `NoteLeft` and `NoteRight` are the two required notes, but you can also add a `NoteDotRight`, `NoteDotLeft`, or `NoteBomb` to your main GameObject. For the purposes of this tutorial I'm only going to be making a `NoteLeft` and `NoteRight`.
+Jetzt können wir damit beginnen, dem Haupt-Spielobjekt unsere Custom Notes "Children" hinzuzufügen. `NoteLeft` und `NoteRight` sind die beiden benötigten Noten. Du kannst aber auch `NoteDotRight`, `NoteDotLeft` oder `NoteBomb` zu deinem Haupt-Spielobjekt hinzufügen. Für dieses Tutorial werde ich nur eine `NoteLeft` und `NoteRight` erstellen.
 
-Go ahead and create a new empty GameObject inside of your main GameObject and name it `NoteLeft`
+Erstelle ein neues leeres Spielobjekt innerhalb deines Haupt-Spielobjekts und nenne es `NoteLeft`
 
-![Creating an empty GameObject inside of TriangleNote](~@images/models/notes/09.png)
+![Erstellen eines leeren GameObjects innerhalb von TriangleNote](~@images/models/notes/09.png)
 
-![Showing the hierarchy of TriangleNote and NoteLeft](~@images/models/notes/10.png)
+![Darstellung der Hierarchie von TriangleNote und NoteLeft](~@images/models/notes/10.png)
 
-`NoteLeft` will serve as a kind of "container" for all of the GameObjects that contain meshes in our note. We'll be able to position and rotate our meshes freely if we put them in a seperate GameObject inside of `NoteLeft`, which we would not be able to do if we simply added mesh components directly to the `NoteLeft` GameObject.
+`NoteLeft` wird als eine Art "Container" für alle GameObjects dienen, die Meshes in unserer Notiz enthalten. Wir können unsere Meshes frei positionieren und drehen, wenn wir sie in einem separaten GameObject innerhalb von `NoteLeft` platzieren, was nicht möglich wäre, wenn wir die Mesh-Komponenten einfach direkt zum `NoteLeft` GameObject hinzufügen würden.
 
-Go ahead and drag and drop your imported mesh onto `NoteLeft` in the hierarchy view.
+Ziehe dein importiertes Mesh auf `NoteLeft` in der Hierarchieansicht.
 
-![Dragging mesh onto NoteLeft](~@images/models/notes/note_drag.png)
+![Ziehen des Meshes auf NoteLeft](~@images/models/notes/note_drag.png)
 
-![Dragging mesh onto NoteLeft](~@images/models/notes/56.png)
+![Ziehen des Meshes auf NoteLeft](~@images/models/notes/56.png)
 
-You should now have your imported mesh as a child GameObject of `NoteLeft`. Depending on what modeling program you used, you may need to remove some non-mesh objects. If you see any objects in your mesh named `Camera` or `Lamp`, **MAKE SURE YOU DELETE THEM!** If you see a warning about "breaking the prefab instance", press "Continue".
+Du solltest nun dein importiertes Mesh als untergeordnetes GameObject von `NoteLeft` sehen. Je nachdem, welches Modellierungsprogramm du verwendet hast, musst du möglicherweise einige Nicht-Mesh-Objekte entfernen. Wenn du in deinem Mesh Objekte mit dem Namen `Camera` oder `Lamp` siehst, **STELLE SICHER, dass du sie löschst!** Wenn du eine Warnung siehst, die besagt, dass "die Prefab-Instanz kaputt geht", drücke "Weiter".
 
-![Showing hierarchy and pointing out Camera](~@images/models/notes/64.png)
+![Hierarchie aufzeigen und auf die Kamera hinweisen](~@images/models/notes/64.png)
 
-![Saying continue on warning](~@images/models/notes/59.png)
+![Klicke Weiter auf Warnung](~@images/models/notes/59.png)
 
-Click on the object you just added and make sure that it has a position of `(0,0,0)`
+Klicke auf das soeben hinzugefügte Objekt und stelle sicher, dass es die Position `(0,0,0)` hat
 
-![Checking position](~@images/models/notes/61.png)
+![Position checken](~@images/models/notes/61.png)
 
-Once you've selected the mesh you need to properly scale it to be the size of an note in-game. Select `NoteLeft` and move it near the `TemplateNoteSize`. The `TemplateNoteSize` should be the white square in your project.
+Sobald du das Mesh ausgewählt hast, musst du es richtig skalieren, damit es die Größe einer Note im Spiel hat. Wähle `NoteLeft` und verschiebe es in die Nähe der `TemplateNoteSize`. Die `TemplateNoteSize` sollte das weiße Quadrat in deinem Projekt sein.
 
-::: warning WARNING Make sure you select `NoteLeft` when you're moving your note. If you accidentally move the children of `NoteLeft` instead, the meshes will not be aligned! The meshes inside of `NoteLeft` should almost ALWAYS be at position `(0,0,0)` unless you're purposefully adjusting them. :::
+::: warning WARNUNG Vergewissere dich, dass du `NoteLeft` wählst, wenn du deine Note verschiebst. Wenn du stattdessen versehentlich die "Children" von `NoteLeft` verschiebst, wird die Mesh nicht ausgerichtet! Die Meshes innerhalb von `NoteLeft` sollten sich fast IMMER an der Position `(0,0,0)` befinden, es sei denn, du hast sie absichtlich angepasst. :::
 
-![Showing the mesh next to TemplateNoteSize](~@images/models/notes/62.png)
+![Zeige das Mesh neben TemplateNoteSize](~@images/models/notes/62.png)
 
-Once you've moved `NoteLeft` to be near the `TemplateNoteSize`, select the scale tool near the top left of the screen.
+Sobald du `NoteLeft` in die Nähe der `TemplateNoteSize` verschoben hast, wähle das Skalierungswerkzeug oben links auf dem Bildschirm.
 
-![Selecting scale tool](~@images/models/notes/63.png)
+![Auswahl des Skaling-Werkzeuges](~@images/models/notes/63.png)
 
-With the GameObject inside of `NoteLeft` selected, click and drag on the gray square and move your mouse until your note is roughly the same size as the `TemplateNoteSize`.
+Wenn das GameObject innerhalb von `NoteLeft` ausgewählt ist, klicke und ziehe es auf das graue Quadrat. Bewege die Maus, bis deine Note ungefähr die gleiche Größe hat wie die `TemplateNoteSize`.
 
-![Showing how to use scale tool](~@images/models/notes/60.png)
+![Zeige wie man das Skalierungswerkzeug verwendet](~@images/models/notes/60.png)
 
-::: warning WARNING Make sure you're adjusting the scale of the objects INSIDE of `NoteLeft`. `NoteLeft` will always have a forced scale of one, so if you set its scale to anything other than `(1,1,1)` your model will look different in-game! :::
+::: warning WARNUNG Stelle sicher, dass du den Maßstab der Objekte INNERHALB von `NoteLeft` anpasst. `NoteLeft` hat immer einen Zwangsmaßstab von eins. Wenn du also einen anderen Maßstab als `(1,1,1)` wählst, wird dein Modell im Spiel anders aussehen! :::
 
-![Showing the correctly scaled mesh next to TemplateNoteSize](~@images/models/notes/66.png)
+![Zeigt das korrekt skalierte Mesh neben TemplateNoteSize](~@images/models/notes/66.png)
 
-As you can see, the scale that worked for my mesh is about `(0.65,0.65,0.65)`. This value will probably be different depending on what mesh you're using. If you can't get the mesh to be exactly the same size as the `TemplateNoteSize` don't worry too much because it doesn't need to be exact. Keep in mind that having a note be slightly too large is generally better than having it be slightly too small.
+Wie du sehen kannst, ist die Skala, die für mein Netz funktioniert, etwa `(0.65,0.65,0.65)`. Dieser Wert wird wahrscheinlich unterschiedlich sein je nachdem, welches Netz du verwendest. Wenn das Mesh nicht genau die gleiche Größe hat wie die `TemplateNoteSize`, nicht zu sehr beunruhigen lassen, denn es muss nicht exakt sein. Denke daran, dass eine etwas zu große Note im Allgemeinen besser ist als eine etwas zu kleine Note.
 
-::: warning WARNING Make sure your notes are facing the correct direction. Look at the direction all of the other notes in the scene and ensure that your meshes are facing the same way. **REMEMBER**: The `NoteLeft` GameObject should always have a rotation of `(0,0,0)`. If you need to rotate your note, don't rotate `NoteLeft`, but instead rotate the meshes inside of it! :::
+::: warning WARNUNG Achte darauf, dass deine Noten in die richtige Richtung zeigen. Achte auf die Richtung aller anderen Noten in der Szene und stelle sicher, dass deine Meshes in die gleiche Richtung zeigen. **DENKE DARAN**: Das `NoteLeft` GameObject sollte immer eine Rotation von `(0,0,0)` haben. Wenn du deine Note drehen musst, drehe nicht `NoteLeft`, sondern drehe die darin enthaltenen Meshes! :::
 
-## Adding materials
-Now that the mesh is properly scaled we can go ahead and add a material to it. In the project window, right click on `Materials` and then do `Create->Material`. Since this is going to be the material for the mesh of my `LeftNote`, I'll name it `LeftMaterial`.
+## Materialien Hinzufügen
+Nachdem das Mesh nun richtig skaliert ist, können wir ihm ein Material hinzufügen. Klicken Sie im Projektfenster mit der rechten Maustaste auf `Materialien` und dann auf `Erstellen> Material`. Da dies das Material für das Mesh meiner `LeftNote` sein wird, werde ich es `LeftMaterial` nennen.
 
-![Creating a new material](~@images/models/notes/17.png)
+![Neues Material erstellen](~@images/models/notes/17.png)
 
-Now that we have LeftMaterial, we have to choose which shader to use for it. If you use any of the default Unity shaders they won't show up ingame properly, so we have to use one of the `BeatSaber` shaders.
+Nun, da wir LeftMaterial haben, müssen wir wählen, welche Shader wir dafür verwenden wollen. Wenn man einen der Standard-Shader von Unity verwendet, werden sie im Spiel nicht richtig angezeigt, also müssen wir einen der `BeatSaber` Shader verwenden.
 
-![Setting the shader for the new material](~@images/models/notes/18.png)
+![Einstellung des Shaders für das neue Material](~@images/models/notes/18.png)
 
-For my LeftMaterial, I'm going to use `Unlit Glow`. However, you may want to use a different shader depending on your mesh. Here are the main differences between the shaders:
+Für mein LeftMaterial werde ich `Unlit Glow` verwenden. Es kann jedoch sein, dass du je nach Mesh einen anderen Shader verwenden möchtest. Hier sind die wichtigsten Unterschiede zwischen den Shadern:
 
-* Lit glow is lit and has shadows. You can change the direction the light comes from and how strong it is
-* Metallic makes the material slightly darker and allows you to add a metallic reflection
-* Unlit glow is similar to lit glow but it doesn't have any lighting effects.
-* Unlit glow cutout dither is the same as unlit glow but allows you to add transparency to your material.
+* Lit glow ist beleuchtet und hat Schatten. Du kannst die Richtung, aus der das Licht kommt, und die Stärke des Lichts ändern
+* Metallic macht das Material etwas dunkler und ermöglicht es dir, eine metallische Reflexion hinzuzufügen
+* Unlit glow ist lit glow ähnlich, hat aber keine Lichteffekte.
+* Unlit glow cutout dither ist dasselbe wie unlit glow, ermöglicht es dir aber, Transparenz zu deinem Material hinzuzufügen.
 
-All four of these shaders also allow you to use textures, although Metallic uses the texture for the reflection instead of applying it directly.
+Alle vier Shader erlauben auch die Verwendung von Texturen, obwohl Metallic die Textur für die Reflexion verwendet, anstatt sie direkt anzuwenden.
 
-Once you've selected your shader, go ahead and pick a color for your left material. Since this is the left block, i'm going to pick a reddish color.
+Sobald du deinen Shader ausgewählt hast, wähle eine Farbe für dein linkes Material. Da dies der der linke Block ist, werde ich eine rötliche Farbe wählen.
 
-![Picking the color of the material](~@images/models/notes/19.png)
+![Die Farbe des Materials auswählen](~@images/models/notes/19.png)
 
-Now that the color is set, go back to your mesh and set it as the material.
+Jetzt, da die Farbe festgelegt ist, gehen zurück zu deinem Mesh und lege es als Material fest.
 
-![Selecting the material on the mesh](~@images/models/notes/20.png)
+![Auswählen des Material auf dem Mesh](~@images/models/notes/20.png)
 
-![Selecting the material on the mesh](~@images/models/notes/21.png)
+![Auswählen des Material auf dem Mesh](~@images/models/notes/21.png)
 
-Your note should now have a material that shows up properly ingame. Now we need to create a right note and do the same thing again. Right click on `NoteLeft` and `Duplicate` it. Rename this duplicate `NoteRight`.
+Deine Note sollte jetzt ein Material haben, das im Spiel richtig angezeigt wird. Jetzt müssen wir eine rechte Note erstellen und das Gleiche wiederholen. Klicke mit der rechten Maustaste auf `NoteLeft` und `Dupliziere` sie. Benenne das Duplikat in `NoteRight` um.
 
-![Duplicating the left note](~@images/models/notes/67.png)
+![Duplizieren der linken Note](~@images/models/notes/67.png)
 
-![Showing the hierarchy of the note, with NoteLeft and NoteRight](~@images/models/notes/68.png)
+![Anzeige der Hierarchie der Note, mit NoteLeft und NoteRight](~@images/models/notes/68.png)
 
-Now, follow the steps above again to create a second material. Make sure to use the same shader if you want the notes to look consistent between colors. For my second material, I'm going to name it RightMaterial and give it a blue color.
+Führe nun die obigen Schritte erneut aus, um ein zweites Material zu erstellen. Achte darauf, denselben Shader zu verwenden, wenn du möchtest, dass die Noten zwischen den Farben konsistent aussehen. Für mein zweites Material werde ich es RightMaterial nennen und ihm eine blaue Farbe geben.
 
-![Picking the color of RightMaterial](~@images/models/notes/25.png)
+![Farbe von RightMaterial auswählen](~@images/models/notes/25.png)
 
-Now that you have the second material, apply it to the mesh of the `NoteRight`.
+Jetzt, wo du das zweite Material hast, wende es auf das Mesh der `NoteRight` an.
 
-![Clicking on the mesh of the right note](~@images/models/notes/69.png)
+![Klicke auf das Mesh der rechten Note](~@images/models/notes/69.png)
 
-![Selecting the right note material on the right note mesh](~@images/models/notes/27.png)
+![Auswählen des richtigen Notenmaterials auf dem richtigen Noten Mesh](~@images/models/notes/27.png)
 
-![Selecting the right note material on the right note mesh](~@images/models/notes/28.png)
+![Auswählen des richtigen Notenmaterials auf dem richtigen Noten Mesh](~@images/models/notes/28.png)
 
-You now have two notes, both of which are properly textured and will show up ingame.
+Du hast nun zwei Noten, die beide richtig texturiert sind und im Spiel angezeigt werden.
 
-## Exporting your notes
+## Exportieren deiner Noten
 
-Now that our meshes and materials are properly set up, we can go back to the `NoteDescriptor` and change the settings. Go to your note's main GameObject and look at the `NoteDescriptor` in the properties panel.
+Nun, da unsere Meshes und Materialien richtig eingestellt sind, können wir zum `NoteDescriptor` zurückkehren und die Einstellungen ändern. Gehe zum Haupt-GameObject deiner Note und sehe dir den `NoteDescriptor` im Eigenschaften-Fenster an.
 
-![Showing the NoteDescriptor](~@images/models/notes/29.png)
+![Anzeigen des NoteDescriptor](~@images/models/notes/29.png)
 
-Set the `Note Name` to what you want your note to be called ingame. I'll set mine to "Triangle Notes". Additionally, set the `Author Name` to the name you want to be credited by. I'll be setting mine to "Bobbie".
+Setze den `Note Name` auf den Namen, den deine Note im Spiel haben soll. Ich werde meine auf "Triangle Note" einstellen. Zusätzlich, setze den `Author Name` auf den Namen, den du als Autor angeben möchtest. Ich werde meinen auf "Bobbie" einstellen.
 
-![Showing the NoteDescriptor](~@images/models/notes/30.png)
+![Anzeigen des NoteDescriptor](~@images/models/notes/30.png)
 
-::: warning WARNING Although it's not technically required, it is highly recommended you add an icon to your notes so that they are easier to identify in the UI. :::
+::: warning WARNUNG Obwohl es technisch nicht erforderlich ist, wird dringend empfohlen, ein Symbol zu deinen Noten hinzuzufügen, damit sie in der Benutzeroberfläche leichter zu erkennen sind. :::
 
-Import the image you're going to use for your icon by clicking `Import New Asset`. I'll be using a triangle icon I made.
+Importiere das Bild, das du für dein Symbol verwenden willst, indem du auf `Neues Asset importieren` klickst. Ich werde ein von mir erstelltes Dreieckssymbol verwenden.
 
-![Importing a new asset](~@images/models/notes/31.png)
+![Importieren eines neuen Assets](~@images/models/notes/31.png)
 
-If your image has transparency, make sure to check `Alpha Is Transparency` and click apply.
+Wenn dein Bild transparent ist, aktiviere `Alpha ist transparent` und klicke auf "Anwenden".
 
-![Checking alpha is transparency](~@images/models/notes/32.png)
+![Prüfen ob Alpha transparent ist](~@images/models/notes/32.png)
 
-![Clicking apply](~@images/models/notes/33.png)
+![Klicken anwenden](~@images/models/notes/33.png)
 
-Now go back to the `NoteDescriptor` and select the image you just imported.
+Gehe nun zurück zum `NoteDescriptor` und wähle das Bild aus, das du gerade importiert hast.
 
-![Selecting texture](~@images/models/notes/34.png)
+![Auswahl der Textur](~@images/models/notes/34.png)
 
-![Selecting texture](~@images/models/notes/35.png)
+![Auswahl der Textur](~@images/models/notes/35.png)
 
-Now we have three options left - `Disable Base Note Arrows`, `Uses Note Color`, and `Note Color Strength`. Because my model does not have any custom arrows, I'm going to leave `Disable Base Note Arrows` unchecked so we can keep the default arrows. I'm going to leave `Uses Note Color` unchecked for now too, which means that we don't need to change `Note Color Strength` either.
+Jetzt haben wir noch drei Optionen: `Disable Base Note Arrows`, `Uses Note Color` und `Note Color Strength`. Da mein Modell keine benutzerdefinierten Pfeile hat, lasse ich `Disable Base Note Arrows` unmarkiert, damit wir die Standardpfeile behalten. Ich werde `Uses Note Color` vorerst auch nicht ankreuzen, was bedeutet, dass wir auch `Note Color Strength` nicht zu ändern brauchen.
 
-::: warning WARNING If you're going to enable `Uses Note Color` - and I highly recommend you do - make sure to read the section on how to support custom colors correctly! :::
+Wenn du `Uses Note Color` aktivierst- und ich empfehle dir dringend, dies zu tun - lies dir unbedingt den Abschnitt über die korrekte Unterstützung benutzerdefinierter Farben! :::
 
-![Showing NoteDescriptor](~@images/models/notes/36.png)
+![Anzeigen von NoteDescriptor](~@images/models/notes/36.png)
 
-Now that our `NoteDescriptor` options are completely set, we can export our note using the `Note Exporter`. To get to the `Note Exporter`, look for the tab on the left of your screen, near the `Hierarchy` tab.
+Nun, da unsere `NoteDescriptor` Optionen vollständig eingestellt sind, können wir unsere Note mit dem `Note Exporter` exportieren. Um zum `Note Exporter` zu gelangen, suche die Registerkarte auf der linken Seite deines Bildschirms, in der Nähe der Registerkarte `Hierarchy`.
 
-![Clicking note exporter](~@images/models/notes/70.png)
+![Klicken "Note Exportieren"](~@images/models/notes/70.png)
 
-![Showing note in note exporter](~@images/models/notes/38.png)
+![Anzeige der Note im Note-Exporter](~@images/models/notes/38.png)
 
-Your note should be at the top of the `Note Exporter`. Once you're sure that all of your `NoteDescriptor` settings are correct, click the export button below your note in the `Note Exporter`. Make sure to export it into your `Beat Saber/CustomNotes` folder so you can test it ingame.
+Deine Note sollte am Anfang des `Note Exporter` stehen. Wenn du dir sicher bist, dass alle deine `NoteDescriptor` Einstellungen korrekt sind, klicke im `Note Exporter` auf die Schaltfläche Exportieren unter deiner Note. Stelle sicher, dass du es in deinen `Beat Saber/CustomNotes` Ordner exportierst, damit du es im Spiel testen kannst.
 
-::: warning WARNING If you're going to export a note again, make sure to delete the old version. The Note Exporter won't export a note if there's already a note with an identical name in the same folder. :::
+::: warning WARNUNG Wenn du eine Notiz erneut exportieren willst, musst du die alte Version löschen. Der Note Exporter exportiert keine Note, wenn sich im selben Ordner bereits eine Notemit demselben Namen befindet. :::
 
-![Cllicking export note](~@images/models/notes/39.png)
+![Exportiere Note](~@images/models/notes/39.png)
 
-![Exporting note](~@images/models/notes/40.png)
+![Exportiere Note](~@images/models/notes/40.png)
 
-Now that your notes are exported, you can start beat saber and see how they look ingame. In beat saber, click `Mods` and then `Custom Notes`. If you did everything correctly, you should see your notes in the list.
+Jetzt, wo deine Noten exportiert sind, kannst du Beat Saber starten und sehen, wie sie im Spiel aussehen. Klicke in Beat Saber auf `Mods` und dann `Custom Notes`. Wenn du alles richtig gemacht hast, solltest du deine Noten in der Liste sehen.
 
-![Showing note preview ingame](~@images/models/notes/41.png)
+![Zeige Note-Vorschau ingame](~@images/models/notes/41.png)
 
-Select your notes and try playing a song.
+Wähle deine Noten aus und versuche, ein Lied zu spielen.
 
-![Showing note ingame](~@images/models/notes/42.png)
+![Zeige Note Ingame](~@images/models/notes/42.png)
 
-### Preview Your Note In-game without putting on your headset using FPFC
-First Person Flying Controller (FPFC) is a launch parameter that can be used by either Steam or Oculus users. FPFC will open an instance of Beat Saber on your desktop and allow you to control it with your keyboard and mouse. You will need the SiraUtil mod in order to interact while a map is playing.
+### Mit FPFC eine Vorschau Noten im Spiel anzeigen, ohne das Headset aufzusetzen
+First Person Flying Controller (FPFC) ist ein Startparameter, der sowohl von Steam- als auch von Oculus-Nutzern verwendet werden kann. FPFC öffnet eine Instanz von Beat Saber auf deinem Desktop und erlaubt dir, es mit der Tastatur und Maus zu steuern. Du benötigst die SiraUtil-Mod, um während der Wiedergabe einer Map zu interagieren.
 
-It allows you to use WASD to "fly" around, open the pause menu by hitting the <kbd>F2</kbd> key, or exit your level by hitting the <kbd>ESC</kbd> key (otherwise you must play your song to completion).
+Mit der WASD-Taste kannst du herumfliegen, mit der <kbd>F2</kbd> Taste das Pausenmenü öffnen oder mit der <kbd>ESC</kbd> Taste das Level verlassen (Ansonsten man den Song zu Ende spielen lassen).
 
-Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. Edit the `SiraUtil.json` file in your `UserData` folder and change `"Enabled": false` to `"Enabled": true` under FPFCToggle and SongControl then follow the store platform specific steps below.
+Installiere SiraUtil aus dem Mod-Assistent und führe Beat Saber aus, um eine config json-Datei zu erstellen. Bearbeite die Datei `SiraUtil.json` in dem Ordner `UserData` und ändere `"Enabled": false` in `"Enabled": true` unter FPFCToggle und SongControl und folge dann den unten aufgeführten Schritten für die Speicherplattform.
 
 ![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
 
-**For Steam Users:**
+**Für Steam User:**
 
-Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
+Öffne die Spieleigenschaften und füge `fpfc` zu den Steam Startoptionen in den Einstellungen Allgemein hinzu. ![FPFC Startoptionen](~@images/mapping/fpfc.png)
 
-**For Oculus Users:**
+**Für Oculus Besitzer:**
 
-1. Right click on Beat Saber.exe and create a shortcut.
-2. Edit the Target to add "fpfc" to the end of it. For example: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
+1. Klicke mit der rechten Maustaste auf Beat Saber.exe und erstelle eine Verknüpfung.
+2. Bearbeite das Ziel, um "fpfc" am Ende hinzuzufügen. Zum Beispiel: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-After installing the mods and adding the launch parameter you can then now move around and pause in a map. The toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
+Nach der Installation der Mods und dem Hinzufügen des Startparameters kannst du dich nun in einer Karte bewegen und pausieren. Die Umschalttaste zum Umschalten zwischen Headset- und Maus-/Tastatursteuerung ist <kbd>G</kbd>.
 
-:::warning NOTE
+:::warning HINWEIS
 
-* If you go back into vr and the game doesn't load in the headset either:
-  * Press the <kbd>G</kbd> key until the headset displays the game  
-    **==OR==**
-  * Quit the game, remove the launch option, and relaunch the game.
+* Wenn du zurück in Vr gehst und das Spiel auch im Headset nicht geladen wird:
+  * Drücke die Taste <kbd>G</kbd>, bis das Headset das Spiel anzeigt  
+    **==ODER==**
+  * Beende das Spiel, entferne die Startoption, und starte das Spiel neu.
 
-* If the mod doesn't seem to be working, make sure the in-game Smooth Camera setting is disabled. :::
+* Wenn der Mod nicht zu funktionieren scheint, stelle sicher, dass die Einstellung "Smooth Camera" im Spiel deaktiviert ist. :::
 
-If everything looks good ingame, you should be finished! Make sure to try playing with your notes with your headset on at least once before releasing them.
+Wenn alles im Spiel gut aussieht, solltest du fertig sein! Versuche mindestens einmal, mit deinen Noten mit aufgesetztem Headset zu spielen, bevor du sie freigibst.
 
 ## Custom Colors
-This section is assuming you already have a custom note fully set up and simply want to add support for custom colors, which is highly recommended because it will almost always enhance the user experience.
+In diesem Abschnitt wird davon ausgegangen, dass du bereits eine Custom Note vollständig eingerichtet hast und lediglich die Unterstützung für Custom Colors hinzufügen möchtest, was sehr zu empfehlen ist, da es die Benutzerfreundlichkeit fast immer verbessert.
 
-CustomColor support works by tinting the notes to the current player-set color. If your material has a texture, lighter colors will be tinted more, whilst darker colors will be tinted less.
+Die Unterstützung von CustomColor funktioniert, indem die Noten in der vom Spieler eingestellten Farbe eingefärbt werden. Wenn dein Material eine Textur hat, werden hellere Farben stärker getönt, während dunklere Farben weniger getönt werden.
 
-Go ahead and create a new material in the `Materials` folder. With CustomColor support, generally you're going to be using the same material for both the left and right note, so I'm going to name my material `NoteMaterial`.
+Erstelle nun ein neues Material im Ordner `Materials`. Mit der CustomColor-Unterstützung wirst du in der Regel dasselbe Material für die linke und die rechte Note verwenden, also werde ich mein Material `NoteMaterial` nennen.
 
-![Creating a new material](~@images/models/notes/43.png)
+![Neues Material erstellen](~@images/models/notes/43.png)
 
-Now select the shader you want to use for your note. If you're not sure which shader you want to use, refer back to the `Adding Materials` section of this guide. For my note, I'm going to use `Unlit Glow`.
+Wähle nun den Shader aus, den du für deine Note verwenden möchtest. Wenn du dir nicht sicher bist, welchen Shader du verwenden willst, lies dir den Abschnitt `Materialien hinzufügen` in dieser Anleitung durch. Für meine Note werde ich `Unlit Glow` verwenden.
 
-![Selecting shader](~@images/models/notes/44.png)
+![Shader auswählen](~@images/models/notes/44.png)
 
-Now apply this material to both your NoteLeft mesh and your NoteRight mesh. Make sure to apply it to BOTH!
+Wende dieses Material nun sowohl auf dein NoteLeft Mesh als auch auf dein NoteRight Mesh an. Achte darauf, dass du es auf BEIDE anwendest!
 
-![Clicking TriangleMesh](~@images/models/notes/71.png)
+![Klicke TriangleMesh](~@images/models/notes/71.png)
 
-![Selecting Material](~@images/models/notes/46.png)
+![Material auswählen](~@images/models/notes/46.png)
 
-![Selecting Material](~@images/models/notes/47.png)
+![Material auswählen](~@images/models/notes/47.png)
 
-Now that you're done applying the material to all of your note's meshes, go back to the `NoteMaterial` in the inspector. To double check that your notes look good when using CustomColors, try messing around with the `Color` property; this is what property will be changed when the notes are tinted.
+Nachdem du nun das Material auf alle Meshes deiner Noten angewendet hast, gehen zurück zum `NoteMaterial` im Inspektor. Um zu überprüfen, ob deine Noten bei der Verwendung von CustomColors gut aussehen, probiere die Eigenschaft `Color` aus; Das ist die Eigenschaft, die geändert wird, wenn die Noten eingefärbt werden.
 
-![Changing color of material](~@images/models/notes/48.png)
+![Farbe des Materials ändern](~@images/models/notes/48.png)
 
-![Changing color of material](~@images/models/notes/49.png)
+![Farbe des Materials ändern](~@images/models/notes/49.png)
 
-![Changing color of material](~@images/models/notes/50.png)
+![Farbe des Materials ändern](~@images/models/notes/50.png)
 
-Once you've confirmed that the notes change color when you change the material's `Color` property, go to your note's main GameObject and go to the `NoteDescriptor`. Enable `Uses Note Color` and feel free to mess around with `Note Color Strength`. When Note Color Strength is at 1, it will tint the color with 100% strength. The lower you go from one, the more subtle it will be. For the purposes of this tutorial, I will be leaving `Note Color Strength` at one.
+Wenn du dich vergewissert hast, dass die Noten ihre Farbe ändern, wenn du die `Farbe` des Materials änderst, gehe zum Hauptobjekt der Note GameObject und gehe zum `NoteDescriptor`. Aktiviere `Uses Note Color` und spiele ruhig mit `Note Color Strength` herum. Wenn die Farbstärke der Note auf 1 steht, wird die Farbe mit 100 % Stärke getönt. Je weiter man sich von einem entfernt, desto subtiler wird es. Für dieses Tutorial belasse ich die `Note Color Strength` bei eins.
 
-![Enabling uses note color](~@images/models/notes/51.png)
+![Aktiviere Uses Note Color](~@images/models/notes/51.png)
 
-Your note should now be compatible with Custom Colors! Go ahead and re-export it. If you need a refresher, read the section on Exporting up above.
+Deine Note sollte nun mit Custom Colors kompatibel sein! Exportiere es wieder. Falls du eine Auffrischung benötigst, lies dir den Abschnitt über das Exportieren weiter oben erneut durch.
 
-### Disable Custom Colors on certain GameObjects
+### Custom Colors bei bestimmten Spielobjekten deaktivieren
 
-In some cases, you may want CustomColors to not affect a certain mesh. For example, if you have a part of your model that needs to stay the same color, such as an arrow needing to be white. There is a simple solution to this problem.
+In manchen Fällen möchtest du vielleicht, dass CustomColors ein bestimmtes Mesh nicht beeinflusst. Wenn du zum Beispiel einen Teil deines Modells hast, der dieselbe Farbe behalten soll, wie zum Beispiel ein Pfeil, der weiß sein muss. Für dieses Problem gibt es eine einfache Lösung.
 
-In this example, I have two meshes inside of my `LeftNote` object. I want the `TriangleMesh` to be affected by custom colors, but not `SmallerTriangleMesh`.
+In diesem Beispiel habe ich zwei Meshes innerhalb meines `LeftNote` Objekts. Ich möchte, dass das `TriangleMesh` von Custom Colors beeinflusst wird, aber nicht das `SmallerTriangleMesh`.
 
-![Double mesh example](~@images/models/notes/52.png)
+![Doppel Mesh Beispiel](~@images/models/notes/52.png)
 
-![Double mesh hierarchy](~@images/models/notes/53.png)
+![Doppel Mesh Hirarchie](~@images/models/notes/53.png)
 
-All you have to do is go into the GameObjects that you do not want to be affected by custom colors and add a `Disable Note Color On GameObject` component. Any GameObject with this component will retain how it looks and not be affected by custom colors.
+Alles, was du tun musst ist, in die GameObjects zu gehen, die nicht von Custom Colors betroffen sein sollen, und eine `Disable Note Color On GameObject` Komponente hinzuzufügen. Jedes GameObject mit dieser Komponente behält sein Aussehen und wird nicht von Custom Colors beeinflusst.
 
-::: warning WARNING Remember to apply these changes to all of the notes in your CustomNote! :::
+::: warning WARNUNG Denke daran, diese Änderungen auf alle Noten in deiner CustomNotes anzuwenden! :::
 
-![Adding a disable note color on gameobject component](~@images/models/notes/54.png)
+![Hinzufügen einer deaktivierten Noten Farbe zur Spielobjektkomponente](~@images/models/notes/54.png)

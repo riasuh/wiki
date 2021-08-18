@@ -227,8 +227,8 @@ Wikiへ情報をまとめる際に以下のコンテンツを参考にしまし�
 ### 照明効果の自動生成
 照明をつける準備ができていませんか？ ここにあなたの代わりに照明効果をつけるプログラムを紹介します。 覚えておいてほしいのは、手動で照明効果をつけることはそれほど難しくはありません。曲の雰囲気をよりよく表現するにはこれらのプログラム使うより自分で行ったほうが良いことがあります。
 
-* [Lolighter](https://github.com/Loloppe/Lolighter#readme) by **Loloppe#6435** - Standalone program for automated lighting and has other features to modify your map.
-* **Lightmap** - It is integrated into Mediocre Map Assistant 2 and can be accessed in the error checker menu.
+* [Lolighter](https://github.com/Loloppe/Lolighter#readme) by **Loloppe#6435** - スタンドアローンで動作する照明効果自動生成プログラム。 マップを修正するための機能も備えています。
+* **Lightmap** - Mediaocre Map Assistant 2に統合されており、エラーチェックのメニューよりアクセスできます。
 
 ## テストプレイ
 テストプレイはマッピングの**重要**なプロセスです。 テストプレイにより主要なプレイ感の調整やマップの感触を知ることができます。 [サードパーティーや外部](#community-third-party-testing)でのテストプレイはより建設的な意見がもらえたり自分でプレイしたときにはわからない部分を検証してくれたりする便利なものです。
@@ -249,9 +249,9 @@ Wikiへ情報をまとめる際に以下のコンテンツを参考にしまし�
 
 :::tip NOTE
 
-* You will need to have the **SongCore** mod installed in order to see the CustomWIPLevels category and use the <kbd>Ctrl + r</kbd> shortcut.
-* Having duplicate map files in `CustomLevels` and `CustomWIPLevels` can cause problems.
-* Using Online Websites to convert audio to `.ogg` may result in your audio file being treated as invalid and will not be loaded by the game! Using Audacity and following the steps in [Basic Audio Setup](./basic-audio.md) is the easiest way to ensure your map loads in-game. :::
+* CustomWipLevelsカテゴリを表示して、  <kbd>Ctrl + r</kbd> ショートカットを使用するには、**SongCore**Modがインストールされている必要があります。
+* `CustomLevels` と`CustomWIPLevels` に重複したマップファイルがあると、問題が発生することがあります。
+* Webサイトでオーディオを`.ogg`に変換すると、オーディオファイルが不正なものとして扱われ、ゲームに読み込まれなくなることがあります。 Audacityを使用し、[基本的なオーディオ設定](./basic-audio.md) の手順に従うことが、ゲーム内でマップを確実に読み込む最も簡単な方法です。 :::
 
 ### Questでテスト
 Follow these steps to test any of your maps made with a community editor using an Oculus Quest. You must have [SideQuest](https://sidequestvr.com) and [BMBF](https://bmbf.dev/stable) installed.

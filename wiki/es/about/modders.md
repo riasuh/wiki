@@ -51,110 +51,110 @@ Creador de CustomUI, haciendo que la creación de nuevos componentes de la inter
 [GitHub](https://github.com/brian91292) | [Donar](https://ko-fi.com/brian91292)
 
 ## ckosmic
-Creator of CustomEnergyBars and SpectroSaber! Modding the funny cut block music game is cool. Also if you create any content for my mods I will probably remember you on my deathbed.
+Creador de CustomEnergyBars y SpectroSaber! Modificando el gracioso juego de cortar bloques de musica es genial. Tambien si tu quieres crear algun contenido para mis mods probablemente te voy a recordar en mi cama de muerte.
 
-**Roles:** Modder **Contributions:** CustomEnergyBars, SpectroSaber
+**Roles:** Modder **Contribuciones:** CustomEnergyBars, SpectroSaber
 
-[GitHub](https://github.com/ckosmic) | [Donate](https://paypal.me/ckosmic)
+[GitHub](https://github.com/ckosmic) | [Donar](https://paypal.me/ckosmic)
 
 ## DaNike
-Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods. An incredible tool that makes modding beat saber as easy as it is.
+Creador de la version personalizada de IPA (plugin de illusion de arquitectura) BSIPA, un inyector de mod que le permite a Beat Saber usar mods. Una increible herramienta que hace moddificar Beat Saber tan facil como es.
 
-**Roles:** Modder **Contributions:** BSIPA
+**Roles:** Modder **Contribuciones:** BSIPA
 
-[GitHub](https://github.com/nike4613) | [Donate](https://ko-fi.com/danike)
+[GitHub](https://github.com/nike4613) | [Donar](https://ko-fi.com/danike)
 
 ## emulamer
-A massive contributor to the development of quest mods.
+Un contribudor masivo al desarrollo de mods para quest.
 
 **Roles:** Modder
 
 ## Eris
-One of many with a very questionable sleep schedule. Creator of MorePrecisePlayerHeight. Ended up maintaining a wild variety of mods after adopting them from their original creators. Also Pink cute.
+Uno de muchos con un horario de sueño muy cuestionable. Creador de MorePrecisePlayerHeight. Acabo manteniendo una grande variadad de mods despues de adoptarlos de los creadores originales. Tambien Pink cute.
 
-**Roles:** Modder **Contributions:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
+**Roles:** Modder **Contribuciones:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
 
-[GitHub](https://github.com/erisapps) | [Donate with Patreon](https://www.patreon.com/erisapps) | [Donate with Ko-fi](https://ko-fi.com/erisapps)
+[GitHub](https://github.com/erisapps) | [Donar con Patreon](https://www.patreon.com/erisapps) | [Donar con Ko-fi](https://ko-fi.com/erisapps)
 
-## Goobie
-Maintainer of the mods that help you play with friends the right way. Considers herself best girl but thinks that Zenject needs more simps instead.
+## Gobbie
+Mantenedor de los mods que te ayudan a jugar con amigos de la manera correecta. Se considera la mejor chica pero piensa que Zenject ocupa mas simps en su lugar.
 
-**Roles:** Modder **Contributions:** MultiplayerExtensions, MultiQuestensions
+**Roles:** Modder **Contribuciones:** MultiplayerExtensions, MultiQuestensions
 
-[GitHub](https://github.com/goobwabber) | [Twitch](https://www.twitch.tv/goobwabber) | [Donate](https://ko-fi.com/goobwabber)
+[GitHub](https://github.com/goobwabber) | [Twitch](https://www.twitch.tv/goobwabber) | [Donar](https://ko-fi.com/goobwabber)
 
 ## halsafar
-Helps you sort out your 5000 custom songs in a reasonable manner.
+Te ayuda a ordenar tus 5000 canciones personalizadas de una manera razonable.
 
-**Roles:** Modder **Contributions:** SongBrowser
+**Roles:** Modder **Contribuciones:** SongBrowser
 
-[GitHub](https://github.com/halsafar)
+[Github](https://github.com/halsafar)
 
 ## Henwill8
-Quest Modder who made Replay which makes content creators' lives easier. Applauds names that have a letter replaced with Q (ex: zenjeqt, reqlay, qosmetics). Probably also blocked by Auros for this reason.
+Modder de quest que hizo el mod Replay que hace las vidas de los creadores de contenido mas facil. Los nombres de Applauds tienen letras remplazadas con Q (ej: zenjeqt, reqlay, qosmetics). Probablemente tambien bloqueado por Auros por esta razon.
 
-**Roles:** Modder **Contributions:** Replay, Song Difficulty Chart, Slice Visualizer, and Intro Skip (quest)
+**Roles:** Modder **Contribuciones:** Replay, Song Difficulty Chart, Slice Visualizer, y Intro Skip (quest)
 
-[GitHub](https://github.com/henwill8) | [Donate](https://www.patreon.com/henwill8?fan_landing=true)
+[GitHub](https://github.com/henwill8) | [Donar](https://www.patreon.com/henwill8?fan_landing=true)
 
 ## Ikeiwa
-Everyone's favorite french furry. He kicked off modding early on with the original EditSaber and the earliest versions of the custom avatar plugin, among many others.
+El furro frances favorito de todos. El empezo modificando temprano desde el originar EditSaber y las primeras versiones de el customizado plugin de avatares, junto a muchos otros.
 
 > C'est pain au chocolat
 
-**Roles:** Modder, 3D Artist, ~~Staff~~ (retired) **Contributions:** EditSaber, Custom Avatars, Custom Sabers, many more legacy plugins
+**Roles:** Modder, 3D Artist, ~~Staff~~ (retirado) **Contribuciones:** EditSaber, Custom Avatars, Custom Sabers, y muchos mas plugins heredados
 
-[GitHub](https://github.com/Ikeiwa)
+[Github](https://github.com/Ikeiwa)
 
 ## ItsNovaHere
-Creator of a variety of mods, as well as the super spiffy HitOverlay that some streamers use to show you how to cut bloq properly.
+Creador de una variedad de mods, tambien como el super elegante HitOverlay que unos streamers usan para mostrarte como cortar bloques correctamente.
 
-**Roles:** Modder **Contributions:** HitOverlay, Mega Jump, Random Notes, Nova's Fuckery
+**Roles:** Modder **Contribuciones:** HitOverlay, Mega Jump, Random Notes, Nova's Fuckery
 
 [GitHub](https://github.com/ItsNovaHere) | [Ko-Fi](https://ko-fi.com/itsnovahere)
 
 ## kOF.Readie
-Creator of the [BSDataPuller](https://github.com/kOFReadie/BSDataPuller/) mod used for streaming and recording overlays.
+Creador de el [BSDataPuller](https://github.com/kOFReadie/BSDataPuller/) mod usado para streaming y grabar overlays.
 
-**Roles:** Modder **Contributions:** BSDataPuller
+**Roles:** Modder **Contribuciones:** BSDataPuller
 
 [GitHub](https://github.com/kofreadie/) | [Donate](https://ko-fi.com/kofreadie/)
 
 ## Kyle1413
-Resident Kirby and mod modder. One of the most active modders and a huge part in the evolution of mods over time as the original modders stop working on them, including the likes of SongLoader/SongCore and Custom Colors. 6 lanes, custom color and platform support, custom walls and custom characteristics are simply some examples of Kyle's contributions to custom map formats.
+Residente Kirby y creador de mods. Uno de los mas activos modders y una gigante parte de la evolucion de mods, por el tiempo, los modders originales estuvieron dejando de trabajar en mods, incluyendo los gustados SongLoader/SongCore y Custom Colors. 6 lineas, color customizable y soporte de plataformas, paredes customizables y características customizables son simplemente unas de las contribuciones de Kyle a los formatos de el mapa customizable.
 
-**Roles:** Modder, Support **Contributions:** A lot. He makes and maintains an extrordinary number of mods, both for PC and Quest.
+**Roles:** Modder, Soporte **Contribuciones:** Muchas. El hace y mantiene un numero extrordinario de mods, para PC y Quest.
 
-[GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donate](https://ko-fi.com/kyle1413k)
+[GitHub](https://github.com/kylemc1413) | [Twitch](https://www.twitch.tv/kyle1413k) | [Donar](https://ko-fi.com/kyle1413k)
 
 ## Lauriethefish (TheProff)
-Creator of the discord presence integration mod for quest, as well as the CustomFailText port and AutoDebris.
+Creador de la integracion con el mod Discord Presence para quest, tambien el port de CustomFailText y AutoDebris.
 
-**Roles:** Modder **Contributions:** CustomFailText, Discord Presence and AutoDebris (quest)
+**Roles:** Modder **Contribuciones:** CustomFailText, Discord Presence y AutoDebris (quest)
 
 [Github](https://github.com/Lauriethefish)
 
 ## MichaelZoller
-Contributor to the beatsaber hooks used in quest modding and assists with creating infrastructure for the quest modding scene.
+Contribuyente de los hooks de beatsaber usados para modificar quest y asiste con crear la infraestructura para la escena de modificar el quest.
 
 **Roles:** Modder
 
 ## monkeymanboy
 monkey
 
-**Roles:** Modder **Contributions:** Perfection Display, Custom Campaign, CustomUI
+**Roles:** Modder **Contribuciones:** Perfection Display, Custom Campaign, CustomUI
 
-[GitHub](https://github.com/monkeymanboy) | [Twitch](https://www.twitch.tv/monkeymanboy) | [Donate](https://ko-fi.com/monkeymanboy)
+[GitHub](https://github.com/monkeymanboy) | [Twitch](https://www.twitch.tv/monkeymanboy) | [Donar](https://ko-fi.com/monkeymanboy)
 
 ## Moon
-Does a lot of work with community plugins, like the BS Community Discord event plugins and the Christmas contest voting mod!
+¡Hace mucho trabajo con los plugins para la comunidad, como los BS Commmunity Discord plugins y los plugins del contest de votacion para Navidad!
 
-**Roles:** Modder **Contributions:** Community Plugins
+**Roles:** Modder **Contribuciones:** Community Plugins
 
 [GitHub](https://github.com/MatrikMoon)
 
 ## nate1280
-Face off against your friends with his [Versus](https://versusmod.com/) mod. **Roles:** Modder **Contributions:** Versus
+Enfrentate contra tus amigos con su mod [versus](https://versusmod.com/). **Roles:** Modder **Contribuciones:** Versus
 
 [GitHub](https://github.com/nate1280)
 

@@ -19,7 +19,7 @@ Custom Wallf für Quest wird von der Qosmetics-Mod bereitgestellt. Die neueste V
 Innerhalb des Spiels wirst du im Hauptmenü einen `CUSTOM WALLS` Knopf unter dem `Mods` Abschnitt finden. Wenn du darauf drückst, öffnet sich das Menü, mit dem du auswählen kannst, welche Wände du verwenden möchtest. Es gibt auch zusätzliche Einstellungen, die du ändern kannst, wie z. B. die Deaktivierung der Wandrahmen.
 
 ### Quest User
-Upload the `.qwall` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which wall is active from the Qosmetics menu in-game.
+Lade die `.qwall` Datei über das [BMBF Web Interface](/quest-modding.md#installing-mods) auf deine Quest hoch. Du kannst dann im Qosmetics-Menü im Spiel auswählen, welches Wall aktiv ist.
 
 ## Custom Walls erstellen
 Obwohl es derzeit keine Anleitung zum Erstellen von Custom Walls gibt, ist eine solche in Arbeit.

@@ -33,13 +33,13 @@ Um Ranglisten für Custom Songs zu erhalten und um Performance-Punkte (PP) aus g
 **Hinweis:** Überprüfe den Aktualisierungskanal im [ScoreSaber Discord](https://discord.gg/WpuDMwU), um zu sehen, ob die Mod für die aktuelle Spielversion verfügbar ist. :::
 
 ### BMBF mit SideQuest installieren
-If you haven't already, download and setup [SideQuest](https://sidequestvr.com/#/setup-howto)
+Solltest Du dies nicht bereits getan haben, lade dir hier [SideQuest](https://sidequestvr.com/#/setup-howto) App herunter
 
-Open SideQuest and connect your Quest to your PC.
+Öffne SideQuest und verbinde die Quest mit deinem Computer.
 
-:::tip If you've previously modded Beat Saber or have scores you want to backup, [Backup your Save Data first!](#backup-save-data-using-sidequest) :::
+:::Tipp Wenn du Beat Saber bereits modifiziert hast oder Scores hast die du sichern willst, [Sichere zuerst deine Speicherdaten!](#Sichern-von-Speicherdaten-mit-Sidequest) :::
 
-If you have a modded game you also need to uninstall it by pressing the `UNINSTALL APP` button. You can later restore your save from the same menu, after modding.
+Wenn du ein modifiziertes Spiel hast, musst du es auch deinstallieren, indem du auf`UNINSTALL APP` drückst. You can later restore your save from the same menu, after modding.
 
 Select the `Install APK from folder` button shown below and find the latest BMBF apk you downloaded and click on it, or simply drag the BMBF apk into SideQuest. Either method will install BMBF to your Quest.
 

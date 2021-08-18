@@ -51,7 +51,7 @@ Schriftliche Anleitung sind nicht dein Ding? Schaue dir diese Videoserien an!
 * [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) (Englisch) - Behandelt die häufigsten Fehler neuer Mapper aus [Mapping-Grundlagen](./basic-mapping.md).
 * [TranquillizeMe's Beat Saber Lighting Techniques Tutorial](https://www.youtube.com/watch?v=EDbPRN_u3jc) (Englisch) - Behandelt verschiedene Lighting-Techniken und bietet weitere Tipps für Lighting.
 
-:::warning Tutorials auf dieser Seite wurden von der BSMG überprüft. Andere Video-Tutorials können ungenaue oder veraltete Informationen enthalten. Folge diesen auf eigene Gefahr.
+:::warning Tutorials auf dieser Seite wurden von BSMG überprüft. Andere Video-Tutorials können ungenaue oder veraltete Informationen enthalten. Folge diesen auf eigene Gefahr.
 
 Wenn du dein Tutorial hier aufgelistet sehen möchtest, [kontaktiere uns](http://bit.ly/MessageBSMG). :::
 
@@ -462,7 +462,7 @@ Alternativ kannst du auch alles löschen, was in die Eigenschaft `_customData` g
 Um dem neuen Schema zu entsprechen, musst du auch alle weiteren **leeren Felder** in der `Info.dat` or den Schwierigkeits-Dateien entweder entfernen oder ausfüllen.
 
 ### BeastSaber
-[BeastSaber](http://www.bsaber.com) is a song review and curation site with social features including reviewing and commenting on songs. Alle auf BeatSaver hochgeladenen Maps werden innerhalb von 10-15 Minuten auf BeastSaber gespiegelt. Es kann aber bis zu einem Tag dauern, bis eine von BeatSaver gelöschte Map von BeastSaber entfernt wird.
+[BeastSaber](http://www.bsaber.com) ist eine Liedüberprüfungs- und Kuratierungsseite mit sozialen Features, einschließlich der Überprüfung und Kommentare von auf Songs. Alle auf BeatSaver hochgeladenen Maps werden innerhalb von 10-15 Minuten auf BeastSaber gespiegelt. Es kann aber bis zu einem Tag dauern, bis eine von BeatSaver gelöschte Map von BeastSaber entfernt wird.
 
 ### Mapping Angst
 Falls du nicht den Mut aufbringen kannst, eine Map auf BeatSaver hochzuladen, oder dich von negativem Feedback auf deine Maps niedergeschlagen fühlst: Denk daran, dass du nicht alleine bist. Viele Mapper kennen diese Gefühle. Mehr dazu findest du unter [Umgang mit Mapping-Angst](./mapping-anxiety.md).

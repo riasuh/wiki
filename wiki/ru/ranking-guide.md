@@ -17,14 +17,14 @@ Written by Teknoz
 ![Score Multiplier](~@images/ranking-guide/score_multiplier.png "Score Multiplier")
 
 ### Подсчет очков
-Scoring well in Beat Saber isn’t as simple as keeping a high combo and not missing notes, it is also determined by your score per block. Максимальное количество баллов, которое можно получить при разрезании блока - **115** (без учета множителя). While cutting a block, you must achieve the correct swing angles and you must slice it in the center to achieve the best score for that cut.
+Подсчёт очков в игре не состоит из простого удержания высокого комбо и отсутствия промахов. Он зависит и от очков за каждую разрезанную ноту. Максимальное количество баллов, которое можно получить при разрезании блока - **115** (без учета множителя). While cutting a block, you must achieve the correct swing angles and you must slice it in the center to achieve the best score for that cut.
 
-Here is how score is calculated for a cut:
+Вот так рассчитываются очки за один разрез:
 | Component          | Point Value |
 | ------------------ | ----------- |
-| 100° Approach      | 70 Points   |
-| 60° Follow Through | 30 Points   |
-| Cutting in Half    | 15 Points   |
+| 100° Approach      | 70 очков    |
+| 60° Follow Through | 30 очков    |
+| Cutting in Half    | 15 очков    |
 
 This shows how important it is to do proper swings to get the right angles and the best score possible. Remember, it’s better to get a bad cut than a miss since a miss counts as **0 points** and breaks your combo.
 
@@ -34,7 +34,7 @@ A common misconception in Beat Saber would be that most people think that the hi
 ![Hitboxes](~@images/ranking-guide/hitbox.png "Hitboxes")
 
 ### Точность
-Accuracy is shown on the left after enabling the **Advanced HUD** option in the Player Settings. Accuracy is shown by a percentage and a letter. While the best "possible" accuracy is **100%**, it is practically impossible since it would require no combo break and 115 cuts on every block. Even then, accuracy is still a great way to measure performance on a map and one’s ability to score properly and avoid missing notes. Accuracy is calculated using information such as the scores per hit, the score multiplier and the amount of miss.
+Точность отображается слева при включенной опции **Advanced HUD** в настройках игрока (Player Settings). Она отображается в процентах, и для разных значений есть соответствующая буква. While the best "possible" accuracy is **100%**, it is practically impossible since it would require no combo break and 115 cuts on every block. Even then, accuracy is still a great way to measure performance on a map and one’s ability to score properly and avoid missing notes. Accuracy is calculated using information such as the scores per hit, the score multiplier and the amount of miss.
 
 Here is the connection between the letters and accuracy percentage:
 | Letter Grade | Accuracy Percentage |

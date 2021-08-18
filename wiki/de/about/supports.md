@@ -9,91 +9,91 @@ _Die Support-Rolle ist ein Symbol des Dankes. Danke für die tausenden von Nachr
 **Rollen:** Support
 
 ## ComputerElite
-He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
+Er macht Programme, die die Menschen schneller unterstützen und einige andere, die ihnen alles einfacher machen. (Isst gerne BMBF-Logs)
 
 **Rollen:** Support
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
+Du kennst Sie vielleicht für ihre spektakulären Platforms, oder für raffiniertere Personen: Yeet Sabers.
 
-**Roles:** Support, 3D Artist
+**Rollen:** Support, 3D Artist
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
-He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
+Er spielt gerne Beat Saber. Er hilft auch gerne Leuten ihre Probleme zu beheben, damit sie Beat Saber spielen können.
 
-**Roles:** Support
+**Rollen:** Support
 
 ## Kolezan
-He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
+Er wird dir beibringen deine Plugins und deine schrecklich schräge erste Map zu reparieren. Das haben wir alle schon erlebt.
 
-**Roles:** Support, Mapping Support, Mapper
+**Rollen:** Support, Mapping Support, Mapper
 
-[Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
+[Twitch](https://www.twitch.tv/kolezan) | [Spenden](https://paypal.me/kolezan)
 
 ## male
-is too uncreative to think of a bio
+Ist zu unkreativ um sich eine Bio auszudenken
 
-**Roles:** Support
+**Rollen:** Support
 
 ## Pespiri
-He'll give me his bio later today, or so he says.
+Er wird mir später seine Biografie geben, sagt er zumindest.
 
-**Roles:** Support, Modder
+**Rollen:** Support, Modder
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
+Dieser Typ kam aus dem nichts und fing an zu helfen indem er sagte, es sei eine Art von Sucht. Was für ein Spinner.
 
-**Roles:** Support
+**Rollen:** Support
 
-[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Spenden](paypal.me/Radevirot)
 
 ## Rex
-I really like to help people. Yeah that's all.
+Ich mag's Leuten zu helfen. Ja, das ist alles.
 
-**Roles:** Support
+**Rollen:** Support
 
 ## rui2015
-Has no creativity and doesn't know what to put here. Is a cool person though.
+Hat keine Kreativität und weiß nicht, was man hier schreiben soll. Ist jedoch ein cooler Mensch.
 
 **Rollen:** Support
 
 ## Sands
-He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
+Er hat kein Leben und ist ziemlich dumm aber er kann mit BMBF helfen und das ist alles was zählt, richtig?
 
-**Roles:** Support
+**Rollen:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
 ## Simme63
-"Coke Head"
+"Koks Kopf"
 
-**Roles:** Support
+**Rollen:** Support
 
 ## Squares
-I swear i'm good at Beat Saber and helping just ask boulders!
+Ich schwöre ich bin gut in Beat Saber und helfe. Frag einfach Boulders!
 
 **Rollen:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
 ## Toblersto
-I decided I wanted to help one day, and have been slightly addicted ever since.
+Ich habe entschlossen eines Tages zu helfen und bin seither etwas süchtig geworden.
 
-**Roles:** Support
+**Rollen:** Support
 
 ## Channel Monitor Bot
-The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
+Der Bot, der alles zusammenhält. Erstellt von Megalon, neu erschaffen von lolPants und verkörpert von Rolo!
 
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
 ---
 
-::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
-**Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+::: tip Siehe auch **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
+**Modder:** [Kyle1413](./modders.md#kyle1413)  
+**Moderatoren:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

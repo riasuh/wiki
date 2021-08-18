@@ -7,125 +7,125 @@ Mit so riesigen Servern wird einiges an Moderation benötigt, damit nichts aus d
 **Rollen:** Moderator
 
 ## Burrito
-Ironically doesn't like burritos, thinks tacos are better (true facts)
+Ironischerweise mag er Burritos nicht, denkt Tacos sind besser (wahre Tatsachen)
 
-**Roles:** Moderator, Support
+**Rollen:** Moderator, Support
 
-[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsoren](https://github.com/sponsors/burritosoftware) | [Spenden](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
-crippling destiny addiction
+Lähmende Schicksalssucht
 
-**Roles:** Support, 3D Artists, Moderator
+**Rollen:** Support, 3D Artists, Moderator
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
 ## Eradawn
-"Findus says hai"
+"Findus sagt hai"
 
-**Roles:** Moderator, Support
+**Rollen:** Moderator, Support
 
 ## Hydrand
-Camellia is SourPls
+Camellia ist SourPls
 
-**Roles:** Mapper, Moderator
+**Rollen:** Mapper, Moderator
 
 [Twitch](https://www.twitch.tv/hydrandvr)
 
 ## John
-"Tired at all times"
+"Immer müde"
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 ## Kuru
-All they can say is that the R in Kuru stands for Rat
+Alles, was sie sagen kann ist, dass das R in Kuru für Ratte steht.
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 ## Nym
-"i like the gaymes. Addicted to many, don't like any of them, send cat pics."
+"i like the gaymes. Süchtig nach vielen, mag keine von ihnen, schickt Katzenbilder."
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 ## Olaf
-Any stroopwafels?
+Hast du Stroopwafels?
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 [Twitch](https://twitch.tv/olafstad)
 
 ## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+2 Wahrheiten und eine Lüge: Pink cute, CMB fühlend, OneEyed hat gute Rechtschreibung
 
-**Roles:** Support, Moderator
+**Rollen:** Support, Moderator
 
 ## RangeValley
 > Mein Vater hat jahrelang als Admin gearbeitet aber er wurde entlassen als Bots seinen Job übernommen wurden. Er kam an diesem Abend nach Hause und sagte mir, dass wir in den Van ziehen müssten, da wir uns die Miete nicht mehr leisten könnten. Dann hat er mich mit Überbrückungskabeln verprügelt. Shitposting sollte legal sein.
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 ## Razor
-Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
+Er hat buchstäblich keinen Schimmer was er tut, wenn es um Programmierung geht, aber er kann Ploogin fixen.
 
-**Roles:** Support, Moderator
+**Rollen:** Support, Moderator
 
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Spenden](https://streamelements.com/sarpest_razor/tip)
 
 ## Shad
-"Every channel is just #pc-mod-support"
+"Jeder Kanal ist nur #pc-mod-support"
 
-**Roles:** Moderator, Mapper, Support
+**Rollen:** Moderator, Mapping Support
 
 [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850a45) | [YouTube](https://www.youtube.com/channel/UCLiwd2iGUDl2kvw8FM2qwFQ) | [Twitch](https://www.twitch.tv/shadlive)
 
 ## Zion
 kinda vibing
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
-## BeigeAnimal (Retired)
-We had to whip this boy into a bit of shape but he's was one of the most effective moderators. He's not really specialized in any field but he's willing to lend a helping **provided they ask in the right channel.** Also hates sketchfab links.
+## BeigeAnimal (Im Ruhestand)
+Wir mussten den Junge ein bisschen auf Vordermann bringen, aber jetzt ist er einer der effektivsten Moderatoren. Er ist nicht wirklich auf ein Gebiet spezialisiert aber er ist bereit zu helfen, **vorausgesetzt, man fragt im richtigen Kanal.** Außerdem hasst er Sketchfab Links.
 
-**Roles:** Moderator, 3D Artists
+**Rollen:** Moderator, 3D Artist
 
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
-## DeeJay (Retired)
+## DeeJay (Im Ruhestand)
 Pepega
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 [Twitch](https://www.twitch.tv/deejayvr)
 
-## Guatapuri (Retired)
-"Came for the game, Stayed for the hugs"
+## Guatapuri (Im Ruhestand)
+"Kam für das Spiel, blieb für die Umarmungen"
 
-**Roles:** Mapper, Moderator
+**Rollen:** Mapper, Moderator
 
-## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Retired)
+## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Im Ruhestand)
 Poi!
 
-**Roles:** 3D Artists, Support, Moderator
+**Rollen:** 3D Artist, Support, Moderator
 
 [Twitch](https://www.twitch.tv/br3uker)
 
-## joelseph (Retired)
+## joelseph (Im Ruhestand)
 \+ joelseph
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 [Twitch](https://www.twitch.tv/tehjoelseph)
 
-## Maladaze (Retired)
-Can't hit jumps
+## Balsa (Im Ruhestand)
+Kann Jumps nicht treffen
 
-**Roles:** Moderator
+**Rollen:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
 
-## Pyrowarfare (Retired)
-A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
+## Pyrowarfare (Im Ruhestand)
+Ein BeastSaber-Admin, der den Großteil des Inhalts für [How to Playtest](./how-to-testplay.md), [Mapping Angst](./mapping-anxiety.md) geschrieben und an verschiedenen anderen Seiten mitgewirkt hat. Sei gewarnt: Du wirst aufgefordert werden, über deine Gefühle zu sprechen.
 
-**Roles:** Moderator, Mapping Support
+**Rollen:** Moderator, Mapping Support
 
 [BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)

@@ -34,14 +34,14 @@ Bringer von Augenschäden mit seinen grellen Lichtshows, kann er Dir helfen, dei
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85507f) | [BeastSaber](https://bsaber.com/members/skeelie/) | [YouTube](https://www.youtube.com/user/xSkeelie) | [Twitch](https://www.twitch.tv/skeelie)
 
 ## Top_Cat
-First time ChroMapper contributor and MMA2 maintainer. Might finish a map one day.
+Erstes Mal ChroMapper Mitwirkender und MMA2 Betreuer. Könnte eines Tages eine Map fertigstellen.
 
 ## Vaser888
-"He's like batman. He shows up, drops testplays, vanishes into the night"
+"Er ist wie Batman. Er taucht auf, macht Testplays und verschwindet in der Nacht."
 
 [BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
 
-::: tip See Also **Supports:** [Kolezan](./supports.md#kolezan)  
-**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)  
+::: tip Siehe auch **Support:** [Kolezan](./supports.md#kolezan)  
+**Moderatoren:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)  
 **Staff:** [Bloodcloak](./staff.md#bloodcloak)  
 :::

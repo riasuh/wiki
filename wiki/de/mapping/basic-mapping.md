@@ -103,120 +103,120 @@ Wir gehen in [Intermediate Mapping](./intermediate-mapping.md) näher darauf ein
 **Emphasis** ist, wie viel "Gewicht" du jedem Treffer gibst.
 
 * Betrachte den Basis-Sound deines Mappings als einen einzelnen Hit (einen Block), einschließlich leiser oder chilligere Abschnitte
-* When the sound is "bigger" or you have two different instruments hitting on the same beat you can think about using a double hit or a stack (two blocks).
-* For only the biggest sounds in the song you could use a double tower (four blocks, two for each hand) or other heavyweight pattern, but many songs never need this amount of emphasis.
+* Wenn der Sound "größer" ist oder zwei verschiedene Instrumente auf denselben Beat schlagen, kannst du über einen Doppelschlag oder einen Stack (zwei Blöcke) nachdenken.
+* Nur für die größten Töne im Lied kannst du einen Doppelturm (vier Blöcke, zwei für jede Hand) oder ein anderes schwergewichtiges Muster verwenden, aber viele Lieder brauchen diese Betonung nicht.
 
-Many new mappers instinctively want to use double hits all the time, but remember that those are heavy emphasis and if *every sound* is emphasized then *nothing* feels like it has extra weight.
+Viele neue Mapper wollen instinktiv die ganze Zeit Doppelschläge verwenden, aber denke daran, dass diese eine starke Betonung darstellen, und wenn *jeder Klang* betont wird, dann fühlt sich <em x id="3">nichts</em> so an, als hätte es zusätzliches Gewicht.
 
-Another way to think about it is that you want the energy and effort of the hit to match the energy and power of the sound. Nobody screams at the top of their lungs on every vocal, or in every instrument note. You want the powerful notes, the powerful vocals, to stand out from the rest of the song. Even if most of the song might sound loud or (you think) emphasized, there's always notes that sound above them. Be it through volume, or through energy. So when mapping, see what is your baseline energy, map that as singles. Anything above that, then do towers/doubles/windows/jumps, whatever best matches that energy.
+Man kann es auch so sehen, dass die Energie und Anstrengung des Schlags der Energie und Kraft des Klangs entsprechen soll. Niemand schreit bei jedem Gesang oder bei jeder Instrumenten-Note aus voller Kehle. Du willst, dass die kraftvollen Noten, der kraftvollen Gesang aus dem Rest des Songs herausstechen. Auch wenn der größte Teil des Liedes laut oder (Deiner Meinung nach) betont klingt, gibt es immer Noten, die darüber liegen. Sei es durch Lautstärke oder durch Energie. Wenn du also mappst schaue, was deine Basisenergie ist, und mappe diese als Einzelperson. Bei allem, was darüber hinausgeht, kannst du Towers/Doubles/Windows/Jumps machen, was immer am besten zu dieser Energie passt.
 
-**Consistency** is mapping the same sound with the same weight when it appears.  
-Mapping consistently does NOT always mean to copy/paste/mirror, though there are some times when that is appropriate. If you choose to map a particular big sound as a double, for example, that same sound should always be mapped with a double.
+**Konsistenz** bedeutet, den gleichen Klang mit dem gleichen Gewicht abzubilden, wenn er erscheint.  
+Konsistent abzubilden bedeutet NICHT immer, zu kopieren/einzufügen/zu spiegeln, auch wenn dies in manchen Fällen angebracht ist. Wenn du z. B. einen bestimmten großen Sound als Double zuweist, sollte dieser Sound immer mit einem Double zugewiesen werden.
 
-## Pattern Best Practices
-This section details the principles one should follow for a playable and enjoyable map.
+## Bewährte Praktiken für Pattern
+Dieser Abschnitt beschreibt die Grundsätze, die man für eine spielbare und angenehme Map befolgen sollte.
 
-**Cyrix** has created a summary video, [Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw), of the most common issues that are covered in this section.
+**Cyrix** hat ein zusammenfassendes Video, [Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw), zu den häufigsten Problemen, die in diesem Abschnitt behandelt werden, erstellt.
 
 ### Vision Blocks
-Vision blocks are any patterns that obscure the player’s vision and make it difficult to sight read a map, if not outright uncomfortable. The primary cause of vision blocks is use of the middle two positions of the track, but there’s risk of a block any time the middle row is used.
+Vision Blocks sind alle Pattern, die die Sicht des Spielers verdecken und das Lesen der Map erschweren, wenn nicht sogar unmöglich machen. Die Hauptursache für Vision Blocks ist die Verwendung der beiden mittleren Positionen der Spur. Das Risiko einer Blockade besteht immer, wenn die mittlere Reihe verwendet wird.
 
-**Vision blocks can be avoided by:**
+**Vision Blocks können vermieden werden durch:**
 
-* Not using the center two positions of the track or
-* Ensuring that blocks following anything in the middle row are either far enough away or in another position to the right or left of the block.
-* Making sure that your player is pushed to the side with either obstacles or patterns so the center positions no longer completely block the player.
+* Nicht die beiden mittleren Positionen der Spur verwenden oder
+* Sicher zu stellen, dass Blöcke, die auf etwas in der mittleren Reihe folgen, entweder weit genug entfernt sind oder an einer anderen Stelle rechts oder links vom Block stehen.
+* Zu vergewissern, dass der Spieler entweder durch Hindernisse oder Muster zur Seite gedrängt wird, damit die mittleren Positionen den Spieler nicht mehr vollständig blockieren.
 
 <!-- markdownlint-disable MD013 -->
-|                            Ideal Block Placement                             |                       Vision Block Placement                        |
-|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------:|
-|        ![Keine Vision Blocks](~@images/mapping/no-vision-blocks.jpg)         |           ![Face Notes](~@images/mapping/face-notes.jpg)            |
-| When you’re getting started, stick<br />to the perimeter of the track. | These are called face notes.<br />Avoid them as a new mapper. |
+|                        Ideale Blockplatzierung                         |                              Vision Block Platzierung                               |
+|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+|     ![Keine Vision Blocks](~@images/mapping/no-vision-blocks.jpg)      |                   ![Face Notes](~@images/mapping/face-notes.jpg)                    |
+| Wenn du anfängst, halte dich<br />an die Begrenzung der Strecke. | Diese werden als "Face Notes" bezeichnet.<br />Vermeide sie als neuer Mapper. |
 <!-- markdownlint-enable MD013 -->
 
 ::: tip  
-**Mediocre Map Assistant 2** has a built-in handy-dandy error checker that can find vision blocks. Learn more in the [MMA2 User Guide](./mediocre-map-assistant.md#error-checker). :::
+**Mediocre Map Assistant 2** verfügt über einen eingebauten, praktischen Fehlerprüfer, der Vision Blocks finden kann. Weitere Informationen findest du im [MMA2 User Guide](./mediocre-map-assistant.md#error-checker). :::
 
 ### Double Directionals & Resets
-Double directionals (or DDs) are what you get when you have two blocks of the same color in the same direction within a very short span of time. Diagonals, or any change of only 45 degrees between blocks, are considered to be DDs with both the cardinal directions they combine.
+Double Directionals (oder DDs) erhält man, wenn zwei Blöcke der gleichen Farbe innerhalb einer sehr kurzen Zeitspanne in die gleiche Richtung laufen. Diagonals oder jede Änderung von nur 45 Grad zwischen den Blöcken werden als DDs mit den beiden Kardinalrichtungen betrachtet, die sie kombinieren.
 
-::: align center ![Blue up right diagonal block](~@images/mapping/bnur.png)is a DD with both ![Blue up block](~@images/mapping/bnu.png) and ![Blue diagonal block](~@images/mapping/bnr.png) :::
+::: align center ![Blue up right diagonal block](~@images/mapping/bnur.png)ist eine DD mit beiden ![Blue up block](~@images/mapping/bnu.png) und ![Blue diagonal block](~@images/mapping/bnr.png) :::
 
-Double directionals cause the player to double their swing speed compared to a "standard" up/down pattern. They have to swing downwards, then bring their hand back up to swing downwards again, which is a lot of unnecessary motion. Alternate the direction of every other block for better flow.
+Bei doppelten Richtungswechseln verdoppelt der Spieler seine Schwunggeschwindigkeit im Vergleich zu einem "normalen" Aufwärts-/Abwärtsmuster. Sie müssten nach unten schwingen und dann die Hand wieder nach oben bringen, um erneut nach unten zu schwingen, was eine Menge unnötiger Bewegung bedeutet. Wechsel die Richtung jedes zweiten Blocks für einen besseren Fluss.
 
-Many new mappers use DDs to simulate the feel of drumming. While this *feels* like it makes sense, drums have rebound when you hit them and imaginary computer blocks... don’t. The game is called Beat Saber, not Beat Drummer!
+Viele neue Mapper verwenden DDs, um das Gefühl des Schlagzeugspiels zu simulieren. Auch wenn sich das *anfühlt*, als ob es Sinn machen würde, haben Trommeln einen Rückstoß, wenn man sie schlägt, und imaginäre Computerblöcke... nicht. Das Spiel heißt Beat Saber, nicht Beat Drummer!
 
 |                             Standard Flow                             |                            Double Directionals                            |
 |:---------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
 | ![Image of standard up down flow](~@images/mapping/standard-flow.jpg) | ![Image of double directionals](~@images/mapping/double-directionals.jpg) |
-|                        A good mapping practice                        |                           Yikes! Don't do this.                           |
+|                       Eine gute Mapping-Praxis                        |                           Yikes! Tu dies nicht.                           |
 
-**Resets** DDs *do* have their uses (typically in more "dancey" maps) if you give the player enough time to reset their hands back to neutral position. This usually means no DD’s within 2 beats for "normal" bpm songs and longer for high bpm songs.
+**Resets** DDs *haben* ihren Nutzen (typischerweise in "tänzerischen" Karten), wenn man dem Spieler genug Zeit gibt, seine Hände in die neutrale Position zurückzusetzen. Dies bedeutet in der Regel, dass keine DD's innerhalb von 2 Beats für "normale" bpm Songs und länger für hohe bpm Songs.
 
 ::: warning  
-If you’re using intentional DDs in a dance-style map you’ll need to make your NJS slower and spawn offset longer to give the player enough time to react. :::
+Wenn du absichtliche DDs in einer tanzähnlichen Karte verwendest, musst du deine NJS langsamer und den Spawn-Offset länger machen, damit der Spieler genug Zeit hat zu reagieren. :::
 
-::: danger Wrist resets are when you change the forehand/backhand flow of a a pattern mid-stream causing your player to roll their wrist to reset flow. They can break normal human body mechanics and put players at serious risk of joint damage. Do not use wrist resets at high precision! :::
+::: danger Handgelenksrückstellungen sind, wenn du den Vorhand-/Rückhand Flow eines Musters mitten im Spiel änderst, so dass der Spieler sein Handgelenk abrollen muss, um den Flow zurückzustellen. Du kannst die normale menschliche Körpermechanik stören und die Spieler einem ernsthaften Risiko von Gelenkschäden aussetzen. Verwende keine Resets mit hoher Präzision! :::
 
-When long periods of time pass between notes, the player will reset their arm position so it’s often preferable to start the new section with a down block.  In gray areas of time, like 3 seconds without notes, it is up to the mapper to reset the player or to continue the flow.
+Wenn zwischen den Noten längere Zeit verstreicht, wird der Spieler seine Armposition neu einstellen, so dass es oft besser ist, den neuen Abschnitt mit einem Abwärtsblock zu beginnen.  In zeitlichen Grauzonen, wie z. B. 3 Sekunden ohne Noten, liegt es am Mapper, den Spieler zurückzusetzen oder den Fluss fortzusetzen.
 
-Want to learn more about resets? Read [Intermediate Mapping](./intermediate-mapping.md)!
+Möchten du mehr über Resets wissen? Lies [Intermediate Mapping](./intermediate-mapping.md)!
 
 ### DO: Mapping mit Flow
-Outside of easy and normal difficulties, mapping with flow is an absolute must. Human bodies are incredible machines but there are certain ways that joints are meant to move and using patterns that violate those mechanics is a recipe for injuring your player.
+Außerhalb der leichten und normalen Schwierigkeiten ist das Mapping mit Flow ein absolutes Muss. Der menschliche Körper ist eine unglaubliche Maschine, aber es gibt bestimmte Bewegungsabläufe in den Gelenken und die Verwendung von Bewegungsmustern, die diese Mechanik verletzen, welches ein Rezept für die Verletzung des Spielers ist.
 
-Parity is the concept that each block direction is played with either a backhand swing or a forehand swing. The black line in the diagram below illustrates this forehand (below the line)/backhand (above the line) divider for the left and right sides.
+Parity ist das Konzept, dass jede Blockrichtung entweder mit einem Rückhand- oder einem Vorhandschwung gespielt wird. Die schwarze Linie im Diagramm unten veranschaulicht diese Unterscheidung zwischen Vorhand (unter der Linie) und Rückhand (über der Linie) für die linke und rechte Seite.
 
 ::: align center ![Parity diagram showing the forehand/backhand line for each block color](~@images/mapping/parity_diagram.jpg) :::
 
-When mapping with flow you are striving to always cross this parity line with the most natural movement possible. Effectively, your player should always be alternating between forehand and backhand every swing.
+Beim Mapping mit Flow strebst du danach, diese Parity Linie immer mit einer möglichst natürlichen Bewegung zu überschreiten. Der Spieler sollte bei jedem Schlag immer zwischen Vorhand und Rückhand wechseln.
 
-This video demonstrates the basics of parity: [YouTube](https://youtu.be/tLQK4gN3bDc)
+Dieses Video veranschaulicht die Grundlagen der Parity: [YouTube](https://youtu.be/tLQK4gN3bDc)
 
-A thing important to keep in mind, especially if you are new to the game or mapping, is that the concept of parity is most obvious for wrist players. If you do not play with your palm directly facing the ground, then you might struggle to understand why some parity breaks are uncomfortable. Remember that while it may feel fine to you, players have different grips and styles. Proper parity feels good for everyone, not just some playstyles.
+Eine wichtige Sache, die man im Auge behalten sollte, besonders wenn man neu im Spiel oder im Mapping ist, ist, dass das Konzept der Parity für Spieler aus dem Handgelenk am offensichtlichsten ist. Wenn du nicht so spielst, dass deine Handfläche direkt zum Boden zeigt, kannst du vielleicht nicht verstehen, warum manche Parity Umbrüche unangenehm sind. Denke daran, dass es sich für dich vielleicht gut anfühlt, aber Spieler haben unterschiedliche Griffe und Stile. Angemessene Parity ist für alle gut, nicht nur für bestimmte Spielstile.
 
 ::: tip  
-When proper flow is achieved the player should be physically capable of getting full points on each block, even if they don’t have the skill or interest in doing so. See the [Scoring](/grips-and-tricks.md#scoring) section of the wiki for more info. :::
+Wenn der richtige Spielfluss erreicht ist, sollte der Spieler körperlich in der Lage sein, bei jedem Block die volle Punktzahl zu erreichen, auch wenn er nicht die Fähigkeit oder das Interesse hat, dies zu tun. Weitere Informationen findest du im [Scoring](/grips-and-tricks.md#scoring) Abschnitt des Wikis. :::
 
 |                             0° Winkel                              |                              45° Winkel                              |                              90° Winkel                              |                              135° Winkel                               |                              180° Winkel                               |
 |:------------------------------------------------------------------:|:--------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
 | ![0 degree angle change between blocks](~@images/mapping/0deg.png) | ![45 degree angle change between blocks](~@images/mapping/45deg.png) | ![90 degree angle change between blocks](~@images/mapping/90deg.png) | ![135 degree angle change between blocks](~@images/mapping/135deg.png) | ![180 degree angle change between blocks](~@images/mapping/180deg.png) |
 |                             Nein. (DD)                             |                              Nein. (DD)                              |                         Eventuell in E/N/H.                          |                                  Ja.                                   |                                  Ja.                                   |
 
-**Basic Flow Concepts:**
+**Grundlegende Flow-Konzepte:**
 
-* The higher your note precision, the more you want to stick to 180° (up/down) and 135° (up/down/diagonal) patterns.
-* 90° transitions that cross the parity line should only be considered with 1-2 beats in between, more if your map is high tempo. Avoid 90° transitions entirely at Expert and ExpertPlus.
-* Make sure that you have the right setup (the pattern immediately before) and escape (the pattern immediately after) for a comfortable swing at whatever speed you’re mapping.
-* Be conscious of your timing, you can get away with more at sub-160 BPM tempos with lower note precision than you can in high BPM songs. Map for the style of song you’ve selected.
+* Je höher deine Notenpräzision ist, desto eher solltest du dich an 180° (auf/ab) und 135° (auf/ab/diagonal) Muster halten.
+* 90° Übergänge, die die Parity Linie kreuzen, sollten nur mit 1-2 Beats dazwischen in Betracht gezogen werden, mehr, wenn deine Map ein hohes Tempo hat. Vermeide 90° Übergänge bei Expert und ExpertPlus vollständig.
+* Vergewisser dich, dass du das richtige Setup (das Muster unmittelbar davor) und das richtige Escape (das Muster unmittelbar danach) für einen komfortablen Schwung bei jeder Geschwindigkeit hast, die du abbilden willst.
+* Achten auf dein Timing. Bei Tempo unter 160 BPM kannst du mit geringerer Notenpräzision mehr erreichen als bei Songs mit hohen BPM. Map für den von deinen gewählten Songstil.
 
 ### DON'Ts: Verbotene Patterns
-These are called forbidden patterns for a reason. There is no reason in the world to use these because they're dangerous to either the player's hardware, the player's joints, or they go against the scoring system. You may have played maps that included these but that doesn't make them ok.
+Diese werden nicht ohne Grund als verbotene Pattern bezeichnet. Es gibt keinen Grund in der Welt, diese zu verwenden, da sie entweder für die Hardware des Spielers oder seine Gelenke gefährlich sind oder dem Punktesystem zuwiderlaufen. Du hast vielleicht Maps gespielt, die diese enthalten, aber das macht sie nicht gut.
 
 #### Handclaps
-|                              Abbildung                               |                             Editor-Ansicht                              | Erklärung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|:--------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Illustration of a handclap](~@images/mapping/controller-smash.png) | ![Editor view of a handclap](~@images/mapping/controller-smash-alt.png) | Pointing blocks at each other may cause the player to smash their controllers together when playing for max points. Don’t do it, no exceptions.<br /><br />Note: Different VR sets have different controllers. Vive wands are much bigger than Oculus touch controllers and Index knuckles... don’t put your players’ hardware at risk! *AKA Controller clash, Controller smash* <br /><br /> [Example Video](https://clips.twitch.tv/FantasticTenderTortoiseDancingBanana) |
+|                              Abbildung                               |                             Editor-Ansicht                              | Erklärung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:--------------------------------------------------------------------:|:-----------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Illustration of a handclap](~@images/mapping/controller-smash.png) | ![Editor view of a handclap](~@images/mapping/controller-smash-alt.png) | Wenn man Blöcke aufeinander richtet, kann es passieren, dass der Spieler seine Controller zusammenschlägt, wenn er um maximale Punkte spielt. Tu es nicht, keine Ausnahmen.<br /><br />Hinweis: Verschiedene VR-Sets haben unterschiedliche Controller. Vive Wands sind viel größer als Oculus Touch Controller und Index Knuckles... gefährde nicht die Hardware deiner Spieler! *AKA Controller clash, Controller smash* <br /><br /> [Beispiel-Video](https://clips.twitch.tv/FantasticTenderTortoiseDancingBanana) |
 
 #### Hammer Hits
-|                            Abbildung                             |                           Editor-Ansicht                            | Erklärung                                                                                                                                     |
-|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Illustration of a hammer hit](~@images/mapping/hammer-hit.png) | ![Editor view of a hammer hit](~@images/mapping/hammer-hit-alt.png) | Any directional block pointing towards a bomb on the same plane is just evil (and undermines the scoring system). Don’t do it. No exceptions. |
+|                            Abbildung                             |                           Editor-Ansicht                            | Erklärung                                                                                                                                                       |
+|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Illustration of a hammer hit](~@images/mapping/hammer-hit.png) | ![Editor view of a hammer hit](~@images/mapping/hammer-hit-alt.png) | Jeder Directional Block, der auf eine Bombe in der gleichen Ebene zeigt, ist einfach nur böse (und untergräbt das Punktesystem). Tue es nicht. Keine Ausnahmen. |
 
-#### Disembodied notes
-|                                  Abbildung                                   |                                 Editor-Ansicht                                  | Erklärung                                                                                                                                                                                                                            |
-|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Illustration of disembodied notes](~@images/mapping/disembodied-notes.png) | ![Editor view of disembodied notes](~@images/mapping/disembodied-notes-alt.png) | Do not hide blocks on the other side (or inside) of walls. Most of the time, these are simple mistakes that people don’t find because they don’t adequately playtest their maps (NOTE: Always [playtest](./#playtesting) your maps!) |
+#### Entkörperte Noten
+|                                  Abbildung                                   |                                 Editor-Ansicht                                  | Erklärung                                                                                                                                                                                                                                                     |
+|:----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Illustration of disembodied notes](~@images/mapping/disembodied-notes.png) | ![Editor view of disembodied notes](~@images/mapping/disembodied-notes-alt.png) | Verstecke keine Blöcke auf der anderen Seite (oder innerhalb) von Wänden. Meistens handelt es sich dabei um einfache Fehler, die die Leute nicht finden, weil sie ihre Maps nicht ausreichend testen (HINWEIS: [Playteste ](./#playtesting) deine Maps immer) |
 
-#### Rapid Wall Dodge
-|                                 Abbildung                                  |                                Editor-Ansicht                                 | Erklärung                                                                                                                                                                                                                                                                                                                         |
-|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Illustration of rapid wall dodge](~@images/mapping/rapid-wall-dodge.png) | ![Editor view of rapid wall dodge](~@images/mapping/rapid-wall-dodge-alt.png) | Keep head movement slow and predictable. Do not force the player to very quickly move from one side of their play space to the other. Wall dodges are fine (and fun!) to use but allow *at least* 1.5 beats for the player to switch sides for higher BPM songs. You don’t want to risk them bumping into things or falling over. |
+#### Schnelles Wall Dodge
+|                                 Abbildung                                  |                                Editor-Ansicht                                 | Erklärung                                                                                                                                                                                                                                                                                                                                                                            |
+|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Illustration of rapid wall dodge](~@images/mapping/rapid-wall-dodge.png) | ![Editor view of rapid wall dodge](~@images/mapping/rapid-wall-dodge-alt.png) | Halte die Kopfbewegung langsam und vorhersehbar. Zwinge Spieler nicht, sich sehr schnell von einer Seite ihres Spielraums zur anderen zu bewegen. Wall Dodges sind in Ordnung (und machen Spaß!), aber erlaube *mindestens* 1,5 Schläge, damit der Spieler bei Liedern mit höherem BPM die Seite wechseln kann. Du willst nicht riskieren, dass sie an etwas anstoßen oder umfallen. |
 
 #### Danger Dash
-|                            Abbildung                             |                           Editor-Ansicht                            | Erklärung                                                                                                                                                                                                                                                                                                    |
-|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Illustration of danger dash](~@images/mapping/danger-dash.png) | ![Editor view of danger dash](~@images/mapping/danger-dash-alt.png) | Never force the player into the far edge of their playspace with 3-width walls or a 2-width wall in the middle. Walls that encompass the two middle columns gives the player very little room to play, and you don’t know how large their play area is or how far they will dash in response to these walls. |
+|                            Abbildung                             |                           Editor-Ansicht                            | Erklärung                                                                                                                                                                                                                                                                                                                           |
+|:----------------------------------------------------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Illustration of danger dash](~@images/mapping/danger-dash.png) | ![Editor view of danger dash](~@images/mapping/danger-dash-alt.png) | Zwinge den Spieler niemals an den äußersten Rand seines Spielraums mit einer 3-breiten Wand oder einer 2-breiten Wand in der Mitte. Walls, die die beiden mittleren Säulen umschließen, geben dem Spieler sehr wenig Spielraum, und man weiß nicht, wie groß sein Spielbereich ist oder wie weit er auf diese Walls reagieren wird. |
 
 #### Spam von Bomben
 |                          Abbildung                           |                         Editor-Ansicht                          | Erklärung                                                                                                                                                                                                                                                                                 |

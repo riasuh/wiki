@@ -6,10 +6,10 @@ sidebar: auto
 
 ## はじめに
 
-* refer to the [original English version](../quest-modding.md),
-* wait for a translation to be done,
+* このガイドはQuest1とQuest2のためのものです。
+* 今までModによってBANされたことはありません。
 
-::: danger Sorry, this page has not been translated yet, you can either:
+::: danger 注意 しっかりと理解してからModを利用しましょう
 
 * 初期設定（バニラ）には存在しない問題が発生する可能性があります。 99.9％のバグ、クラッシュや遅延はModによるものです。
 * Modはゲームのアップデートによって動かなくなる可能性がありますが、普通のことです。このようなことが起きた場合は忍耐強く、敬意をもって待ちましょう。Mod作成者はボランティアです。
@@ -17,7 +17,7 @@ sidebar: auto
 
 Modに関連する問題でゲーム開発者を非難しないでください。 ただのクレーマーになってはいけません。 :::
 
-:::warning Elite Ericのビデオを見ましたが、動かなくなりました。 いったい何が起こったのでしょうか。 BSMGはElite Ericによるチュートリアルを使用しないことを**強く**お勧めします。 多くの場合、それらは 時代遅れであるか、不完全で誤った、正しくない情報が含まれていることがわかります。
+:::warning Youtubeのビデオチュートリアルを見たのですが、うまくいかず困っています。 どうすればいいですか？ BSMGでは、改造のためにビデオチュートリアルを使用しないことを**強く**お勧めします。 多くの場合、それらの情報は古いものであったり、不完全であったり、誤った情報であったりすることがあります。
 
 代わりに、ここで書かれたガイドに従うか、 [BSMG Discord](https://discord.gg/beatsabermods) のヘルプを探してください。（いくつかの日本語サイトも古い情報を含んでいるので注意してください） :::
 
@@ -26,7 +26,7 @@ Modに関連する問題でゲーム開発者を非難しないでください�
 
 PCにアクセスできない場合は、 [Android Phone](#installing-bmbf-with-an-android-phone) を使用できます。
 
-* [BMBF apk](https://bmbf.dev/stable) :::warning BMBFをインストールしModを導入するとゲーム公式のマルチプレイ、リプレイの視聴、公式のリーダーボードへの更新ができなくなります。 もしModが導入された状態でマルチプレイを行いたい場合は`Beat Together`が必要になります。これはPCとQuestのクロスプレイを可能にします。また、両方とものカスタムソングで遊ぶことができます。 Modは、 #quest-mods `または` Questboard [サイトの Beat Saber](https://questmodding.com) Modding Group にあります。
+* [BMBF apk](https://bmbf.dev/stable) :::warning　警告 BMBFをインストールしModを導入するとゲーム公式のマルチプレイ、リプレイの視聴、公式のリーダーボードへの更新ができなくなります。 もしModが導入された状態でマルチプレイを行いたい場合は`Beat Together`が必要になります。これはPCとQuestのクロスプレイを可能にします。また、両方とものカスタムソングで遊ぶことができます。 Modは、 #quest-mods `または` Questboard [サイトの Beat Saber](https://questmodding.com) Modding Group にあります。
 
 ランク付けされた曲からパフォーマンスポイント(PP)を得るためには、 [ScoreSaber](https://new.scoresaber.com/quest) modが必要です。 [このリンク](https://new.scoresaber.com/quest) では、 ScoreSaberページに移動して設定する方法が書いてあります。 Scoresaberはベースのゲームのリーダーボードを置き換えるものではなく、カスタム曲のリーダーボードだけが追加されます。
 
@@ -53,7 +53,7 @@ Select the 以下に示す`Install APK from folder`ボタンを選択して最�
 
 Beat Saberを一度実行した後、以下の写真のように、unknown sources(提供元不明) からBMBFを開きます。 ![UnknownSourced](~@images/beginners-guide/quest_home-menu.jpg)
 
-開いたら、正確にあなたのゲームをModの指示通りにBMBFの各ステップを進めてください。 完了すると、BMBFアプリの [Bsaber.com](https://www.bsaber.com) が表示されます。 そこで利用可能な任意のカスタム曲をダウンロードすることができます。 右上にある地球儀アイコンをクリックして、ビートセーバーに曲をダウンロードすることもできます。
+開いたら、BMBFの各手順に沿ってゲームの改造を進めてください。 完了すると、BMBFアプリの [Bsaber.com](https://www.bsaber.com) が表示されます。 そこで利用可能な任意のカスタム曲をダウンロードすることができます。 右上にある地球儀アイコンをクリックして、ビートセーバーに曲をダウンロードすることもできます。
 
 インストールプロセス中に `Restore App` ポップアップが表示されることがありますが、そのときは `Close` をクリックしてください。 この警告は海賊版ゲームに向けられたものなので、Modを導入しているだけの場合は、無視してもほとんど影響はありません。
 
@@ -71,7 +71,7 @@ Beat Saberを一度実行した後、以下の写真のように、unknown sourc
 
 #### 準備するもの
 
-* アンドロイド携帯もしくはタブレット（iPhoneやiPadはサポートされていません）
+* Android携帯もしくはタブレット（iPhoneやiPadはサポートされていません）
 * Oculus Quest Storeで**支払いが完了**したBeat Saber
 * クエストを携帯につなげるケーブル（もし携帯がタイプCの充電方式であればクエストでも機能するでしょう）
 
@@ -81,7 +81,7 @@ Beat Saberを一度実行した後、以下の写真のように、unknown sourc
 2. 最新の[BMBF APK from bmbf.dev/stable](https://bmbf.dev/stable)をダウンロードします。
 3. この[ガイド](https://github.com/ComputerElite/wiki/wiki/Enable-Developer-Mode-for-OQ)を参考にクエストで開発者モードを実行できるようにしてください。
 4. 開発者モードを有効にする。
-    1. アンドロイドの設定をひらく
+    1. Androidの設定をひらく
     2. 機器の設定を開く
     3. ソフトウエアの情報をタップ
     4. ビルド番号をタップして開発者モードを有効にします 7回タップします
@@ -160,7 +160,7 @@ QuestでBMBFを開き、 `Browser` タブに移動します。そこには、下
 ### PCを使った方法
 [BSMG Discord](https://discord.com/invite/beatsabermods)の`#quest-mods`チャンネルで他のModを探してインストールすることができます。
 
-:::warning クエストとPCが同じネットワークに接続されていること、httpsではなくhttpであることを確認してください。 :::
+:::warning 警告 クエストとPCが同じネットワークに接続されていること、httpsではなくhttpであることを確認してください。 :::
 
 QuestでBMBFを開き、 `Tools` タブに移動します そこにウェブアドレスとバージョン番号が表示されます
 

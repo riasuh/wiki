@@ -117,12 +117,12 @@ Beat Saber **НИКОГДА** не попросит запуска от имен
 ## Что можно посмотреть ещё
 
 * [Хваты и советы](./grips-and-tricks.md)
-* [Создание карт](/mapping/)
-* [Пользовательские мечи](/models/custom-sabers.md)
-* [Пользовательские модели аватаров](/models/custom-avatars.md)
-* [Пользовательские платформы](/models/custom-platforms.md)
+* [Создание карт](/ru/mapping/)
+* [Пользовательские мечи](/ru/models/custom-sabers.md)
+* [Пользовательские модели аватаров](/ru/models/custom-avatars.md)
+* [Пользовательские платформы](/ru/models/custom-platforms.md)
 * [Играть пользовательские песни в Мультиплеере](https://discord.com/invite/gezGrFG4tz)
-* [Создание модификаций](/modding/)
+* [Создание модификаций](/ru/modding/)
 
 ## Есть вопросы?
 Посетите каналы помощи в [BSMG Discord](https://discord.gg/beatsabermods)!

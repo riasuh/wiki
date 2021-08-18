@@ -114,7 +114,7 @@ Chroma-Events bewirken nichts von selbst. Chroma-Events fungieren als Lichtfilte
 
 ::: align center ![Screenshot of the MMA2 lighting track with Chroma events](~@images/mapping/mma2-chroma.png) :::
 
-:::warning Platziere keine Chroma-Events innerhalb eines anderen Events. It can cause issues when copy pasting and MMA2’s shoddy rounding can even place the chroma after the actual event and it won’t change colour. Vermeide dies komplett. ~Halcyon12 :::
+:::warning Platziere keine Chroma-Events innerhalb eines anderen Events. Es kann zu Problemen beim Kopieren und Einfügen kommen und MMs schlampige Rundung kann sogar das Chroma nach dem eigentlichen Ereignis platzieren und die Farbe wird nicht geändert. Vermeide dies komplett. ~Halcyon12 :::
 
 ### Farbverläufe
 Wie man einen Farbverlauf mit Chroma-Events platziert:

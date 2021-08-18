@@ -1,9 +1,9 @@
 ---
-description: "::: danger\nSorry, this page has not been translated yet, you can either:"
+description: Check out these lists of other Beat Saber communities around the internet!
 ---
 
 # Beat Saber コミュニティ
-::: danger Sorry, this page has not been translated yet, you can either:
+Check out these lists of other Beat Saber communities around the internet!
 
 ---
 

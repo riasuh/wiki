@@ -5,13 +5,13 @@ tags:
   - beat saber
   - wiki
   - mapping
-  - make levels
+  - создание уровней
   - how are beat maps make?
   - custom levels
   - make custom maps
   - custom charts
 description: |
-  Too many anime maps? Not enough anime maps?
+  Слишком много аниме песен? Недостаточно аниме песен?
   Take matters into your own hands and learn to map here!
 ---
 
@@ -28,12 +28,12 @@ description: |
 * [Mapping Term Glossary](./glossary.md)
 
 ## Быстрый старт по созданию карт
-> The wiki is your building blocks, the community is your inspiration, and you are the creativity.
+> Вики - это ваша основа, сообщество - это ваше вдохновение и вы - это ваш творческий потенциал.
 
-Great mappers are not made in a day. It takes dedication with no one really able to hold your hand. The best we can do is provide you the tools with this wiki and clarify any questions you have to succeed in your mapping career!
+Хорошими создателями карт не становятся за один день. It takes dedication with no one really able to hold your hand. Лучшее, что мы можем сделать, предоставить инструменты с этой вики, и дать ответы на любые вопросы, которые у вас появятся по мере создания карт!
 
-1. Download the necessary tools for mapping: an [audio editor](https://www.audacityteam.org/) and a [map editor](#map-editing-resources).
-2. [Set up your audio file](#audio-editing-resources), find and confirm the BPM, and export in OGG format.
+1. Скачайте необходимые инструменты для создания карт: [аудиоредактор](https://www.audacityteam.org/) и [редактор карт](#map-editing-resources).
+2. [Настройте файл с аудио](#audio-editing-resources), найдите и уточните BPM, и экспортируйте в формат OGG.
 3. Set up your song in your mapping editor (steps vary by editor but here's the [user guide](./mediocre-map-assistant.md) for MMA2).
 4. Get mapping! Review [basic mapping practices](./basic-mapping.md) before you start. [Playtest](#playtesting) your own work early and often while mapping.
 5. Get lighting! Review [basic lighting information](#lighting-practices). Simple manual lighting is easier than you think!
@@ -41,10 +41,10 @@ Great mappers are not made in a day. It takes dedication with no one really able
 7. Once your song has been mapped, lighted, and playtested you’re ready to [release](#publishing-songs) your song to the world on BeatSaver.
 
 ### Video Tutorials
-Text guides aren't your thing? Checkout these video series!  
-:::tip Remember: The text guides on this wiki are always more up to date as it is easier and quicker to change. :::
+Текстовые руководства это не ваше? Посмотрите эти видео!  
+:::tip Помните: Текстовые руководства на этой вики всегда более актуальные, так как их легче и быстрее изменить. :::
 
-#### Recommended
+#### Рекомендуем
 
 * [Helen Carnate's Mapping Tutorial](https://www.youtube.com/watch?v=6O3sXmh-kAA) - A 17 minute guide to get started mapping!
 * [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - A comprehensive lecture series on making your first map.

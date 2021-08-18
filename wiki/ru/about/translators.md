@@ -48,7 +48,7 @@
 ### Корректоры
 
 * Eris
-  * [Twitter](https://twitter.com/ErisApps)
+  * [Твиттер](https://twitter.com/ErisApps)
 
 ### Переводчики
 
