@@ -2,9 +2,11 @@
 На таком большом сервером, требуется серьезная модерация для того, чтобы держать все под контролем. Вы можете поблагодарить эту команду за сохранение порядка на сервере.
 
 ## 24Kings
-"Join the Qvolution, also Pink cute"
+I slap Java code together and it works most of the time. Fellow crippling Minecraft addict
 
 **Roles:** Moderator
+
+[Twitter](https://twitter.com/24Kings_Rock) | [Twitch](https://twitch.tv/24Kings) | [GitHub](https://github.com/The24Kings)
 
 ## Burrito
 Ironically doesn't like burritos, thinks tacos are better (true facts)

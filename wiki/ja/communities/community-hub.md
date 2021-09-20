@@ -2,13 +2,13 @@
 sidebar: "false"
 ---
 
-# Community Hub
-::: danger Sorry, this page has not been translated yet, you can either:
+# コミュニティハブ
+Beat Saber Modding Group以外のコミュニティのリストです。
 
 ---
 
 ## 115 Guild
-A community for all accuracy related discussions and events. Whether you want to show off and compare your skills or seek to improve and learn, everyone is welcome! We also have an accuracy campaign for earning ranks in the server, how far can you get?
+精度に関する議題やイベントを扱います。 自分のスキルを人と比較したり、精度を上げる方法を学びたい人は誰でも歓迎します！ また、サーバー内でランクを決めるキャンペーンも行っています。あなたはどこまで高みを目指せますか？
 
 [Discord](https://discord.gg/j8m8cxr)
 
@@ -22,7 +22,7 @@ We are an Acc focused community that plans to be the new hub for Acc related eve
 ---
 
 ## BeatKhana
-We are BeatKhana, a Beat Saber community focused around pushing tournaments forward! What do we do?
+私たちはトーナメントを主宰するコミュニティです！ 以下の取り組みを行っています。
 
 * refer to the [original English version](../../communities/community-hub.md),
 * wait for a translation to be done,
@@ -35,7 +35,7 @@ We are BeatKhana, a Beat Saber community focused around pushing tournaments forw
 ---
 
 ## Beat Saber Clan Hub
-Beat Saber Clan Hub is the hub for all things clan-related. If you want to join or create a clan, this is the server for you!
+Beat Saber Clan Hubはクランに関連するすべてのことを扱います。 クランに参加したい、作成したい場合はこちらからどうぞ！
 
 [Discord](https://discord.gg/2a89Nmm3PC)
 
@@ -66,6 +66,13 @@ A League-style tournament for Beat Saber!
 Welcome to the Beat Saber Legacy Group! Here we come together to relive the old days of Beat Saber by creating assets, mods, and tools to enhance your experience of Beat Saber! You can even downgrade your version here along with full mod support!
 
 [Discord](https://discord.gg/MrwMx5e) | [Website](https://bslegacy.com/)
+
+---
+
+## BeatSaver
+The BeatSaver discord provides a centralized location for site support, content reports, bug reports, and developer discussions related to the main repository of custom maps.
+
+[Discord](https://discord.gg/rjVDapkMmj) | [Website](https://beatsaver.com/)
 
 ---
 

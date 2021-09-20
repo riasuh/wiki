@@ -2,50 +2,52 @@
 Met een server die zo groot is, is veel moderatie nodig om alles onder controle te houden. Je kan dit team bedanken voor het feit dat alles schoon blijft.
 
 ## 24Kings
-"Doe mee met de Qvolution. Owja, Pink is schattig"
+I slap Java code together and it works most of the time. Fellow crippling Minecraft addict
 
 **Rol:** Moderator.
 
+[Twitter](https://twitter.com/24Kings_Rock) | [Twitch](https://twitch.tv/24Kings) | [GitHub](https://github.com/The24Kings)
+
 ## Burrito
-Houdt ironisch genoeg niet van burritos, en denkt dat taco's beter zijn (en dat is een feit).
+Ironically doesn't like burritos, thinks tacos are better (true facts)
 
-**Rollen:** Moderator, Support.
+**Roles:** Moderator, Support
 
-[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub sponsoren](https://github.com/sponsors/burritosoftware) | [Fooi](https://streamelements.com/burritosoft/tip)
+[Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
 crippling destiny addiction
 
-**Rollen:** Support, 3D Artists, Moderator.
+**Roles:** Support, 3D Artists, Moderator
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
 ## Eradawn
-"Findus zegt hai."
+"Findus says hai"
 
-**Rollen:** Moderator, Support.
+**Roles:** Moderator, Support
 
 ## Hydrand
-Camellia is SourPls.
+Camellia is SourPls
 
-**Rollen:** Mapper, Moderator.
+**Roles:** Mapper, Moderator
 
 [Twitch](https://www.twitch.tv/hydrandvr)
 
 ## John
-"Altijd moe"
+"Tired at all times"
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 ## Kuru
 All they can say is that the R in Kuru stands for Rat
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 ## Nym
 "i like the gaymes. Addicted to many, don't like any of them, send cat pics."
 
-**Rol:** Moderator.
+**Roles:** Moderator
 
 ## Olaf
 Any stroopwafels?

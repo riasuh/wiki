@@ -152,16 +152,7 @@ The official Swedish discord, right here!
 
 ---
 
-### Швейцария
-
-#### SwissSaber
-Official Beat Saber Discord for Swiss players, but people from other countries are also welcome.
-
-[Discord](https://discord.gg/eV6SUUF)
-
----
-
-### Великобритания
+### UK
 
 #### British Beat Saber Discord
 We have tea!
@@ -170,7 +161,7 @@ We have tea!
 
 ---
 
-### Норвегия
+### Norway
 
 #### Beat Saber Norge
 We are a small community based in the relatively small country of Norway. We want to have an accepting community of people from all countries with the use of our bot made by Rocker!
@@ -179,7 +170,7 @@ We are a small community based in the relatively small country of Norway. We wan
 
 ---
 
-### Ирландия
+### Ireland
 
 #### Beat Saber Ireland
 Discord server for the Irish Beat Saber community, international players are welcome too!

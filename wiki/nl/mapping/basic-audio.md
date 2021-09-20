@@ -89,15 +89,9 @@ De hieronder vermelde stappen zijn dezelfde als die gebruikt worden in Ryger’s
    * Discord [Zip Download](https://cdn.discordapp.com/attachments/443569023951568906/662417326771273728/ArrowVortex.zip) (aanbevolen methode).
    * Arrow Vortex website [.Rar download](https://arrowvortex.ddrnl.com/).
    * Je hebt extra software nodig zoals [7zip](https://www.7-zip.org/) om `.rar` bestanden zoals deze uit te pakken.
+   * If Arrow Vortex does not open see [troubleshooting](#troubleshooting-arrow-vortex).
 2. Exporteren jouw audiobestand naar `.ogg` met [Audacity](https://www.audacityteam.org/)
    * Andere bestandtypen gebruiken (zoals bijv. `.mp3` of `.m4a`) voegt een vertraging toe aan de audio die elke keer verschilt en geen rekening houdt met wanneer je wijzigingen exporteert voor gebruik in de editor.
-
-#### Probleemoplossing voor Arrow Vortex
-
-##### The code execution cannot proceed because MSVCP120.dll was not found
-
-* Installeer [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in jouw taal van voorkeur en probeer het opnieuw.
-  * Als het nog steeds niet werkt, zorg ervoor dat je de `x86` versie download, wat dichtbij de onderkant van de pagina staat. En niet de `x64` versie.
 
 ::danger **Dit is een cruciale stap!**  
 geen `.ogg` bestand gebruiken of het gebruik van de exportfunctie in AV **zal** jouw nummer desynchroniseren met een inconsistente tijd. :::
@@ -109,12 +103,12 @@ geen `.ogg` bestand gebruiken of het gebruik van de exportfunctie in AV **zal** 
 6. Klik op de <kbd>Find BPM</kbd> knop.
    * Als je geluk hebt, geeft AV een enkele BPM waarde met 100% vergelijkenis.  
      ![AV adjustment venster](~@images/mapping/adjustments.png)
-   * Als je meerdere opties krijgt, moet je luisteren naar de opties om te zien of ze overeenkomen met het nummer. Meestal zal het de eerste optie zijn, maar volg de stappen 7 en 8 om zeker te zijn.  
-     ![Meerdere BPM Waarden](~@images/mapping/alternateAdjustments.png)
+   * If you get multiple options you will want to listen to the options to see if they match with the song. Most of the time it will be the first option but follow steps 7 and 8 to make sure.  
+     ![Multiple BPM Values](~@images/mapping/alternateAdjustments.png)
 7. Klik op de <kbd>Apply BPM</kbd> knop.
 8. Druk op <kbd>F3</kbd> om beat ticks in te schakelen en druk op de <kbd>Spatiebalk</kbd> om door het nummer heen te luisteren om te bevestigen dat het begin, midden en einde van jouw nummer overeenkomen.
-   * Als er maar één resultaat is gegeven en de ticks niet overeenkomen, duidt dit erop dat het nummer een variabele BPM heeft.
-   * Als de detectie meerdere opties heeft gegeven en de ticks niet overeenkomen, selecteer dan de volgende optie, klik op de <kbd>Apply BPM</kbd> knop en luister opnieuw. Als geen van de opties bij het nummer past, duidt dit erop dat het een variabele BPM heeft.
+   * If only a single result was given and the ticks do not match, this suggests that the song has a variable BPM.
+   * If the detection gave multiple options and the ticks do not match, select the next option, click the <kbd>Apply BPM</kbd> button and listen again. If none of the options work for the song, this suggests that it has a variable BPM.
 
 :::warning WAARSCHUWING bij Variabele BPM Het is aanbevolen dat nieuwere level makers een ander nummer kiezen vanwege de toegenomen moeilijkheid geassocieerd met een variabele BPM. Ben je niet zeker of jouw nummer variabel is? Ga naar BSMG's `#mapping-discussion` en vraag het!
 
@@ -122,8 +116,8 @@ Als je de ervaring hebt, zie [Geavanceerde audio Bewerking: variabele BPM](./adv
 
 10. Geef de speler ongeveer twee seconden wachttijd door zo vaak mogelijk op de `Move first beat` knop te klikken![Arrow Vortex move beat button](~@images/mapping/av_movebeat.png) en de begintijd zo dicht mogelijk bij 2.00 seconden te krijgen, of zet het geluid waarop je het eerste blok wilt plaatsen op het eerste streepje.  
     ![Uitgelijnd met de eerste balk](~@images/mapping/av_aligned.png) ![Alternatief uitgelijnd met de eerste balk](~@images/mapping/av_altAligned2.png)
-    * Na het uitlijnen moet je het liedje opnieuw controleren om te kijken of de beats nog steeds overeenkomen.
-11. Nu je de BPM en offset hebt, moet je de juiste stilte aan het nummer toevoegen of verwijderen.
+    * After aligning, you should check the song again to verify that the beats still match.
+11. Now that you have the BPM and offset, you will need to add or remove the right amount of silence to the song track.
 
 ---
 
@@ -146,15 +140,22 @@ Na het genereren van de stilte kan je op de donkere lijn klikken in het nummersp
 3. Selecteer het nieuwe spoor en drup om de <kbd>Home</kbd> knop.
 4. Klik op `Generate – > Silence…`. ![Generate Silence...](~@images/mapping/audacity-generate_silence.png)
 5. Voer de negatieve offset waarde in die je kreeg van Arrow Vortex (of een andere vergelijkbare tool) in in het Duration veld en klik vervolgens op OK.![Stilte toevoegen met Audacity](~@images/mapping/av_audacity-negative.png)
-   * Het zou er ongeveer zo moeten uitzien:  
-     ![Resulterende stilte](~@images/mapping/audacity-neg-generated_silence.png)
-6. Selecteer vanaf het einde van de gegenereerde stilte (de gele verticale lijn) tot het begin van het nummer door de inhoud van beide sporen te selecteren.<br/>![Selecteer tot gegenereerde stilte](~@images/mapping/audacity-neg-select_silence.png)
+   * You should see something similar to this  
+     ![Resulting Silence](~@images/mapping/audacity-neg-generated_silence.png)
+6. Select from the end of the generated silence (yellow vertical line) to the start of the song track selecting the contents of both tracks.<br/>![Select up to generated silence](~@images/mapping/audacity-neg-select_silence.png)
 7. Druk op de <kbd>Delete</kbd> toets.
 8. Klik op de X op het nieuwste spoot om het te verwijderen.  
    ![Het spoor verwijderen](~@images/mapping/audacity-delete_track.png)
 9. Klaar. Je kan nu verder gaan naar [exporteren](#exporteren) of [optionele audiobewerking](#optionele-audiobewerking).
 
 > Als je niet vertrouwd bent met het verwijderen van de exacte hoeveelheid, kan je meer dan nodig verwijderen, de gewijzigde `.ogg` exporteren en [re-syncen met behulp van jouw tool](#sync-using-arrow-vortex) met het nieuwe bestand om een positieve offset te krijgen.
+
+#### Probleemoplossing voor Arrow Vortex
+
+##### The code execution cannot proceed because MSVCP120.dll was not found
+
+* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
+  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 ### Synchroniseren met een Klik Spoor
 

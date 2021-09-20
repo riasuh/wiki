@@ -66,8 +66,8 @@ Team Gravityを代表するBeatSaber最初のプロプレイヤー 元ScoreSaber
 ## Pink
 このページの説明を求められたとき私たちは幽霊になります。
 
-**Roles:** Staff, Moderator, Support, Modder, Event Winner  
-**Contributions:** QuestBoard, PinkCore, BSMG YouTube, A bunch of Quest mods and models.
+**ロール:** Staff, Moderator, Support, Modder, Event Winner  
+**主な仕事:** QuestBoard, PinkCore, BSMG YouTube, Quest用 Modとモデルをいくつか
 
 [QuestBoard](https://www.questmodding.com) | [Patreon](https://www.patreon.com/moddingpink) | [YouTube](https://www.youtube.com/channel/UCTBR-IvVKylym05Dq0zFcaw) | [GitHub](https://github.com/BSMGPink)
 

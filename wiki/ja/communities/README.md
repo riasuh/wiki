@@ -1,9 +1,9 @@
 ---
-description: Check out these lists of other Beat Saber communities around the internet!
+description: インターネット上にある他のBeat Saberコミュニティの一覧をチェックしてみてください。
 ---
 
 # Beat Saber コミュニティ
-Check out these lists of other Beat Saber communities around the internet!
+インターネット上にある他のBeat Saberコミュニティの一覧をチェックしてみてください。
 
 ---
 

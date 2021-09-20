@@ -200,90 +200,97 @@ doet soms dingen ????
 
 [GitHub](https://github.com/raftario)
 
-## Rolo
-Maker van de Custom Platforms plugin en pompoen snijwerk extrordinaire. Ook verantwoordelijk voor MVP zodat je de Shrek film kunt bekijken terwijl je het in het spel speelt!
+## RedBrumbler
+Ever used Custom sabers for quest? this guy made the mod for that.
 
-**Rol:** Modder **Bijdragen:** Custom Platforms en MVP.
+**Roles:** Modder, Support, 3D Artists **Contributions:** Qosmetics, Custom Pillows (quest), Inverted arrows, AntiVertigo
+
+[GitHub](https://github.com/RedBrumbler) | [PayPal](https://paypal.me/RedBrumblerOfficial) | [Patreon](https://www.patreon.com/Qosmetics)
+
+## Rolo
+Creator of the Custom Platforms plugin and pumpkin carving extrordinaire. Also responsible for MVP so you can watch the Shrek movie as you play it in game!
+
+**Roles:** Modder **Contributions:** Custom Platforms, MVP
 
 [GitHub](https://github.com/rolopogo) | [PayPal](https://www.paypal.me/RobynLovett) | [Ko-Fi](http://ko-fi.com/robynlovett)
 
 ## Ruu
-Onze eigen LIV insider en maker van Saber Tailor en de originele Custom Colors plugin.
+Our own LIV insider and creator of Saber Tailor and the original Custom Colors plugin.
 
-**Rol:** Modder **Bijdragen:** Saber Tailor (originele) en Custom Colors (originele).
+**Roles:** Modder **Contributions:** Saber Tailor (original), Custom Colors (original)
 
 [GitHub](https://github.com/SteffanDonal)
 
 ## Sc2ad
 > Hij speelt een enorme rol in de Quest community en heeft vele modders geholpen om geweldige mods te creëren! Hij gebruikt veel van zijn tijd in het verbeteren van de core library voor de Quest om het gemakkelijker te maken voor modders en werkt momenteel aan een package manager! Hij is er vanaf het begin bij geweest en we waarderen al het werk dat hij heeft gedaan om de Quest community te helpen! <br/> \- Iemand van BSMG
 
-**Rol:** Modder **Bijdragen:** Quest.
+**Roles:** Modder **Contributions:** quest.
 
 [GitHub](https://github.com/sc2ad) | [Twitch](https://www.twitch.tv/sc2ad) | [PayPal](https://paypal.me/sc2ad) | [Ko-Fi](https://ko-fi.com/sc2ad_support)
 
 ## Shadnix
-Huidige onderhouder van Saber Tailor en Particle Overdrive. Heeft ook andere kleine dingen gemaakt die sindsdien deel zijn geworden van het spel.
+Current maintainer of Saber Tailor and Particle Overdrive. Made some other small things that since have become part of the base game options.
 
-**Rol:** Modder **Bijdragen:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover en AdaptiveSFXRemover.
+**Roles:** Modder **Contributions:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover, AdaptiveSFXRemover
 
 [GitHub](https://github.com/Shadnix-was-taken) | [Twitch](https://www.twitch.tv/shadnix)
 
 ## Shoko84
-Zorg ervoor dat we allemaal mooi gehydrateerd zijn na het hakken van de blokken.
+Making sure we're all nice and hydrated after cutting the blocks.
 
-**Rol:** Modder **Bijdragen:** Custom Exit en Drink Water Mod.
+**Roles:** Modder **Contributions:** Custom Exit, Drink Water Mod
 
-[GitHub](https://github.com/Shoko84) | [Twitch](https://www.twitch.tv/shoko84) | [Doneer](https://streamlabs.com/shoko84)
+[GitHub](https://github.com/Shoko84) | [Twitch](https://www.twitch.tv/shoko84) | [Donate](https://streamlabs.com/shoko84)
 
 ## SkyKiwi
-De gek die aan Chroma en Chromatoggle begon. Hij voegde dingen toe aan het spel die suggereerden dat zijn hoofd niet helemaal klopte, ook heeft hij RGB-verlichting gecreëerd voor level makers om te gebruiken.
+The madman who started Chroma and Chromatoggle. He added things to the game that suggests that his head isn't screwed on right, as well as created RGB lighting for mappers to use.
 
-**Rol:** Modder **Bijdragen:** Chroma en Chromatoggle.
+**Roles:** Modder **Contributions:** Chroma, Chromatoggle
 
-[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Doneer](https://streamelements.com/skykiwitv/tip)
+[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamelements.com/skykiwitv/tip)
 
 ## Soliel
-Moeder van de originele `!bsr` mod.
+Mother of the original `!bsr` mod.
 
-**Rol:** Modder **Bijdrage:** De originele Twitch-integration.
+**Roles:** Modder **Contributions:** Original Twitch Integration
 
-[GitHub](https://github.com/soliel) | [Doneer](https://streamlabs.com/soliela)
+[GitHub](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
 
 ## StarGazer1258
-Maker van BeatDrop, de favoriete desktop-applicatie van iedereen voor custom level onderhoud!
+Creator of BeatDrop, everyone's favorite desktop application for custom song management!
 
-**Rol:** Modder **Bijdrage:** BeatDrop.
+**Roles:** Modder **Contributions:** BeatDrop
 
-[GitHub](https://github.com/StarGazer1258) | [Doneer](https://www.patreon.com/bePatron?u=18487054)
+[GitHub](https://github.com/StarGazer1258) | [Donate](https://www.patreon.com/bePatron?u=18487054)
 
 ## Toni Macaroni
-Maak een paar saber, gooi ze, en terwijl je aan het wachten bent tot ze terug komen kan je iets moois tekenen.   
-Is ook een officiële body pillow dealer.
+Create some sabers, throw them and while you are waiting for them to return draw something nice.  
+Also official body pillow dealer.
 
-**Rol:** Modder **Bijdragen:** Tricksaber, Saber Factory, Scribble en Custom Pillows.
+**Roles:** Modder **Contributions:** Tricksaber, Saber Factory, Scribble, Custom Pillows
 
-[GitHub](https://github.com/ToniMacaroni) | [Doneer](https://ko-fi.com/tonimacaroni)
+[GitHub](https://github.com/ToniMacaroni) | [Donate](https://ko-fi.com/tonimacaroni)
 
 ## Trishume
-Een enorme bijdrager aan de ontwikkeling van quest mods.
+A massive contributor to the development of quest mods.
 
-**Rol:** Modder.
+**Roles:** Modder
 
 ## vanZeben
-Snelste Steam melding stuurder simulatorontwikkelaar in het Westen. Hij maakte ook de BeatMods website!
+Fastest steam notification sending simulator developer in the West. He also created the mod repository BeatMods!
 
-**Rol:** Modder **Bijdragen:** Beat Saber Online, de maker van BeatMods.
+**Roles:** Modder **Contributions:** Beat Saber Online, BeatMods Creator
 
 [GitHub](https://github.com/vanZeben) | [Twitch](https://www.twitch.tv/vanzeben)
 
 ## xyonico
-Oorspronkelijke maker van SongLoader en CameraPlus en een belangrijke bijdrager aan de custom avatar plugin. Hij is sindsdien verhuisd om andere VR spellen te ontwikkelen, zoals [Waltz of the Wizard](https://store.steampowered.com/app/1094390/Waltz_of_the_Wizard_Extended_Edition/)!
+Original creator of SongLoader and CameraPlus, and a major contributor to the custom avatar plugin. He's since moved on to develop other VR games, like [Waltz of the Wizard](https://store.steampowered.com/app/1094390/Waltz_of_the_Wizard_Extended_Edition/)!
 
-**Rol:** Modder **Bijdragen:** SongLoader en CameraPlus.
+**Roles:** Modder **Contributions:** SongLoader, CameraPlus
 
-[GitHub](https://github.com/xyonico/) | [Doneer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+[GitHub](https://github.com/xyonico/) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 ---
 
-::: tip Zie ook **Support:** [Pespiri](./supports.md#pespiri)   
-**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [Caeden117](./staff.md#caeden117) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::
+::: tip See Also **Support:** [Pespiri](./supports.md#pespiri)  
+**Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [Caeden117](./staff.md#caeden117) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) |  [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::

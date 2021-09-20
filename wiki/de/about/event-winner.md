@@ -7,6 +7,38 @@ Gewinner vergangener Wettbewerbe/Events, die auf dem Discord-Server stattgefunde
 
 Wenn du willst, dass wir noch mehr lustige Events veranstalten, solltest du dir überlegen, ob du nicht in die Events in unserem [Patreon](https://www.patreon.com/beatsabermods) spenden willst!
 
+## 2021 Bloodcloak's Birthday Bash
+Zur Feier von Bloodcloaks Geburtstag war dies eine im Voice Call Triva Spielshow auf der Bühne, die von ihm veranstaltet wurde und auf einem kleinen improvisierten Quiz basierte, das du ein paar Monate zuvor im `#general` Chat veranstaltet hast. Der Preispool bestand aus zufälligen Steam Game Keys, Steam Wallet Codes sowie Full und Classic Discord Nitro. Die Finanzierung und die Preise wurden großzügig von Pink, Bobbie und Stemisty gespendet, der Rest wurde von der Event-Ebene unseres Patreons abgedeckt!
+
+Die Teilnehmer mussten 4 zufällige Fragen zu von Bloodcloak ausgewählten Themen beantworten und hatten dafür nur 20 Sekunden Zeit. Themen enthalten:
+
+* Musik
+* Songs erraten aus Audioclips
+* BSMG
+* Hololive
+* Essen
+* Zufällige Dinge, die sich andere Staff Mitglieder ausgedacht haben
+
+Da es sich um Bloodcloaks Geburtstag handelte, erhielt jeder Teilnehmer zumindest etwas aus dem Preispool. Der Wert ihrer Leistungen hing von ihrer Gesamtleistung ab.
+
+Die Top 5 wurden für ein Kopf-an-Kopf-Rennen um die Rolle und den Hauptpreis, einen Steam Wallet Code im Wert von 50 USD, zurück auf die Bühne geholt!
+
+---
+
+[Bekanntgabe der Gewinner](https://discord.com/channels/441805394323439646/441807344591044619/858482681993887764)
+
+### Top 5
+In keiner bestimmten Reihenfolge... diese Leute schafften es auf die Top 5 und verdienten sich die Rolle
+
+* Minicoot
+* Skeelie
+* Vinyl Scrath
+* Amankins
+* 3Stans
+
+### Trivia-Meister
+Die eine Person, die sich durch ihre schnellen Antworten von den anderen abhob... Amankins
+
 ## 2021 Battle Royale
 Auch bekannt als *The Culling* war dieses Ereignis ein Skyrim thematisches Battle Royale, das während Ende des Aprilscherzes stattfand und 5 Stunden lang andauerte. Mit über 100 Teilnehmern wurde der Preis-Pool mit vielen Spielkeys wurden großzügig von Bobbie, Sam und raftario gespendet, wobei die Event Kasse unseres Patreons das Exemplar von Skyrim für den Gewinner finanzierte. Zusätzlich wurden während des 10 Personen Final Streams satte 50 Geschenk-Abonnements von Zyxi verteilt, die es uns ermöglichten, dem Gewinner zusätzlich zu Skyrim ein Spiel seiner Wahl zu schenken!
 
@@ -30,8 +62,8 @@ GLHolmstroff wird mit der Ereignisrolle dafür geehrt, dass er die Whiterun Gard
 ### Victory Royale
 Die eine Person, die über allen anderen stand... Caeden117
 
-## 2020 Weihnachts Wettbewerb
-Der dritte Urlaubs/Winter-Wettbewerb, Christmas 2: Electric Padoru.
+## 2020 Weihnachts-Wettbewerb
+Der dritte Holiday/Winter-Wettbewerb, Christmas 2: Electric Padoru.
 
 ---
 
@@ -41,23 +73,23 @@ Der dritte Urlaubs/Winter-Wettbewerb, Christmas 2: Electric Padoru.
 
 #### Vanilla
 
-* **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
-* **2nd:** [Majestica - Ghost of Christmas Present ](https://beatsaver.com/beatmap/11c53) by **Cyrix**
-* **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) by **Alekcake**
+* **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) von **ETAN**
+* **2nd:** [Majestica - Ghost of Christmas Present ](https://beatsaver.com/beatmap/11c53) von **Cyrix**
+* **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) von **Alekcake**
 
 #### Gemodded
 
-* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
+* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) von **SpecVR & Tall_Chilis_Boi**
 
 ### Model Gewinner
 
-* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
+* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform von **AkaRaiden**
 
 ### Hauptpreis
-[PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
+[PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) von **ETAN**
 
-## 2020 Halloween Wettbewerb
-Der dritte Halloween Wettbewerb. Diesmal mit prominenten Juroren: LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee und PHIABunny. Auch **ein _ganzer Kürbis_** wurde als Teil des Hauptpreises mit freundlicher Genehmigung von **Steven 🎀** gegeben.
+## 2020 Halloween-Wettbewerb
+Der dritte Halloween-Wettbewerb. Diesmal mit prominenten Juroren: LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee und PHIABunny. Auch **ein _ganzer Kürbis_** wurde als Teil des Hauptpreises mit freundlicher Genehmigung von **Steven 🎀** gegeben.
 
 ---
 
@@ -67,13 +99,13 @@ Der dritte Halloween Wettbewerb. Diesmal mit prominenten Juroren: LostVint, Prot
 
 #### Vanilla
 
-* **1.:** [Marnik - Hocus Pocus (Original Mix)](https://beatsaver.com/beatmap/10377) von **ETAN**
-* **2.:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) von **Jamman360**
-* **3.:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) von **FireStrike**
+* **1st:** [Marnik - Hocus Pocus (Original Mix) ](https://beatsaver.com/beatmap/10377) von **ETAN**
+* **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) von **Jamman360**
+* **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) von **FireStrike**
 
 #### Gemodded
 
-* **1.:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) von **aggrogahu**
+* **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
 
 ### Model Gewinner
 
@@ -105,8 +137,8 @@ In keiner besonderen Reihenfolge...
 ### Victory Royale
 **Arti** auch bekannt als **ratsby**
 
-## 2019 Weihnachts Wettbewerb
-Der zweite Urlaubs/Winter-Wettbewerb. Dieses Mal werfen wir die Feiertage aus dem Fenster für Weihnachten, Padoru und einen Hauptpreis zu gewinnen.
+## 2019 Weihnachts-Wettbewerb
+Der zweite Holiday/Winter-Wettbewerb. Dieses Mal werfen wir die Feiertage aus dem Fenster für Weihnachten, Padoru und einen Hauptpreis zu gewinnen.
 
 ---
 
@@ -128,8 +160,8 @@ In keiner besonderen Reihenfolge...
 
 * **Avatar:** [Christmas Miku](https://modelsaber.com/Avatars/?id=1576887435) von **williums**
 * **Note:** [Present Notes](https://cdn.discordapp.com/attachments/588846710273605645/656635539705036854/Present_Note.bloq) von **CyanSnow**
-* **Platform:** [Christmas Lights](https://modelsaber.com/Platforms/?id=1576253435) von **Halcyon12**
-* **Sabers:** [Frozen Sabers](https://modelsaber.com/Sabers/?id=1575735225) von **Raphpower**
+* **Plattform:** [Christmas Lights](https://modelsaber.com/Platforms/?id=1576253435) von **Halcyon12**
+* **Saber:** [Frozen Sabers](https://modelsaber.com/Sabers/?id=1575735225) von **Raphpower**
 
 ### Mod Gewinner
 Eine spezielle Version (3.0.1 für Beat Saber 1.7) von [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) von **Sc2ad** für die Quest
@@ -137,8 +169,8 @@ Eine spezielle Version (3.0.1 für Beat Saber 1.7) von [HitScoreVisualizer](http
 ### Hauptpreis
 [Bossfight - Carol of the Cartels](https://beatsaver.com/beatmap/73c9) von **Fefeland**
 
-## 2019 Halloween Wettbewerb
-Der zweite Halloween Wettbewerb, Halloween 2: Electric Boogaloo.
+## 2019 Halloween-Wettbewerb
+Der zweite Halloween-Wettbewerb, Halloween 2: Electric Boogaloo.
 
 ---
 
@@ -166,10 +198,10 @@ In keiner besonderen Reihenfolge...
 
 ### Mod Gewinner
 
-* **PC:** [SpoopyBloqs](https://github.com/DeadlyKitten/SpoopyBloqs/releases/tag/1.0.0) for Beat Saber 1.4.2 von **Steven 🎀**
+* **PC:** [SpoopyBloqs](https://github.com/DeadlyKitten/SpoopyBloqs/releases/tag/1.0.0) für Beat Saber 1.4.2 von **Steven 🎀**
 * **Quest:** [HappyHalloweenV2](https://github.com/TycoTech/BeatOnCustomSabers/raw/master/BeatSaberLogos/TycoTech%27s%20BeatSaberLogos/HappyHalloweenV2.zip) Asset Menu Title von **TycoTech**
 
-## 2018 Urlaubs Wettbewerb
+## 2018 Holiday-Wettbewerb
 Der allererste Urlaubs/Winter Wettbewerb, der von BSMG veranstaltet wurde. Einige Einsendungen sind auf dem Dachboden verloren gegangen. Die Namen der Gewinner und ihre Einsendungen werden hier weitergeführt.
 
 ---
@@ -183,7 +215,7 @@ Der allererste Urlaubs/Winter Wettbewerb, der von BSMG veranstaltet wurde. Einig
 * **3rd:** Saunik - Carol of the Bells von **TehSuperToilet**
 
 ### Saber Gewinner
-[Silent Candy Cane Saber](https://cdn.discordapp.com/attachments/446478074125746176/524087064560402432/Silent_Cane_Blade_XA.saber) von **Tachrayonic** | [Vorschau-Video](https://www.youtube.com/watch?v=hNiuIf_jU2c)
+[Silent Candy Cane Saber](https://cdn.discordapp.com/attachments/446478074125746176/524087064560402432/Silent_Cane_Blade_XA.saber) von **Tachrayonic** | [Video Vorschau](https://www.youtube.com/watch?v=hNiuIf_jU2c)
 
 ### Avatar Gewinner
 [ChristmasMonitorBot](https://cdn.discordapp.com/attachments/450344263453245440/518014914174910465/ChristmasMonitorBot.avatar) von **DeeJay**

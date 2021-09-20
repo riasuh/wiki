@@ -7,15 +7,47 @@ Vainqueur des dernier événement/concours tenu sur le discord. Suivez `#server-
 
 Si vous voulez nous voir organiser d'autres évènements plus amusants, pensez à contribuer au niveau "Events" sur le [Patreon BSMG](https://www.patreon.com/beatsabermods) !
 
-## Battle Royale 2021
-Aussi connu sous le nom de *The Culling*, cet évènement était une Battle Royale sur le thème de Skyrim. Il a été tenu sur le 1er avril et a duré 5 heures. Avec plus de 100 participants, les nombreuses clés de jeu à la clé ont été généreusement données par Bobbie, Sam et raftario, avec le niveau "Events" de notre Patreon qui aura financé la copie de Skyrim destinée au vainqueur. De plus, pendant la finale streamée de 10 personnes, Zyxi a offert 50 abonnements, ce qui a permis de financer un jeu supplémentaire de son choix pour le vainqueur !
+## 2021 Bloodcloak's Birthday Bash
+In celebration of Bloodcloak's Birthday, this was a stage vc triva game show hosted by them based on a small impromptu quiz they held in `#general` chat a few months before. The prize pool consisted of random Steam Game Keys, Steam Wallet Codes, and Full and Classic Discord Nitro. Funding and prizes were generously donated by Pink, Bobbie, and Stemisty with the rest covered by the events tier of our Patreon!
+
+Contestants had to answer 4 random questions from topics selected by Bloodcloak having only 20 seconds to respond. Topics included:
+
+* Music
+* Guess that Song from the audio clip
+* BSMG
+* Hololive
+* Food
+* Random Stuff Other Staff Came Up With
+
+Since it was celebrating Bloodcloak's Birthday, each contestant who participated got at least something from the prize pool. The value of what they got depended on their overall performance.
+
+The top 5 were brought back on stage for a head to head showdown for the role and grand prize of a Steam Wallet Code worth $50 USD!
 
 ---
 
-[Annonce des vainqueurs](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/858482681993887764)
 
-### Finalistes
-Sans ordre particulier, ces personnes ont atteint le top 6 et ont gagné le rôle !
+### Top 5
+In no particular order... these people made it to the top 5 to battle for the role
+
+* Minicoot
+* Skeelie
+* Vinyl Scratch
+* Amankins
+* 3Stans
+
+### Trivia Master
+The one person who stood above the rest with their fast answers... Amankins
+
+## 2021 Battle Royale
+Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
+
+---
+
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+
+### Finalists
+In no particular order... these people made it to the top 6 and earned themselves the role!
 
 * DaNike
 * Pink
@@ -27,8 +59,8 @@ Sans ordre particulier, ces personnes ont atteint le top 6 et ont gagné le rôl
 ### Battle Master
 GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
 
-### Victoire Royale
-La personne qui s'est tenue par dessus les autres... Caeden117
+### Victory Royale
+The one person who stood above all the rest... Caeden117
 
 ## 2020 Christmas Contest
 The third Holiday/Winter contest, Christmas 2: Electric Padoru.
@@ -37,7 +69,7 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 [Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
 
-### Gagants des maps
+### Map Winners
 
 #### Normal
 
@@ -49,11 +81,11 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 * **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
-### Gagnant des modèles
+### Model Winners
 
 * **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
 
-### Grand prix
+### Grand Prize
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
 ## 2020 Halloween Contest
@@ -144,7 +176,7 @@ The second Halloween contest, Halloween 2: Electric Boogaloo.
 
 [Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/640998855046856724)
 
-### Gagants des maps
+### Map Winners
 
 * **1st:** [Jack The Envious - This is Halloween (The Nightmare Before Christmas Cover)](https://beatsaver.com/beatmap/6d22) by **Fefeland**
 * **2nd:** [AronChupa, Little Sis Nora - Rave in the Grave](https://beatsaver.com/beatmap/6cf7) by **TranquillizeMe**

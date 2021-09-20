@@ -13,39 +13,39 @@ custom saberの作成ガイドをほかの素晴らしい仲間とともに作�
 **ロール:** 3D Artist
 
 ## Fusion
-They've got some impressive shaders and they're not afraid to use them.
+印象的なシェーダーを持っていて、それを存分に使っています。
 
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 ## Ibodan
-Most well known for their incredibly flashy dance platform and space opera sabers, but it's a little known fact that they also make mods!
+驚くほど派手なダンスプラットフォームやスペースオペラセイバーなどでよく知られています。 あとほとんど知られていませんがModも作っています。
 
-**Roles:** 3D Artist, Modder **Contributions:** Bloom Mod
+**ロール:**3D Artist, Modder **主な仕事:** Bloom Mod
 
 ## laugexd
-Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
+ModelSaber 2.0の開発者であり、多くのセイバーとブロックを手掛けています。
 
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 [Twitter](https://twitter.com/laugexd) | [YouTube](https://www.youtube.com/channel/UCr_JES9nBCUaAR9-UbgDMRw) | [ModelSaber](https://modelsaber.com/Profile/?user=146243483898871808)
 
 ## MissRaynor
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 ## Mordred
-One of the first creators to mass produce avatars, and thus give birth to this role.
+アバターを多く生み出し、このロールを作り出したひとりです。
 
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 ## Oshi
-**Roles:** 3D Artist
+**ロール:** 3D Artist
 
 ## RedBrumbler
 "The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019
 
-As you can read I make sabers for quest, but generally I've been active in the asset modding part of beat saber, I've also done some for other games but Beat saber is my main love. If you ever need help making sabers specifically for quest you can always ask me over in the quest modeling channel (until we get that qsaber mod anyways) keep on sabering that meat till it's real tender!
+上にあるようにQuest用のセイバーを作成しました。しかし私は普段Modのアセットを作っていて、またほかのゲームも楽しんでいます。もちろんお気に入りはBeatSaberです。 もしQuest用のセイバーを作るときに助けが必要になったら、いつでもQuest用Modのチャンネルで私に聞いてください（qsaber Modが完成するまで）
 
-**Roles:** 3D Artist, Support
+**ロール:** 3D Artist, Support
 
 [PayPal](https://paypal.me/RedBrumblerOfficial?locale.x=nl_NL) | [Patreon](https://www.patreon.com/RedBrumbler) | [Ko-Fi](https://ko-fi.com/redbrumbler) | [YouTube](https://www.youtube.com/channel/UCYmzlDob8BQYWrOQWkHtCpQ) | [Facebook](https://www.facebook.com/red.brumbler.7) | [Twitter](https://twitter.com/RedBrumbler) | [GitHub](https://github.com/RedBrumbler/BeatOnCustomSabers) | [Reddit](https://www.reddit.com/user/RedBrumbler/)
 

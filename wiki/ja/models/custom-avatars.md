@@ -1,22 +1,22 @@
-# Custom Avatars
+# カスタムアバター
 
-## Installation
+## インストール方法
 
-:::warning Custom Avatars is a PC only mod. :::
+:::warning　警告 カスタムアバターはPC専用のModです。 :::
 
-The latest Custom Avatar mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Once installed you should see a file called `CustomAvatar.dll` inside your `Plugins` folder. You should also see a folder called `CustomAvatars` in [your install folder](/faq/install-folder.md) — this is where you will be placing the `*.avatar` files you want to use.
+最新のカスタムアバターModはBSMGのDiscordサーバーの[#pc-mods channel](https://discord.gg/beatsabermods)チャンネルか[Mod Assistant](https://github.com/Assistant/ModAssistant)から利用できます。 インストール後、 `Plugins`フォルダ内に CustomAvatar.dll `` というファイルが作成されます。 [インストールファイル](/faq/install-folder.md)内に`CustomAvatars`というフォルダも作成されます。ここに使いたい`*.avatar`ファイルを入れてください。
 
-You can download more avatars on [ModelSaber](https://modelsaber.com/Avatars/).
+[ModelSaber](https://modelsaber.com/Avatars/)からアバターをダウンロードできます。
 
-## Usage
-Inside the game in the main menu you will see an `AVATARS` button to the left of the main menu. Pressing it will open up the menu you can use to select which avatar you want to use. There's also additional settings you can change, such as avatar scaling and if the avatar is visible in first person.
+## 使い方
+ゲーム内のメインメニューで左側に`AVATARS`ボタンがあります。 それを押すと、アバターを選択するメニューが開きます。 アバターの大きさや一人称視点でのアバター表示などの詳細設定もできます。
 
-::: warning NOTE
+::: warning 注意
 
-* Avatars are not selected by default. Make sure to go into the right menu and switch to an avatar if none appear at first.
-* Some avatars were not made with first person view in mind, so they might block your vision if enabled. :::
+* デフォルトではアバターは選択されていません。 初めにアバターが表示されない場合は、アバター選択画面でアバターを選択してください。
+* 一部のアバターは一人称用に作られていないので、視界が妨げられる可能性があります。 :::
 
-## Creating Avatars
-[Assistant's Avatar Guide](./avatars-guide.md) is a good resource for learning how to make your own avatar.
+## アバターの作成
+[Assistant's Avatar Guide](./avatars-guide.md)はアバターの作り方を丁寧に解説しています。
 
-The guide includes a [short video narrated by Megalon](./avatars-guide.md#videos), however it is intended to be an overview and you should watch it in addition to reading the guide, not lieu of.
+このガイドには[Megalonによる短いビデオ](./avatars-guide.md#videos)がありますが、このビデオは概略を説明するもので、ビデオだけでなくガイドも読むことをお勧めします。

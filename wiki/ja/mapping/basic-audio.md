@@ -89,15 +89,9 @@ The steps listed below are the same as those used in Ryger’s [Arrow Vortex BPM
    * Discord [Zip Download](https://cdn.discordapp.com/attachments/443569023951568906/662417326771273728/ArrowVortex.zip) (Recommended Method)
    * Arrow Vortex Website [Rar Download](https://arrowvortex.ddrnl.com/)
    * You will need additional software such as [7zip](https://www.7-zip.org/) to extract `.rar` files such as this one.
+   * If Arrow Vortex does not open see [troubleshooting](#troubleshooting-arrow-vortex).
 2. Export your song to `.ogg` using [Audacity](https://www.audacityteam.org/)
    * Using other formats (ie. `.mp3` or `.m4a`) adds a delay to the audio that varies every time and is not accounted for when you export your changes for use in editor.
-
-#### Troubleshooting Arrow Vortex
-
-##### The code execution cannot proceed because MSVCP120.dll was not found
-
-* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
-  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 or contribute to translation effort [here](https://github.com/bsmg/wiki). :::
 
@@ -154,6 +148,13 @@ After generating the silence you can click the dark line in the song track to ge
 9. Done. You can now skip to [exporting](#exporting) or go to [optional audio editing](#optional-audio-editing).
 
 > If you are not comfortable with removing the exact amount, you can remove more than needed, export the changed `.ogg` and [re-sync using your tool](#sync-using-arrow-vortex) with the new file to get a positive offset.
+
+#### Troubleshooting Arrow Vortex
+
+##### The code execution cannot proceed because MSVCP120.dll was not found
+
+* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
+  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 ### Sync using a Click Track
 

@@ -89,15 +89,9 @@ Die unten aufgeführten Schritte sind die gleichen wie in Rygers [Arrow Vortex B
    * Discord [Zip Download](https://cdn.discordapp.com/attachments/443569023951568906/662417326771273728/ArrowVortex.zip) (Empfohlene Methode)
    * Arrow Vortex Website [RAR Download](https://arrowvortex.ddrnl.com/)
    * Du benötigst zusätzliche Software wie [7zip](https://www.7-zip.org/), um `.rar` Dateien wie diese zu entpacken.
+   * Wenn sich Arrow Vortex nicht öffnet, siehe [Troubleshooting](#troubleshooting-arrow-vortex).
 2. Exportiere deinen Song als `.ogg` mit [Audacity](https://www.audacityteam.org/)
    * Die Verwendung anderer Formate (z.B. `.mp3` oder `.m4a`) fügt dem Audio eine Verzögerung hinzu, die jedes Mal variiert und nicht berücksichtigt wird, wenn du Änderungen zur Verwendung im Editor exportierst.
-
-#### Fehlerbehebung Arrow Vortex
-
-##### Die Codeausführung kann nicht fortgesetzt werden, da MSVCP120.dll nicht gefunden wurde
-
-* Installiere [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in deiner bevorzugten Sprache und versuche es erneut.
-  * Falls es immer noch nicht funktioniert, stelle sicher, dass du die `x86` Version am Ende der Seite herunterlädst. Nicht die `x64` Version.
 
 :::danger **Dies ist ein kritischer Schritt!**  
 Wenn du keine `.ogg`-Datei verwendest oder die Exportfunktion in AV nutzt, **wird** dein Song um eine unbestimmte Zeit desynchronisiert. :::
@@ -155,6 +149,13 @@ Nach dem Erzeugen der Stille kannst du auf die dunkle Linie in der Songspur klic
 9. Fertig. Du kannst nun zu [Exportieren](#exportieren) oder zu [Optionale Audio Bearbeitung](#optionale-audio-bearbeitung) wechseln.
 
 > Wenn du nicht die exakte Menge entfernen möchtest, kannst du mehr als nötig entfernen, die geänderte `.ogg` exportieren und [mit deinem Tool neu synchronisieren](#sync-using-arrow-vortex), um einen positiven Offset zu erhalten.
+
+#### Fehlerbehebung Arrow Vortex
+
+##### Die Codeausführung kann nicht fortgesetzt werden, da MSVCP120.dll nicht gefunden wurde
+
+* Installiere [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in deiner bevorzugten Sprache und versuche es erneut.
+  * Falls es immer noch nicht funktioniert, stelle sicher, dass du die `x86` Version am Ende der Seite herunterlädst. Nicht die `x64` Version.
 
 ### Synchronisieren mit einem Klick-Track
 

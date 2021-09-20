@@ -69,6 +69,13 @@ Welcome to the Beat Saber Legacy Group! Here we come together to relive the old 
 
 ---
 
+## BeatSaver
+The BeatSaver discord provides a centralized location for site support, content reports, bug reports, and developer discussions related to the main repository of custom maps.
+
+[Discord](https://discord.gg/rjVDapkMmj) | [Website](https://beatsaver.com/)
+
+---
+
 ## BeatTogether Community
 Community for the BeatTogether mod. This mod allows crossplay between PC platforms and Quest. This is a place to discuss the mod and follow its progress and releases!
 

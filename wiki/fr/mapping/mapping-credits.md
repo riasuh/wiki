@@ -8,6 +8,10 @@ Plus de 30 guides et de tutoriels concernant la création de map ont été combi
 
 > Missed you? Want to update your bio? [Let us know!](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)
 
+## 3Stans
+Three different stans or three stans in one? Contributed to the three mapping extension uses in [Extended Mapping](./extended-mapping.md)  
+[BeatSaver](https://beatsaver.com/profile/56092) | [BeastSaber](https://bsaber.com/members/3stans/)
+
 ## Aeroluna
 Contributed the environment screenshots from game version 1.6 to [Basic Lighting](./basic-lighting.md) and is the maintainer of Chroma and Noodle Extensions!  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c854907) | [BeastSaber](https://bsaber.com/members/aeroluna/)
@@ -49,7 +53,8 @@ Works at Beat Games as an Official Mapper. Created one of the first [mapping tut
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7298cc5a672c84e8ad) | [BeastSaber](https://bsaber.com/members/freeek/)
 
 ## fruhead
-Un mapper qui se focalise sur la création de maps bas Expert+ et moindre. A originellement commencé le mapping dans le but d'ajouter des maps metal et rock pour rivaliser avec les maps nightcore et weeb, pour finalement se mettre à la création de maps nightcore et weeb. Tests maps on occasion, though has PTSD from 1999 and official editor. Créateur de la série de tutoriels [Beginner's Guide to Mapping](https://youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) (en anglais). [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c852683) | [BeastSaber](https://bsaber.com/members/fruhead/)
+A mapper who focuses on creating accessible low expert+ and below maps. Originally got into mapping in order to add some more rock and metal maps to compete with the weeb and nightcore maps, only to end up making more weeb and nightcore maps. Tests maps on occasion, though has PTSD from 1999 and official editor. Creator of the [Beginner's Guide to Mapping tutorial series](https://youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm).  
+[BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c852683) | [BeastSaber](https://bsaber.com/members/fruhead/)
 
 ## Gabmiral
 Contributed MMA2 installation instructions for Linux. Actually not a mapper.  
@@ -81,7 +86,7 @@ Wrote various guides on lighting that was integrated into [Basic Lighting](./bas
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84ffaa) | [BeastSaber](https://bsaber.com/members/mandynasty/)
 
 ## Megalon
-Co-créateur de BSMG et du Channel Monitor Bot (CMB). Il est connu pour ses overlays de stream créatifs et sa superbe voix ASMR. Created a video tutorial on using the [Official Editor](./#official-editor) and manages the wiki repository.  
+Co-creator of the BSMG as well as Channel Monitor Bot. He's known for his creative stream overlays and amazing ASMR voice. Created a video tutorial on using the [Official Editor](./#official-editor) and manages the wiki repository.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c855407) | [BeastSaber](https://bsaber.com/members/megalon/) | [GitHub](https://github.com/megalon) | [Twitch](https://twitch.tv/megalonttv) | [Donate](https://ko-fi.com/megalon)
 
 ## namaki mono

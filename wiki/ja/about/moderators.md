@@ -2,21 +2,23 @@
 非常に大きなサーバーを維持するためには多くのモデレートが必要になります。 このチームがサーバーをクリーンにしてくれることに感謝します。
 
 ## 24Kings
-"Qvolutionに参加しよう、そしてPinkはかわいい"
+I slap Java code together and it works most of the time. Fellow crippling Minecraft addict
 
 **ロール:** Moderator
 
-## Burrito
-皮肉なことにブリトーはあまり好きではないです。タコスのほうがいいと思います（事実）
+[Twitter](https://twitter.com/24Kings_Rock) | [Twitch](https://twitch.tv/24Kings) | [GitHub](https://github.com/The24Kings)
 
-**ロール:** Moderator, Support
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
+
+**Roles:** Moderator, Support
 
 [Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
 crippling destiny addiction
 
-**ロール:** Support, 3D Artists, Moderator
+**Roles:** Support, 3D Artists, Moderator
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 

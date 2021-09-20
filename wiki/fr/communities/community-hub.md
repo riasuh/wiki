@@ -69,38 +69,45 @@ Bienvenue au Beat Saber Legacy Group ! Ici, nous nous réunissons pour revivre l
 
 ---
 
+## BeatSaver
+The BeatSaver discord provides a centralized location for site support, content reports, bug reports, and developer discussions related to the main repository of custom maps.
+
+[Discord](https://discord.gg/rjVDapkMmj) | [Website](https://beatsaver.com/)
+
+---
+
 ## BeatTogether Community
-Communauté pour le mod BeatTogether. Ce mod permet le multijoueur multi-plateforme entre les plateformes PC et Quest. C'est l'endroit pour discuter du mod, suivre son progrès et ses versions !
+Community for the BeatTogether mod. This mod allows crossplay between PC platforms and Quest. This is a place to discuss the mod and follow its progress and releases!
 
 [Discord](https://discord.com/invite/gezGrFG4tz)
 
 ---
 
 ## Cube Community
-Mises en avant de gameplay Beat Saber, guides sur le scoring, compilation de clips, évènements communautaires et autres !
+Beat Saber gameplay spotlights, scoring guides, clip compilations, community events and more!
 
-[Discord](https://discord.gg/dwe8mbC) (serveur anglophone) | [YouTube](https://youtube.com/CubeCommunity)
+[Discord](https://discord.gg/dwe8mbC) | [YouTube](https://youtube.com/CubeCommunity)
 
 ---
 
 ## KPOP Beat Saber
-Salut ! Nous sommes une petite communauté dédiée au mapping de chansons sur Beat Saber. Points bonus s'il s'agit de Kpop. Mais nous accueillons quiconque qui s'intéresse au mapping ou souhaite avoir des retours ! Nous mettons aussi à jour le serveur avec des sabres stylisés Kpop et des maps de Kpop.
+Hi! We are a small community dedicated to mapping songs for Beat Saber. Bonus points if it's a Kpop song. But we welcome anyone who is interested in mapping or wants feedback! We also update the server with Kpop themed sabers and recent Kpop maps.
 
 [Discord](https://discord.gg/c9uHGYP)
 
 ---
 
 ## Saber Factory
-Bienvenue sur le serveur Saber Factory ! Vous trouverez ici toutes les ressources dédiées au mod Saber Factory. Obtenez de l'aide sur l'utilisation et la création de contenu, restez au courant des nouvelles mises à jour, laissez des suggestions et bien plus encore.
+Welcome to the Saber Factory server! Here you find all resources dedicated to the Saber Factory mod. Get help with the usage and creation of content, keep in touch with new updates, leave suggestions and much more.
 
 [Discord](https://discord.gg/PjD7WcChH3)
 
 ---
 
 ## ScoreSaber
-Classements personnalisés et global !
+Custom leaderboards and global ranking!
 
-[Discord](https://discord.gg/WpuDMwU) (serveur anglophone) | [Twitter](https://twitter.com/scoresaber)
+[Discord](https://discord.gg/WpuDMwU) | [Twitter](https://twitter.com/scoresaber)
 
 ---
 
@@ -114,4 +121,4 @@ Qosmetics Community is a community focused around providing Custom models, inclu
 ## QuestBoard
 We are a quest-focused beat saber community server, dedicated to improving the experience for as many players as we can.
 
-[Discord](https://discord.gg/d6DyW9v) (serveur anglophone) | [Site internet](https://www.questmodding.com/)
+[Discord](https://discord.gg/d6DyW9v) | [Website](https://www.questmodding.com/)

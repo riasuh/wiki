@@ -7,15 +7,47 @@ Discordで開催された過去のコンテストやイベントの受賞者。 
 
 もっと楽しいイベントを開催したい場合は、 [Patreon](https://www.patreon.com/beatsabermods) でイベントへの寄付をしてみてください!
 
-## 2021 バトルロワイアル
-*The Culling*と題されたこのイベントはエイプリルフールの終わりまで5時間ほど開催されたイベントで、スカイリムをテーマにしたバトルロワイヤルでした。 With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
+## Bloodcloakのバースデーパーティー2021
+Bloodcloakの誕生日を祝って`#general`チャンネルで開催された即興クイズ形式のゲームショーです。 賞品はSteamのゲームキー、ウォレットコード、DiscordのFullとClasisicのNitroでした。 資金と賞品は、Pink、Bobbie、Stemistyの寛大な寄付とPatreonのイベント用資金から賄われました。
+
+参加者はBloodcloakによって選ばれたトピックから4つのランダムな質問に答えるというルールです。 トピック
+
+* 音楽
+* イントロクイズ
+* BSMG
+* ホロライブ
+* 食べ物
+* 運営メンバー
+
+Bloodcloakの誕生日なので、参加した各競技者は少なくとも一つは賞品を獲得しました。 賞品の価値は参加者のパフォーマンスに応じて決められました。
+
+上位5名はステージに戻って、50ドル相当のSteamウォレットコードとロールをかけて対決に向かいます！
 
 ---
 
-[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+[入賞](https://discord.com/channels/441805394323439646/441807344591044619/858482681993887764)
 
-### Finalists
-In no particular order... these people made it to the top 6 and earned themselves the role!
+### ベスト５
+彼らは役割のためにベスト５をかけ戦いました。（順不同）
+
+* Minicoot
+* Skeelie
+* Vinyl Scratch
+* Amankins
+* 3Stans
+
+### トリビアマスター
+誰よりも素早く回答したひとり Amankins
+
+## バトルロワイアル2021
+*The Culling*と題されたこのイベントはエイプリルフールの終わりまで5時間ほど開催されたイベントで、スカイリムをテーマにしたバトルロワイヤルでした。 100名を超える参加があり、賞品はBobbieとSam、aftarioからの多くの寄付とPatreonから賄われ、たくさんのゲームキーでした。 さらに、10人が残った決勝では、Zyxiより50個のギフトが追加され勝者には追加のゲームが提供されました。
+
+---
+
+[入賞](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+
+### ファイナリスト
+彼らがロールを獲得したベスト6です。（順不同）
 
 * DaNike
 * Pink
@@ -24,36 +56,36 @@ In no particular order... these people made it to the top 6 and earned themselve
 * Kaoplo
 * Raemien
 
-### Battle Master
+### バトルマスター
 GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
 
-### Victory Royale
+### ビクトリーロイヤル
 The one person who stood above all the rest... Caeden117
 
-## 2020クリスマスコンテスト
+## クリスマスコンテスト2021
 The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 ---
 
-[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
+[入賞](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
 
-### Map Winners
+### マップ部門
 
-#### Vanilla
+#### バニラ
 
 * **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 * **2nd:** [Majestica - Ghost of Christmas Present](https://beatsaver.com/beatmap/11c53) by **Cyrix**
 * **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) by **Alekcake**
 
-#### Modded
+#### Mod付き
 
-* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
+* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) 制作：**SpecVR & Tall_Chilis_Boi**
 
-### Model Winners
+### モデル部門
 
-* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
+* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform 制作：**AkaRaiden**
 
-### Grand Prize
+### 大賞
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
 ## 2020 Halloween Contest
@@ -61,7 +93,7 @@ The third Halloween contest. This time with celebrity judges, LostVint, Protosta
 
 ---
 
-[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
+[入賞](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
 ### Map Winners
 
@@ -191,15 +223,15 @@ The very first Holiday/Winter contest hosted by BSMG. Some submissions have been
 ### Platform Winner
 [Christmas Platform](https://cdn.discordapp.com/attachments/452948292641488897/522475725610024965/Christmas_Platform.plat) by **AkaRaiden** | [Preview Video](https://www.youtube.com/watch?v=HihTOipgE18)
 
-## 2018 Halloween Contest
-The very first Halloween contest hosted by BSMG. Some submissions have been lost in the attic, but the names of the winners and their submissions will continue on here.
+## ハロウィンコンテスト2018
+BSMGが主催した最初のハロウィンコンテスト。 一部の作品は失われてしまいましたが、入賞者の名前と作品はここに記録されています。
 
 ---
 
-[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/505105038985920515)
+[入賞](https://discord.com/channels/441805394323439646/441807344591044619/505105038985920515)
 
-### Map Winner
-[Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) by **Ruckus**
+### マップ部門
+[Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) 制作：**Ruckus**
 
 ### Saber Winner
 Spoopy Hands by **Assistant**

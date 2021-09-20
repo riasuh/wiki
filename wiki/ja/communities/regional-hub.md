@@ -8,7 +8,7 @@ sidebar: "false"
 ---
 
 ## アフリカ
-*None yet.*
+*まだありません。*
 
 ---
 
@@ -59,7 +59,7 @@ A private Discord for the saber beaters from / in the Middle East
 
 ---
 
-## Europe
+## ヨーロッパ
 
 ### Austria
 
@@ -152,15 +152,6 @@ The official Swedish discord, right here!
 
 ---
 
-### Switzerland
-
-#### SwissSaber
-Official Beat Saber Discord for Swiss players, but people from other countries are also welcome.
-
-[Discord](https://discord.gg/eV6SUUF)
-
----
-
 ### UK
 
 #### British Beat Saber Discord
@@ -188,5 +179,5 @@ Discord server for the Irish Beat Saber community, international players are wel
 
 ---
 
-## Oceania
+## オセアニア
 *None yet.*

@@ -89,15 +89,9 @@ Los pasos listados a continuación son los mismos que los utilizados en el [Vide
    * [Descarga Zip](https://cdn.discordapp.com/attachments/443569023951568906/662417326771273728/ArrowVortex.zip) en discord (Método recomendado)
    * Sitio web de Arrow Vortex [Descarga rar](https://arrowvortex.ddrnl.com/)
    * Necesitará software adicional como [7zip](https://www.7-zip.org/) para extraer archivos `.rar` como este.
+   * If Arrow Vortex does not open see [troubleshooting](#troubleshooting-arrow-vortex).
 2. Exporta tu canción a `.ogg` usando [Audacity](https://www.audacityteam.org/)
    * Usando otros formatos (por ejemplo, `.mp3` o `.m4a`) añade un retraso al audio que varía cada vez y no se contabiliza cuando exportas los cambios para su uso en el editor.
-
-#### Solución de problemas Arrow Vortex
-
-##### La ejecución del código no puede continuar porque no se encontró MSVCP120.dll
-
-* Instala [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) en tu idioma preferido e inténtalo de nuevo.
-  * Si sigue sin funcionar, asegúrate de que estás descargando la versión `x86` que hay al final de la página. No la versión `x64`.
 
 :::danger **¡Este es un paso crítico!**  
 No usar un archivo `.ogg` o usando la función de exportación en AV **desincronizará** la canción por una cantidad inconsistente de tiempo. :::
@@ -109,12 +103,12 @@ No usar un archivo `.ogg` o usando la función de exportación en AV **desincron
 6. Haga clic en el botón <kbd>Buscar BPM</kbd>
    * Si tienes suerte, AV devolverá un solo valor BPM con 100% de confianza.  
      ![Ventana de ajuste AV](~@images/mapping/adjustments.png)
-   * Si obtienes múltiples opciones, querrás escuchar las opciones para ver si coinciden con la canción. La mayoría de las veces será la primera opción, pero siga los pasos 7 y 8 para asegurarse.  
-     ![Múltiples Valores BPM](~@images/mapping/alternateAdjustments.png)
+   * If you get multiple options you will want to listen to the options to see if they match with the song. Most of the time it will be the first option but follow steps 7 and 8 to make sure.  
+     ![Multiple BPM Values](~@images/mapping/alternateAdjustments.png)
 7. Haga clic en el botón <kbd>Aplicar BPM</kbd>
 8. Pulsa <kbd>F3</kbd> para encender ticks y pulsa <kbd>Barra espaciadora</kbd> para escuchar la canción para confirmar que el comienzo, el medio, y el final de tu pista están alineados.
-   * Si sólo se dio un único resultado y los ticks no coinciden, esto sugiere que la canción tiene un BPM variable.
-   * Si la detección dio múltiples opciones y los ticks no coinciden, seleccione la siguiente opción, haz clic en el botón <kbd>Aplicar BPM</kbd> y escucha de nuevo. Si ninguna de las opciones funciona para la canción, esto sugiere que tiene un BPM variable.
+   * If only a single result was given and the ticks do not match, this suggests that the song has a variable BPM.
+   * If the detection gave multiple options and the ticks do not match, select the next option, click the <kbd>Apply BPM</kbd> button and listen again. If none of the options work for the song, this suggests that it has a variable BPM.
 
 :::warning NOTA sobre el BPM Variable Se recomienda que los mapeadores más nuevos elijan una canción diferente debido a la mayor dificultad asociada al mapeo de BPM variable. ¿No estás seguro de si tu canción es variable? ¡Pásate por `#mapping-discussion` en BSMG y pregunta!
 
@@ -122,8 +116,8 @@ Si tienes la experiencia, consulta [Edición avanzada de audio: BPM Variable](./
 
 10. Dale al jugador unos dos segundos para prepararse haciendo clic en el botón `Mover primer beat` ![Arrow Vortex move beat button](~@images/mapping/av_movebeat.png) cuantas veces sea necesario para conseguir que tu inicio este cerca de 2,000 segundos o el sonido donde deseas colocar tu primera nota esté alineada con la primera barra.  
     ![Alternativa alineada con la primera barra](~@images/mapping/av_aligned.png) ![Alternativa alineada con la primera barra](~@images/mapping/av_altAligned2.png)
-    * Después de alinear, deberías revisar la canción de nuevo para verificar que los beats todavía coinciden.
-11. Ahora que tienes el BPM y el offset, necesitarás añadir o eliminar la cantidad correcta de silencio a la pista.
+    * After aligning, you should check the song again to verify that the beats still match.
+11. Now that you have the BPM and offset, you will need to add or remove the right amount of silence to the song track.
 
 ---
 
@@ -146,15 +140,22 @@ Después de generar el silencio puedes hacer clic en la línea oscura de la canc
 3. Selecciona la nueva pista y pulsa la tecla <kbd>Inicio</kbd>.
 4. Haz clic en `Generar – > Silencio…` ![Generar silencio...](~@images/mapping/audacity-generate_silence.png)
 5. Ingrese la cantidad de desplazamiento negativo encontrada en Arrow Vortex (o herramienta similar) en el campo Duración y haga clic en Aceptar. ![Añadiendo silencio con Audacity](~@images/mapping/av_audacity-negative.png)
-   * Deberías ver algo similar a esto  
-     ![Silencio resultante](~@images/mapping/audacity-neg-generated_silence.png)
-6. Seleccione desde el final del silencio generado (línea vertical amarilla) hasta el inicio de la canción seleccionando el contenido de ambas pistas.<br/>![Seleccionar hasta el silencio generado](~@images/mapping/audacity-neg-select_silence.png)
+   * You should see something similar to this  
+     ![Resulting Silence](~@images/mapping/audacity-neg-generated_silence.png)
+6. Select from the end of the generated silence (yellow vertical line) to the start of the song track selecting the contents of both tracks.<br/>![Select up to generated silence](~@images/mapping/audacity-neg-select_silence.png)
 7. Pulsa la tecla <kbd>Eliminar</kbd>.
 8. Haga clic en la X de la pista más reciente para borrarlo.  
    ![Eliminar la pista](~@images/mapping/audacity-delete_track.png)
 9. Hecho. Ahora puede saltar a [exportar](#exporting) o ir a [edición opcional de audio](#optional-audio-editing).
 
 > Si no te sientes cómodo eliminando la cantidad exacta, puedes eliminar más de lo necesario, exportar el `.ogg` modificado y [re-sincronizar usando tu herramienta](#sync-using-arrow-vortex) con el nuevo archivo para obtener un desplazamiento positivo.
+
+#### Solución de problemas Arrow Vortex
+
+##### La ejecución del código no puede continuar porque no se encontró MSVCP120.dll
+
+* Install [vcredist_x86.exe](https://support.microsoft.com/en-us/help/4032938/update-for-visual-c-2013-redistributable-package) in your preferred language and try again.
+  * If it still does not work, make sure you are downloading the `x86` version near the bottom of the page. Not the `x64` version.
 
 ### Sincronizar usando una pista de clic
 

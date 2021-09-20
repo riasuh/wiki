@@ -11,7 +11,7 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 * Noa
   * [Twitter](https://twitter.com/AarcNoa)
 
-### Translators
+### 翻訳
 
 * COZAX
 * Cyborger
@@ -26,12 +26,12 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 
 ## ドイツ語 - Deutsch
 
-### Proofreaders
+### 校正
 
 * Gregi
   * [Twitch](https://www.twitch.tv/grregi) | [Youtube](https://www.youtube.com/user/gregiplays)
 
-### Translators
+### 翻訳
 
 * ComputerElite
 * CookieDLX
@@ -43,14 +43,14 @@ wikiのコンテンツを翻訳してくださる勤勉な人々。 時間を割
 * Trolav
   * [Twitter](twitter.com/Trolav1)
 
-## Dutch | Nederlands
+## オランダ語 - Nederlands
 
-### Proofreaders
+### 校正
 
 * Eris
   * [Twitter](https://twitter.com/ErisApps)
 
-### Translators
+### 翻訳
 
 * boulders2000
 * Jestro

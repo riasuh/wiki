@@ -9,7 +9,7 @@ description: Emma's gids voor het maken van custom platforms!
 _Emma's gids voor het maken van custom platforms._
 
 ## Project
-Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatformsUnityProject/releases/) with [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
+Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatforms/releases/latest) with [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
 
 ## Eerste stappen
 ![Custom Platform Script](~@images/models/platforms/CustomPlatformScript.png)

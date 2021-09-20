@@ -4,9 +4,13 @@ description: Liste aller Personen, die zu den Mapping Ressourcen beigetragen hab
 ---
 
 # Mitwirkende für Mapping-Ressourcen
-Es wurden über *dreißig* verschiedene Mapping Guides zusammengefasst, damit dieses Wiki von der gesamten Community aktuell gehalten werden kann. **VIELEN VIELEN** Dank an alle Mapper, die den Weg gebahnt haben und bei Inhalte zum Wiki hinzugefügt haben. Check out their maps and consider supporting them!
+Es wurden über *dreißig* verschiedene Mapping Guides zusammengefasst, damit dieses Wiki von der gesamten Community aktuell gehalten werden kann. **VIELEN VIELEN** Dank an alle Mapper, die den Weg gebahnt haben und bei Inhalte zum Wiki hinzugefügt haben. Schau dir gerne deren Maps an und unterstütze sie!
 
 > Haben wir dich vergessen? Möchtest du deine Bio updaten? [Lass es und wissen!](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform)
+
+## 3Stans
+Drei verschiedene Stans oder drei Stans in einem? Beiträge zu den drei Verwendungen der Mapping-Erweiterung in [Extended Mapping](./extended-mapping.md)  
+[BeatSaver](https://beatsaver.com/profile/56092) | [BeastSaber](https://bsaber.com/members/3stans/)
 
 ## Aeroluna
 Hat die Umgebungs Screenshots von Spielversion 1.6 zu [Basic Lighting](./basic-lighting.md) beigetragen und ist der aktuelle Betreuer von Chroma und Noodle Extensions!  
@@ -33,7 +37,7 @@ Modder, Moderator, Mapper, EditorMaster... Caeden macht alles. Als Hauptentwickl
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84ee26) | [BeastSaber](https://bsaber.com/members/caeden117/) | [Spenden](https://ko-fi.com/Caeden117)
 
 ## Checkthepan
-Irgendein Nerd, der mehr Zeit damit verbringt über Mapping zu schreiben, als er es selber tut. Adapted the theory of parity and wrote a guide on how it applies in Beat Saber mapping as well as contributing to 360&deg;/90&deg; best practices.  
+Irgendein Nerd, der mehr Zeit damit verbringt über Mapping zu schreiben, als er es selber tut. Anpassung der Theorie der Parität und Erstellung eines Leitfadens zu ihrer Anwendung beim Mapping von Beat Saber sowie Beitrag zu den bewährten 360&deg;/90&deg;-Verfahren.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84f3d5) | [BeastSaber](https://bsaber.com/members/checkthepan/)
 
 ## CyanSnow
@@ -49,7 +53,7 @@ Arbeitet bei Beat Games als offizieller Mapper. Hat eine der ersten [Mapping Tut
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7298cc5a672c84e8ad) | [BeastSaber](https://bsaber.com/members/freeek/)
 
 ## fruhead
-Ein Mapper, der sich auf die Erstellung von zugänglichen Low Expert+ und Maps darunter konzentriert. Ursprünglich ist er in's Mapping eingestiegen, um mehr Rock- und Metal-Maps hinzuzufügen, um mit den Weeb- und Nightcore-Maps zu konkurrieren, nur um am Ende mehr Weeb- und Nightcore-Maps zu machen. Testet gelegentlich Maps, hat aber PTSD aus dem Jahr 1999 und ist offizieller Editor. Ersteller der [Beginner's Guide to Mapping Tutorial Serie](https://youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm).  
+Ein Mapper, der sich auf die Erstellung von zugänglichen Low Expert+ Maps und darunter konzentriert. Ursprünglich ist er in das Mapping eingestiegen, um mehr Rock- und Metal-Maps zu erstellen, um mit den Weeb- und Nightcore-Maps zu konkurrieren, nur um am Ende mehr Weeb- und Nightcore-Maps zu erstellen. Er testet gelegentlich Maps, hat aber seit 1999 PTSD und ist offizieller Redakteur. Ersteller der [Beginner's Guide to Mapping Tutorial Serie](https://youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm).  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c852683) | [BeastSaber](https://bsaber.com/members/fruhead/)
 
 ## Gabmiral
@@ -57,36 +61,36 @@ Hat zur MMA2 Installationsanweisungen für Linux beigetragen. Eigentlich kein Ma
 [GitHub](https://github.com/gabmiral/)
 
 ## Helen Carnate
-The plushie queen who organized the majority of these resources. The guides wouldn't be like they are today without them!  
+Die Plüschkönigin, die den Großteil der Mapping-Ressourcen organisiert hat. Ohne sie wären die Guides nicht so, wie sie heute sind!  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c8553d2) | [BeastSaber](https://bsaber.com/members/helencarnate/) | [Etsy Shop](https://www.etsy.com/shop/HelenCarnateDesigns)
 
 ## Hexagonial
-Wrote a guide on forbidden patterns in E+ maps that was integrated into the [Basic Mapping: Gauging Difficulty & Down-Mapping](./basic-mapping.md#gauging-difficulty-down-mapping) section. Also is a ranking team member!  
+Hat eine Anleitung zu verbotenen Mustern in E+ Maps geschrieben, die in den [Basic Mapping Abschnitt: Gauging Difficulty & Down-Mapping](./basic-mapping.md#gauging-difficulty-down-mapping) integriert wurde. Ist auch ein Ranking Team Member!  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84f2fb) | [BeastSaber](https://bsaber.com/members/hexagonial/)
 
 ## Kival Evan
-Contributed to the [360&deg;/90&deg; best practices](./extended-mapping.md#_360°-90°-best-practices) thanks to extensive experimentation with the new mode.  
+Hat durch ausgiebiges Experimentieren mit dem neuen Modus zu den [360&deg;/90&deg; Best Practices](./extended-mapping.md#_360°-90°-best-practices) beigetragen.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c855af3) | [BeastSaber](https://bsaber.com/members/kivalevan/)
 
 ## Kolezan
-Full Spread and Single Saber Maps galore.  
-Authored content in [Basic Audio Setup](./basic-audio.md) and [Advanced Audio Editing](./advanced-audio.md) with [Nik](#nik-n3tman) and [Basic Lighting](./basic-lighting.md) with [LittleAsi](#littleasi).  
+Massenhaft volle Umfang und Single Saber Maps.   
+Autorisierter Inhalt in [Basic Audio Setup](./basic-audio.md) and [Erweiterte Audiobearbeitung](./advanced-audio.md) mit [Nik](#nik-n3tman) und [Basic Lighting](./basic-lighting.md) mit [LittleAsi](#littleasi).  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84fcbb) | [BeastSaber](https://bsaber.com/members/kolezan/)
 
 ## LittleAsi
-A lighting mentor and member of Funrankable, they authored a lot of content to the lighting resources with [Kolezan](#kolezan).  
+Ein Beleuchtungsmentor und Mitglied von Funrankable. Sie haben viele Inhalte zu den Beleuchtungsressourcen mit verfasst. [Kolezan](#kolezan).  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c853c2d) | [BeastSaber](https://bsaber.com/members/littleasi/) | [Funrankable](https://beatsaver.com/uploader/5cff0b7798cc5a672c8561ac)
 
 ## ManDynasty
-Wrote various guides on lighting that was integrated into [Basic Lighting](./basic-lighting.md).  
+Schrieb verschiedene Anleitungen zum Lighting, die in [Basic Lighting](./basic-lighting.md) integriert wurden.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84ffaa) | [BeastSaber](https://bsaber.com/members/mandynasty/)
 
 ## Megalon
-Miterfinder des BSMG sowie des Channel Monitor Bot. Er ist bekannt für seine kreativen Stream-Overlays und seine erstaunliche ASMR-Stimme. Hau ein Video-Tutorial zur Verwendung des [Offiziellen Editors](./#official-editor) erstellt und verwaltet das Wiki-Repository.  
+Co-Creator von BSMG sowie des Channel Monitor Bot. Er ist bekannt für seine kreativen Stream-Overlays und seine erstaunliche ASMR-Stimme. Hau ein Video-Tutorial zur Verwendung des [Offiziellen Editors](./#official-editor) erstellt und verwaltet das Wiki-Repository.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c855407) | [BeastSaber](https://bsaber.com/members/megalon/) | [GitHub](https://github.com/megalon) | [Twitch](https://twitch.tv/megalonttv) | [Spenden](https://ko-fi.com/megalon)
 
 ## namaki mono
-Copyedits wiki pages to ensure that they are clean, clear, and consistent. Focuses on keeping the [Mapping Glossary](./glossary.md) up-to-date.  
+Editiert Wiki-Seiten, um sicherzustellen, dass sie sauber, klar und konsistent sind. Konzentriert sich darauf, das [Mapping Glossary](./glossary.md) aktuell zu halten.  
 [BeatSaver](https://beatsaver.com/uploader/602f812246eb150006d933ca) | [YouTube](https://www.youtube.com/channel/UCwuqVWcrCgCzJTgM-0UHtuQ) | [Twitch](https://www.twitch.tv/namaki_mono)
 
 ## Nik/n3tman
@@ -102,7 +106,7 @@ Ein Bsaber Kurator, der den Großteil der Inhalte für [How to Playtest](./how-t
 [BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
 
 ## Ris
-Wrote *Warping Variable BPM Songs with Reaper* based off of a method by **Heisenberg_IRL** that was integrated into [Advanced Audio Editing: Variable BPM](./advanced-audio.md#variable-bpm).  
+Hat den *Warping Variable BPM Songs with Reaper* geschrieben, basierend auf einer Methode von **Heisenberg_IRL**, die in [Advanced Audio Editing: Variable BPM](./advanced-audio.md#variable-bpm) integriert worden ist.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c8535df) | [BeastSaber](https://bsaber.com/members/ris/)
 
 ## Ryger
@@ -118,30 +122,30 @@ Schrieb den originalen "Quick Start Guide" über Mapping auf BeastSaber.
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7398cc5a672c84ed71) | [ BeastSaber](https://bsaber.com/members/silentcaay/)
 
 ## Skeelie
-Bringer von Augenschäden mit seinen grellen Lightshows. Er kann dir helfen, deine Map zum leuchten zu bringen! Contributed to [Advanced Lighting](./advanced-lighting.md).  
+Bringer von Augenschäden mit seinen grellen Lightshows. Er kann dir helfen, deine Map zum leuchten zu bringen! Hat zu [Erweiterte Beleuchtung](./advanced-lighting.md) beigetragen.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85507f) | [BeastSaber](https://bsaber.com/members/skeelie/) | [YouTube](https://www.youtube.com/user/xSkeelie) | [Twitch](https://www.twitch.tv/skeelie)
 
 ## Skyler Wallace
-Verwaltete das erste Jubiläumspaket und ein Gründer von Bloq Busters. Skyler makes it a point to do full spread mapping.  
-Authored *The Ultimate Beat Saber Mapping Guide* which has been integrated across many of the resources.  
+Verwaltete das erste Jubiläumspaket und ein Gründer von Bloq Busters. Skyler legt großen Wert auf ein umfassendes Mapping.  
+Autor von *The Ultimate Beat Saber Mapping Guide*, der in viele der Ressourcen integriert wurde.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7298cc5a672c84ea67) | [BeastSaber](https://bsaber.com/members/skylerwallace/)
 
 ## Spooky Ghost
-Creator of beatwalls, a command line tool to easily create awesome Mapping Extensions walls. Contributed content in [Extended Mapping: Wall Mapping](./extended-mapping.md#wall-mapping).  
+Schöpfer von beatwalls, einem Kommandozeilen-Tool zur einfachen Erstellung von Mapping Extensions-Wänden. Hat zu [Extended Mapping: Wall Mapping](./extended-mapping.md#wall-mapping) beigetragen.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7798cc5a672c8561a5) | [BeastSaber](https://bsaber.com/members/spookyghost/) | [GitHub](https://github.com/spookyGh0st)
 
 ## Sykes
-Wrote guides on what "swing" beat is, how the "shuffle" parameter would make mapping easier, and down-mapping lower difficulties.  
+Hat Leidfäden erstellt, was ein "Swing"-Takt ist, wie der "Shuffle"-Parameter das Mapping vereinfachen würde und wie man den Schwierigkeitsgrad senken kann.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c854602) | [BeastSaber](https://bsaber.com/members/sykes19/)
 
 ## The Good Boi
-Helped organize a convenient spreadsheet that contains all of the controls for the community editors.  
+Hat geholfen, ein praktisches Arbeitsblatt zu organisieren, das alle Steuerelemente für die Community-Editoren enthält.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85433c) | [BeastSaber](https://bsaber.com/members/thegoodboi/)
 
 ## Uninstaller
-Ranking team member that authored a guide on modding maps for ranked.  
+Mitglied des Ranking-Teams, das einen Leitfaden zum Modifizieren von Karten für die Rangliste verfasst hat.  
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7598cc5a672c85248e) | [BeastSaber](https://bsaber.com/members/uninstaller/)
 
 ## Vaser888
-A testplayer that just likes helping out the community.  
+Ein Testspieler, der einfach gerne der Community hilft.  
 [BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/)

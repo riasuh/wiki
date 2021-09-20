@@ -152,41 +152,32 @@ Somos la gente que tiene café con bollos de canela, y a veces albóndigas...
 
 ---
 
-### Suiza
+### UK
 
-#### SwissSaber
-Discord oficial de Beat Saber para los jugadores suizos, pero la gente de otros países también es bienvenida.
-
-[Discord](https://discord.gg/eV6SUUF)
-
----
-
-### Reino Unido
-
-#### Discord británico de Beat Saber
-¡Tenemos té!
+#### British Beat Saber Discord
+We have tea!
 
 [Discord](https://discord.gg/FC2pzeN)
 
 ---
 
-### Noruega
+### Norway
 
-#### Beat Saber Noruega
-Somos una pequeña comunidad con sede en el relativamente pequeño país de Noruega. ¡Queremos tener una comunidad de aceptación de personas de todos los países con el uso de nuestro bot hecho por Rocker!
+#### Beat Saber Norge
+We are a small community based in the relatively small country of Norway. We want to have an accepting community of people from all countries with the use of our bot made by Rocker!
 
 [Discord](https://discord.gg/nZuY3yM)
 
 ---
 
-### Irlanda
+### Ireland
 
-#### Beat Saber Irlanda
-Servidor Discord para la comunidad irlandesa de Beat Saber, ¡los jugadores internacionales también son bienvenidos!
+#### Beat Saber Ireland
+Discord server for the Irish Beat Saber community, international players are welcome too!
 
 [Discord](https://discord.gg/uKQzjRQ)
 
 ---
 
 ## Oceanía
-*Ninguna todavía.*
+*None yet.*

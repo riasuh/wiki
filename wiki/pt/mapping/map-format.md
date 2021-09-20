@@ -127,7 +127,7 @@ This defines the internal ID for the environment that the map uses. To get a com
 This defines the internal ID for the environment that the map uses when playing in 360 Degree or 90 Degree levels. This is a required field, even if the level does not include any 360 or 90 Degree difficulties. To get a complete list of valid 360 environments, see the `Info.dat Name`s of each environment in the [Environment Previews section](./basic-lighting.md#environment-previews).
 
 #### _songTimeOffset
-This is Beat Saber's method for tackling off-sync audio. This offsets the audio in game, based off the value of `_songTimeOffset` in milliseconds.
+This is Beat Saber's method for tackling off-sync audio. This offsets the audio in game, based off the value of `_songTimeOffset` in seconds.
 
 :::warning Hit sounds are also affected by the same offset. We recommend the mapper sync up their audio file *before* mapping, as described in the [Basic Audio Setup guide](./basic-audio.md), to circumvent any need for `_songTimeOffset` and related alternatives. :::
 

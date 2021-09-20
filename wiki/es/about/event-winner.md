@@ -7,6 +7,38 @@ Ganadores de concursos/eventos pasados celebrados en el discord. ¡Manténte al 
 
 If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
 
+## 2021 Bloodcloak's Birthday Bash
+In celebration of Bloodcloak's Birthday, this was a stage vc triva game show hosted by them based on a small impromptu quiz they held in `#general` chat a few months before. The prize pool consisted of random Steam Game Keys, Steam Wallet Codes, and Full and Classic Discord Nitro. Funding and prizes were generously donated by Pink, Bobbie, and Stemisty with the rest covered by the events tier of our Patreon!
+
+Contestants had to answer 4 random questions from topics selected by Bloodcloak having only 20 seconds to respond. Topics included:
+
+* Music
+* Guess that Song from the audio clip
+* BSMG
+* Hololive
+* Food
+* Random Stuff Other Staff Came Up With
+
+Since it was celebrating Bloodcloak's Birthday, each contestant who participated got at least something from the prize pool. The value of what they got depended on their overall performance.
+
+The top 5 were brought back on stage for a head to head showdown for the role and grand prize of a Steam Wallet Code worth $50 USD!
+
+---
+
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/858482681993887764)
+
+### Top 5
+In no particular order... these people made it to the top 5 to battle for the role
+
+* Minicoot
+* Skeelie
+* Vinyl Scratch
+* Amankins
+* 3Stans
+
+### Trivia Master
+The one person who stood above the rest with their fast answers... Amankins
+
 ## 2021 Battle Royale
 Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
 
@@ -14,7 +46,7 @@ Also known as *The Culling* this event was a Skyrim themed Battle Royale held du
 
 [Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
 
-### Finalistas
+### Finalists
 In no particular order... these people made it to the top 6 and earned themselves the role!
 
 * DaNike
@@ -37,7 +69,7 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 [Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
 
-### Ganadores del mapa
+### Map Winners
 
 #### Vanilla
 
@@ -49,19 +81,19 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 * **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
-### Ganadores de modelos
+### Model Winners
 
 * **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
 
-### Gran Premio
+### Grand Prize
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
-## Concurso de Halloween 2020
+## 2020 Halloween Contest
 The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
-[Anuncio de ganadores](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
 ### Map Winners
 
@@ -81,7 +113,7 @@ The third Halloween contest. This time with celebrity judges, LostVint, Protosta
 * **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
 * **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
-### Gran Premio
+### Grand Prize
 [Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) by **nitronik.exe**
 
 ## 2020 Battle Royale
@@ -92,7 +124,7 @@ An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challeng
 [Victory Royale Announcement](https://discord.com/channels/441805394323439646/441807344591044619/695297076669448203)
 
 ### Top 7
-En ningún orden particular...
+In no particular order...
 
 * **Alzaraf**
 * **Bobbie**
@@ -103,9 +135,9 @@ En ningún orden particular...
 * **Shad**
 
 ### Victory Royale
-**Arti** también conocido como **ratsby**
+**Arti** also known as **ratsby**
 
-## Competición de Navidad 2019
+## 2019 Christmas Contest
 The second Holiday/Winter contest. This time throwing the holidays out of the window for Christmas, Padoru, and a Grand Prize.
 
 ---
@@ -119,7 +151,7 @@ The second Holiday/Winter contest. This time throwing the holidays out of the wi
 * **3rd:** [After the Rain - Black Christmas (JubyPhonic English Cover)](https://beatsaver.com/beatmap/7748) by **Bloodcloak**
 
 #### Menciónes honoríficas
-En ningún orden particular...
+In no particular order...
 
 * [August Burns Red - Carol of the Bells](https://beatsaver.com/beatmap/8fe5) by **Skeelie**
 * [Sunrise Skater Kids - All I Want For Christmas is You](https://beatsaver.com/beatmap/779d) by **Malakite**
@@ -132,19 +164,19 @@ En ningún orden particular...
 * **Sabers:** [Frozen Sabers](https://modelsaber.com/Sabers/?id=1575735225) by **Raphpower**
 
 ### Mod Winner
-Una versión especial (3.0.1 para Beat Saber 1.7) de [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) de **Sc2ad** para Quest
+A special version (3.0.1 for Beat Saber 1.7) of [HitScoreVisualizer](https://github.com/sc2ad/QuestHitScoreVisualizer/releases) by **Sc2ad** for Quest
 
 ### Grand Prize
 [Bossfight - Carol of the Cartels](https://beatsaver.com/beatmap/73c9) by **Fefeland**
 
-## Competición de Halloween 2019
+## 2019 Halloween Contest
 The second Halloween contest, Halloween 2: Electric Boogaloo.
 
 ---
 
 [Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/640998855046856724)
 
-### Ganadores del mapa
+### Map Winners
 
 * **1st:** [Jack The Envious - This is Halloween (The Nightmare Before Christmas Cover)](https://beatsaver.com/beatmap/6d22) by **Fefeland**
 * **2nd:** [AronChupa, Little Sis Nora - Rave in the Grave](https://beatsaver.com/beatmap/6cf7) by **TranquillizeMe**

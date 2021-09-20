@@ -2,9 +2,11 @@
 Con un server così grande, è necessaria molta moderazione per tenere tutto sotto controllo. Puoi ringraziare questo team per mantenere le strade pulite.
 
 ## 24Kings
-"Unisciti alla Qvoluzione, anche Rosa e carina"
+I slap Java code together and it works most of the time. Fellow crippling Minecraft addict
 
 **Ruoli:** Moderatore
+
+[Twitter](https://twitter.com/24Kings_Rock) | [Twitch](https://twitch.tv/24Kings) | [GitHub](https://github.com/The24Kings)
 
 ## Burrito
 Ironically doesn't like burritos, thinks tacos are better (true facts)

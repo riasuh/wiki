@@ -150,7 +150,7 @@ Dit definieert de interne ID voor de omgeving die het level gebruikt tijdens het
 
 #### _songTimeOffset
 
-Dit is de manier van Beat Saber om off-sync audio aan te pakken. Dit offset de audio in het spel, gebaseerd op de waarde van `_songTimeOffset` in milliseconden.
+Dit is de manier van Beat Saber om off-sync audio aan te pakken. This offsets the audio in game, based off the value of `_songTimeOffset` in seconds.
 
 :::warning Hit sounds worden ook beïnvloed door dezelfde offset. We raden de level maker aan om hun audio bestand te synchroniseren *voordat* ze beginnen met het maken van hun level, zoals beschreven in de [Standaard audio setup gids](./basic-audio.md), om elke behoefte aan `_songTimeOffset` en verwante alternatieven te omzeilen. :::
 
