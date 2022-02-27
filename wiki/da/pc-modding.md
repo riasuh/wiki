@@ -9,14 +9,16 @@ sidebar: auto
 ::: danger DISCLAIMER Når du vælger at benytte mods, forstår du at:
 
 * Du kan opleve problemer, der ikke findes i vanilla-spillet. 99,9% af bugs, crashes og lag skyldes mods.
-* Mods are subject to being broken by updates and that's normal - be patient and respectful when this happens, as modders are volunteers with real lives.
-* Beat Games aren't purposefully trying to break mods. They wish to work on the codebase and sometimes this breaks mods, but they are not out to kill mods.
+* Mods er underlagt af at blive ødelagt af opdateringer, og det er normalt - vær tålmodig og respektfuld når dette sker, eftersom modders er frivillige med et liv ved siden af.
+* Beat Games forsøger ikke med vilje at ødelægge mods. They wish to work on the codebase and sometimes this breaks mods, but they are not out to kill mods.
 
 Do not attack the game developers for issues related to mods, and vice versa - modders and game developers are two separate groups. Bare lad være med at være en idiot. :::
 
 :::warning STAY SAFE WHEN INSTALLING MODS Beat Saber will **NEVER** ask you to run it as Administrator.
 
 If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. What you installed is a malicious mod!
+
+The only approved case is when activating/deactivating OneClick™ Install in Mod Assistant. Administrator access is required to register the program with your computer to handle OneClick™ Install links.
 
 If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
 
@@ -55,6 +57,8 @@ The `BeatSaver Downloader` mod allows you to download maps in-game using the `MO
 
 ### BeatSaver
 [BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is where they are stored. To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
+
+To enable and use Mod Assistant's OneClick™ Install see the picture below: ![Mod Assistant](~@images/beginners-guide/modassistant-oneclick.png)
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) (bsaber.com) is a site that tries to help make finding fantastic maps to play easier. It does this by categorizing the thousands of songs on BeatSaver and lets you sort by a song's genre and many other attribute tags. It also has a full social feature where players can review songs and comment on them. One of the most used features is the "Curator Recommended" feature where a team plays through most songs released each day and recommends the ones that stand out, letting you [automatically download these in-game](https://bsaber.com/beatsync/).

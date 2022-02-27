@@ -2,18 +2,18 @@
 私たちが望むようなゲームをたったひとつのプラグインで実現します。
 
 ## Aeroluna
-The madman behind Noodle Extensions and the current maintainer for Chroma and Technicolor. He's one of the people that made Mod charts possible!
+Noodle Extensionの背後にいる狂人、ChromaとTechnicolorの現在のメンテナンスを行っている。 彼はModチャートを可能にした人の一人です！
 
-**Roles:** Modder **Contributions:** Noodle Extensions, Chroma, Technicolor
+**ロール:** Modder **主な業績:** Noodle Extension, Chroma, Technicolor
 
-[GitHub](https://github.com/Aeroluna) | [Donate](https://ko-fi.com/aeroluna)
+[GitHub](https://github.com/Aeroluna) | [寄付](https://ko-fi.com/aeroluna)
 
 ## andruzzzhka
-A huge contributor for the in-game downloader mod, and developer of the unofficial multiplayer plugin.
+in-game downloader modに大きく貢献しました。また、非公式マルチプレイプラグインの開発も行いました。
 
-**Roles:** Modder **Contributions:** BeatSaver Downloader, Unoffical Multiplayer, Custom Menu Music (original)
+**ロール:** Modder **主な仕事:** BeatSaver Downloader, 非公式マルチプレイ, カスタムメニュー音楽 (オリジナル)
 
-[GitHub](https://github.com/andruzzzhka) | [Donate](http://ko-fi.com/andruzzzhka)
+[GitHub](https://github.com/andruzzzhka) | [寄付](http://ko-fi.com/andruzzzhka)
 
 ## angturil
 Creator of the Song Request Manager, which makes twitch requests possible. Check out his [wife's stream](https://www.twitch.tv/sehria_k)
@@ -43,7 +43,7 @@ Has large feet, maybe??
 
 [GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donate](https://streamlabs.com/bigfooott)
 
-## brian
+## brian (Retired)
 Creator of CustomUI, making the creation of new UI components a breeze for modders. He's also created some of the most useful streaming tools used today, including taking over CameraPlus in xyonico's absence and the widely used Enhanced Stream Chat mod. This man wants more hip hop songs, get on it people!
 
 **Contributions:** CustomUI, CameraPlus, Enhanced Stream Chat, StreamCore, SongRequestManager, Hidden Blocks, SyncSaber
@@ -192,6 +192,13 @@ If you've ever played darth maul mode, you have this guy to thank.
 **Roles:** Modder **Contributions:** Darth Maul Plugin, Reactive Materials, Custom Key Events, Transparent Walls
 
 [GitHub](https://github.com/PureDark)
+
+## Raemien
+Behind some content creation improvements for Quest and experimental PC mods. Responsible for numerous duct tape bodges.
+
+**Roles:** Modder **Contributions:** MRCPlus, CustomBackgrounds, ARCompanion, Burnout, Puro, MouseSaber, DebrisTweaks
+
+[GitHub](https://github.com/Raemien) | [Patreon](https://www.patreon.com/Raemien) | [Ko-Fi](https://ko-fi.com/raemien)
 
 ## raftario
 does things sometimes ????

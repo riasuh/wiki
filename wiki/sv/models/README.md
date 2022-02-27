@@ -1,27 +1,27 @@
 ---
-description: Installation, Usage, and Creation Guides for Model Mods!
+description: Installering, användning och guider för skapande av modell-moddar!
 ---
 
 # 3D-modeller
-All custom model mods were created separately by different people. Each mod has its own dedicated page detailing installation and usage instructions. Dessa listas nedan och i sidofältet.
+Alla custom modell-moddar skapades ursprungligen separat av olika personer. Varje modd har sin egen sida med installationsinformation och bruksanvisningar. Dessa är listade nedanför och i sidofältet.
 
-* [Anpassade Sablar](./custom-sabers.md)
-* [Anpassade Avatarer](./custom-avatars.md)
-* [Anpassade Plattformar](./custom-platforms.md)
-* [Anpassade Block](./custom-notes.md)
-* [Anpassade Väggar](./custom-walls.md)
+* [Customsablar](./custom-sabers.md)
+* [Customavatarer](./custom-avatars.md)
+* [Customplattformar](./custom-platforms.md)
+* [Customnoter](./custom-notes.md)
+* [Customväggar](./custom-walls.md)
 
-## Var man hittar modeller
+## Var skaffar man modeller?
 
 ### ModelSaber
-[ModelSaber](https://modelsaber.com/) är det nuvarande arkivet för sablar, avatarer, bloq och plattformar. Den innehåller förhandsgranskningsbilder och OneClick&trade;-installering.
+[ModelSaber](https://modelsaber.com/) är det nuvarande arkivet för sablar, avatarer, bloq och plattformar. Den innehåller förhandsgranskningsbilder och länkar till OneClick&trade;-installationer.
 
-::: tip OBS! Alla modeller måste manuellt godkändas innan de kan visas på webbplatsen. Vänligen ladda inte upp några redan befintliga modeller till webbplatsen. :::
+::: tip OBS! Alla modeller måste godkändas manuellt innan de syns på webbplatsen. Vänligen ladda inte upp redan befintliga modeller på nytt till webbplatsen. :::
 
 ### Discord
-You can also find an uncurated list _(with potentially more items)_ in the `#pc-models` channel on the [BSMG Discord](https://discord.gg/beatsabermods) for PC and [Qosmetics Discord](https://discord.gg/qosmetics) for Quest.
+En oorganiserad lista _(möjligtvis med fler saker)_ finner du i kanalen `#pc-models` i [BSMGs Discord](https://discord.gg/beatsabermods) för PC och i [Qosmetics Discord](https://discord.gg/qosmetics) för Quest.
 
-## Skapa modeller
+## Modellskapande
 Vill du lära dig att göra egna modeller? Kolla in en av våra guider nedan!
 
 * [Sabelguide](./sabers-guide.md)

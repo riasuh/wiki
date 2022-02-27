@@ -15,14 +15,14 @@ Uma comunidade para todas as discussões e eventos relacionados a accuracy. Se v
 ---
 
 ## Acc Champ Community
-We are an Acc focused community that plans to be the new hub for Acc related events, training, and a new ranking system to help give specific info on each player's strengths and weaknesses in Acc categories.
+Nós somos uma comunidade focada em Acc que planeja ser o novo centro para eventos relacionados a Acc, treinamento, e um novo sistema de classificação para ajudar a fornecer informações específicas sobre os pontos fortes e fracos de cada jogador nas categorias de Acc.
 
 [Discord](https://discord.gg/zd8W4rr)
 
 ---
 
 ## BeatKhana
-We are BeatKhana, a Beat Saber community focused around pushing tournaments forward! What do we do?
+Somos BeatKhana, uma comunidade Beat Saber focada em avançar com torneios! O que fazemos?
 
 * Atualizamos e anunciamos os próximos torneios online, com todas as informações de que você precisa.
 * Arquivamos torneios antigos para sempre poder encontrá-los de volta
@@ -35,23 +35,16 @@ We are BeatKhana, a Beat Saber community focused around pushing tournaments forw
 ---
 
 ## Beat Saber Clan Hub
-Beat Saber Clan Hub is the hub for all things clan-related. If you want to join or create a clan, this is the server for you!
+Beat Saber Clan Hub é o centro para todas as coisas relacionadas aos clãs. Se quiser entrar ou criar um clã, este é o servidor para você!
 
 [Discord](https://discord.gg/2a89Nmm3PC)
 
 ---
 
 ## Beat Saber Commissions
-Have a model, map, or mod that you'd like done? Get in contact with the professionals here.
+Tem um modelo, mapa ou mod que você gostaria de ser feito? Entre em contato com os profissionais aqui.
 
 [Discord](https://discord.gg/e4f3WBBVnr)
-
----
-
-## Beat Saber Events
-A place to plan, post, discuss, and get notifications for events in your area.
-
-[Discord](https://discord.gg/q92brWG)
 
 ---
 

@@ -35,14 +35,14 @@ Traz danos aos olhos com seus lightshows piscantes, ele pode ajudá-lo a fazer s
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c85507f) | [BeastSaber](https://bsaber.com/members/skeelie/) | [YouTube](https://www.youtube.com/user/xSkeelie) | [Twitch](https://www.twitch.tv/skeelie)
 
 ## Top_Cat
-First time ChroMapper contributor and MMA2 maintainer. Might finish a map one day.
+Primeiro colaborador do ChroMapper e mantenedor do MMA2. Pode terminar um mapa um dia.
 
 ## Vaser888
-"He's like batman. He shows up, drops testplays, vanishes into the night"
+"Ele é como o batman. Ele aparece, solta testes, desaparece na noite"
 
 [BeatSaver](https://beatsaver.com/uploader/5f63fb45103cbc00068ee060) | [BeastSaber](https://bsaber.com/members/vaser888/) | [YouTube](https://www.youtube.com/c/vaser888)
 
-::: tip See Also **Supports:** [Kolezan](./supports.md#kolezan)  
-**Moderators:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)  
+::: tip Veja Também **Supports:** [Kolezan](./supports.md#kolezan)  
+**Moderadores:** [Pyrowarfare](./moderators.md#pyrowarfare-retired)  
 **Staff:** [Bloodcloak](./staff.md#bloodcloak)  
 :::

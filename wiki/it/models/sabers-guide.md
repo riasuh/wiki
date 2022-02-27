@@ -13,26 +13,32 @@ Since people are still having trouble with making custom sabers, we think that i
 ## Preparation
 YOU MUST HAVE:
 
-* Unity 2018.1.6f1 to make a custom saber file (*.saber). [Download HERE](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
-* The Custom Saber Unity project. [Download HERE](https://cdn.discordapp.com/attachments/468249466865057802/703747388556181534/Custom_Sabers-4.3.0-UnityProject.zip)
+* Unità [2019.3.15f1](https://unity3d.com/get-unity/download/archive)
+  * Devi andare alla scheda che dice `Unity 2019.x` e scorrere già fino a 2019.3.15. Questo dev'esser installato con l'[Unity Hub](https://unity3d.com/get-unity/download).
+  * Serve una guida su come installare? [Dai un'occhiata a questa guida di Unity a Unity Hub.](https://docs.unity3d.com/Manual/LicensesAndActivation.html)
+* [Il progetto Custom Saber Unity.](https://cdn.discordapp.com/attachments/468249466865057802/935252103935434762/Unity2019.3.15-CustomSaber-4.3.0.zip)
 * A 3d model file of the saber of your choice. The most common and acceptable file formats are .obj and .fbx files. You can download your saber from 3d model hosting/showcase sites like Sketchfab or turbosquid.
 
 Optional:
 
 * 3d modeling software: Blender is a good free option, or 3dsmax if you have a license for it (educational license is fine)
 * Image editor: [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/downloads/) work if you want to make your own saber texture
-* The saber model used in this tutorial. [Download HERE](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
+* Il modello della sciabola usato in [questo tutorial](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip).
 
 ## Setup
 Extract the Custom Saber Unity project to your desired location.
 
-If you're using Unity hub, Click on Add, select the Custom Saber Unity Project folder, click on Select folder.
+### Importare e impostare la versione di Unity del progetto
 
-![Adding Custom Saber project](~@images/models/sabers/01.png)
+![Aggiungere il progetto Custom Saber](~@images/models/sabers/01.png)
 
-The Custom saber project should appear on the list. Make sure the Unity version is correct for the project.
+Il progetto Custom saber dovrebbe comparire sull'elenco. Assicurati che la versione di Unity sia corretta per il progetto.
 
-![Checking that the version is correct](~@images/models/sabers/02.png)
+![Verificare che la versione del progetto sia corretta](~@images/models/sabers/02.png)
+
+![Se la versione di Unity è errata, modificala per corrispondere alla versione del progetto.](~@images/models/sabers/02-2.png)
+
+### Aprire e configurare il progetto nell'Editor
 
 Open the Custom saber project, it should show up like this:
 
@@ -129,16 +135,16 @@ If you want more information on events, read the [Events](./avatars-guide.md#eve
 
 ![Adding an event](~@images/models/sabers/13.png)
 
-### Every Nth Combo Filter
+### Ogni Ennesimo Filtro di Combo
 This component lets you perform an action every N combo. It works the same as the `Event Manager`, but with the only trigger being every time you hit N combo.
 
-### Custom Trails
+### Percorsi Personalizzati
 This component lets you change the default trail for sabers. For a comprehensive tutorial on how to use custom trails, check out [MDot's custom trail guide](https://mdotamaan.github.io/BeatSaber-CustomTrailsGuide/).
 
-### Animation
+### Animazione
 If you want your sabers to play a certain animation, you need to use an `Animator` component.This will allow you to better manage what animation you're making, in addition to letting you control how the animation transitions/triggers using the Event Manager. [More information on the animator component can be found in the unity docs here](https://docs.unity3d.com/Manual/class-AnimatorController.html).
 
-### Advanced Shader Properties
+### Proprietà Shader Avanzate
 If you want to modify your shaders to use Custom Colors without having to change the glow, it is possible to modify them support this.
 
 Add this snippet of code to your shader's `Properties` section. If you have another property named `_Color`, make sure to remove it!

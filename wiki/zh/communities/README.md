@@ -1,16 +1,16 @@
 ---
-description: Check out these lists of other Beat Saber communities around the internet!
+description: 查看互联网上其他Beat Saber社区的列表！
 ---
 
-# Beat Saber Communities
-Check out these lists of other Beat Saber communities around the internet!
+# Beat Saber 社区
+查看互联网上其他Beat Saber社区的列表！
 
 ---
 
 ## [Community Hub](./community-hub.md)
-The Community Hub is a list of public Beat Saber focused communities.
+Community Hub 包含关注Beat Saber的公共社区名单。
 
 ---
 
 ## [Regional Hub](./regional-hub.md)
-The Regional Hub is a list of public or private Beat Saber focused communities for a specific geographic region.
+Regional Hub 包含特定区域的公共或私营的Beat Saber社区名单。

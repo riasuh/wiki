@@ -22,11 +22,6 @@ crippling destiny addiction
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
-## Eradawn
-"Findus says hai"
-
-**Roles:** Moderator, Support
-
 ## Hydrand
 Camellia is SourPls
 
@@ -55,11 +50,6 @@ Any stroopwafels?
 **Roles:** Moderator
 
 [Twitch](https://twitch.tv/olafstad)
-
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
-
-**Roles:** Support, Moderator
 
 ## RangeValley
 > My dad worked for years as an admin, but he got laid off when bots took over. He came home that night and told me we had to move into the van, since we couldn't afford rent anymore, then he beat the shit out of me with jumper cables. Shitposting should be legal.
@@ -124,6 +114,11 @@ Can't hit jumps
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
+
+## OneEyed (Retired)
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+
+**Roles:** Support, Moderator
 
 ## Pyrowarfare (Retired)
 A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.

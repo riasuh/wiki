@@ -13,7 +13,10 @@ Se scarichi manualmente le mappa da BeatSaver, estraile in una cartella e posizi
 
 ### Strumenti di Gestione della Canzone
 
-Nessun'app di gestione delle canzoni funzionante disponibile al momento.
+The following can be used to help you manage custom songs or playlists.
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
 
 ## Come installo le playlist?
 
@@ -22,8 +25,8 @@ Devi installare la mod [PlaylistManager](https://github.com/rithik-b/PlaylistMan
 
 Poi puoi:
 
-* Usare lo strumento `Install Playlist` nella scheda delle Opzioni del Mod Assistant.
-* Posizionare il file della playlist in `Beat Saber/Playlists`, selezionare l'intestazione del titolo della playlist nel gioco, poi cliccare scarica tutte le canzoni.
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Dovresti vedere la playlist vicino all'album dei Livelli Personalizzati nel gioco. La mod supporta anche la gestione delle playlist nel gioco.
 

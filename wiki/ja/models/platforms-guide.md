@@ -5,13 +5,13 @@ next: ./notes-guide.md
 description: Emma's Guide to making Custom Platforms!
 ---
 
-# Custom Platforms Guide
-_Emma's Guide to making Custom Platforms._
+# カスタムプラットフォーム作成ガイド
+_カスタムプラットフォームを作成するためのEmmaのガイドです。_
 
-## Project
-Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatforms/releases/latest) with [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe).
+## プロジェクト
+[Custom Platforms Project](https://github.com/affederaffe/CustomPlatforms/releases/latest)のプロジェクトを [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)で開いてください。
 
-## First Steps
+## はじめに
 ![Custom Platform Script](~@images/models/platforms/CustomPlatformScript.png)
 
 Create an `Empty GameObject` by right clicking in the Hierarchy window and selecting `Create Empty`. Make sure to set its position in the Inspector to the origin (0,0,0). Search in the inspector for the `Custom Platform` script and apply it to this GameObject. Everything inside this Object will be exported when the button on the `Custom Platform` script is pressed. In the script there are also Exporting options. These disable parts of the original platform (For when you want to replace something partially).

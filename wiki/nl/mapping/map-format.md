@@ -61,7 +61,7 @@ Hier is het basisformaat voor een `Info.dat` bestand. Merk op dat de difficulty 
 ```
 
 #### _version
-Dit veld beschrijft de versie van het level-formaat dat we gebruiken. Op dit moment is Beat Sabers levelformaat op versie `2.0.0`.
+Dit veld beschrijft de versie van het level-formaat dat we gebruiken. Currently, Beat Saber's map info format is on version `2.0.0`.
 
 #### _songName
 Dit veld beschrijft de naam van jouw nummer.
@@ -339,12 +339,13 @@ Elk niveau beatmap bevat een overeenkomend bestand dat de blokken, obstakels, ev
 
 ```json
 {
-    "_version": "2.0.0",
-    "_notes": [],
-    "_obstacles": [],
-    "_events": [],
-    "_customData": {
-        // Elke custom data zal hier komen.
+  "_version": "2.5.0",
+  "_notes": [],
+  "_obstacles": [],
+  "_events": [],
+  "_waypoints": [], // Introduced in version 2.2.0
+  "_customData": {
+    // Any custom data will go here.
     // Als dit leeg is, moet dit volledig worden verwijderd.
   }
 }
@@ -377,11 +378,17 @@ Dit is een lijst van [evenement](#events-2) objecten voor het level.
 
 
 
+#### _waypoints
+
+::: tip NOTE This is a stub section. ::: This is used to control BTS TinyTAN figures. Some information can be found in this [document](https://docs.google.com/spreadsheets/d/1spW7LS-RvenLQBVXJl9w_iOwqr9r_ozxYo3JUlXq9Lc).
+
+
+
 #### _customData
 
-Dit is een optioneel veld dat gegevens bevat die niet gerelateerd zijn aan het officiële Beat Saber level formaat. Als er geen custom data is, dan moet dit object volledig verwijderd worden.
+This is an optional field that contains data unrelated to the official Beat Saber level format. If no custom data exists, this object should be removed entirely.
 
-De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan de content dat gemaakt is door de community die het nodig heeft. Daarom kunnen we hier niet alle `_customData` velden vermelden. Je moet je eigen onderzoek doen in de Beat Saber community om level editors, programma's of mods te vinden die dit `_customData` object gebruiken.
+The exact specifics of what goes in `_customData` is entirely dependent on community-created content that needs them. As such, we cannot list all `_customData` fields here. You will have to do your own searching throughout the Beat Saber community to find map editors, tools, or mods that use this `_customData` object.
 
 
 
@@ -408,25 +415,25 @@ De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan 
 
 #### _time
 
-De tijd, in beats, waarin dit object de speler bereikt.
+The time, in beats, where this object reaches the player.
 
 
 
 #### _lineIndex
 
-Een geheel getal, van 0 tot 3, dat de kolom weergeeft waar dit blok zich bevindt. De meest linker kolom bevindt zich op index 0 en gaat omhoog naar de meest rechter op index 3.
+An integer number, from 0 to 3, which represents the column where this note is located. The far left column is located at index 0, and increases to the far right column located at index 3.
 
 
 
 #### _lineLayer
 
-Een geheel getal, van 0 tot 2, dat de laag weergeeft waar dit blok zich bevindt. De meest onderste laag bevindt zich op index 0 en gaat omhoog naar de bovenste op index 3.
+An integer number, from 0 to 2, which represents the layer where this note is located. The bottommost layer is located at layer 0, and inceases to the topmost layer located at index 2.
 
 
 
 #### _type
 
-Dit geeft aan wat voor type blok er is. Op dit moment zijn er 4 bekende types, maar 1 blijft ongebruikt:
+This indicates the type of note there is. Currently, there are 4 known types, but 1 remains unused:
 
 | `_type` | Resultaat             |
 |:-------:| --------------------- |
@@ -440,7 +447,7 @@ Dit geeft aan wat voor type blok er is. Op dit moment zijn er 4 bekende types, m
 
 #### _cutDirection
 
-Dit geeft de richting aan waarin het blok geraakt moet worden.
+This indicates the cut direction for the note.
 
 | `_cutDirection` | Resultaat       |
 |:---------------:| --------------- |
@@ -459,9 +466,9 @@ Dit geeft de richting aan waarin het blok geraakt moet worden.
 
 #### _customData
 
-Dit is een optioneel veld dat gegevens bevat die niet gerelateerd zijn aan het officiële Beat Saber level formaat. Als er geen custom data is, dan moet dit object volledig verwijderd worden.
+This is an optional field that contains data unrelated to the official Beat Saber level format. If no custom data exists, this object should be removed entirely.
 
-De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan de content dat gemaakt is door de community die het nodig heeft. Daarom kunnen we hier niet alle `_customData` velden vermelden. Je moet je eigen onderzoek doen in de Beat Saber community om level editors, programma's of mods te vinden die dit `_customData` object gebruiken.
+The exact specifics of what goes in `_customData` is entirely dependent on community-created content that needs them. As such, we cannot list all `_customData` fields here. You will have to do your own searching throughout the Beat Saber community to find map editors, tools, or mods that use this `_customData` object.
 
 
 
@@ -488,19 +495,19 @@ De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan 
 
 #### _time
 
-De tijd, in beats, waarin dit object de speler bereikt.
+The time, in beats, where this object reaches the player.
 
 
 
 #### _lineIndex
 
-Een geheel getal, van 0 tot 3, dat de kolom weergeeft waar de linkerkant van dit obstakel zich bevindt. De meest linker kolom bevindt zich op index 0 en gaat omhoog naar de meest rechter op index 3.
+An integer number, from 0 to 3, which represents the column where the left side of the obstacle is located. The far left column is located at index 0, and increases to the far right column located at index 3.
 
 
 
 #### _type
 
-Een geheel getal wat de staat van het obstakel weergeeft.
+An integer number which represents the state of the obstacle.
 
 | `_type` | Resultaat             |
 |:-------:| --------------------- |
@@ -512,21 +519,21 @@ Een geheel getal wat de staat van het obstakel weergeeft.
 
 #### _duration
 
-De tijd, in beats, dat het obstakel actief is. Hoewel `_duration` in negatieve getallen kan gaan, wees ervan bewust dat dit enkele onbedoelde effecten heeft.
+The time, in beats, that the obstacle extends for. While `_duration` can go into negative numbers, be aware that this has some unintended effects.
 
 
 
 #### _width
 
-Hoeveel kolommen het obstakel opneemt. Een `_width` van `4` betekent dat deze muur zich over het volledige speelbare raster verlengt. Hoewel `_width` in negatieve getallen kan gaan, wees ervan bewust dat dit enkele onbedoelde effecten heeft.
+How many columns the obstacle takes up. A `_width` of `4` will mean that this wall will extend the entire playable grid. While `_width` can go into negative numbers, be aware that this has some unintended effects.
 
 
 
 #### _customData
 
-Dit is een optioneel veld dat gegevens bevat die niet gerelateerd zijn aan het officiële Beat Saber level formaat. Als er geen custom data is, dan moet dit object volledig verwijderd worden.
+This is an optional field that contains data unrelated to the official Beat Saber level format. If no custom data exists, this object should be removed entirely.
 
-De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan de content dat gemaakt is door de community die het nodig heeft. Daarom kunnen we hier niet alle `_customData` velden vermelden. Je moet je eigen onderzoek doen in de Beat Saber community om level editors, programma's of mods te vinden die dit `_customData` object gebruiken.
+The exact specifics of what goes in `_customData` is entirely dependent on community-created content that needs them. As such, we cannot list all `_customData` fields here. You will have to do your own searching throughout the Beat Saber community to find map editors, tools, or mods that use this `_customData` object.
 
 
 
@@ -536,11 +543,12 @@ De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan 
 
 ```json
 {
-    "_time": 10,
-    "_type": 1,
-    "_value": 3,
-    "_customData": {
-        // Elke custom data zal hier komen.
+  "_time": 10,
+  "_type": 1,
+  "_value": 3,
+  "_floatValue" : 1.00, // Introduced in version 2.5.0
+  "_customData": {
+    // Any custom data will go here.
     // Als dit leeg is, moet dit volledig worden verwijderd.
   }
 }
@@ -551,13 +559,13 @@ De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan 
 
 #### _time
 
-De tijd, in beats, waarin dit object de speler bereikt.
+The time, in beats, where this object reaches the player.
 
 
 
 #### _type
 
-Een geheel getal dat aangeeft welk soort evenement dit object vertegenwoordigt.
+An integer number which represents what exact kind of event this object represents.
 
 | `_type` | Resultaat                                                                                                                      |
 |:-------:| ------------------------------------------------------------------------------------------------------------------------------ |
@@ -567,12 +575,12 @@ Een geheel getal dat aangeeft welk soort evenement dit object vertegenwoordigt.
 |   `3`   | Bepaalt de lichten in de `Right Rotating Lasers` groep.                                                                        |
 |   `4`   | Bepaalt de lichten in de `Center Lights` groep.                                                                                |
 |   `5`   | (Eerder niet gebruikt) Bepaalt de boost lichtkleuren (secundaire kleuren).                                                     |
-|   `6`   | (Eerder niet gebruikt) Bestuurd extra lichten aan de linker kant in de interscopre omgeving.                                   |
-|   `7`   | (Eerder niet gebruikt) Bestuurd extra lichten aan de rechter kant in de interscopre omgeving.                                  |
+|   `6`   | (Previously unused) Controls extra left side lights in some environments.                                                      |
+|   `7`   | (Previously unused) Controls extra right side lights in some environments.                                                     |
 |   `8`   | Maakt een draai aan een ring in de omgeving.                                                                                   |
 |   `9`   | Bepaalt de zoom voor toepasselijke ringen. Wordt niet beïnvloed door [`_value`](#value).                                       |
-|  `10`   | (Eerder niet gebruikt) Officiële BPM wijzigingen.                                                                              |
-|  `11`   | Ongebruikt.                                                                                                                    |
+|  `10`   | (Previously unused) (Previously Official BPM Changes.)<br/>Controls left side lasers in Billie environment.              |
+|  `11`   | (Previously unused) Controls right side lasers in Billie environment.                                                          |
 |  `12`   | Bepaalt de rotatiesnelheid voor toepasselijke lichten in `Left Rotating Lasers`.                                               |
 |  `13`   | Bepaalt de rotatiesnelheid voor toepasselijke lichten in `Right Rotating Lasers`.                                              |
 |  `14`   | (Eerder niet gebruikt) 360/90 Early rotation. Draait toekomstige objecten, terwijl het tegelijkertijd ook objecten draait.     |
@@ -581,33 +589,36 @@ Een geheel getal dat aangeeft welk soort evenement dit object vertegenwoordigt.
 |  `17`   | Verhoogt de auto's in de interscore omgeving.                                                                                  |
 
 
-:::danger Gewoon omdat er een evenement type is dat staat aangegeven als ongebruikt, betekent *niet* dat je vrij bent om deze te gebruiken!
+:::danger Just because an event type is listed as unused, does *not* mean you are freely available to use it!
 
-Beat Games staat er bekend voor het maken van eerder ongebruikte evenementen types voor bepaalde functies, zoals de introductie van 360&deg;/ 90&deg; levels. Dit heeft sommige Beat Saber levels gebroken dat gebruik maakte van oude MediocreMapper BPM wijzigingen, evenals levels die Custom Platforms gebruikten die gebruikt maakten van de ongebruikte evenement types. :::
+Beat Games is known to repurpose previously unused event types for certain features, such as the introduction of 360&deg; / 90&deg; levels. This has broken some Beat Saber maps that make use of legacy MediocreMapper BPM Changes, as well as maps that used Custom Platforms that took advantage of the unused event types. :::
 
 
 
 #### _value
 
-Afhankelijk van de eerder genoemde [`_type`](#type) van het evenement, kan de `_value` ervan verschillende dingen doen.
+Depending on the aforementioned [`_type`](#type) of the event, the `_value` of it can do different things.
 
 
 
 ##### Verlichting besturen
 
-Het standaardgedrag is het regelen van de helderheid en kleur van de lichten, en volgt deze tabel:
+It's default behavior is controlling brightness and color of lights, and follows this table:
 
-| `_value` | Resultaat                                                                             |
-|:--------:| ------------------------------------------------------------------------------------- |
-|   `0`    | Zet de lichtgroep uit.                                                                |
-|   `1`    | Verandert het licht naar blauw en zet het licht aan.                                  |
-|   `2`    | Verandert de lichten naar blauw, en knippert fel voordat het terugkeert naar normaal. |
-|   `3`    | Verandert de lichten naar blauw, en knippert fel voordat het terugkeert naar zwart.   |
-|   `4`    | Ongebruikt.                                                                           |
-|   `5`    | Verandert het licht naar rood en zet het licht aan.                                   |
-|   `6`    | Verandert de lichten naar rood, en knippert fel voordat het terugkeert naar normaal.  |
-|   `7`    | Verandert de lichten naar rood, en knippert fel voordat het terugkeert naar zwart.    |
+| `_value` | Resultaat                                                                                   |
+|:--------:| ------------------------------------------------------------------------------------------- |
+|   `0`    | Zet de lichtgroep uit.                                                                      |
+|   `1`    | Verandert het licht naar blauw en zet het licht aan.                                        |
+|   `2`    | Verandert de lichten naar blauw, en knippert fel voordat het terugkeert naar normaal.       |
+|   `3`    | Verandert de lichten naar blauw, en knippert fel voordat het terugkeert naar zwart.         |
+|   `4`    | (Previously Unused.)<br/>Changes the lights to blue by fading from the current state. |
+|   `5`    | Verandert het licht naar rood en zet het licht aan.                                         |
+|   `6`    | Verandert de lichten naar rood, en knippert fel voordat het terugkeert naar normaal.        |
+|   `7`    | Verandert de lichten naar rood, en knippert fel voordat het terugkeert naar zwart.          |
+|   `8`    | Changes the lights to blue by fading from the current state.                                |
 
+
+`_value` 4 and 8 are introduced in [`_version`](#version-2) 2.5.0. These events will only transition from Off and On (0, 1, and 4 )events. They will do nothing if transitions fade and flash events (2, 3, 6, and 7).
 
 
 
@@ -623,9 +634,9 @@ Het standaardgedrag is het regelen van de helderheid en kleur van de lichten, en
 
 ##### Rings besturen
 
-Wanneer het evenement wordt gebruikt om de ring zoom te besturen, doet de `_value` van het evenement niets.
+When the event is used to control ring zoom, the `_value` of the event does nothing.
 
-Wanneer het evenement wordt gebruikt om de ring spin te besturen, beïnvloed de `_value` waarde alleen maar de auto's in de interscope omgeving en doet verder niets in andere omgevingen.
+When the event is used to control ring spin, the `_value` only affects cars in the Interscope environment and does nothing in other environments.
 
 
 
@@ -645,17 +656,17 @@ Wanneer het evenement wordt gebruikt om de ring spin te besturen, beïnvloed de 
 
 
 
-##### Officiële BPM wijzigingen
+##### Official BPM Changes (before version 2.5.0)
 
-Wanneer het evenement wordt gebruikt om de BPM te besturen, representeert `_value` de nieuwe BPM.
+When the event is used to control the BPM, the `_value` represents the new BPM.
 
-De nieuwe BPM verplaatst de interne [`_time`](#time-2) waardes voor toekomstige objecten niet. In plaats daarvan berekent het de interne game waarden (zoals Half Jump Duration en Jump Distance) opnieuw om het effect van het spelen van het level op de nieuwe BPM te verbeteren.
+The new BPM does not shift internal [`_time`](#time-2) values for future objects. Instead, it essentially recalculates internal game values (Such as Half Jump Duration and Jump Distance) to match the effect of playing the map at the new BPM.
 
-Een nadeel hiervan is dat `_value` *altijd* een heel getal moet zijn, en het ondersteund geen floating point nummers (geen decimalen).
+One caveat to this is that the `_value` must *always* be an integer, and does not support floating point numbers (No decimals).
 
-:::warning Sinds Beat Saber `1.10.0` zijn officiële BPM wijzigingen kapot en hebben ongewenste effecten wanneer deze gebruikt worden in een level.
+:::warning As of Beat Saber `1.10.0`, Official BPM Changes are broken, and produce unwanted effects when used in a level.
 
-Als je hier absoluut omheen wilt werken, moet je een new BPM change evenement maken, zodat:
+If you absolutely want to work around this, you must create a new BPM Change event so that:
 
 1. Dit nieuwe evenement *moet* exact dezelfde [_time</code>](#time-2) waarde hebben als de BPM change evenement dat je correct wilt laten starten.
 2. Dit nieuwe evenement *moet* exact dezelfde `_value` als de vorige BPM change hebben, of de [`_beatsPerMinute`](#beatsperminute) gedefinieerd in [`Info.dat`](#info-dat).
@@ -666,15 +677,15 @@ Als je hier absoluut omheen wilt werken, moet je een new BPM change evenement ma
 
 ##### Laser Rotation Speed besturen
 
-Wanneer het evenement dat gebruikt word om laser speed te besturen op een groep lichten, word de `_value` gebruikt als vermenigvuldigingsfactor van hun basis snelheid.
+When the event is used to control laser speed for a group of lights, the `_value` is used as a multiplier to their base rotational velocity.
 
-Als `_value` `0` is, wordt de willekeurige rotatie offset voor elke laser ook gereset, wat er voor zorgt alle roterende lasers perfect in elkaar zitten.
+If `_value` is `0`, the random rotation offset for each laser will also be reset, causing all rotating lasers to line up perfectly.
 
 
 
 ##### 360/90 rotatie besturen
 
-Wanneer het evenement dat gebruikt word rotatie in een 360/90 graden level te besturen, word de `_value` gebruikt om rotatie toe te voegen wat gelijk staat aan de volgende tabel:
+When the event is used to control rotation in a 360/90 degree level, the `_value` is used to add rotation equal to the following table:
 
 | `_value` | Resultaat           |
 |:--------:| ------------------- |
@@ -690,14 +701,32 @@ Wanneer het evenement dat gebruikt word rotatie in een 360/90 graden level te be
 
 
 
+#### _floatValue
+
+Depending on the aforementioned [`_type`](#type) of the event, the `_floatValue` of it can do different things.
+
+
+
+##### Controlling Lights
+
+When the event is used to control lights, the `_floatValue` determines the brightness of the light.
+
+
+
+##### Official BPM Changes
+
+:::danger As of Beat Saber `1.18.0`, Official BPM Changes are still not complete. An official mapper has advised against using this event in its current state. ::: When the event is used to control the BPM, the `_floatValue` represents the new BPM. This will also alter the Note Jump Speed proportional to the change in BPM.
+
+
+
 #### _customData
 
-Dit is een optioneel veld dat gegevens bevat die niet gerelateerd zijn aan het officiële Beat Saber level formaat. Als er geen custom data is, dan moet dit object volledig verwijderd worden.
+This is an optional field that contains data unrelated to the official Beat Saber level format. If no custom data exists, this object should be removed entirely.
 
-De exacte specificaties over wat er in `_customData` gaat, ligt er helemaal aan de content dat gemaakt is door de community die het nodig heeft. Daarom kunnen we hier niet alle `_customData` velden vermelden. Je moet je eigen onderzoek doen in de Beat Saber community om level editors, programma's of mods te vinden die dit `_customData` object gebruiken.
+The exact specifics of what goes in `_customData` is entirely dependent on community-created content that needs them. As such, we cannot list all `_customData` fields here. You will have to do your own searching throughout the Beat Saber community to find map editors, tools, or mods that use this `_customData` object.
 
 
 
 ## Bijdragen
 
-De inhoud van deze pagina is geschreven door [Caeden117](./mapping-credits.md#caeden117).
+The content on this page was authored by [Caeden117](./mapping-credits.md#caeden117).

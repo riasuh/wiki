@@ -13,7 +13,10 @@ If you download maps manually from BeatSaver, extract them into a folder and pla
 
 ### Song Management Tools
 
-There are no working song management apps available at this time.
+The following can be used to help you manage custom songs or playlists.
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
 
 ## How do I install playlists?
 

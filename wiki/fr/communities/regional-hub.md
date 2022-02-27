@@ -53,7 +53,7 @@ A community of Korean players :) information sharing and problem solving between
 ### Moyen-Orient
 
 #### Beat Saber Middle East
-Un Discord privé pour les joueurs Beat Saber du ou au Moyen-Orient.
+Un Discord privé pour les joueurs Beat Saber du ou au Moyen-Orient
 
 [Formulaire d'inscription](http://bit.ly/BSME_Application)
 
@@ -73,7 +73,7 @@ Discord Beat Saber autrichien non officiel que vient récemment d'ouvrir ses por
 ### Belgique
 
 #### Belgian Beat Saber Community
-Communauté Beat Saber belge officielle (privée) pour tout joueur de Beat Saber confrère belge.
+Communauté Beat Saber belge officielle (privée) pour tout joueur de Beat Saber confrère belge
 
 [Formulaire d'inscription](https://forms.gle/26VXi4HmnZnDoPZN7)
 
@@ -82,9 +82,9 @@ Communauté Beat Saber belge officielle (privée) pour tout joueur de Beat Saber
 ### Danemark
 
 #### Dane Saber
-Serveur Beat Saber officiel pour celles et ceux qui savent prononcer "rød grød med fløde" !
+Official Beat Saber server for people that can pronounce "rød grød med fløde"! International players welcome too!
 
-[Formulaire d'inscription](https://forms.gle/AhgBFSK7RnRDDMHa9)
+[Discord](https://discord.gg/QNzRMukPSP)
 
 ---
 
@@ -109,9 +109,9 @@ Discord server for the French Beat Saber community.
 ### Germany
 
 #### German Beat Saber Community
-Official German Beat Saber Discord for German players, but people from other countries are also welcome :)
+German Beat Saber Community, JOIN US NOW! We have Magician! 😎
 
-[Discord](https://discord.gg/y4G6ruN)
+[Discord](https://discord.gg/NkYn6tkvMh)
 
 ---
 
@@ -124,12 +124,12 @@ A chill and accessible place for Italian players to hang around and meet each ot
 
 ---
 
-### The Netherlands
+### Russia
 
-#### Dutch Beat Saber Group
-The Dutch Beat Saber Group, featuring multiplayer rooms, movie nights, VRC nights, and more! Compare your ScoreSaber profile with other players using their custom BeatSaber Bot.
+#### Beato Saba
+Community for Russian speaking players
 
-[Discord](https://discord.gg/sDa7xrE)
+[Discord](https://discord.gg/5JXRY8z)
 
 ---
 
@@ -149,6 +149,15 @@ We're the people who has fika with kanelbulle, and sometimes köttbullar...
 The official Swedish discord, right here!
 
 [Discord](https://discord.gg/9HavEGBzZz)
+
+---
+
+### The Netherlands
+
+#### Dutch Beat Saber Group
+The Dutch Beat Saber Group, featuring multiplayer rooms, movie nights, VRC nights, and more! Compare your ScoreSaber profile with other players using their custom BeatSaber Bot.
+
+[Discord](https://discord.gg/sDa7xrE)
 
 ---
 

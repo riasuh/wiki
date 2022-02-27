@@ -30,7 +30,7 @@ Every editor is unique in both their setup and support for Mapping Extensions (M
   * [Setup with Beat Saber Installed on your PC](#me-setup-for-mma2-with-beat-saber-installed)
   * [Setup without Beat Saber Installed on your PC](#me-setup-for-mma2-without-beat-saber-installed) (e.g., Quest Users)
 * [Beatmapper](https://beatmapper.app/docs/mods#mapping-extensions)
-* **ChroMapper** Instructions Coming Soon!
+* [ChroMapper](https://chromapper.atlassian.net/wiki/spaces/UG/pages/4685907/Extended+Mapping)
 
 #### ME setup for MMA2 with Beat Saber Installed
 
@@ -191,6 +191,8 @@ While you could playtest your map ingame every time you make changes, this will 
 ## Extended Characteristics
 These characteristics (with the exception of 360°/90° mode) take you beyond official characteristics like OneSaber or NoArrows. Not all editors have the same capabilities. You may need to manually insert characteristic data in the `Info.dat` file.
 
+You may find the [Map Format Page](./map-format.md) page to be useful in this process.
+
 ### To Add a New Characteristic
 
 1. Create your new difficulty file in your favorite editor.
@@ -268,10 +270,16 @@ The chevron in the 360° [Glass Desert environment](./basic-lighting.md#environm
 ### Editing 360°/90° Maps
 There are multiple ways to map for 360°/90° mode. The following sections cover some pros and cons of each method:
 
-1. [Official Level Editor](#official-level-editor) (in-game)
-2. [Mediocre Map Assistant 2](#mediocre-map-assistant-2)
-3. [ChroMapper](#chromapper) (in closed beta)
+1. [ChroMapper](#chromapper)
+2. [Official Level Editor](#official-level-editor) (in-game)
+3. [Mediocre Map Assistant 2](#mediocre-map-assistant-2)
 4. [JSON/DAT Editing](#json-dat-editing)
+
+#### ChroMapper
+ChroMapper, now in open Beta, natively supports 360°/90° mapping. See detailed support for extended mapping on the [ChroMapper Wiki](https://chromapper.atlassian.net/wiki/spaces/UG/pages/4685907/Extended+Mapping)
+
+* **Pro:** Natively supports 360°/90° mapping
+* **Pro:** Better visualisation of 360°/90° mapping.
 
 #### Official Level Editor
 The official editor is accessible to all PCVR users to natively map 360°/90° levels with the least amount of touching individual map files.
@@ -311,12 +319,6 @@ To manually replace the values, open the difficulty file in any text editor and 
 
 ::: danger  
 Do not open a 360°/90° map containing event type 14 in MMA2 as it converts the value into BPM changes, which end up crashing the program or triggering weird behavior. :::
-
-#### ChroMapper
-
-* **Pro:** Natively supports 360°/90° mapping
-* **Pro:** Better visualisation of 360°/90° mapping.
-* **Con:** In closed beta and not openly available yet.
 
 #### JSON/DAT Editing
 If you’re feeling adventurous, rotation events can be manually edited into your `difficulty.dat` files. Just like with lighting events, this has to be sorted by time; otherwise the level will be broken. Use **+1 Rabbit’s** [Note Sorter](https://skystudioapps.com/mapping-tools#note-sorter) to fix your map before uploading.

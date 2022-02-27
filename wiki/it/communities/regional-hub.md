@@ -82,9 +82,9 @@ Community ufficiale (privata) belga di Beat Saber per i nostri colleghi belgi, g
 ### Danimarca
 
 #### Dane Saber
-Server ufficiale di Beat Saber per persone che sanno pronunciare "rød grød med fløde"!
+Official Beat Saber server for people that can pronounce "rød grød med fløde"! International players welcome too!
 
-[Modulo di domanda](https://forms.gle/AhgBFSK7RnRDDMHa9)
+[Discord](https://discord.gg/QNzRMukPSP)
 
 ---
 
@@ -109,9 +109,9 @@ Server Discord per la community francese di Beat Saber.
 ### Germania
 
 #### German Beat Saber Community
-Discord tedesco ufficiale di Beat Saber, ma sono benvenute anche persone di altri paesi :)
+German Beat Saber Community, JOIN US NOW! We have Magician! 😎
 
-[Discord](https://discord.gg/y4G6ruN)
+[Discord](https://discord.gg/NkYn6tkvMh)
 
 ---
 
@@ -124,12 +124,12 @@ Un luogo rilassante e accessibile dove i giocatori italiani possano ritrovarsi e
 
 ---
 
-### Paesi Bassi
+### Russia
 
-#### Dutch Beat Saber Group
-Il Gruppo olandese di Beat Saber, con sale multigiocatore, serate cinema, serate VCR e altro! Confronta il tuo profilo di ScoreSaber con altri giocatori usando il loro Bot di BeatSaber personalizzato.
+#### Beato Saba
+Community for Russian speaking players
 
-[Discord](https://discord.gg/sDa7xrE)
+[Discord](https://discord.gg/5JXRY8z)
 
 ---
 
@@ -149,6 +149,15 @@ Siamo la gente con fika con kanelbulle e talvolta köttbullar...
 Il Discord ufficiale svedese, proprio qui!
 
 [Discord](https://discord.gg/9HavEGBzZz)
+
+---
+
+### The Netherlands
+
+#### Dutch Beat Saber Group
+The Dutch Beat Saber Group, featuring multiplayer rooms, movie nights, VRC nights, and more! Compare your ScoreSaber profile with other players using their custom BeatSaber Bot.
+
+[Discord](https://discord.gg/sDa7xrE)
 
 ---
 

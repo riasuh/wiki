@@ -8,10 +8,10 @@ Geralmente, existem várias maneiras de realizar a mesma ação, no entanto, as 
 
 ::: warning NOTA
 
-* These are the default keybinds which may change at any time. Some editors may also allow you to change the keybinds.
-* You can find more info on Beatmapper's keybinds [here](https://beatmapper.app/docs/keyboard-shortcuts). There are some actions that are very specific to Beatmapper that may not be noted on this page. :::
+* Estes são as keybinds padrões que podem mudar a qualquer momento. Alguns editores também podem permitir que você altere as keybinds.
+* Você pode encontrar mais informações sobre as teclas do Beatmapper [aqui](https://beatmapper.app/docs/keyboard-shortcuts). Há algumas ações muito específicas para o Beatmapper que não podem ser anotadas nesta página. :::
 
-If this format doesn't work for you, this [Google Sheet](https://docs.google.com/spreadsheets/d/1iZLs80IH-KXeXE3NcNQA5kcc591XgAT-BUK6vZXcPAs/edit?usp=sharing), which this wiki page is based off of, is also available but is slightly out of date.
+Se esse formato não funcionar para você, esse [google spreadsheet](https://docs.google.com/spreadsheets/d/1iZLs80IH-KXeXE3NcNQA5kcc591XgAT-BUK6vZXcPAs/edit?usp=sharing), no qual essa página da wiki se baseia, está também disponivel mas um pouco desatualizada.
 
 ## Teclas Gerais
 
@@ -28,33 +28,33 @@ If this format doesn't work for you, this [Google Sheet](https://docs.google.com
 | Salvar o mapa              |           Crtl+S            |   N/A (Autosaves)   |           Crtl+S            |
 
 ### Seção de Elemento
-|                         | Mediocre Map Assistant 2 |    Beatmapper    |               ChroMapper                |
-| ----------------------- |:------------------------:|:----------------:|:---------------------------------------:|
-| Selecionar item         |       Shift+LClick       |      LClick      |              Shift+LClick               |
-| Selecionar varios itens |   Ctrl+LClick ⇒ Scroll   | Q ⇒ Fill in info | Ctrl/Alt+LClick or Ctrl+LClick ⇒ Scroll |
-| Deselecionar            |     Ctrl+A or Ctrl+D     |      LClick      |                 Ctrl+A                  |
+|                         | Mediocre Map Assistant 2 |        Beatmapper        |                        ChroMapper                         |
+| ----------------------- |:------------------------:|:------------------------:|:---------------------------------------------------------:|
+| Selecionar item         |       Shift+LClick       |          LClick          |                       Shift+LClick                        |
+| Selecionar varios itens |   Ctrl+LClick ⇒ Scroll   | Q ⇒ Preencher informação | Ctrl/Alt+Clique Esquerdo or Ctrl+Clique Esquerdo ⇒ Scroll |
+| Deselecionar            |     Ctrl+A or Ctrl+D     |          LClick          |                          Ctrl+A                           |
 
 ### Editar notas
-|                     |         Mediocre Map Assistant 2         |       Beatmapper       |         ChroMapper         |
-| ------------------- |:----------------------------------------:|:----------------------:|:--------------------------:|
-| Recortar            |                  Ctrl+X                  |         Ctrl+X         |           Ctrl+X           |
-| Copiar              |                  Ctrl+C                  |         Ctrl+C         |           Ctrl+C           |
-| Colar               |                  Ctrl+V                  |         Ctrl+V         |           Ctrl+V           |
-| Desfazer            |                  Ctrl+Z                  |         Ctrl+Z         |           Ctrl+Z           |
-| Refazer             |               Ctrl+Shift+Z               |      Ctrl+Shift+Z      |   Ctrl+Shift+Z ou Ctrl+Y   |
-| Deletar Rapidamente |            Shift+Middle Mouse            |      Right Click       |     Shift+Middle Mouse     |
-| Mover Nota          | Alt+Drag or Select ⇒ Shift+Up/Down Arrow |                        |  Ctrl+Arrows or Alt+Drag   |
-| Ações de Nota       |                                          |       Alt+LClick       |                            |
-| Mudar a Direção     |         Alt+W/A/S/D sobre a Nota         |                        | Alt+Scroll Wheel over Note |
-| Trocar Cor          |          Botão do Meio do Mouse          | Botão do Meio do Mouse |   Botão do Meio do Mouse   |
+|                     |                Mediocre Map Assistant 2                |       Beatmapper       |            ChroMapper            |
+| ------------------- |:------------------------------------------------------:|:----------------------:|:--------------------------------:|
+| Recortar            |                         Ctrl+X                         |         Ctrl+X         |              Ctrl+X              |
+| Copiar              |                         Ctrl+C                         |         Ctrl+C         |              Ctrl+C              |
+| Colar               |                         Ctrl+V                         |         Ctrl+V         |              Ctrl+V              |
+| Desfazer            |                         Ctrl+Z                         |         Ctrl+Z         |              Ctrl+Z              |
+| Refazer             |                      Ctrl+Shift+Z                      |      Ctrl+Shift+Z      |      Ctrl+Shift+Z ou Ctrl+Y      |
+| Deletar Rapidamente |                  Shift+Clique do Meio                  |     Clique direito     |       Shift+Clique do Meio       |
+| Mover Nota          | Alt+Arrastar or Selecionar ⇒ Shift+Seta pra Cima/Baixo |                        |    Crtl+Setas ou Alt+Arrastar    |
+| Ações de Nota       |                                                        |       Alt+LClick       |                                  |
+| Mudar a Direção     |                Alt+W/A/S/D sobre a Nota                |                        | Alt+Roda do Mouse sobre uma Nota |
+| Trocar Cor          |                 Botão do Meio do Mouse                 | Botão do Meio do Mouse |      Botão do Meio do Mouse      |
 
 ### Navegação
-|                     | Mediocre Map Assistant 2 | Beatmapper |      ChroMapper      |
-| ------------------- |:------------------------:|:----------:|:--------------------:|
-| Pular para o beat   |                          |     J      |                      |
-| Bookmark            |            B             |            |          B           |
-| Pular para Bookmark | Previous: `[` Next: `]`  |            | Click on UI Bookmark |
-| Pular para Item     |     Alt+Shift+Click      |            |                      |
+|                     |  Mediocre Map Assistant 2  | Beatmapper |        ChroMapper        |
+| ------------------- |:--------------------------:|:----------:|:------------------------:|
+| Pular para o beat   |                            |     J      |                          |
+| Bookmark            |             B              |            |            B             |
+| Pular para Bookmark | Anterior: `[` Próximo: `]` |            | Clique no Bookmark da UI |
+| Pular para Item     |      Alt+Shift+Click       |            |                          |
 
 ### Truques úteis
 |                           | Mediocre Map Assistant 2 | Beatmapper | ChroMapper |
@@ -65,16 +65,16 @@ If this format doesn't work for you, this [Google Sheet](https://docs.google.com
 | Resetar a camera          |        Backspace         | Backspace  |            |
 
 ### Mapping Extensions
-|                   | Mediocre Map Assistant 2 | Beatmapper |       ChroMapper       |
-| ----------------- |:------------------------:|:----------:|:----------------------:|
-| Swap to fake wall |  Crtl+F sobre a parede   |            | Middle Click over Wall |
-| Rotate note       |   Alt+Scroll over note   |            |  Alt+Scroll over note  |
+|                          | Mediocre Map Assistant 2  | Beatmapper |           ChroMapper            |
+| ------------------------ |:-------------------------:|:----------:|:-------------------------------:|
+| Trocar para falsa parede |   Crtl+F sobre a parede   |            | Clique do Meio sobre uma Parede |
+| Girar nota               | Alt+Scroll sobre uma nota |            |    Alt+Scroll sobre uma nota    |
 
 ### Avançado
-|                     |  Mediocre Map Assistant 2   | Beatmapper | ChroMapper |
-| ------------------- |:---------------------------:|:----------:|:----------:|
-| In-place edit       | Alt+ Botão direito do mouse |            |            |
-| Editar bloco de BPM |  Alt+Click over BPM block   |            |            |
+|                     |         Mediocre Map Assistant 2         | Beatmapper | ChroMapper |
+| ------------------- |:----------------------------------------:|:----------:|:----------:|
+| Editar no local     |       Alt+ Botão direito do mouse        |            |            |
+| Editar bloco de BPM | Alt+Clique esquerdo sobre o bloco de BPM |            |            |
 
 ## Teclas de Lighting
 
@@ -88,7 +88,7 @@ If this format doesn't work for you, this [Google Sheet](https://docs.google.com
 | Off                    |            D             |                2                |     S      |
 | Editar                 |                          |                A                |            |
 
-See [General Keybinds: Basic](#basic) for changing edit precision and [Element Selection](#element-selection) on how to select items.
+Veja [Keybinds Gerais: Básico](#basic) para alterar a precisão de edição e [Seleção de Elementos](#element-selection) sobre como selecionar itens.
 
 ### Navegação
 |                   | Mediocre Map Assistant 2 | Beatmapper | ChroMapper |
@@ -96,24 +96,24 @@ See [General Keybinds: Basic](#basic) for changing edit precision and [Element S
 | Pular para o beat |                          |     J      |            |
 
 ### Lighting Avançada
-|                           |  Mediocre Map Assistant 2   | Beatmapper |                ChroMapper                 |
-| ------------------------- |:---------------------------:|:----------:|:-----------------------------------------:|
-| Strobe                    |           W/A/D+S           |            | See [Strobe Generator](#strobe-generator) |
-| Loop                      |                             |     L      |                                           |
-| Mudar velocidade do laser | Alt+Scroll over Laser Speed |            |        Alt+Scroll over Laser Speed        |
-| Alterar color strobe      |             F2              |            | See [Strobe Generator](#strobe-generator) |
-| On-off strobe toggle      |             F3              |            | See [Strobe Generator](#strobe-generator) |
+|                           |   Mediocre Map Assistant 2   | Beatmapper |                  ChroMapper                  |
+| ------------------------- |:----------------------------:|:----------:|:--------------------------------------------:|
+| Strobe                    |           W/A/D+S            |            | Olhe o [Strobe Generator](#strobe-generator) |
+| Loop                      |                              |     L      |                                              |
+| Mudar velocidade do laser | Alt+Scroll sobre Laser Speed |            |         Alt+Scroll sobre Laser Speed         |
+| Alterar color strobe      |              F2              |            | Olhe o [Strobe Generator](#strobe-generator) |
+| On-off strobe toggle      |              F3              |            | Olhe o [Strobe Generator](#strobe-generator) |
 
 ### Chroma
-|                 | Mediocre Map Assistant 2 | Beatmapper |        ChroMapper        |
-| --------------- |:------------------------:|:----------:|:------------------------:|
-| Nota Magenta    |            Q             |            |                          |
-| Nota Verde      |            E             |            |                          |
-| Nota Cinza      |            R             |            |                          |
-| Abrir cores RGB |         Shift+C          |            |                          |
-| Salvar cor      |   Right Click palette    |            |  Left Click "+" Button   |
-| Usar cor        |    Left Click palette    |            |    Left Click Palette    |
-| Remover cor     |                          |            | Shift+Left Click Palette |
+|                 | Mediocre Map Assistant 2  | Beatmapper |           ChroMapper           |
+| --------------- |:-------------------------:|:----------:|:------------------------------:|
+| Nota Magenta    |             Q             |            |                                |
+| Nota Verde      |             E             |            |                                |
+| Nota Cinza      |             R             |            |                                |
+| Abrir cores RGB |          Shift+C          |            |                                |
+| Salvar cor      | Clique Direito na Paleta  |            |  Clique Esquerdo no Botão "+"  |
+| Usar cor        | Clique Esquerdo na Paleta |            |   Clique Esquerdo na Paleta    |
+| Remover cor     |                           |            | Shft+Clique Esquerda na Paleta |
 
 ## Avançado
 
@@ -125,9 +125,9 @@ Uma ferramenta avançada que permite gerar facilmente um strobe ou Chroma gradie
 ![Strobe Generator Window](~@images/mapping/cm_strobeGenerator.png)
 
 #### Node Editor
-An advanced tool that allows you to view and edit a selected object as it will appear in the exported map data file. You can manually edit each and every map object, allowing for a degree of control no other editor has. Essentially an easier way to JSON edit your map.
+Uma ferramenta avançada que permite visualizar e editar um objeto selecionado, como ele aparecerá no arquivo de dados do mapa exportado. Você pode editar manualmente cada objeto de mapa, permitindo um grau de controle que nenhum outro editor possui. Essencialmente uma maneira mais fácil para editar seu mapa em JSON.
 
 ![Node Editor Window](~@images/mapping/cm_nodeEditor.png)
 
 ## Créditos
-Content in this section was authored by [The Good Boi](./mapping-credits.md#the-good-boi), [Caeden117](./mapping-credits.md#caeden117), and [Bloodcloak](./mapping-credits.md#bloodcloak). Idea by [Helen Carnate](./mapping-credits.md#helen-carnate).
+O conteúdo dessa seção foi criado por [The Good Boi](./mapping-credits.md#the-good-boi), [Caeden117](./mapping-credits.md#caeden117), e [Bloodcloak](./mapping-credits.md#bloodcloak). Ideia por [Helen Carnate](./mapping-credits.md#helen-carnate).

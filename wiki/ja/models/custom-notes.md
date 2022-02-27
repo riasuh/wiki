@@ -11,18 +11,18 @@
 [ModelSaber](https://modelsaber.com/Bloqs/)からノーツをダウンロードできます。
 
 ### Quest版ノーツ
-Custom Notes for Quest are provided by the Qosmetics mod. The latest version can be found in the [#quest-mods channel](https://discord.gg/beatsabermods) in the BSMG discord. Notes are called `qbloqs` and are currently hosted in the [Qosmetics Community Discord](https://discord.gg/qosmetics).
+Quest用のノーツはQosmetics modを使って利用できます。 最新バージョンは BSMG discord内の [#quest-mods チャンネル](https://discord.gg/beatsabermods) にあります。 ノーツは `qbloqs` と呼ばれ、現在 [Qosmetics Community Discord](https://discord.gg/qosmetics) でホストされています。
 
-## Usage
+## 使い方
 
-### PC Users
-Inside the game in the main menu you will see on the left a `CUSTOM NOTES` button under the `Mods` section. Pressing it will open up the menu you can use to select which notes you want to use.
+### PCユーザー
+ゲームのメインメニューの左側の`Mods`タブの`CUSTOM NOTES`ボタンが表示されます。 それを押すと、ノーツを選択するメニューが開きます。
 
-### Quest Users
-Upload the `.qbloq` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which note is active from the Qosmetics menu in-game.
+### Questユーザー
+[BMBF Web Interface](/quest-modding.md#installing-mods)を利用して`.qbloq`ファイルをQuestにアップロードします。 ゲーム内でQosmetics menuからどのノーツを有効にするかを選択します。
 
-## Creating Custom Notes
+## カスタムノーツの作成
 
-[Bobbie's Bloq Guide](./notes-guide.md) is a good resource for creating custom notes from an existing model.
+[Bobbie の Bloq Guide](./notes-guide.md) は、既存のモデルからカスタムノーツを作成するための優れたガイドです。
 
-Note that this guide does not cover 3D modeling the notes. For that, we recommend looking up some tutorials on [Blender](https://www.blender.org/)!
+このガイドはノーツのモデリングについては説明していません。 モデリングについては[Blender](https://www.blender.org/)などのチュートリアルを参照してください。

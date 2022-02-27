@@ -46,14 +46,15 @@ Zijn geschreven handleidingen niet jouw ding? Bekijk deze videoseries!
 
 #### Aanbevolen
 
-* [Helen Carnate's Mapping Tutorial](https://www.youtube.com/watch?v=6O3sXmh-kAA) - Een 17 minuten lange gids over hoe je begint met het maken van levels!
-* [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - een uitgebreide lessen serie over het maken van jouw eerste level.
-* [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) - dekt de meest voorkomende problemen die besproken worden in [Basic Mapping](./basic-mapping.md).
-* [TranquillizeMe's Beat Saber Lighting Techniques Tutorial](https://www.youtube.com/watch?v=EDbPRN_u3jc) - dekt verschillende verlichtingstechnieken en algemene tips.
+* [Helen Carnate's Mapping Tutorial](https://www.youtube.com/watch?v=6O3sXmh-kAA) - A 17 minute guide to get started mapping using Mediocre Map Assistant 2!
+* [Fruhead's Beginners Guide to Mapping](https://www.youtube.com/playlist?list=PL5F3WJ0s0nscdpqiWlOpM_4tJcF-CnWbm) - A comprehensive lecture series on making your first map using Mediocre Map Assistant 2.
+* [ChroMapper Editor Guide](https://youtube.com/playlist?list=PLS0PknCDCujE3Tf1pkbkA_uUijkV6v52y) - A series of videos on how to use the core features of the ChroMapper Editor.
+* [Cyrix's Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw) - Covers the most common issues discussed in [Basic Mapping](./basic-mapping.md).
+* [TranquillizeMe's Beat Saber Lighting Techniques Tutorial](https://www.youtube.com/watch?v=EDbPRN_u3jc) - Covers various lighting techniques and general lighting tips.
 
 :::warning Tutorials op deze pagina zijn goedgekeurd door BSMG. Andere video tutorials kunnen nauwkeurige of actuele informatie bevatten, maar moeten op eigen risico worden gevolgd.
 
-Als je wilt zien of jouw tutorial hier kan worden weergegeven, neem dan [contact met ons op](http://bit.ly/MessageBSMG). :::
+If you would like to see if your tutorial can be listed here, please [contact us](https://bsmg.dev/contact). :::
 
 #### Oude video's
 ::: warning Deze series gebruiken oudere editors in hun video totorials (Mediocre Mapper and EditSaber). De UI en sommige processen zijn veranderd in de laatst aanbevolen editor, [MMA2](./mediocre-map-assistant.md) maar de rest van de inhoud is geweldig! :::
@@ -75,43 +76,48 @@ Een dieper duik in het aanpassen van audiobestanden zoals kortere versies maken 
 ### Community editors
 ::: warning Community editors hebben vaak meer functies en hebben geen VR headset nodig, maar er kunnen ook bugs zijn, dus gebruik ze met dit in gedachten. :::: Toetsenbord snelkoppelingen voor deze editors zijn beschikbaar binnen hun respectievelijke in-editor menu's, met een kruisverwijzing tussen alle editors, die [hier](./editor-keybinds.md) beschikbaar zijn.
 
-#### Mediocre Map Assistant 2
-MMA2 is de meest feature rijke 3D-editor en wordt gebruikt door de meerderheid van de level makers community.
+#### ChroMapper
+**Now in open beta!** A 3D editor that has stellar support for lighting, Chroma, Noodle Extensions, 360/90 mapping, and shares similar assets with Beat Saber, allowing for a more accurate preview. By FAR the most feature-rich editor available to the community.
 
-* [Mediocre Map Assistant 2 download.](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
-* [Mediocre Map Assistant 2 gebruikershandleiding.](./mediocre-map-assistant.md)
+Joining the [ChroMapper Discord](https://discord.gg/wFjZt4z) is encouraged to access plugins, scripts, and application support (mapping support is available in BSMG).
+
+* [ChroMapper Launcher Download](https://cm.topc.at/dl)
+* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki)
+
+#### Mediocre Map Assistant 2
+MMA2 was used by the majority of the mapping community until the ChroMapper open beta.
+
+* [Mediocre Map Assistant 2 Download](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
+* [Mediocre Map Assistant 2 User Guide](./mediocre-map-assistant.md)
 
 #### Beatmapper.app
-Een 3D-editor die in de browser draait, waardoor iedereen levels kan maken met een webbrowser. Het werkt het beste voor het maken van standaard levels zonder extensies, maar er worden nieuwe functies toegevoegd.
+A 3D editor that runs in the browser, allowing anyone with a web browser to map. It works best for standard mapping without any extensions, but new features are being added.
 
-* [Beatmapper website.](https://beatmapper.app/)
-* [Beatmapper gebruikershandleiding.](https://beatmapper.app/docs/manual/getting-started)
+* [Beatmapper Website](https://beatmapper.app/)
+* [Beatmapper User Manual](https://beatmapper.app/docs/manual/getting-started)
 
-#### ChroMapper - *Binnenkort*
-Een 3D-editor met een geweldige ondersteuning voor verlichting, Chroma RGB en soortgelijke modellen deelt met Beat Saber, wat een nauwkeuriger voorbeeld mogelijk maakt. ChroMapper is momenteel in een gesloten beta zonder geplande publieke releasedatum.
-
-::: tip geïnteresseerd in het maken van jouw eigen editor of converter? Misschien vind je de [Map Formaat Pagina](./map-format.md) en de [SongCore Readme](https://github.com/Kylemc1413/SongCore/blob/master/README.md) handig! :::
+::: tip Interested in making your own editor or converter? You may find the [Map Format Page](./map-format.md) and the [SongCore Readme](https://github.com/Kylemc1413/SongCore/blob/master/README.md) helpful! :::
 
 ### Officiële editor
-De officiële editor is ontwikkeld en ondersteund door Beat Games en vooraf geïnstalleerd met de Steam VR of Oculus PC versies van Beat Saber. Het maakt het testen van je level gemakkelijk door met één klik toegang tot je werk-in-progress level te krijgen. De officiële editor is 2D en vereist een goed ruimtelijk inzicht om dat te vertalen naar een 3D speelruimte, wat uitdagend kan zijn voor nieuwe level makers. De overgrote meerderheid van de level makers maakt gebruik van een [Community Editor](#community-editors).
+The official editor is developed and supported by Beat Games and pre-installed with the Steam VR or Oculus PC versions of Beat Saber. It makes playtesting convenient with one-click access to your work-in-progress in-game. The official editor is 2D and requires good visualization skills to translate well to a 3D play space, which can be challenging for new mappers. The vast majority of mappers use a [Community Editor](#community-editors).
 
-* Om toegang te krijgen tot de editor start je deze vanuit Beat Saber in jouw HMD of gebruik het fpfc opstart argument om het direct te openen vanaf jouw PC.
-* Bekijk Megalons [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM) voor een overview van standaard mapping!
+* To access, launch the editor from within Beat Saber in your HMD or use fpfc launch parameters to open directly from your PC
+* Check out Megalon's [Official Editor Tutorial Video](https://www.youtube.com/watch?v=5Ex6sOEVgrM) for an overview of standard mapping!
 
-Houd de volgende functies in gedachten die de officiële editor niet heeft in vergelijking met de beschikbare [Community editors](#community-editors).
+Keep in mind the following features that official does not have compared to the [Community Editors](#community-editors) available.
 
-* Ongebruikelijke precisie zoals 1/5 en bijbehorende meerderheden.
-* Regelmatige autosave en recovery (editor slaat alleen automatisch op tijdens het testen of opslaan).
-* Flexibele massa selectie, kopiëren en plakken.
-* Bewerk op plaats (wijzig de richting van blokken zonder deze te hoeven verwijderen).
-* Chroma RGB ondersteuning.
-* Daadwerkelijke audio offset voor synchronisatie. (De parameter in officiële offsets/vertragingen niet alleen van het lied maar ook van hitsounds).
-* Fout Controle.
-* Bijdragers velden.
-* Mapping of Noodle Extensions Support.
+* Uncommon Precision such as 1/5 and associated multiples.
+* Regular autosave and recovery (Editor only autosaves when testing or saving)
+* Flexible mass select, copy, and paste
+* Edit in place (Change the direction of notes without needing to delete)
+* Chroma Support
+* Actual audio offset for syncing. (The parameter in official offsets/delays not only the song but also hitsounds)
+* Error Checker
+* Contributor Fields
+* Mapping or Noodle Extensions Support
 
 #### Overschakelen van de officiële editor naar een Community Editor
-Hoewel het is aanbevolen om opnieuw met het instellen te beginnen, volgens de [Quick Start handleidingen](#mapping-quick-start) met een [Community Editor](#community-editors), het is mogelijk om je werk vanuit de officiële editor over te plaatsen.
+Although it is recommended to start setup again following the [Quick Start](#mapping-quick-start) guides with a [Community Editor](#community-editors), it is possible to transfer your work in the Official Editor over.
 
 1. Installeer een [Community Editor](#community-editors).
 2. Zoek je levelbestanden in de `CustomLevels` map van je spel.
@@ -129,196 +135,189 @@ Hoewel het is aanbevolen om opnieuw met het instellen te beginnen, volgens de [Q
         * Je hebt het `.wav` audiobestand in deze map niet meer nodig.
 5. Open de map in de community editor en verander de bestandsnaam van het nummer in `song.ogg` en klik op save.
 
-Je bent nu klaar om door te gaan met het bewerken van je level!
+You are now ready to continue editing your map!
 
-### Extra tools voor het maken van levels
+### Data Loss Prevention and Cloud Storage
+Updating your game may remove all Custom Level data, one way you can prevent complete data loss is with [Symbolic Links!](https://en.wikipedia.org/wiki/Symbolic_link) This allows you to store your maps in a different place on your computer, such as a folder synchronized to the cloud, and mirror them in the game directory. The link created will not delete your maps if it is removed due to updating or uninstalling the game however, recursive deletion will remove your maps.
 
-* [BS Viewer](https://skystudioapps.com/bs-viewer/) van **+1 Rabbit**  
-  Een handige manier om te zien hoe je level er ongeveer uit gaat zien in het spel.
-  * IOS en Safari zijn momenteel niet ondersteund.
-* [+1 Rabbit's Mapping Tools](https://skystudioapps.com/mapping-tools/) van **+1 Rabbit**  
-  Een reeks tools voor level makers wat onder andere bestaat uit:
-  * **Schema Fixer:** gemakkelijk levels repareren die gemaakt zijn in Mediocre Mapper Mk4.1 en Mk5 voor het uploaden op BeatSaver.
-  * **Tempo Changer:** Verander de BPM van een compleet level, en verplaats de blokken aan de hand daarvan.
-  * **Offset Remover:** verwijderd de editor offset en schiet blokken/obstakels/evenementen op veelvoorkomende plaatsingen om het floating point error te verkleinen.
-  * **Note Sorter:** sorteert rommelige blokken/obstakels/evenementen in het level bestand om stack spawning te fixen.
-  * **Copy Timing:** verplaats de blokken van een niveau gebaseerd op een ander in een bepaald tijdvenster. Handig om kleine timing veranderingen te maken over alle niveaus voor specifieke geluiden.
-  * **Copy Lighting:** kopieert alle lichten, met de optie om evenementen mee te nemen of buiten te sluiten, van een niveau naar alle andere.
-  * **Map Diff:** vergelijk tussen twee versies van een level. Handig voor testspelers en Ranking Team leden om te zien of er veranderingen zijn gemaakt.
-* [Parity Checker](https://galaxymaster2.github.io/bs-parity/) van **GalaxyMaster**   
-  Een error checker programma dat zich richt op het vinden van problemen met parity in een level.
-* [Map Check](https://kivalevan.github.io/BeatSaber-MapCheck/) van **Kival Evan**   
-  Een error checker programma wat veel uitgebreider is dan de gene die in MMA2 te vinden is.
-* [BeatMapper Tools](https://mappers.beatmappertools.com/) van **Darkuni**   
-  Een hulpmiddel voor gebruikers van Mediocre Mapper en Mediocre Map Assistant 2 om gemakkelijk te testen, een zip te maken van hun bestanden en om bestanden te veranderen.
-* [noodleLister](https://github.com/bloodcloak/noodleLister#readme) van **Bloodcloak**   
-  Gemakkelijk een playlist bestand maken vanuit een .txt bestand wat BeatSaber level keys erin heeft.
-* [BeatMerge](https://github.com/ZelonGames/BeatMerge#readme) van **DarkGrisen**   
-  Ooit gedacht dat het veel en vervelend werk is om grote levels te maken met meerdere mensen, of het audiobestand perfect knippen om het later handmatig samen te kunnen voegen? Dit hulpprogramma stelt je in staat twee of meer levels samen te voegen in één super lang level.
-* [Cinder](https://github.com/zhaey/cinder#readme) van **zhaey**   
-  Een python programma dat stepmania `.sm` bestanden veranderd naar `.dat` bestanden voor Beat Saber om te helpen met het timen van blokken.
+Using a cloud storage folder is useful if you jump between multiple computers or extra security for your files in case of storage disk corruption.
+
+The following instructions are for Windows 10 and 11.
+
+1. Move the current levels folder over to your new location. (`Ctrl + x` the folder instead of `Ctrl + c`)
+   * If this is a cloud location make sure to set the folder to be available offline!
+2. Open command prompt
+3. Run this command adjusting the parameters to match your situation.  
+   `mklink /j "Path to Beat Saber Install folder" "Path to New Location"`
+    * Heres an example command:  
+      `mklink /j "C:\Program Files (x86)\Steam\steamapps\common\Beat Saber\Beat Saber_Data\CustomLevels" "C:\Users\cmb\CloudStorage\CustomLevels"`
+
+If it's on a network drive, replace `/j` with `/D`. Note that you will need to open command prompt as administrator for this to succeed.
+
+### Additional Mapping Tools
+
+* [BS Viewer](https://skystudioapps.com/bs-viewer/) by **+1 Rabbit**  
+  A convenient way to see how your map might look in game without the game.
+* [+1 Rabbit's Mapping Tools](https://skystudioapps.com/mapping-tools/) by **+1 Rabbit**  
+  A suite of tools for mappers that includes:
+  * **Schema Fixer:** Easily fix maps made in Mediocre Mapper Mk4.1 and Mk5 for upload to BeatSaver.
+  * **Tempo Changer:** Change the BPM of an entire map and shift block placements accordingly.
+  * **Offset Remover:** Removes editor offset and snaps notes/obstacles/events to common precisions to try and mitigate floating point error.
+  * **Note Sorter:** Sorts unordered notes/obstacles/events in the map file to fix stack spawning.
+  * **Copy Timing:** Moves notes in one difficulty based on another within a certain window. Useful to apply small timing changes across all difficulties for specific sounds.
+  * **Copy Lighting:** Copies all of the lights, with the option to include/exclude custom events from one difficulty to all other difficulties.
+  * **Map Diff:** Compare between two versions of a map. Useful for testplayers and Ranking Team members to see if any changes were made.
+* [Parity Checker](https://galaxymaster2.github.io/bs-parity/) by **GalaxyMaster**  
+  An error checker tool that focuses on finding issues with parity in a map.
+* [Map Check](https://kivalevan.github.io/BeatSaber-MapCheck/) by **Kival Evan**  
+  An error checker tool that is much more versatile than the one built into MMA2.
+* [noodleLister](https://github.com/bloodcloak/noodleLister#readme) by **Bloodcloak**  
+  Easily compile a game playlist from a txt file containing BeatSaver map keys.
 
 #### Oudere programma's
+These tools may no longer be supported, compatible with the latest software, or relevant with current practices, but could still fulfill a niche use case.
 
-* [BPM Saber](https://github.com/zevdg/bpm-saber#readme) van **Zevdg**  
-  **Werkt alleen maar op oude .json bestandstypen. Voor het .dat bestandstype, moet je de Tempo Changer in +1 Rabbit's Mapping Tools gebruiken.** Verander de BPM van een compleet level, en verplaats de blokken aan de hand daarvan.
-* [BPM Saber](https://bsaber.com/bpmsaber/) van **Elliotttate**  
-  Een hulpmiddel om de BPM van een nummer te vinden door te uploaden of zelf te tikken.
-* [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t) van **Fayhe**   
-  Video gids over het gebruik van het timing functie van de osu! editor om de BPM van een level te finden.
+* [BeatMerge](https://github.com/ZelonGames/BeatMerge#readme) by **DarkGrisen**  
+  Ever thought that it is a lot of annoying work to make big maps with other people or to perfectly cut the audio files so you can merge them manually later? This tool allows you to merge two or more maps into one single super long map.
+* [Cinder](https://github.com/zhaey/cinder#readme) by **zhaey**  
+  Python program that converts stepmania `.sm` files to Beat Saber `.dat` files for timing notes.
+* [BeatMapper Tools](https://beatmappertools.com/) by **Darkuni**  
+  A utility for users of Mediocre Mapper and Mediocre Map Assistant 2 to easily convert, test, and package their maps.
+* [osu! Editor Timing Tutorial](https://www.youtube.com/watch?v=nIX0koHzW8c&t) by **Fayhe**  
+  Video guide on using the timing feature of osu!'s editor to find map bpm.
 
-### Handige Mods
-Hier zijn enkele mods die het mogelijk voor jouw makkelijker kunnen maken om aan levels te werken.
+### Useful Mods
+Here are some mods that might make your mapping workflow a little easier.
 
-* [SiraUtil](./basic-lighting.md#in-game-with-fpfc) van **auros**   
-  Met de First Person Flying Controller (FPFC) start parameter kan je het spel terwijl je een level speelt met je toetsenbord en muis besturen zonder een bril te gebruiken. Zie de sectie in [Basis verlichting](./basic-lighting.md#in-game-with-fpfc) voor de link naar de mod en hoe je het moet instellen.
-* [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) van **Kyle1413**   
-  Een mod voor Beat Saber om de afspeelsnelheid te beheren, door nummers zoeken en het maken van herhalende secties. Installeer de nieuwste versie met [Mod Assistant](https://github.com/Assistant/ModAssistant#readme)!
-* [ReLoader](https://github.com/Kylemc1413/ReLoader) van **Kyle1413**   
-  Staat je er toe om levels te "hot reloaden" terwijl je in oefenmodes zit, zonder terug te hoeven gaan naar het menu. Heel handig voor het maken van levels met veel muren.
+* [SiraUtil](./basic-lighting.md#in-game-with-fpfc) by **auros**  
+  With the First Person Flying Controller (FPFC) launch parameter, this allows you to control the game while a map is playing with your keyboard and mouse without using a headset. See the section in [Basic Lighting](./basic-lighting.md#in-game-with-fpfc) for links to the mods and how to set it up.
+* [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) by **Kyle1413**  
+  Mod for Beat Saber to control playback speed, seek through songs and set up looping sections. Install the latest version from [Mod Assistant](https://github.com/Assistant/ModAssistant#readme)!
+* [ReLoader](https://github.com/Kylemc1413/ReLoader) by **Kyle1413**  
+  Allows you to hot reload beatmaps in practice mode without needing to return to the menu to refresh. Really convenient for wall mapping.
 
 ## Mapping praktijken
 > "Je moet de regels kennen voordat je ze kan breken."   
 > \- Uninstaller
 
-Er is geen heilige bijbel voor het maken van levels, maar dit deel van de wiki bevat veel kennis van de community over beste praktijken op alle niveaus voor het maken van levels. Ons advies is om deze regels te volgen totdat je vertrouwd bent met je vaardigheden en dán creatief, experimenteel en innovatief denken!
+There is no holy bible of mapping but this section of the wiki includes a lot of tribal knowledge from the community on best practices at all levels of mapping. Our advice is to follow these rules until you're comfortable with your skills and then get creative, experiment, and innovate!
 
-### [**Beginners mapping**](./basic-mapping.md)
-Alle nieuwe level makers moeten dit lezen, er zijn **geen uitzonderingen!**
+### [**Basic Mapping**](./basic-mapping.md)
+All new mappers need to read this, **no exceptions!**
 
-### [**Intermediaire mapping**](./intermediate-mapping.md)
-Een betere kijk op de vele tools voor het maken van levels **(Er word nog steeds aan deze pagina gewerkt!)**
+### [**Intermediate Mapping**](./intermediate-mapping.md)
+A more in-depth look at many mapping topics
 
-### [**Geavanceerde mapping**](./extended-mapping.md)
-Mapping Extensions, extra karakteristieken, en 360&deg;/90&deg; mapping.
+### [**Downmapping**](./downmapping.md)
+A comprehensive guide to making lower difficulties.
 
-### Mapper rollen
-Om de rol **Mapper** te krijgen op [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) moet je drie goede / speelbare levels hebben gemaakt en uitgegeven (samenwerkingen zijn acceptabel) en het [Mapper Role Submission Form](https://forms.gle/mj66J3UopTykFJjXA) hebben voltooid. Jouw aanvraag en levels kunnen een behoorlijke hoeveelheid tijd in beslag nemen om te worden beoordeeld en goedgekeurd.
+### [**Extended Mapping**](./extended-mapping.md)
+Mapping Extensions, Extra Characteristics, and 360&deg;/90&deg; mapping
+
+### Mapper Roles
+To apply for the **Mapper** role on the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) you must have released three solid/playable maps (collaborations are acceptable) and complete the [Mapper Role Submission Form](https://forms.gle/mj66J3UopTykFJjXA). Your application and maps may take a decent amount of time to be reviewed and approved.
+
+### Curation
+Mappers can submit high quality maps, free of [objective issues](https://bsaber.com/getting-started/curation/#donts) to the #curation-request channel on the [BeastSaber Discord](https://discord.gg/VJZHUbt). Maps selected for curation are given extra visibility on the site and included in the Curator Recommended feed.
 
 ### Modding & Ranking
-Levels die voldoen aan specifieke [Ranking Criteria](https://scoresaber.com/criteria) en door een intensief beoordelingsproces genaamd "modding" zijn gegaan hebben het potentieel om gerangschikt te worden, wat spelers prestatiepunten (PP) toe kent aan wereldscoreborden. Meer informatie en een diepgaande FAQ is beschikbaar in de [ScoreSaber Discord](https://discord.gg/WpuDMwU)
+Maps that meet specific [Ranking Criteria](https://scoresaber.com/criteria) and go through an intensive review process called "modding" have the potential to become ranked, awarding players Performance Points (PP) toward global leaderboards. More information and an in-depth FAQ is available on the [ScoreSaber Discord](https://discord.gg/WpuDMwU)
 
-* Voordat je rangschikking aanvraagt moet je grondig de ranking criteria en [metadata standaarden](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) doornemen en je level gemod hebben door een betrouwbare bron.
+* Prior to requesting ranking, mappers should thoroughly review the ranking criteria and [metadata standards](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) and have their map modded by a knowledgeable source.
 
-:::tip Wil je een nog gedetailleerder inzicht? Bekijk de [Ranking Criteria](https://scoresaber.com/criteria) voor een aantal van de meer dubbelzinnige rangschikkingsoverwegingen. :::
+:::tip Want an even more detailed look? Review the [Ranking Criteria](https://scoresaber.com/criteria) for some of the more ambiguous ranking considerations. :::
 
-* Zodra jouw level is gemod en is herzien, is hij klaar om aan een teamlid in het ranking team te worden gepresenteerd om deze te bekijken.
-* Als het ranking team lid een level geschikt vind word deze toegevoegd aan de rangschikkings wachtrij om op gestemd te worden door het volledige ranking team.
+* Once your map has been modded and revised, it’s ready to be presented to a ranking team member or recruit to review.
+* If the ranking team member deems the map acceptable it will be added to the ranking request queue to be voted on by the full ranking team.
+
+### Mapping Anxiety
+If you're finding it difficult to muster up the courage to upload your map, or are finding it emotionally taxing coping with a lack of downloads or a lot of dislikes, you're not alone. Many mappers have experienced these feelings. You can read more about it on the [Coping with Mapping Anxiety](./mapping-anxiety.md) page.
 
 ## Verlichtingspraktijken
-Een level is niet klaar totdat er een of andere vorm van verlichting is inbegrepen. Verlichting kan variëren van zeer eenvoudig tot ongelooflijk gedetailleerd met behulp van extra mods om meer functies in te schakelen.
+A map is not finished until some form of lighting is included. Lighting can range from very basic to incredibly detailed using additional mods to enable more features.
 
-### [**Basis verlichting**](./basic-lighting.md)
-Leer de verschillende aspecten om je level handmatig te verlichten.
+### [**Basic Lighting**](./basic-lighting.md)
+Learn the various aspects to lighting your map manually
 
-### [**Intermediaire verlichting**](./intermediate-lighting.md)
-Neem je verlichtingsvaardigheden een verder met strobing, ring spins, en contrast praktijken.
+### [**Intermediate Lighting**](./intermediate-lighting.md)
+Take your lighting skills a bit further into strobing, ring spins, and contrast practices
 
-### [**Geavanceerde verlichting**](./advanced-lighting.md)
-Geavanceerde en genuanceerde technieken, verlichting voor Custom platforms en chroma RGB **(Er word nog steeds aan deze pagina gewerkt!)**.
+### [**Advanced Lighting**](./advanced-lighting.md)
+Advanced and nuanced techniques, lighting for custom platforms, and Chroma RGB **(This page is still a work in progress!)**
 
-### Extra middelen
-Oudere handleidingen zijn hier gelinkt terwijl we hun inhoud verplaatsen naar de wiki-pagina's.
+### Automated Lights
+Not ready to make your own lighting? Here are some programs to do it for you. Keep in mind, creating simple manual lighting is not difficult and will always be better at expressing the atmosphere of the song than using these programs.
 
-* [Beginnersgids voor verlichting](https://docs.google.com/document/d/1wpZgBeOD1-UbJpXf-b6gX5ICNYygCd6UK6LOPm-t5QM/edit) door Puds.
-* [Omgevings verlichtingsgids](https://bsaber.com/creating-lighting-environment-guide/) door ManDynasty.
-* [Het gebruik van Flash & Fade verlichtingsevenementen](https://bsaber.com/creating-lighting-how-flash-fade-notes-actually-work-in-game/) door ManDynasty.
-* [Side Laser Speed Reference](https://docs.google.com/spreadsheets/d/1tIERmSyFI4ssjDkE-oJjBBvUZUJ7eoVhCQyM3_BsJwE/edit?usp=sharing) door LittleAsi.
-
-### Geautomatiseerde verlichting
-Nog niet klaar om je eigen verlichting te maken? Hier zijn enkele programma's om het voor jou doen. Houd het in gedachten dat het creëren van een eenvoudige handmatige verlichting niet moeilijk is en altijd beter zal zijn om de sfeer van het lied uit te drukken dan door deze programma's te gebruiken.
-
-* [Lolighter](https://github.com/Loloppe/Lolighter#readme) van **Loloppe#6435** - Alleenstaand programma voor geautomatiseerde verlichting en andere functies om jouw level aan te passen.
-* **Lightmap** - Het is geïntegreerd in Mediocre Map Assistant 2 en kan worden geopend in het menu van de foutchecker.
+* [Lolighter](https://github.com/Loloppe/Lolighter#readme) by **Loloppe#6435** - Standalone program for automated lighting and has other features to modify your map.
+* [LiteMapper](https://litemapper.net/) by **ItsOrius** - A website that automatically generates lights based on pacing, emphasis, and note placement. For more information on the algorithm check out the [Readme](https://github.com/ItsOrius/LiteMapper#readme).
+* **Lightmap** - It is integrated into Mediocre Map Assistant 2 and can be accessed in the error checker menu.
 
 ## Test spelen
-Je werk testen is een **kritisch** deel van het maken van levels. Testen terwijl je werkt helpt je om grote spelbaarheidsproblemen problemen aan te passen en om een gevoel voor je level te krijgen. [Third-party of “outside”](#community-third-party-testing) testen van levels is wanneer iemand anders dan jezelf jouw pre-release level test en hier constructieve feedback op geeft, en het helpt in het duidelijk maken van problemen waarvoor jij misschien "level blind" bent.
+Testing your work is a **critical** part of mapping. Testing as you work helps you adjust for major playability issues and get a feel for your map. [Third-party or "outside"](#community-third-party-testing) playtesting is when someone other than yourself tests your pre-release map and provides constructive feedback and is helpful in highlighting issues to which you may be "map blind."
 
-::: danger Je **hoeft niet** jouw level te uploaden op BeatSaver om het te laten testen. :::
+::: danger You **DO NOT** need to upload your map to BeatSaver in order for you or anyone else to test. :::
 
-* Als je level gebruik maakt van het 1.0 nummerformaat (je bestanden zijn .json en .ogg) moet je je level veranderen met behulp van een van verschillende beschikbare programma's zoals [Songe Converter](https://github.com/lolPants/songe-converter) door lolPants of [BeatMapper Tools](https://mappers.beatmappertools.com/) door Darkuni. **Update jouw editor naar MMA2 of Beatmapper**. Zie [Community editors](.#community-editors) voor links.
-* Als je level het 2.0 nummerformaat gebruikt (je bestanden zijn .dat en .ogg/.egg) dan ben je klaar om te testen.
+* If your map is using the 1.0 song format (your files are .json and .ogg) you must convert your map by **updating your editor**, opening and saving the map. See [Community Editors](.#community-editors) for links to modern editors.
+* If your map is using the 2.0 song format (your files are .dat and .ogg/.egg) you’re ready to test.
 
-### Testen op een PC
-Volg deze stappen om je levels te testen die gemaakt zijn met een community editor en met behulp van PC-gebaseerde VR.
+### Testing on a PC
+Follow these steps to test any of your maps made with a community editor using PC-based VR.
 
-1. Als jouw WIP song-map nog niet in `Beat Saber_Data\CustomWIPLevels` zit plaats daar dan een kopie.
-2. Jouw level is in-game te vinden in de CustomWIPLevels categorie wat te vinden is in het CustomLevels menu. Gebruik practice mode om te spelen (de kleine knop naast de play knop).
+1. If your WIP song folder isn’t already in `Beat Saber_Data\CustomWIPLevels` then place a copy there.
+2. Access your map in-game via the CustomWIPLevels category in the song pack menu. Use practice mode to play (the button next to the play button).
 
-**Heb je aanpassingen gedaan aan je level terwijl het spel open stond?**  
-Klik op het spelvenster. Vervolgens druk je op <kbd>Ctrl + r</kbd> op je toetsenbord terwijl je in het hoofdmenu of level selectie menu bent. Je wijzigingen zullen worden geladen zonder dat je het spel opnieuw hoeft op te starten!
+**Made changes to your map while the game is open?**  
+Click on the game window. Then while you are on the Main Menu or Song Select Menu press <kbd>Ctrl + r</kbd> on your keyboard. Your changes will be loaded without needing to restart the game!
 
-:::tip OPMERKING
+:::tip NOTE
 
-* Je moet de **SongCore** mod geïnstalleerd hebben om de CustomWIPLevels categorie te zien en om de <kbd>Ctrl + r</kbd> snelkoppeling te kunnen gebruiken.
-* Het hebben van gedupliceerde bestanden in `CustomLevels` en `CustomWIPLevels` kan problemen veroorzaken.
-* Het gebruik van online websites om jouw audio te veranderen naar `.ogg` kan er voor zorgen dat deze word gezien als ongeldig en zal dan niet door het spel worden geladen! Het gebruik van Audacity en het volgen van de stappen in [Basic Audio Setup](./basic-audio.md) is de eenvoudigste manier om ervoor te zorgen dat jouw level geladen word in het spel. :::
+* You will need to have the **SongCore** mod installed in order to see the CustomWIPLevels category and use the <kbd>Ctrl + r</kbd> shortcut.
+* Having duplicate map files in `CustomLevels` and `CustomWIPLevels` can cause problems.
+* Using Online Websites to convert audio to `.ogg` may result in your audio file being treated as invalid and will not be loaded by the game! Using Audacity and following the steps in [Basic Audio Setup](./basic-audio.md) is the easiest way to ensure your map loads in-game. :::
 
-### Testen op een Quest
-Volg deze stappen om je levels te testen die gemaakt zijn met een community editor en met behulp van de Oculus Quest. Je moet [SideQuest](https://sidequestvr.com) en [BMBF](https://bmbf.dev/stable) geïnstalleerd hebben.
+### Testing on a Quest
+Follow these steps to test any of your maps made with a community editor using an Oculus Quest. You must have [SideQuest](https://sidequestvr.com) and [BMBF](https://bmbf.dev/stable) installed.
 
-1. Comprimeer het level zoals normaal, comprimeer alleen de bestanden en niet de map zelf. [How to Video](https://streamable.com/u20ci)
-   * Als je [MMA2](#mediocre-map-assistant-2) gebruikt, is er een `Package to Zip` knop, je kan dit gebruiken in het scherm met nummerinfo om dit voor jou te doen.
-2. Maak een verbinding met je Quest via je PC. Dit kan op twee manieren worden gedaan, [draadloos](#connect-wirelessly) en [bedraad](#connect-wired-usb).
+1. Locate your WIP song folder on your PC.
+2. Establish a connection to your Quest from your PC with a USB cable.
+3. Open SideQuest on your PC and click the folder icon on the top right. ![SideQuest Files](~@images/beginners-guide/sqfiles.png)
+4. Navigate to `sdcard/ModData/com.beatgames.beatsaber/Mods/SongLoader/CustomWIPLevels`. If this folder does not exist, you can create it yourself.
+5. Upload your WIP song folder from your PC to that folder on your Quest with SideQuest.
+    * **NOTE:** You need to upload the actual song folder, not a zip file!
+6. Your map will now show up on the CustomWIPLevels song pack inside your game. Keep in mind that you will only be able to play your map using the practice mode, and not with the regular Play button!
 
-#### Draadloos verbinden
+:::tip NOTE Using Online Websites to convert audio to `.ogg` may result in your audio file being treated as invalid and will not be loaded by the game! Using Audacity and following the steps in [Basic Audio Setup](./basic-audio.md) is the easiest way to ensure your map loads in-game. :::
 
-1. Open BMBF op de Oculus Quest. BMBF moet actief zijn om de verbinding te laten slagen.
-2. Ga naar het `Tools` tabblad in BMBF. Daar zou je een webadres en versie nummer moeten zien die vergelijkbaar zijn met wat hier onder word weergegeven. <br/>![ip](~@images/mapping/ip.png)
-3. Open een moderne webbrowser op jouw PC en typ het adres in de zoekbalk. Je zou nu met het scherm hieronder begroet moeten worden.<br/>![BMBF Web](~@images/mapping/bmbfweb.png)
-4. Je bent nu verbonden! Ga verder naar de [Test bestand uploaden naar de Quest](#Test-bestand-uploaden-naar-de-Quest) stappen hieronder.
+### Community / Third Party Testing
+The `#testplays` channel in the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) makes it easy to have your work checked by knowledgeable mappers. Playtesters will provide constructive feedback on how to improve your map in either video or text format in a DM or in the `#mapping-discussion` channel.
 
-#### Verbinden met bedrade USB
+:::warning Some things to note...
 
-1. Sluit je Oculus Quest aan op de PC via USB en houd SideQuest open.
-2. Open BMBF op de Oculus Quest. BMBF moet actief zijn om de verbinding te laten slagen.
-3. Kijk naar de bovenkant van SideQuest, dit geeft je het IP-adres om in BMBF te komen. Je kan ook je IP adres vinden door naar het Tools menu van BMBF te gaan.
-4. Typ in een webbrowser: "192.168.X. XX:50000" waarin X wordt vervangen door het IP weergegeven in SideQuest, of het Tools menu<br/> ![Quest IP](~@images/mapping/quest_ip.png)   
-   Bijvoorbeeld, vanuit de afbeelding zou je `192.68.0.19:50000` invoeren in een webbrowser naar keuze (Chrome, Firefox, enz.).
-5. Je bent nu verbonden! Ga verder naar de [Test bestand uploaden naar de Quest](#Test-bestand-uploaden-naar-de-Quest) stappen hieronder.
+* Maps with less than 1 minute done will not get much feedback or be tested. Consider asking in `#mapping-discussion` to see if someone will take a look instead.
+* Challenge/Super High difficulty maps may take longer to get feedback since there are not many playtesters at this skill level.
+* Please keep to serious posts where you are looking to improve your mapping skills. Meme or Shitpost maps do not belong as they end up wasting the testplayers time.
+* Make sure you have run your map through a checker program such as those built-in to your editor or external tools like Parity Checker or Map Check in [Additional Mapping Tools](#additional-mapping-tools) :::
 
-#### Test bestand uploaden naar de Quest
+1. Create a compressed .zip file of the individual song files.
+    * If you are using [MMA2](./mediocre-map-assistant.md), you can press the `Package Song to Zip` button in the Song Info Settings to create a compressed .zip of your map.  
+      ![Package Song to Zip button](~@images/mapping/mma2-package-zip.jpg)
+    * If you are using [Beatmapper.app](#beatmapper-app), follow their [downloading instructions](https://beatmapper.app/docs/manual/publishing#downloading-your-map).
+    * You can manually create the zip by following this [How to Video](https://streamable.com/u20ci) if you are not using a web based editor.
+2. Upload your map to `#testplays` using the following format:
 
-1. Sleep de bestanden naar de BMBF's uploadpagina (dat aangegeven is door /main/upload aan het einde van de link).
-2. Eenmaal geüpload, klik op Sync to Beat Saber rechts bovenin de pagina. <br/>![BMBF Browser](~@images/mapping/bmbf_browser.png)
-3. Jouw level is in-game te vinden in het Custom Songs afspeellijst menu. Gebruik practice mode om te spelen (de kleine knop naast de play knop).
+* **Map:** The name and artist of your map
+* **Length:** The length of the song
+* **BPM:** The BPM of the song
+* **Difficulty:** Which difficulties are included
+* **NPS:** The notes per second of each difficulty available
+* **Feedback:** Any requests for feedback (specific difficulties to be tested, things to look for etc.)
+* **Status:** What state is the map in? (i.e., First draft complete, no lights; 1:45 mapped; release candidate w/ lighting; etc.)
 
-:::tip OPMERKING
+3. Testers will usually look at your map within 1-7 days and will use a number of reaction emojis (listed in `#testplays` pinned posts) to track testing status.
 
-* Als na het verwijderen van een oude kopie van een level en deze opnieuw uploaden met een nieuwe versie op de Quest nog steeds resulteert in het spelen van de oude versie, hernoem het zip-bestand voordat je het via BMBF upload.
-* BMBF kan problemen hebben met het importeren van je level als je nummer-bestand of omslagfoto naam `-` of spaties bevat. Mogelijk moet je deze bestanden hernoemen en de informatie van het nummer hieraan bijwerken voor een succesvolle upload.
-* Het gebruik van online websites om jouw audio te veranderen naar `.ogg` kan er voor zorgen dat deze word gezien als ongeldig en zal dan niet door BMBF worden geladen! Het gebruik van Audacity en het volgen van de stappen in [Basic Audio Setup](./basic-audio.md) is de eenvoudigste manier om ervoor te zorgen dat jouw level geladen word in het spel.
-* Als jouw audiobestand automatisch is veranderd naar `.egg`, kan je problemen tegenkomen bij het uploaden naar BMBF. Probeer de `.egg` te wijzigen naar `.ogg`. :::
+:::warning Remember: If you make changes after posting or getting feedback React with a 🛑 `:octagonal_sign:` to indicate stop testing this version :::
 
-### Testen door de community of door anderen
-Het `#testplay` kanaal in het [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) maakt het gemakkelijk om je werk te laten controleren door bekende level makers. Testspelers zullen constructieve feedback geven over hoe je je level kan verbeteren in video, tekst, in DM of in het `#mapping-discussion` kanaal.
-
-:::warning enkele dingen om te onthouden...
-
-* Levels met minder dan 1 minuut gemaakt zullen niet veel feedback krijgen of niet getest worden. Overweeg om in `#mapping-discussion` te vragen om te zien of iemand in plaats daarvan een kijkje neemt.
-* Challenge/Super hoge niveau levels kunnen langer duren om feedback te krijgen omdat er niet veel spelers zijn die niveau aan kunnen.
-* Houd a.u.b. bij serieuze berichten waar je jouw skills in het maken van levels wilt verbeteren. Meme of Shitpost levels horen er niet thuis omdat deze de tijd van de testspelers verspillen. :::
-
-1. Maak een gecomprimeerd .zip-bestand van de individuele levelbestanden.
-    * Als je [MMA2](./mediocre-map-assistant.md)gebruikt, druk je op de `Package Song to Zip` knop in de Song Info instellingen om een gecomprimeerde .zip te maken van je level.  
-      ![Package Song to Zip knop](~@images/mapping/mma2-package-zip.jpg)
-    * Als je [Beatmapper](#beatmapper-app) gebruikt, volg dan hun [instructies](https://beatmapper.app/docs/manual/publishing#downloading-your-map).
-    * Je kunt handmatig de zip maken door deze [How to Video](https://streamable.com/u20ci) te volgen als je geen web-gebaseerde editor gebruikt.
-2. Upload je level naar `#testplay` met het volgende formaat:
-
-* **Map:** De naam en artiest van jouw level.
-* **Length:** de lengte van het nummer.
-* **BPM:** de BPM van het nummer.
-* **Difficulty:** Welke niveaus er meegegeven zijn.
-* **NPS:** De blokken per seconde van elk beschikbaar niveau.
-* **Feedback:** Alle aanvragen voor feedback (specifieke niveaus die getest moeten worden, dingen om naar te kijken enz.).
-* **Status:** Wat is de status van het level? (bijv. het eerste concept voltooid, geen verlichting; 1:45 gemaakt; release kandidaat met verlichting; enz.).
-
-3. Testers zullen meestal binnen 1-7 dagen naar je level kijken en een aantal reactie emojis gebruiken (vermeld in de gepinde berichten van `#testplays`) om de teststatus bij te houden.
-
-:::warning Onthoudt: als je wijzigingen aanbrengt na het plaatsen of ontvangen van feedback reageer dan met een 🛑 `:octagonal_sign:` om aan te geven dat mensen moeten stoppen met het testen van deze versie :::
-
-Je kan de volgende template kopiëren en plakken in Discord:
+You can copy and paste the following template into Discord:
 
 ```txt
 **Map:**
@@ -330,142 +329,122 @@ Je kan de volgende template kopiëren en plakken in Discord:
 **Status:**
 ```
 
-### Helpen met het testen van levels
-Vind je het leuk om nieuwe liedjes te spelen voordat ze ooit op BeatSaver worden vrijgegeven? Wil je helpen vorm te geven aan de mapping community? Overweeg dan om een testspeler te worden! Zie [Hoe test je](./hoe-test-je.md) om aan de slag te gaan!
+### Help Playtest
+Do you like the idea of playing new songs before they are ever released on BeatSaver? Do you want to help shape the mapping community? Consider becoming a testplayer! Check out the [How to Testplay](./how-to-testplay.md) guide to get started!
 
 ## Nummers publiceren
-Zodra jouw level is gemaakt, verlicht en gespeeld, en het is een voltooid product ben je klaar om het aan de wereld vrij te geven!
+Once your song has been mapped, lighted, and playtested and it’s a finished product you’re ready to release it to the world!
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com/) is de openbare opslag voor alle Custom Beat Saber levels. Nummers moeten in het 2.0 nummerformaat zijn (bestanden zijn .dat en .ogg/.egg/.wav) om te worden geüpload.
+[BeatSaver](https://beatsaver.com/) is the public repository for all custom Beat Saber maps.
 
-#### Hoe geef je een level uit
+#### How to Release a Map
 
 ::: danger
 
-* Gelieve **GEEN** onvolledig WIP level uploaden naar BeatSaver!
-  * Uploaden naar BeatSaver staat gelijk aan "Het in de winkelschappen zetten" en zou **alleen** jouw definitieve versie moeten zijn.
-  * Zie de [Playtesting](#playtesting) sectie voor instructies over het testen van jouw level. :::
+* Please **DO NOT** upload an incomplete WIP map to BeatSaver!
+  * Uploading to BeatSaver equates to "Putting it on the store shelf" and should **only** be your final version.
+  * See the [Playtesting](#playtesting) section for instructions on testing your map. :::
 
-1. [Creëer een account](https://beatsaver.com/auth/register) op BeatSaver.
-    * Beatsaver gebruikersnamen mogen alleen maar alfanumerieke tekens en `-` hebben. Gebruikersnamen met spaties of `_` bijvoorbeeld, zijn niet toegestaan.
-    * Als je geen verificatie e-mail hebt ontvangen, vul dan dit [contact formulier](https://beatsaver.com/contact) in.   
-      **Opmerking:** Je moet een geldige gebruikersnaam *en* het e-mailadres dat wordt gebruikt om daarvoor in te loggen in het formulier invullen om de verificatie te voltooien!
-2. Klik op de link <kbd>Upload</kbd> knop rechts bovenin.
-3. Voeg de naam en beschrijving van het BeatSaver level toe. Alleen de naam van het level kan gezocht worden dus zorg dat de naam van het nummer, songtekst, kunstenaar en andere termen die het wellicht makkelijker maken om je kaart te vinden bevat.
-    * Gebruik "tags" zoals (Chroma), (OneSaber), of (Mapping Extensions) als jouw level gebruik maakt van enkele speciale wijzigingen of kenmerken die je wilt markeren.
-    * Het plaatsen van een link naar een voorbeeldvideo in de beschrijving van het level kan je helpen om meer downloads te krijgen, omdat het gemakkelijker is om je level met anderen te delen en het laat mensen weten wat ze moeten verwachten.
-4. Voeg je .zip-bestand toe en klik op de <kbd>Upload</kbd> knop.
+1. [Create an account](https://beatsaver.com/register) on BeatSaver with a username/password or by logging in via Discord.
+    * Beatsaver usernames may only have alphanumeric characters and `-`. Usernames with spaces or `_` for example, are not allowed.
+2. Click the <kbd>Upload</kbd> link in the top-right.
+3. Add your BeatSaver map name and map description. Only the map name is searchable so be sure to include song name, song artist, and other terms that might make it easier to find your map.
+    * Use "tags" like (Chroma), (OneSaber), or (Mapping Extensions) if your map uses some special modifications or characteristics you want to highlight.
+    * Putting a link to a playthrough video in the map description can help you get more downloads as it is easier to share your map to others and lets people know what to expect.
+4. Add your .zip file and identify whether your map was human-made or AI-assisted.
+    * AI maps intentionally uploaded as human-made will be deleted.
+5. Maps are initially uploaded to your unpublished tab. You must explicitly publish them to make them available to the public.
 
-::: tip OPMERKING levelbestanden kunnen momenteel niet worden bijgewerkt op BeatSaver. Als je een nieuwe versie van je level wilt uploaden moet je de oude verwijderen en het opnieuw posten. :::
+::: tip NOTE Map files can now be updated on BeatSaver! If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can upload a new version. This will retain your map key and statistics but will reset all leaderboards. :::
 
-### BeatSaver Problemen oplossen
-Hier zijn oplossingen voor enkele veelvoorkomende foutmeldingen bij het uploaden van een level.  
-Heb je iets anders dan hier vermeld? Ga naar `#mapping-discussion` voor hulp.
+### BeatSaver Troubleshooting
+Here are solutions for some common errors when uploading a Beatmap.  
+Encountered something not listed here? Drop into `#mapping-discussion` for assistance.
 
-:::danger Onthoudt:
+:::danger Remember:
 
-* Je moet je level [laten testen](#playtesting) voordat je uploadt!
-* Je hoeft geen levels te uploaded die gemaakt zijn door automatische-generatie software zoals Deepsaber of Beat Sage om ze in jouw spel te installeren. Als je op de PC speelt, can je de zip uitpakken in jouw `CustomLevels` map. Als je op de Quest speelt, volg dan de [Testen op een Quest](#testen-op-een-quest) stappen om het level te installeren. :::
-
----
-
-**Something went wrong! Try again later.** Dit is de standaard foutmelding, dit wordt onder andere door het volgende veroorzaakt:
-
-* Een upload die dicht bij of boven het limiet van 14,3 MB ligt. De vermelde 15 MB klopt niet. Verminder de kwaliteit van de audio-export een klein beetje om ruimte te maken.
-* Niet ondersteunde tekens zijn aanwezig in een bestand. Zorg ervoor dat jouw metadata en bookmarks geen speciale tekens bevatten, zoals Japans (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinees (汉语/漢語), Arabisch (اَلْعَرَبِيَّةُ‎), en geaccentueerde karakters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ).
-  * [+1 Rabbit's Mapping Tools](https://skystudioapps.com/mapping-tools/) van **+1 Rabbit** kan handig zijn in het vinden van het specifieke probleem.
-* Expired web session. Als je de pagina vernieuwt, zou je moeten worden uitgelogd. Log in en probeer het opnieuw te uploaden.
+* You should have your map [playtested](#playtesting) before uploading!
+* You do not need upload maps created by auto-generation software such as Deepsaber or Beat Sage to install them in your game. If you are on PC, you can unzip the files into your `CustomLevels` folder. If you are on Quest, follow the [Testing on a Quest](#testing-on-a-quest) steps to install the map. :::
 
 ---
 
-**Field `._customData._customEnvironment` cannot be blank.**
+#### Map already uploaded
 
-* Jouw bestanden voldoen niet aan het level schema. Zie [Schema Wijziging](#BeatSaver-Data-Schema-Wijziging-27-oktober-2019) voor oplossingen.
-
----
-
-**Beatmap zip contains an illegal file!**
-
-* Meestal veroorzaakt door extra/niet-ondersteunde bestanden, zoals gifs, in de zip.
+* The exact map files were uploaded previously. You must change something small in your map (i.e., remove a light block, save the map, replace the light block, and save again) to be able to upload.
 
 ---
 
-**Beatmap already exists!**
+#### _difficultyBeatmapSets[]._difficultyBeatmaps[].`Difficulty.dat`._version``: Must not be null
 
-* Deze exacte levelbestanden zijn eerder al geüpload. Je moet iets kleins in je level veranderen (bv. verwijder een licht blok, sla het level op, vervang het licht blok en sla het opnieuw op) om te kunnen uploaden.
-
----
-
-**Beatmap does not contain an Info.dat file!**
-
-* Meestal veroorzaakt door bestanden in een submap te hebben. Je moet de bestanden comprimeren in plaats van de map. [How to Video](https://streamable.com/u20ci) Of gebruik in plaats daarvan de handige export knop in je editor. **OPMERKING: MMA2's export knop voegt de contributor afbeeldingen niet toe in de zip.**
+* You are using an old, outdated editor that is not compliant with the current data schema. See [Community Editors](#community-editors) for the current options.
 
 ---
 
-**One or more beatmap difficulty files cannot be found!**
+#### Internal Server Error
+This is the default error message, causes include:
 
-* Je bent misschien vergeten om al je niveau bestanden op te nemen in de zip.
-* Een niveaus `"_beatmapFilename"` in de `Info.dat` gebruikt mogelijk een andere bestandsnaam dan wat aanwezig is in de map.
-* Een verwijderd niveau wordt nog steeds naar verwezen in jouw `Info.dat` bestand. Kijk en dubbelcheck dat je geen onbedoelde niveaus in de `"_difficultyBeatmaps"` cluster van elk presente karakteristiek hebt.
-
----
-
-**Error in `MapDifficulty.dat`. Root should NOT have additional property: `_time`.**
-
-`_time` is de meest voorkomende fout voor dit type bericht. Dezelfde oplossing is echter ook van toepassing als er andere eigenschappen worden gemarkeerd.
-
-* Jouw bestanden voldoen niet aan het level schema. Zie [Schema Wijziging](#BeatSaver-Data-Schema-Wijziging-27-oktober-2019) voor oplossingen.
+* An upload that is close to or over the actual file size limit of 15 MB. Reduce the audio export quality slightly to make space.
+* Unsupported characters are present in a file. Make sure your metadata and bookmarks don't contain special characters such as, Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinese (汉语/漢語), Arabic (اَلْعَرَبِيَّةُ‎), and accented characters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ).
+  * [+1 Rabbit's Mapping Tools](https://skystudioapps.com/mapping-tools/) by **+1 Rabbit** may be useful in finding the specific problem.
+* Expired web session. If you refresh the page, you should be logged out. Login and try to upload again.
 
 ---
 
-**Beatmap could not be parsed!**
+#### Could not verify user []
 
-* Dit kan worden veroorzaakt door extreme drukte op de server. Probeer het later opnieuw of vraag het in `#mapping-discussion`.
-
----
-
-**Field `._customData._contributors[]._iconPath` contains an invalid filename.**
-
-* Het gebruik van het contributions veld vereist dat alle aspecten worden opgenomen. Zorg ervoor dat alle 3 aspecten (Role, Name, iconPath) zijn ingevuld en er een unieke vierkante afbeelding is voor elke invoer van het iconPath in jouw zip.
+* This error is related to recaptcha. Please reload the page.
 
 ---
 
-#### BeatSaver Data Schema Wijziging - 27 oktober 2019
-BeatSaver forceert nu een schema om je levels te uploaden waaraan de openbare MediocreMapper niet voldoet. De meest brekende verandering gebeurde in de niveaugegevensbestanden, waar MM-specifieke velden werden verplaatst in een `_customData` object.
+#### ``_difficultyBeatmapSets[]._difficultyBeatmaps[]`Difficulty.dat`._notes[]_time:`` Must be between 0 and x
 
-**Oplossoning #1:**  
-Schakel over naar de [Mediocre Map Assistant 2](#mediocre-map-assistant-2) editor. Open elk niveau bestand en sla het op om het schema te corrigeren. Gebruik vanaf nu MMA2.
+* Your map contains notes outside of the playable map (usually from a copy and paste error). Remove them and reattempt your upload.
 
-**Oplossing#2:**  
-Gebruik de [Schema Updater Utility](https://skystudioapps.com/mapping-tools/#schema-fixer) van **+1 Rabbit** om jouw bestanden te repareren voordat je uploadt. Schakel vervolgens over naar een [ondersteunde editor](#community-editors).
+---
 
-**Oplossing #3 (de moeilijke weg):**  
-Als je dit zelf wilt oplossen, Hier is een snel sjabloon dat je laat zien waar alles heen moet gaan zodat jouw level werkt met BeatSavers nieuwe schema.
+#### Beatmap zip contains an illegal file! OLD
 
-Als alternatief, `_customData` is **GEEN** verplicht veld. je kan alles verwijderen wat daar geplaatst wordt, en dat resultaat uploaden.
+* Usually caused by extra/unsupported files, such as gifs, in the zip.
 
-```json
-{
-  "_version": "2.0.0",
-  "_notes": [],
-  "_obstacles": [],
-  "_events": [],
-  "_customData": {
-    "_bpmChanges": [],
-    "_bookmarks": [],
-    "_time": 0
-  }
-}
-```
+---
 
-Om te voldoen aan het nieuwe schema vind en verwijder of vul **lege velden** in jouw `info.dat` of moeilijkheidsgraad bestanden in.
+#### Beatmap does not contain an Info.dat file! OLD
+
+* Usually caused by having the files in a subfolder. You need to zip the files instead of the folder. [How to Video](https://streamable.com/u20ci) Or use the handy export button in your editor instead. **NOTE: MMA2's export button does not include contributor images in the zip.**
+
+---
+
+#### One or more beatmap difficulty files cannot be found! OLD
+
+* You might have forgotten to include all of your difficulty files are in the zip.
+* A difficulty's `"_beatmapFilename"` in the `Info.dat` might be using a different file name than what is present in the folder.
+* A deleted difficulty is still being referenced in your `Info.dat` file. Check to make sure you do not have unintended difficulties in the `"_difficultyBeatmaps"` cluster of each present characteristic.
+
+---
+
+#### Error in `MapDifficulty.dat`. Root should NOT have additional property: `_time`. OLD
+
+`_time` is the common error for this type of message. However, the same solution applies if a different property is flagged.
+
+* Your files are not compliant the map schema. See [Schema Change](#beatsaver-data-schema-change-october-27-2019) for solutions.
+
+---
+
+#### Beatmap could not be parsed! OLD
+
+* This could be caused by extreme server load. Try again later or ask in `#mapping-discussion`.
+
+---
+
+#### Field `._customData._contributors[]._iconPath` contains an invalid filename. OLD
+
+* Utilizing the contributors field requires all aspects to be included. Make sure all 3 aspects (Role, Name, iconPath) are filled and there is a unique square image for each iconPath entry in your zip.
+
+---
 
 ### BeastSaber
-[BeastSaber](http://www.bsaber.com) is een website waar nummers worden beoordeeld en gecureerd, ook kan je reacties achterlaten op nummers. Alle gepubliceerde levels op BeatSaver worden binnen 10-15 minuten weergegeven op BeastSaber. Het kan een dag duren voordat levels die zijn verwijderd van BeatSaver ook worden verwijderd van BeastSaber.
+[BeastSaber](http://www.bsaber.com) is a song review and curation site with social features including reviewing and commenting on songs. All songs published on BeatSaver are mirrored to BeastSaber within 10-15 minutes. Additionally, maps deleted from BeatSaver may take up to a day to be removed from BeastSaber.
 
-### Mapping angst
-Als je het moeilijk vindt om de moed op te brengen om jouw level te uploaden, of je vindt het emotioneel belastend om om te gaan met een gebrek aan downloads of veel dislikes, dan ben je niet alleen. Veel level makers hebben deze gevoelens ervaren. Je kunt er meer over lezen op de [Omgaan met anxiety](./mapping-anxiety.md) pagina.
-
-## [Bijdragen](./mapping-credits.md)
-Meer dan *30* verschillende handleidingen en gidsen zijn samengevoegd tot deze wiki zodat deze door de community als geheel kan worden onderhouden. Heel heel heel **véél** dank aan de level makers die dit hebben meegemaakt en aan de inhoud hebben bijgedragen. Bekijk de hele lijst [hier!](./mapping-credits.md)
+## [Credits](./mapping-credits.md)
+Over *thirty* different mapping guides and tutorials have been combined into this wiki so that it can be maintained by the community as a whole. Many many **MANY** thanks to the mappers who blazed this trail and contributed content. Check out the whole list [here!](./mapping-credits.md)

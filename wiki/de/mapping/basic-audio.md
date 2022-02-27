@@ -334,15 +334,15 @@ Um eine kompatible Ton Datei zu erzeugen, die du verwenden kannst, musst du wie 
 2. Klicke auf's Menü `Datei -> Exportieren -> Als OGG exportieren.`  
    ![Als OGG Standort exportieren](~@images/mapping/audacity-export.png)
 3. Nenne die Datei `song.ogg`.
-4. Wähle eine geeignete OGG-Qualität ([mehr Infos hier](./advanced-audio.md#auswahl-der-geeigneten-ogg-Exportqualität)):  
-   ![Export Qualitäts-Slider](~@images/mapping/export-quality.png)
-   * Hochwertige Quellen (WAVE / FLAC / MP3 / AAC) verwenden 6-9 (es sei denn, es gibt ein Problem mit der Dateigröße)
-   * Quelle niedriger Qualität (YouTube o. ä.): verwenden 3-5
-5. Klicke Speichern.
+4. Choose an appropriate OGG quality ([more info here](./advanced-audio.md#choosing-appropriate-ogg-export-quality)).
+   * High quality source (WAVE / FLAC / MP3 / AAC) use 6-9 (unless there is a file size issue.)
+   * Low quality source (YouTube or such): use 3-5
+5. Click Save.  
+   ![Export Quality Slider](~@images/mapping/export-quality.png)
 
 Die Song-/Audiodatei ist nun bereit, in einem beliebigen Map-Editor verwendet zu werden. Gib die gleichen BPM, die du zuvor erhalten hast, in den Map-Editor deiner Wahl ein und stelle sicher, dass du für alle Schwierigkeiten einen Offset von 0ms verwendest (da der Song bereits auf den Beat synchronisiert ist).
 
-::: warning HINWEIS Die Audiodatei sollte nicht größer als ~12 MB sein, da BeatSaver die ZIP-Datei auf 14,3 MB begrenzt. Die aufgelisteten 15 MB sind derzeit nicht korrekt. Sollte dies der Fall sein, exportiere mit einer niedrigeren Qualität, bis die Datei die Dateigrößengrenze erreicht. ZIP-Dateien über 8 MB können nicht direkt auf Discord (ohne Nitro oder Server Boost Level 2) für Playtests freigegeben werden. :::
+::: warning NOTE Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord (without Nitro or Server Boost Level 2) for playtesting. :::
 
 ## Credits
 Der Inhalt dieser Seite stammt aus Anleitungen von [Kolezan](./mapping-credits.md#kolezan) & [Nik](./mapping-credits.md#nik-n3tman).

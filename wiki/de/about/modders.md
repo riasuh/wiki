@@ -43,7 +43,7 @@ Hat vielleicht große Füße??
 
 [GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Spenden](https://streamlabs.com/bigfooott)
 
-## brian
+## brian (im Ruhestand)
 Ersteller von CustomUI, das die Erstellung neuer UI-Komponenten für Modder zu einem Kinderspiel macht. Er hat auch einige der nützlichsten Streaming-Tools entwickelt die heute verwendet werden, einschließlich der Übernahme von CameraPlus in xyonicos Abwesenheit und des weit verbreiteten Enhanced Stream Chat Mods. Dieser Typ will mehr Hip-Hop-Songs. Also ran an den Speck, Leute!
 
 **Beiträge:** CustomUI, CameraPlus, Enhanced Stream Chat, StreamCore, SongRequestManager, Hidden Blocks, SyncSaber
@@ -193,104 +193,111 @@ Wenn du jemals den Darth Maul Modus gespielt hast, musst du dem Typen danken.
 
 [GitHub](https://github.com/PureDark)
 
+## Raemien
+Hinter einigen Verbesserungen bei der Erstellung von Inhalten für Quest und experimentelle PC-Mods. Verantwortlich für einige zusammengepfuschte Sachen.
+
+**Rollen:** Modder **Beiträge:** MRCPlus, CustomBackgrounds, ARCompanion, Burnout, Puro, MouseSaber, DebrisTweaks
+
+[GitHub](https://github.com/Raemien) | [Patreon](https://www.patreon.com/Raemien) | [Ko-Fi](https://ko-fi.com/raemien)
+
 ## raftario
 tut manchmal Dinge????
 
-**Rollen:** Modder **Beiträge:** Misc Quest stuff, BeatMods
+**Rollen:** Modder **Beiträge:** verschiede Quest Sachen, BeatMods
 
 [GitHub](https://github.com/raftario)
 
 ## RedBrumbler
-Ever used Custom sabers for quest? this guy made the mod for that.
+Schonmal Custom Saber für die Quest verwendet? Der Kerl hat die Mod dafür gemacht.
 
-**Roles:** Modder, Support, 3D Artists **Contributions:** Qosmetics, Custom Pillows (quest), Inverted arrows, AntiVertigo
+**Rollen:** Modder, Unterstützer, 3D-Künstler **Beiträge:** Qosmetik, Custom Pillows (Quest), Inverted arrows, AntiVertigo
 
 [GitHub](https://github.com/RedBrumbler) | [PayPal](https://paypal.me/RedBrumblerOfficial) | [Patreon](https://www.patreon.com/Qosmetics)
 
 ## Rolo
-Creator of the Custom Platforms plugin and pumpkin carving extrordinaire. Also responsible for MVP so you can watch the Shrek movie as you play it in game!
+Schöpfer des Custom Platforms Plugins und exzellenter Kürbisschnitzer. Auch verantwortlich für MVP damit du den Shrek-Film sehen kannst, während du spielst!
 
-**Roles:** Modder **Contributions:** Custom Platforms, MVP
+**Rollen:** Modder **Beiträge:** Custom Platforms, MVP
 
 [GitHub](https://github.com/rolopogo) | [PayPal](https://www.paypal.me/RobynLovett) | [Ko-Fi](http://ko-fi.com/robynlovett)
 
 ## Ruu
-Our own LIV insider and creator of Saber Tailor and the original Custom Colors plugin.
+Unser eigener LIV-Insider und Schöpfer von Saber Tailor und dem originalen Custom Colors Plugin.
 
-**Roles:** Modder **Contributions:** Saber Tailor (original), Custom Colors (original)
+**Rollen:** Modder **Beiträge:** Saber Tailor (Original), Custom Colors (Original)
 
 [GitHub](https://github.com/SteffanDonal)
 
 ## Sc2ad
 > Er spielt eine massive Rolle in der Quest-Community und hat eine Menge Modder geholfen, erstaunliche Mods zu erstellen! Er verwendet einen Großteil seiner Zeit für die Verbesserung der Kernbibliothek für die Quest, um es für Modder einfacher zu machen und arbeitet derzeit an einem Paketmanager! Er ist von Anfang an dabei und wir schätzen all die Arbeit, die er für die Quest-Community geleistet hat!"
 
-**Roles:** Modder **Contributions:** quest.
+**Rollen:** Modder **Beiträge:** Quest.
 
 [GitHub](https://github.com/sc2ad) | [Twitch](https://www.twitch.tv/sc2ad) | [PayPal](https://paypal.me/sc2ad) | [Ko-Fi](https://ko-fi.com/sc2ad_support)
 
 ## Shadnix
-Current maintainer of Saber Tailor and Particle Overdrive. Made some other small things that since have become part of the base game options.
+Aktueller Betreuer von Saber Tailor und Particle Overdrive. Einige andere kleine Dinge, die inzwischen Teil des Basisspiels geworden sind.
 
-**Roles:** Modder **Contributions:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover, AdaptiveSFXRemover
+**Rollen:** Modder **Beiträge:** Saber Tailor, Particle Overdrive, Level Pack Panel Mover, NoteSpawnEffectRemover, AdaptiveSFXRemover
 
 [GitHub](https://github.com/Shadnix-was-taken) | [Twitch](https://www.twitch.tv/shadnix)
 
 ## Shoko84
-Making sure we're all nice and hydrated after cutting the blocks.
+Stellt sicher, dass wir nach dem Zerschlagen der Blöcke alle schön hydriert sind.
 
-**Roles:** Modder **Contributions:** Custom Exit, Drink Water Mod
+**Rollen:** Modder **Beiträge:** Custom Exit, Drink Water Mod
 
 [GitHub](https://github.com/Shoko84) | [Twitch](https://www.twitch.tv/shoko84) | [Donate](https://streamlabs.com/shoko84)
 
 ## SkyKiwi
-The madman who started Chroma and Chromatoggle. He added things to the game that suggests that his head isn't screwed on right, as well as created RGB lighting for mappers to use.
+Der Bekloppte, der Chroma und Chromatoggle gestartet hat. Er hat Dinge dem Spiel hinzugefügt, wo man sich fragen kann ob er nicht seinen Kopf irgendwann mal zu stark angehauen hat. Außerdem hat er RGB Licht für Mapper hinzugefügt.
 
-**Roles:** Modder **Contributions:** Chroma, Chromatoggle
+**Rollen:** Modder **Beiträge:** Chroma, Chromatoggle
 
-[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Donate](https://streamelements.com/skykiwitv/tip)
+[GitHub](https://github.com/BinaryElement) | [Twitch](https://www.twitch.tv/skykiwitv) | [Spenden](https://streamelements.com/skykiwitv/tip)
 
 ## Soliel
-Mother of the original `!bsr` mod.
+Mutter des ursprünglichen `!bsr` Mod.
 
-**Roles:** Modder **Contributions:** Original Twitch Integration
+**Rollen:** Modder **Beiträge:** Originale Twitch Integration
 
-[GitHub](https://github.com/soliel) | [Donate](https://streamlabs.com/soliela)
+[GitHub](https://github.com/soliel) | [Spenden](https://streamlabs.com/soliela)
 
 ## StarGazer1258
-Creator of BeatDrop, everyone's favorite desktop application for custom song management!
+Schöpfer von BeatDrop, jedermanns Lieblings Desktop Anwendung zur Verwaltung eigener Songs!
 
-**Roles:** Modder **Contributions:** BeatDrop
+**Rollen:** Modder **Beiträge:** BeatDrop
 
-[GitHub](https://github.com/StarGazer1258) | [Donate](https://www.patreon.com/bePatron?u=18487054)
+[GitHub](https://github.com/StarGazer1258) | [Spenden](https://www.patreon.com/bePatron?u=18487054)
 
 ## Toni Macaroni
-Create some sabers, throw them and while you are waiting for them to return draw something nice.  
-Also official body pillow dealer.
+Erstellt einige Saber, wirf sie und während man auf die Rückkehr wartet, zeichnet er etwas Schönes.  
+Auch offizieller Kissen-Dealer.
 
-**Roles:** Modder **Contributions:** Tricksaber, Saber Factory, Scribble, Custom Pillows
+**Rollen:** Modder **Beiträge:** Tricksaber, Saber Factory, Scribble, Custom Pillows
 
-[GitHub](https://github.com/ToniMacaroni) | [Donate](https://ko-fi.com/tonimacaroni)
+[GitHub](https://github.com/ToniMacaroni) | [Spenden](https://ko-fi.com/tonimacaroni)
 
 ## Trishume
-A massive contributor to the development of quest mods.
+Ein massiv Beitragender zur Entwicklung von Quest-Mods.
 
-**Roles:** Modder
+**Rollen:** Modder
 
 ## vanZeben
-Fastest steam notification sending simulator developer in the West. He also created the mod repository BeatMods!
+Schnellster Steam-Benachrichtigungs-Sendungs-Simulator im ganzen Westen. Er hat auch das Mod-Repository BeatMods erfunden!
 
-**Roles:** Modder **Contributions:** Beat Saber Online, BeatMods Creator
+**Rollen:** Modder **Beiträge:** Beat Saber Online, BeatMods Creator
 
 [GitHub](https://github.com/vanZeben) | [Twitch](https://www.twitch.tv/vanzeben)
 
 ## xyonico
-Original creator of SongLoader and CameraPlus, and a major contributor to the custom avatar plugin. He's since moved on to develop other VR games, like [Waltz of the Wizard](https://store.steampowered.com/app/1094390/Waltz_of_the_Wizard_Extended_Edition/)!
+Ursprünglicher Ersteller von SongLoader und CameraPlus und einer der Hauptverantwortlichen für das Custom Avatar Plugin. Seitdem hat er weitere VR-Spiele entwickelt, wie [Waltz of the Wizard](https://store.steampowered.com/app/1094390/Waltz_of_the_Wizard_Extended_Edition/)!
 
-**Roles:** Modder **Contributions:** SongLoader, CameraPlus
+**Rollen:** Modder **Beiträge:** SongLoader, CameraPlus
 
-[GitHub](https://github.com/xyonico/) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+[GitHub](https://github.com/xyonico/) | [Spenden](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
 
 ---
 
-::: tip See Also **Support:** [Pespiri](./supports.md#pespiri)  
+::: tip Siehe auch **Support:** [Pespiri](./supports.md#pespiri)  
 **Staff:** [+1 Rabbit](./staff.md#_1-rabbit) | [Caeden117](./staff.md#caeden117) | [lolPants](./staff.md#lolpants) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) |  [Reaxt](./staff.md#reaxt) | [Lillie](./staff.md#lillie) | [Steven](./staff.md#steven-🎀) :::

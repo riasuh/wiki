@@ -13,7 +13,10 @@ BeatSaver에서 수동으로 맵을 다운받으려는 경우, 받은 맵을 `Be
 
 ### 곡 관리 도구
 
-There are no working song management apps available at this time.
+The following can be used to help you manage custom songs or playlists.
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
 
 ## 어떻게 플레이리스트를 설치할 수 있나요?
 
@@ -35,7 +38,7 @@ You can use [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playl
 ## 어떻게 하면 저만의 커스텀 레벨을 만들 수 있나요?
 See [mapping](/mapping/)!
 
-## How do I load PC mods that aren't in Mod Assistant?
+## 어떻게 모드 어시스턴트에 없는 PC 모드들을 로드 하나요?
 See [this section](/pc-modding.md#manual-installation) in the beginners guide.
 
 ## 멀티플레이는 크로스플레이를 지원하나요?

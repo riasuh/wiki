@@ -9,30 +9,35 @@ _O cargo de Support é um símbolo de agradecimento. Obrigado por milhares de me
 **Cargos:** Support
 
 ## ComputerElite
-He makes programs to support people faster and some others for them to make all easier. (likes to eat BMBF Logs)
+Ele faz programas para apoiar as pessoas mais rápido e outros para facilitar as pessoas. (gosta de comer Logs do BMBF)
 
 **Cargos:** Support
 
 [Github](https://github.com/ComputerElite/)
 
 ## Emma
-You might know them for their spectacular platforms, or for more refined individuals: yeet sabers.
+Você pode conhecer suas plataformas espetaculares ou para indivíduos mais refinados: yeet sabers.
 
-**Roles:** Support, 3D Artist
+**Cargos:** Support, 3D Artists
 
 [Twitch](https://www.twitch.tv/therealkleinba)
 
 ## Johnny0403
-He likes playing Beat Saber. He also likes helping people fix their problems so they can play Beat Saber.
+Ele gosta de jogar Beat Saber. Também gosta de ajudar as pessoas a resolver os seus problemas para que possam jogar Beat Saber.
 
-**Roles:** Support
+**Cargos:** Support
 
 ## Kolezan
-He'll teach you to fix your mods and your terribly off-beat first map. We've all been there.
+Ele vai te ensinar a consertar seus mods e seu primeiro mapa terrivelmente off-beat. Todos estivemos lá.
 
-**Roles:** Support, Mapping Support, Mapper
+**Cargos:** Support, Mapping Support, Mapper
 
 [Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
+
+## Luna
+She's often forgetful, but happy to help
+
+**Cargos:** Support
 
 ## male
 is too uncreative to think of a bio
@@ -56,12 +61,12 @@ This guy came out of nowhere and started helping in support saying it was some k
 ## Rex
 I really like to help people. Yeah that's all.
 
-**Roles:** Support
+**Cargos:** Support
 
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
 
-**Roles:** Support
+**Cargos:** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
@@ -73,7 +78,7 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 ## Simme63
 "Coke Head"
 
-**Roles:** Support
+**Cargos:** Support
 
 ## Squares
 I swear i'm good at Beat Saber and helping just ask boulders!
@@ -81,6 +86,11 @@ I swear i'm good at Beat Saber and helping just ask boulders!
 **Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
+
+## StormPacer
+I can show you the world after you show me your _latest.log
+
+**Roles:** Support
 
 ## Toblersto
 I decided I wanted to help one day, and have been slightly addicted ever since.
@@ -96,4 +106,5 @@ The bot that holds it all together. Created by Megalon, recreated by lolPants, a
 
 ::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
 **Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed-retired)  
+**Staff:** [Assistant](./staff.md#assistant-retired) | [Eradawn](./staff.md#eradawn) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

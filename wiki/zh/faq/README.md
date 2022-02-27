@@ -1,62 +1,65 @@
-# Frequently Asked Questions
+# 常见问题
 
-## I just got the game, how do I get started?
-Check out our [beginner's guide](/beginners-guide.md)!
+## 我刚安装了游戏，该从哪儿看起？
+来看看我们的[入门指南](/beginners-guide.md)！
 
-## How do I get more songs?
-> [BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this place is where they are hosted.
+## 如何导入自定义歌曲？
+> 社区上传的歌曲都在 [BeatSaver](https://beatsaver.com)。 其他一些工具或者网站也提供了自定义歌曲的下载，但是这个网站是他们的数据来源。
 
-If you download maps manually from BeatSaver, extract them into a folder and place the files in `Beat Saber/Beat Saber_Data/CustomLevels`. This is the directory that the game natively reads custom maps from.
+如果你是从 BeatSaver 手动下载的歌曲包，请将它们解压成文件夹，放到 `Beat Saber/Beat Saber_Data/CustomLevels` 里。 游戏原生支持从这里读取自定义歌曲。
 
 ### BeastSaber
-[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on BeatSaver. You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
+[Beast Saber](https://www.bsaber.com) 是另一个自定义歌曲网站，旨在管理和审核 BeatSaver 上所有歌曲。 您可以下载歌曲列表、关注作者、使用高级搜索等等。
 
-### Song Management Tools
+### 歌曲管理工具
 
-There are no working song management apps available at this time.
+The following can be used to help you manage custom songs or playlists.
 
-## How do I install playlists?
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
+
+## 如何安装歌曲列表？
 
 ### PC
-You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
+您首先需要安装 [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod。
 
-Then you can either:
+接下来：
 
 * Use the `Install Playlist` tool in the Options tab of Mod Assistant.
 * Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
-You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
+您应该在自定义歌曲的封面旁边看到歌曲列表。 模组还支持管理游戏中的歌曲列表。
 
 ### Quest
-You can use [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) to manage the playlists on your Quest. Note that a custom level can only appear once in-game due to a limitation with BMBF.
+您可以使用 [Playlist editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) 来管理您 Quest 上的歌曲列表。 Note that a custom level can only appear once in-game due to a limitation with BMBF.
 
-:::warning WARNING for Quest Users Reloading your Custom Songs Folder resets all playlist organization. :::
+:::warning Quest 用户请注意 重新加载你的自定义歌曲文件夹后，会重置所有的歌曲列表顺序。 :::
 
-## How do I make my own custom levels?
-See [mapping](/mapping/)!
+## 如何制作自己的自定义歌曲？
+查看 [地图](/mapping/)！
 
-## How do I load PC mods that aren't in Mod Assistant?
-See [this section](/pc-modding.md#manual-installation) in the beginners guide.
+## 如何加载非 Mod Assistant 的 PC 模组？
+见初学者指南中的 [这一节](/pc-modding.md#manual-installation)。
 
 ## Does multiplayer have crossplay?
 Officially, multiplayer is limited to playing with other people in the store version (Oculus/Steam) you purchased. Additionally, modifying the game on Quest disables official multiplayer.
 
 The BeatTogether mod is the current solution for cross-platform play between the modded game versions. Join their [Discord server](https://discord.com/invite/gezGrFG4tz) and check the `#install-instructions` channel for more information.
 
-## My game updated and now none of my mods are working
-Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+## 游戏更新导致Mod全部失效？
+每次游戏更新时，旧版的 Mod *（很可能）*也需要更新。 To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
 
 To get mods back, simply **run the installer again.**  
 The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!
 
 If you're confused by any of this, visit [Beginners Guide](/beginners-guide.md).
 
-## How does the scoring system work in Beat Saber? How does global ranking work?
-We have sections on the [grips and tricks](/grips-and-tricks.md) page dedicated to the scoring and ranking systems, check them out!
+## Beat Saber 是如何计算得分的？ 全球排名是如何排名的？
+我们在 [控制和技巧](/grips-and-tricks.md) 页面上详细介绍了评分和排名系统。
 
-## My menus are blank and I have nothing to click on
-If the main window in your game is blank, your save file likely got corrupted.
+## 我的菜单是空白的，什么都没有？
+如果游戏界面是空的，那么你的存档很可能被破坏了。
 
-To fix it, navigate to: `%AppData%\..\LocalLow\Hyperbolic Magnetism`
+要修复这个问题，请到： `%AppData%\..\LocalLow\Hyperbolic Magnistism`
 
-Delete or rename the Beat Saber folder to something else. When you re-enter the game, it'll recreate the save file and should load the main menu properly.
+删除或重命名 Beat Saber 文件夹。 当重新进入游戏时，它会重新创建存档并加载主菜单。

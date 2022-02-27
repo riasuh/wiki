@@ -34,6 +34,11 @@ He'll teach you to fix your mods and your terribly off-beat first map. We've all
 
 [Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
+## Luna
+She's often forgetful, but happy to help
+
+**Roles:** Support
+
 ## male
 is too uncreative to think of a bio
 
@@ -56,12 +61,12 @@ This guy came out of nowhere and started helping in support saying it was some k
 ## Rex
 I really like to help people. Yeah that's all.
 
-**Roles:** Support
+**Rôles :** Support
 
 ## rui2015
 Has no creativity and doesn't know what to put here. Is a cool person though.
 
-**Rôles :** Support
+**Roles:** Support
 
 ## Sands
 He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
@@ -82,6 +87,11 @@ I swear i'm good at Beat Saber and helping just ask boulders!
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
+## StormPacer
+I can show you the world after you show me your _latest.log
+
+**Roles:** Support
+
 ## Toblersto
 I decided I wanted to help one day, and have been slightly addicted ever since.
 
@@ -96,4 +106,5 @@ The bot that holds it all together. Created by Megalon, recreated by lolPants, a
 
 ::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
 **Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed-retired)  
+**Staff:** [Assistant](./staff.md#assistant-retired) | [Eradawn](./staff.md#eradawn) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

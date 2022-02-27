@@ -34,66 +34,77 @@ Er wird dir beibringen deine Plugins und deine schrecklich schräge erste Map zu
 
 [Twitch](https://www.twitch.tv/kolezan) | [Spenden](https://paypal.me/kolezan)
 
-## male
-Ist zu unkreativ um sich eine Bio auszudenken
+## Luna
+She's often forgetful, but happy to help
 
 **Rollen:** Support
 
-## Pespiri
-Er wird mir später seine Biografie geben, sagt er zumindest.
+## male
+is too uncreative to think of a bio
 
-**Rollen:** Support, Modder
+**Roles:** Support
+
+## Pespiri
+He'll give me his bio later today, or so he says.
+
+**Roles:** Support, Modder
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-Dieser Typ kam aus dem nichts und fing an zu helfen indem er sagte, es sei eine Art von Sucht. Was für ein Spinner.
+This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
-**Rollen:** Support
+**Roles:** Support
 
-[Twitter](https://twitter.com/Radevirot) | [Spenden](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 ## Rex
-Ich mag's Leuten zu helfen. Ja, das ist alles.
+I really like to help people. Yeah that's all.
 
 **Rollen:** Support
 
 ## rui2015
-Hat keine Kreativität und weiß nicht, was man hier schreiben soll. Ist jedoch ein cooler Mensch.
+Has no creativity and doesn't know what to put here. Is a cool person though.
 
 **Rollen:** Support
 
 ## Sands
-Er hat kein Leben und ist ziemlich dumm aber er kann mit BMBF helfen und das ist alles was zählt, richtig?
+He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
 
-**Rollen:** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
 ## Simme63
-"Koks Kopf"
+"Coke Head"
 
 **Rollen:** Support
 
 ## Squares
-Ich schwöre ich bin gut in Beat Saber und helfe. Frag einfach Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
-**Rollen:** Support
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
-## Toblersto
-Ich habe entschlossen eines Tages zu helfen und bin seither etwas süchtig geworden.
+## StormPacer
+I can show you the world after you show me your _latest.log
 
-**Rollen:** Support
+**Roles:** Support
+
+## Toblersto
+I decided I wanted to help one day, and have been slightly addicted ever since.
+
+**Roles:** Support
 
 ## Channel Monitor Bot
-Der Bot, der alles zusammenhält. Erstellt von Megalon, neu erschaffen von lolPants und verkörpert von Rolo!
+The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
 
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
 ---
 
-::: tip Siehe auch **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
-**Modder:** [Kyle1413](./modders.md#kyle1413)  
-**Moderatoren:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Staff:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
+**Modders:** [Kyle1413](./modders.md#kyle1413)  
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed-retired)  
+**Staff:** [Assistant](./staff.md#assistant-retired) | [Eradawn](./staff.md#eradawn) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

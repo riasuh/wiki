@@ -1,47 +1,47 @@
 - - -
-sidebar: auto description: Get Started in the Right Direction!
+sidebar: auto description: Kom i gang i den rigtige retning!
 - - -
 
 # Begynderguide
 
-## Modding your Game
-Beat Saber is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [PC Modding](#pc-modding) and [Quest Modding](#quest-modding).
+## Modding af dit spil
+Beat Saber er tilgængelig på både PC og Oculus Quest. Siden modding scenen er forskellig for hver platform, er begynder-guiden splittet i to; [PC Modding](#pc-modding) og [Quest Modding](#quest-modding).
 
 ### PC Modding
-If you are using SteamVR or the PC version in the Oculus Store, follow our [PC Modding](./pc-modding.md) guide.
+Hvis du bruger SteamVR eller pc-versionen fra Oculus Store, så følg vores [PC Modding](./pc-modding.md) guide.
 
-Applicable hardware includes:
+Gældende hardware omfatter:
 
 * Valve Index
 * HTC Vive/Vive Pro/Vive Pro Eye/Cosmos
 * Oculus Rift/Rift S
 * Windows Mixed Reality headsets
-* Oculus Quest/Quest 2 using [Oculus Link](https://support.oculus.com/444256562873335/)
+* Oculus Quest/Quest 2 med [Oculus Link](https://support.oculus.com/444256562873335/)
 
 ### Quest Modding
-If you are using the Oculus Quest version of the game, follow our [Quest Modding](./quest-modding.md) guide.
+Hvis du bruger Oculus Quest versionen af Beat Saber, så følg vores [Quest Modding](./quest-modding.md) guide.
 
-Applicable hardware includes:
+Gældende hardware omfatter:
 
 * Oculus Quest/Quest 2
 
 ## Creating content
-One of your favorite songs is not available? Have a mod idea you want to implement? Want a custom model you want to use in-game? You can make it happen in one of two ways.
+Er en a dine yndlingsasange ikke tilgængelig? Har du en mod-idé, du vil implementere? Vil du have en tilpasset model, du vil bruge i Beat Saber? Det kan du gøre på en af to måder.
 
-* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
-* Learn how to make it yourself using the resources below!
+* Commission nogen i [Commissions Discord](https://discord.gg/e4f3WBBVnr), som er kørt af communitien
+* Lær hvordan du selv gør ved hjælp af ressourcerne nedenfor!
 
-### Making Maps
-Learn how to create your own level by following our [mapping](./mapping/) guide!
+### Maps
+Lær hvordan du laver dit eget map ved at følge vores [mapping](./mapping/) guide!
 
-### Making Mods
-Get started creating mods for the game by following our [mod creation](./modding/) guide!
+### Mods
+Kom i gang med at lave mods til Beat Saber ved at følge vores [mod creation](./modding/) guide!
 
-### Making 3D Models
-Learn how to create 3D models for the game!
+### 3D Modeller
+Lær hvordan du laver 3D modeller til spillet!
 
 * [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
+* [Avatarer](./models/avatars-guide.md)
+* [Platforme](./models/platforms-guide.md)
 * [Notes](./models/notes-guide.md)
-* **Walls** No guide is available at this time, but one is being worked on.
+* **Walls** Ingen guide er tilgængelig på dette tidspunkt, men der arbejdes på én.

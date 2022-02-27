@@ -52,7 +52,7 @@ tags:
 ## 外部リンク
 
 * [Discordサーバーに参加する](https://discord.gg/beatsabermods)
-* [お問い合わせ](http://bit.ly/MessageBSMG) スキルを提供したい、スポンサーになりたい、サーバー内のユーザーのミュート、Ban、報告など、その他問い合わせ
+* [お問い合わせ](https://bsmg.dev/contact) スキルを提供したい、スポンサーになりたい、サーバー内のユーザーのミュート、Ban、報告など、その他問い合わせ
 * [BSMG Patreon](https://www.patreon.com/beatsabermods) - BSMGサービスを支援して下さい!
 * [BeatMods](https://beatmods.com) - ModAssistantのようなインストーラーに反映されるPC用MODが保管されています
 * [BeatSaver](https://beatsaver.com/) - カスタムソングのダウンロード

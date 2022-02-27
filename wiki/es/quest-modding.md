@@ -7,7 +7,7 @@ sidebar: auto
 ## Prólogo
 
 * Esta guía es tanto para las Quest 1 como para las Quest 2.
-* Todavía no se ha baneado a nadie por moddear.
+* Nadie ha sido baneado por modificar el juego.
 
 ::: danger Descargo de responsabilidad Al elegir usar mods, entiendes que:
 
@@ -22,11 +22,11 @@ No atacar a los desarrolladores por problemas relacionados con mods, y viceversa
 En su lugar, debes seguir las guías escritas aquí en la wiki o buscar ayuda en el [Discord de BSMG ](https://discord.gg/beatsabermods). :::
 
 ## Instalación
-Currently the only recommended way to install custom songs and mods is BMBF sideloaded with [SideQuest using a PC](#installing-bmbf-with-sidequest).
+Actualmente la única forma recomendada de instalar canciones y mods personalizados es BMBF cargado con [SideQuest usando un ordenador](#installing-bmbf-with-sidequest).
 
-If you do not have access to a PC you can use an [Android Phone or Tablet](/support/modding-with-android.md). Chromebooks and iOS devices such as iPhones or iPads are not supported.
+Si no tienes acceso a un ordenador, puedes usar un [teléfono Android o Tablet](/es/support/modding-with-android.md). Chromebooks o dispositivos iOS como iPhones o iPads no son soportados.
 
-:::warning Installing BMBF and modding your game will disable Official Multiplayer as well as viewing and uploading scores on the base game leaderboards. If you would like to play modded multiplayer, you need the mod, `Beat Together`, which allows for cross-play between pc and quest and allows for custom songs to be used. The mod can be found in the [Beat Saber Modding Group](discord.gg/beatsabermods) in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
+:::warning Advertencia Instalar BMBF y modificar tu juego desactivará los servidores multijugador oficiales al igual que ver y subir puntuaciones en los marcadores del juego base. If you would like to play modded multiplayer, you need the mod, `Beat Together`, which allows for cross-play between pc and quest and allows for custom songs to be used. The mod can be found in the [Beat Saber Modding Group](discord.gg/beatsabermods) in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
 
 To get leaderboards on custom songs and to be able to get Performance Points (PP) from ranked songs you need the [ScoreSaber](https://new.scoresaber.com/quest) mod. [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
 
@@ -65,7 +65,7 @@ You can now continue to the [BMBF Setup](#bmbf-setup) section of the guide.
 
 #### BMBF Setup
 
-Once it has been successfully installed, make sure you have the latest version of Beat Saber installed and unmodded.
+Once BMBF has been successfully installed, make sure you have the latest supported version of Beat Saber installed and unmodded. Check the BSMG `#modding-announcements` channel or [QuestBoard](https://www.questmodding.com/) to see which game version this is and for other modding news.
 
 :::warning Before modding, run Beat Saber once, play a level and immediately fail!
 
@@ -158,7 +158,7 @@ Now just drag any Quest compatible mods into the upload box and sync. If the mod
 You can now download songs in-game using SongDownloader (core mod) There are a few steps to downloading songs in-game:
 
 1. Open Beat Saber
-2. Go into Mod Settings (Settings -> Mod Settings)
+2. On the main menu, look at the Mods screen, on the left.
 3. Open the SongDownloader tab
 4. Search for a song and download it.
 
@@ -267,7 +267,7 @@ This is most likely due to having an outdated BMBF App, grab the latest [BMBF Re
 If your game is crashing when doing something, disable your mods one by one, running your game each time to see if the issue is fixed before asking for help in a support channel.
 
 ### I only see a white screen when I open BMBF
-If you only see a white screen when you open BMBF from unknown sources, try waiting a few secconds. If that does not work, restart your quest and try opening BMBF again.
+If you only see a white screen when you open BMBF from unknown sources, try waiting a few seconds. If that does not work, restart your quest and try opening BMBF again.
 
 ### My Beat Saber gets 3 dots when I launch
 If your Beat Saber is getting 3 dots when launching make sure that:

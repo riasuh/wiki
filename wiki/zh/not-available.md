@@ -4,17 +4,17 @@ sidebar: false
 
 <!-- Disable header rule to hide page from search -->
 <!-- markdownlint-disable MD041 -->
-Sorry, this page has not yet been translated.
+抱歉，此页面尚未被翻译。
 
-You can:
+你可以：
 
-* Switch to the English version from the language menu.
-* Wait until this page has been translated.
-* Help translate this page from English along with the rest of the wiki by [applying here](https://forms.gle/e3BqA3poMjESARe76)!
+* 从语言菜单切换到英文版。
+* 等待此页面被翻译。
+* [申请](https://forms.gle/e3BqA3poMjESARe76) 来帮助翻译这个英语页面和其他wiki！
 
-[Return to the Homepage](/)
+[返回首页](/)
 
-Help improve this page!  
-Last Updated  
-Home  
+帮助改进这个页面！  
+最后更新  
+首页  
 BSMG Discord

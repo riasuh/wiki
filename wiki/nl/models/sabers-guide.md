@@ -13,26 +13,32 @@ Omdat mensen nog steeds moeite hebben met het maken van hun eigen sabers, denken
 ## Voorbereiding
 JE MOET PERSE DEZE DINGEN HEBBEN:
 
-* Unity 2018.1.6f1 voor het maken van een saber bestand (*.saber). [Download HIER](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
-* Het Custom Saber Unity Project. [Download HIER](https://cdn.discordapp.com/attachments/468249466865057802/703747388556181534/Custom_Sabers-4.3.0-UnityProject.zip)
+* Unity [2019.3.15f1](https://unity3d.com/get-unity/download/archive)
+  * You need to go to the tab that says `Unity 2019.x` and scroll down to 2019.3.15. This has to be installed with [Unity Hub](https://unity3d.com/get-unity/download).
+  * Need a guide on how to install? [Check out this Unity guide to Unity Hub.](https://docs.unity3d.com/Manual/LicensesAndActivation.html)
+* [The Custom Saber Unity project.](https://cdn.discordapp.com/attachments/468249466865057802/935252103935434762/Unity2019.3.15-CustomSaber-4.3.0.zip)
 * Een 3D model van een saber naar keuze. De meest gebruikte bestanden zijn .obj en .fbx bestanden. Je kan je saber model downloaden van 3D model websites als Sketchfab en turbosquid.
 
 Optioneel:
 
 * 3D modelleer programma: Blender is een goede gratis optie, of 3dsmax als je er een licentie voor hebt (educatieve licentie is prima)
 * Afbeelding bewerkings programma: [Photoshop](https://www.adobe.com/products/photoshop.html) of [GIMP](https://www.gimp.org/downloads/) werken prima als je je eigen saber texture wilt maken
-* Het saber model dat gebruikt word in deze handleiding. [Download HIER](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
+* The saber model used in [this tutorial.](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
 
 ## Installatie
 Pak het Custom Saber Unity project uit naar jouw gewenste locatie.
 
-Als je Unity hub gebruikt, klik dan op Add, selecteer de map van het project waar het net uitgepakt is, en klik op Select folder.
+### Importing and setting Unity version of the project
 
-![Custom Saber project toevoegen](~@images/models/sabers/01.png)
+![Adding Custom Saber project](~@images/models/sabers/01.png)
 
-Het saber project zou nu in de lijst moeten verschijnen. Controleer dat de Unity versie correct is voor het project.
+The Custom saber project should appear on the list. Make sure the Unity version is correct for the project.
 
-![Controleren dat de versie correct is](~@images/models/sabers/02.png)
+![Checking that the project version is correct](~@images/models/sabers/02.png)
+
+![If the Unity version is incorrect, change this to match the project version.](~@images/models/sabers/02-2.png)
+
+### Opening and setting up the project in the Editor
 
 Open het project, het zou er zo uit moeten zien:
 
@@ -120,7 +126,7 @@ Deze sectie behandelt dingen die niet in de hoofd gids aan bod komen, zoals hoe 
 
 Andere Scripts zijn beschikbaar in `Assets/CustomSaber.dll`. Klik op de kleine pijl om het uit te breiden. ![Uitvouwen van CustomSaber.dll](~@images/models/sabers/12.png)
 
-### Evenementen Manager
+### EventManager
 Dit component laat je een actie instellen wanneer aan een bepaalde evenement voorwaarde is voldaan. Dit is bijvoorbeeld wanneer je een blok raakt, een blok mist, wanneer je een level start, etc...
 
 Om het te gebruiken, klik je op de plus knop om een nieuw evenement te maken, sleep het GameObject dat het evenement uitvoert in het vak, en kies wat je wilt dat dit GameObject doet.
@@ -129,16 +135,16 @@ Als je meer informatie wilt over evenementen, lees dan de [Evenementen](./avatar
 
 ![Evenement toevoegen](~@images/models/sabers/13.png)
 
-### Elke Nde Combo Filter
+### Every Nth Combo Filter
 Dit component laat je een actie uitvoeren bij elke N combo. Het werkt hetzelfde als de `Evenementen Manager`, maar zal alleen uitvoeren bij elke keer dat je een combo van N hebt.
 
-### Trails
+### Custom Trails
 Dit component laat je de standaard trails aanpassen voor zwaarden. Voor een uitgebreide handleiding over het gebruik van trails, word [MDot's custom trail guide](https://mdotamaan.github.io/BeatSaber-CustomTrailsGuide/) aangeraden.
 
-### Animatie
+### Animation
 Als je je sabers een bepaalde animatie wilt laten spelen, moet je een `Animator` component gebruiken. Dit zal je in staat stellen om beter te beheren welke animatie je maakt, ook het laat het je bepalen hoe de animatie overgaat/afgaat met de Event Manager. [Meer informatie over het animator component is beschikbaar in de unity documentatie hier](https://docs.unity3d.com/Manual/class-AnimatorController.html).
 
-### Geavanceerde Shader Eigenschappen
+### Advanced Shader Properties
 Als je shaders wilt modificeren om de kleuren van de speler te gebruiken zonder de Glow aan te hoeven passen, dan is dit mogelijk om dit te ondersteunen.
 
 Voeg dit code fragment toe aan de `Properties` sectie van je shader. Als je al een eigenschap hebt met de naam `_Color`, zorg dat je die weghaalt!

@@ -4,44 +4,44 @@ sidebar: auto description: Get Started in the Right Direction!
 
 # 新手指南
 
-## Modding your Game
-Beat Saber is available for both PC and Oculus Quest. Since the modding scene is different for both platforms, the beginners guide is split into [PC Modding](#pc-modding) and [Quest Modding](#quest-modding).
+## 给 Beat Saber 安装 Mod
+PC 平台和 Oculus Quest 都可以下载安装 Beat Saber。 而且这两种平台安装 Mod 的方式不一样，所以本指南也分为 [PC平台](#pc-modding) 和 [Quest平台](#quest-modding)。
 
-### PC Modding
-If you are using SteamVR or the PC version in the Oculus Store, follow our [PC Modding](./pc-modding.md) guide.
+### PC平台 Mod
+如果你是使用 SteamVR 或者 PC 版本的 Oculus 商店，请看我们的 [PC平台Mod](./pc-modding.md) 指南。
 
-Applicable hardware includes:
+适用设备包括：
 
 * Valve Index
 * HTC Vive/Vive Pro/Vive Pro Eye/Cosmos
 * Oculus Rift/Rift S
-* Windows Mixed Reality headsets
+* Windows Mixed Reality 头戴
 * Oculus Quest/Quest 2 using [Oculus Link](https://support.oculus.com/444256562873335/)
 
-### Quest Modding
-If you are using the Oculus Quest version of the game, follow our [Quest Modding](./quest-modding.md) guide.
+### Quest 平台 Mod
+如果你的游戏是 Oculus Quest 版本，请看我们的 [Quest平台 Mod](./quest-modding.md) 指南。
 
-Applicable hardware includes:
+适用设备包括：
 
 * Oculus Quest/Quest 2
 
-## Creating content
-One of your favorite songs is not available? Have a mod idea you want to implement? Want a custom model you want to use in-game? You can make it happen in one of two ways.
+## 创建内容
+没有找到你喜欢的歌曲？ 有想要实现的 Mod 创意？ 想要一个您想要的自定义模型吗？ 你可以用两种方式实现它。
 
-* Commission someone in the community run [Commissions Discord](https://discord.gg/e4f3WBBVnr)
-* Learn how to make it yourself using the resources below!
+* 请社区中的帮忙制作 [Commissions Discord](https://discord.gg/e4f3WBBVnr)
+* 学习如何使用下面的资源自己制作！
 
-### Making Maps
-Learn how to create your own level by following our [mapping](./mapping/) guide!
+### 制作图谱
+按照我们的 [图谱](./mapping/) 指南学习如何创建自己的关卡！
 
-### Making Mods
-Get started creating mods for the game by following our [mod creation](./modding/) guide!
+### 制作 Mod
+按照我们的 [创建 Mod](./modding/) 指南为游戏创建 Mod！
 
-### Making 3D Models
-Learn how to create 3D models for the game!
+### 制作 3D 模型
+学习如何为游戏创建3D模型！
 
-* [Sabers](./models/sabers-guide.md)
-* [Avatars](./models/avatars-guide.md)
-* [Platforms](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
-* **Walls** No guide is available at this time, but one is being worked on.
+* [方块](./models/sabers-guide.md)
+* [角色](./models/avatars-guide.md)
+* [游戏平台](./models/platforms-guide.md)
+* [游戏备注](./models/notes-guide.md)
+* **墙壁** 目前没有可用的指南，但正在制作。

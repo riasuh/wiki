@@ -49,7 +49,7 @@ tags:
 ## Liens externes
 
 * [Rejoignez le serveur Discord ! (anglophone)](https://discord.gg/beatsabermods)
-* [Nous contacter](http://bit.ly/MessageBSMG) - Offrez vos compétences, sponsorisez-nous, faites appel d'une décision administrative (ban, mise au silence), etc.
+* [Contact Us](https://bsmg.dev/contact) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
 * [Patreon BSMG](https://www.patreon.com/beatsabermods) - Soutenez les services BSMG !
 * [BeatMods](https://beatmods.com) - Dépôt des mods sur PC que l'on retrouve dans les installateurs comme Mod Assistant
 * [BeatSaver](https://beatsaver.com/) - Téléchargez les chansons personnalisées ici

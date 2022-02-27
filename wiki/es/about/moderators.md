@@ -22,11 +22,6 @@ crippling destiny addiction
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
-## Eradawn
-"Findus says hai"
-
-**Roles:** Moderator, Support
-
 ## Hydrand
 Camellia is SourPls
 
@@ -56,11 +51,6 @@ Any stroopwafels?
 
 [Twitch](https://twitch.tv/olafstad)
 
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
-
-**Roles:** Support, Moderator
-
 ## RangeValley
 > Mi padre trabajó durante años como administrador, pero fue despedido cuando los robots tomaron el poder. Volvió a casa esa noche y me dijo que teníamos que mudarnos a la furgoneta, ya que ya no podíamos permitirnos el alquiler, entonces me pego una paliza con unas pinzas para la bateria. El shitpost deberia ser legal.
 
@@ -85,47 +75,52 @@ kinda vibing
 
 **Roles:** Moderator
 
-## BeigeAnimal (Retirado)
+## BeigeAnimal (Retired)
 We had to whip this boy into a bit of shape but he's was one of the most effective moderators. He's not really specialized in any field but he's willing to lend a helping **provided they ask in the right channel.** Also hates sketchfab links.
 
 **Roles:** Moderator, 3D Artists
 
 [Twitch](https://www.twitch.tv/beigeanimaltv) | [Paypal](https://paypal.me/beigeanimal)
 
-## DeeJay (Retirado)
+## DeeJay (Retired)
 Pepega
 
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/deejayvr)
 
-## Guatapuri (Retirado)
+## Guatapuri (Retired)
 "Came for the game, Stayed for the hugs"
 
 **Roles:** Mapper, Moderator
 
-## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Retirada)
+## 𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯 (Retired)
 Poi!
 
 **Roles:** 3D Artists, Support, Moderator
 
 [Twitch](https://www.twitch.tv/br3uker)
 
-## joelseph (Retirado)
+## joelseph (Retired)
 \+ joelseph
 
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/tehjoelseph)
 
-## Maladaze (Retirado)
+## Maladaze (Retired)
 Can't hit jumps
 
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
 
-## Pyrowarfare (Retirado)
+## OneEyed (Retired)
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+
+**Roles:** Support, Moderator
+
+## Pyrowarfare (Retired)
 A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.
 
 **Roles:** Moderator, Mapping Support

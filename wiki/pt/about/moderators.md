@@ -1,31 +1,26 @@
 # Moderadores
 Com um servidor tão grande, é necessário muita moderação para manter tudo sob controle. Você pode agradecer a esta equipe por manter as ruas limpas.
 
-## 24Kings
-I slap Java code together and it works most of the time. Fellow crippling Minecraft addict
+## 24Reis
+Eu boto código Java junto e funciona a maior parte do tempo. Fellow crippling Minecraft addict
 
-**Roles:** Moderator
+**Cargos:** Moderador
 
 [Twitter](https://twitter.com/24Kings_Rock) | [Twitch](https://twitch.tv/24Kings) | [GitHub](https://github.com/The24Kings)
 
 ## Burrito
-Ironically doesn't like burritos, thinks tacos are better (true facts)
+Ironicamente não gosta de burritos, pensa que tacos são melhores (fatos verdadeiros)
 
-**Roles:** Moderator, Support
+**Cargos:** Moderador, Support
 
 [Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
 crippling destiny addiction
 
-**Roles:** Support, 3D Artists, Moderator
+**Cargos:** Support, 3D Artists, Moderador
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
-
-## Eradawn
-"Findus says hai"
-
-**Roles:** Moderator, Support
 
 ## Hydrand
 Camellia is SourPls
@@ -42,29 +37,24 @@ Camellia is SourPls
 ## Kuru
 All they can say is that the R in Kuru stands for Rat
 
-**Roles:** Moderator
+**Cargos:** Moderador
 
 ## Nym
 "i like the gaymes. Addicted to many, don't like any of them, send cat pics."
 
-**Roles:** Moderator
+**Cargos:** Moderador
 
 ## Olaf
 Any stroopwafels?
 
-**Roles:** Moderator
+**Cargos:** Moderador
 
 [Twitch](https://twitch.tv/olafstad)
-
-## OneEyed
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
-
-**Roles:** Support, Moderator
 
 ## RangeValley
 > My dad worked for years as an admin, but he got laid off when bots took over. He came home that night and told me we had to move into the van, since we couldn't afford rent anymore, then he beat the shit out of me with jumper cables. Shitposting should be legal.
 
-**Roles:** Moderator
+**Cargos:** Moderador
 
 ## Razor
 Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
@@ -124,6 +114,11 @@ Can't hit jumps
 **Roles:** Moderator
 
 [Twitch](https://www.twitch.tv/infjager)
+
+## OneEyed (Retired)
+2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+
+**Roles:** Support, Moderator
 
 ## Pyrowarfare (Retired)
 A BeastSaber admin who wrote the majority of content for [How to Playtest](./how-to-testplay.md), [Mapping Anxiety](./mapping-anxiety.md), and contibuted on various other pages. Be warned: you will be asked to talk about your feelings.

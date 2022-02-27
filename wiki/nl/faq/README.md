@@ -13,7 +13,10 @@ Als je de nummers handmatig download van BeatSaver, pak deze dan uit naar een ma
 
 ### Hulpmiddelen voor het beheren van nummers
 
-Er zijn op dit moment geen werkende apps voor het beheren van je nummers beschikbaar.
+The following can be used to help you manage custom songs or playlists.
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
 
 ## Hoe kan ik een afspeellijst installeren?
 
@@ -22,8 +25,8 @@ Hiervoor moet je de [PlaylistManager](https://github.com/rithik-b/PlaylistManage
 
 Daarna kan je één van de onderstaande twee dingen doen:
 
-* Gebruik de `Install Playlist` knop in het Options tabblad in Mod Assistant.
-* Plaats de afspeellijst in `Beat Saber/Playlists`, selecteer de titel van de afspeellijst in het spel en klik vervolgens op de download all songs knop.
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Je zou in het spel de afspeellijst naast de custom levels albums moeten kunnen zien. De mod ondersteunt ook het beheren van afspeellijsten in het spel.
 

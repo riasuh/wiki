@@ -3,13 +3,13 @@ sidebar: "false"
 description: Learn how to get started testing other mappers maps!
 ---
 
-# How to Testplay
-You may have noticed the playtesters that donate their time and energy to helping new and old mappers alike create the best maps they can.
+# テストプレイの方法
+最高のマップ作成のために初心者から熟練者までのマップ作成を手伝い、多くの時間と労力をかける人々の存在に気付いたことがあるでしょうか。
 
-Have you been interested in helping out but, don’t know where to begin? Fear not! This page will help you to get started. No matter your skill level, both as a player or as a mapper, your feedback will be appreciated.
+人々を助けることに興味がありますか？もしくはどこから始めたらいいかと考えていますか ためらわないでください。 このガイドを読めばすぐに始められます。 No matter your skill level, both as a player or as a mapper, your feedback will be appreciated.
 
-## Getting Started
-The only real things you need to get started with testplaying is a willingness to help, and a modded copy of Beat Saber with at least the SongCore mod installed. If you’ve never testplayed before, and feel you want to dip your toes in the water, written feedback instead of video is totally acceptable as you learn the ropes.
+## はじめましょう
+テストプレイに唯一必要なことは助ける気持ちです。そして少なくともSongCore modをインストールしてあることです。 今までにテストプレイしたことがなく、どのようなものかまったくわからないなら、ビデオのかわりにテキストでのフィードバックも歓迎します。
 
 1. Head to the `#testplays` channel and pick out a map(s) that’s within your skill range. As you are getting started, **DO NOT** download any maps that the bot does not respond to. Additionally, it is best to avoid maps that are labelled as a first map until you have an understanding of basic mapping practices, to prevent maps with common rookie errors being overlooked, and then published.
 2. On the map(s) you have downloaded, drop an `:eyes:` (:eyes:) reaction on the post to indicate that you have downloaded the map and will be reviewing it. You can do this by hovering over the post. ![Eyes Reaction Location](~@images/mapping/eyes_emote-location.png)
@@ -118,7 +118,7 @@ At the end of the day, it is on the mapper to take the feedback into account how
 ---
 
 **Where do I upload my testplay videos?**  
-Streamable and YouTube are the most common places to have testplays uploaded. Streamable has a video limit of 10 minutes and file size limit of 500MB without a premium account, and will delete videos after a couple months of inactivity. However, YouTube takes a bit more work to upload, and you risk getting a copyright claim or strike (although it is very unlikely to harm your channel). Some testplayers will also stream their testplays on Twitch, and then link the vods, although that also risks copyright strikes.
+Streamable and YouTube are the most common places to have testplays uploaded. Streamable has a video limit of 10 minutes and file size limit of 250MB without a premium account, and will delete videos after a couple months of inactivity. However, YouTube takes a bit more work to upload, and you risk getting a copyright claim or strike (although it is very unlikely to harm your channel). Some testplayers will also stream their testplays on Twitch, and then link the vods, although that also risks copyright strikes.
 
 ---
 

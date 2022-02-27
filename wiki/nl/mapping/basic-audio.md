@@ -334,15 +334,15 @@ Om een compatibel geluidsbestand te genereren moeten we het volgende doen:
 2. Klik op `File menu -> Export -> Export as OGG`.  
    ![Exporteren als Ogg locatie](~@images/mapping/audacity-export.png)
 3. Noem jouw bestand `song.ogg`.
-4. Kies een passende OGG-kwaliteit ([meer info hier](./advanced-audio.md#choosing-appropriate-ogg-export-quality)):  
-   ![Exporteer kwaliteit schuifbalk](~@images/mapping/export-quality.png)
-   * Hoge kwaliteit audiobestand (WAVE / FLAC / MP3 / AAC): gebruik 6-9 (tenzij er problemen zijn met de bestandsgrootte).
-   * Lage kwaliteit audiobestand (YouTube of vergelijkbaar): gebruik 3-5.
-5. Klik op Save.
+4. Choose an appropriate OGG quality ([more info here](./advanced-audio.md#choosing-appropriate-ogg-export-quality)).
+   * High quality source (WAVE / FLAC / MP3 / AAC) use 6-9 (unless there is a file size issue.)
+   * Low quality source (YouTube or such): use 3-5
+5. Click Save.  
+   ![Export Quality Slider](~@images/mapping/export-quality.png)
 
 Het audiobestand is nu klaar voor gebruik in elke level editor. Voer dezelfde BPM, die je eerder hebt gevonden, in in je gekozen level editor en zorg ervoor dat je 0ms offset gebruikt voor alle niveaus (omdat het nummer al is gesynchroniseerd met de beat).
 
-::: warning OPMERKING Het audiobestand mag niet groter zijn dan ~12MB door BeatSavers 14,3MB zipbestand limiet. De vermelde 15 MB klopt niet. Als dit het geval is exporteer dan naar een lagere kwaliteit totdat de bestandsgrootte van het bestand voldoet aan het limiet. ZIP-bestanden van meer dan 8 MB kunnen niet rechtstreeks worden gedeeld op Discord (zonder Nitro of Server Boost Level 2) om deze te testen. :::
+::: warning NOTE Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord (without Nitro or Server Boost Level 2) for playtesting. :::
 
 ## Bijdragen
 Inhoud op deze pagina wordt afgeleid van de handleidingen door [Kolezan](./mapping-credits.md#kolezan) & [Nik](./mapping-credits.md#nik-n3tman).

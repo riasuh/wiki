@@ -3,11 +3,11 @@ sidebar: auto
 ---
 
 # Rankning och Poängguide
-Written by Teknoz
+Skriven av Teknoz
 
-*Stort tack till Flee för att ha korrigerat grammatikmisstag och gett användbar information.*
+*Stort tack till Flee för rättning av grammatiska fel och tillhandahållandet av användbar information.*
 
-:::warning Varning Denna guide skrevs ursprungligen den 7:e februari 2019. It has been updated multiple times but some information may be inaccurate or missing. If you notice inaccurate/missing information in this guide, you can submit a pull request on the [BSMG Wiki GitHub](https://github.com/bsmg/wiki#readme) or send me a message on Discord (teknoz#6900). :::
+:::warning Varning Denna guide skrevs ursprungligen den 7:e februari 2019. Den har uppdaterats ett flertal gånger, men viss information kan vara felaktig eller saknas. Om du ser att någon information i den här guiden är felaktig eller saknas, så kan du skicka en pull request på [BSMG Wikins GitHub](https://github.com/bsmg/wiki#readme) eller ett meddelande till mig på Discord (teknoz#6900). :::
 
 ## Noggrannhet och poängsättning
 

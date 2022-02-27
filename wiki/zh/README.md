@@ -2,9 +2,9 @@
 home: true
 title: BSMG Wiki
 heroText: BSMG Wiki
-tagline: Welcome to the Beat Saber Modding Group Wiki!
-description: Welcome to the Beat Saber Modding Group Wiki!
-actionText: Beginners Guide →
+tagline: 欢迎使用 Beat Saber Modding Group Wiki ！
+description: 欢迎使用 Beat Saber Modding Group Wiki ！
+actionText: 新手指南 →
 actionLink: ./beginners-guide.md
 footer: Copyright © 2019-2021 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
@@ -20,28 +20,28 @@ tags:
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
-::: feature Getting Started
+::: feature 快速开始
 
-* [PC Modding](./pc-modding.md)
-* [Quest Modding](./quest-modding.md)
-* [Common Problems](./support/)
-* [Grips and Tricks](./grips-and-tricks.md)
-* [Ranking & Scoring Guide](./ranking-guide.md)
+* [PC 平台 Mod](./pc-modding.md)
+* [Quest 平台 Mod](./quest-modding.md)
+* [故障排查](./support/)
+* [光剑](./grips-and-tricks.md)
+* [提高分数排名指南](./ranking-guide.md)
 :::
 
-::: feature Creating new Content
+::: feature 制作新内容
 
-* [Modder's Guide](/modding/)
-* [Mapper Resources](/mapping/)
-* [3D Models Guide](/models/)
+* [Mod 作者指南](/modding/)
+* [图谱资源](/mapping/)
+* [3D 模型指南](/models/)
 :::
 
-::: feature Other Resources
+::: feature 其他资源
 
-* [About Us](/about/)
-* [Health and Safety](./health-and-safety.md)
-* [Frequently Asked Questions](/faq/)
-* [Communities](/communities/)
+* [关于我们](/about/)
+* [健康和安全](./health-and-safety.md)
+* [常见问题](/faq/)
+* [社区](/communities/)
 :::
 
 </div>
@@ -49,17 +49,17 @@ tags:
 
 ---
 
-## External Links
+## 相关链接
 
-* [Join the Discord server!](https://discord.gg/beatsabermods)
-* [Contact Us](http://bit.ly/MessageBSMG) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
-* [BSMG Patreon](https://www.patreon.com/beatsabermods) - Support the BSMG Services!
-* [BeatMods](https://beatmods.com) - Repository of PC mods that are reflected in installers like Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Download custom songs here
-* [BeastSaber](https://bsaber.com/) - Reviews, articles, playlists, and more!
-* [ModelSaber](https://modelsaber.com/) - Download PC custom sabers, avatars, bloqs, and platforms!
-* [Qosmetics Discord](https://discord.gg/qosmetics) - Download Quest custom sabers, walls, and bloqs!
-* [ScoreSaber](https://scoresaber.com/) - Custom map leaderboards
-* [Apply to Help Translate the Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localize the wiki to your language!
-* [Steam Store Page](https://store.steampowered.com/app/620980/Beat_Saber/)
-* [Oculus Store Page](https://www.oculus.com/experiences/rift/1304877726278670/)
+* [加入 Discord](https://discord.gg/beatsabermods)
+* [联系我们](https://bsmg.dev/contact) - 为你提供支持、赞助我们、 申诉 Discord 禁言或黑名单、 举报用户等。
+* [BSMG Patreon](https://www.patreon.com/beatsabermods) -支持 BSMG 服务!
+* [ BeatMods ](https://beatmods.com) - PC Mod 库，可用安装器安装，比如 Mod Assistant
+* [BeatSaver](https://beatsaver.com/) - 下载自定义歌曲
+* [BeastSaber](https://bsaber.com/) - 评论、文章、播放列表以及其他
+* [ModelSaber](https://modelsaber.com/) - 下载PC 自定义的方块、头像、光剑和平台！
+* [Qosmetics Discord](https://discord.gg/qosmetics) - 下载任务自定义的方块、墙壁和光剑！
+* [ScoreSaber](https://scoresaber.com/) - 自定义ScoreSaberScoreSaber排行榜
+* [申请帮助翻译](https://forms.gle/e3BqA3poMjESARe76) - 将 wiki 翻译为你的语言！
+* [Steam商店页面](https://store.steampowered.com/app/620980/Beat_Saber/)
+* [Oculus 商店页面](https://www.oculus.com/experiences/rift/1304877726278670/)

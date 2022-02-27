@@ -13,7 +13,10 @@ BeatSaverから手動でマップをダウンロードする場合は、それ�
 
 ### カスタム曲管理ツール
 
-現時点で楽曲を管理するアプリは利用できません。
+カスタム曲・プレイリストの管理には、下記のような方法があります。
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) はカスタム曲・プレイリストを管理するデスクトップアプリで、**ranmd9a**氏によって管理されています。
+* [BeaterList](https://syltaris.github.io/beaterlist)はブラウザ上でプレイリストを管理する**zexurge**氏作成のサービスです。
 
 ## プレイリストをインストールするにはどうすればいいですか?
 

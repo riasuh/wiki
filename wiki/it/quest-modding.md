@@ -65,7 +65,7 @@ You can now continue to the [BMBF Setup](#bmbf-setup) section of the guide.
 
 #### BMBF Setup
 
-Once it has been successfully installed, make sure you have the latest version of Beat Saber installed and unmodded.
+Once BMBF has been successfully installed, make sure you have the latest supported version of Beat Saber installed and unmodded. Check the BSMG `#modding-announcements` channel or [QuestBoard](https://www.questmodding.com/) to see which game version this is and for other modding news.
 
 :::warning Before modding, run Beat Saber once, play a level and immediately fail!
 
@@ -81,7 +81,7 @@ If at any point during the install process you get the `Restore App` popup, just
 
 Continue to the [Core Mods](#core-mods) step of the installation process.
 
-## Manage Save Data
+## Gestisci i Dati di Salvataggio
 
 ### Backup Save Data using SideQuest
 
@@ -98,7 +98,7 @@ Save the files: `AvatarData.dat`, `PlayerData.dat` and `settings.cfg` into a fol
 To restore your data, open SideQuest and connect your Quest to your PC.  
 Using the SideQuest file explorer, take the 3 files you saved from the [Backup Save Data using SideQuest](#backup-save-data-using-sidequest) steps `AvatarData.dat`, `PlayerData.dat` and `settings.cfg` and put them in the `sdcard/Android/data/com.beatgames.beatsaber/files` folder.
 
-## Installing Mods
+## Installando le Mod
 
 ### Core Mods
 Before installing any additional mods look in the top right of the BMBF web interface, you should see a red button that says, `Sync to Beat Saber`. Click this and let it finish syncing. Then go to your `mods` tab in BMBF. Make sure that you have the 7 core mods:
@@ -158,7 +158,7 @@ Now just drag any Quest compatible mods into the upload box and sync. If the mod
 You can now download songs in-game using SongDownloader (core mod) There are a few steps to downloading songs in-game:
 
 1. Open Beat Saber
-2. Go into Mod Settings (Settings -> Mod Settings)
+2. On the main menu, look at the Mods screen, on the left.
 3. Open the SongDownloader tab
 4. Search for a song and download it.
 
@@ -190,10 +190,10 @@ If the web interface doesn't load [click here](#bmbf-web-interface-not-loading) 
 
 If you want to test a map you have created see the [Testing on a Quest](/mapping/#testing-on-a-quest) Section in the Mapping Wiki section for steps on packing it up for testing! :::
 
-## Installing Models
+## Installando i Modelli
 Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your sabers, bloqs or walls look in-game!
 
-## Useful Links
+## Link Utili
 
 * [Qosmetics Community](https://discord.gg/qosmetics) - Server dedicated to making and using sabers, bloqs, walls, and more for Quest.
 * [Qosmetics Creation Guides](https://github.com/RedBrumbler/Qosmetics/wiki) - Guides to create your own custom sabers, bloqs, and walls for Quest.
@@ -203,7 +203,7 @@ Join the [Qosmetics Community](https://discord.gg/qosmetics) to change how your 
 * [ScoreSaber Mod](https://new.scoresaber.com/quest) - Get in-game leaderboards for custom songs
 * [ScoreSaber](https://scoresaber.com) - The website to view custom song leaderboards outside of the game.
 
-## Troubleshooting
+## Risoluzione dei Problemi
 :::warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives? We at BSMG **strongly** advise against using any video tutorials for modding. Often, we find that they are either outdated or contain incomplete, erroneous, or straight up incorrect information.
 
 Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
@@ -267,7 +267,7 @@ This is most likely due to having an outdated BMBF App, grab the latest [BMBF Re
 If your game is crashing when doing something, disable your mods one by one, running your game each time to see if the issue is fixed before asking for help in a support channel.
 
 ### I only see a white screen when I open BMBF
-If you only see a white screen when you open BMBF from unknown sources, try waiting a few secconds. If that does not work, restart your quest and try opening BMBF again.
+If you only see a white screen when you open BMBF from unknown sources, try waiting a few seconds. If that does not work, restart your quest and try opening BMBF again.
 
 ### My Beat Saber gets 3 dots when I launch
 If your Beat Saber is getting 3 dots when launching make sure that:

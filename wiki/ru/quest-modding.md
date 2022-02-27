@@ -24,9 +24,9 @@ sidebar: auto
 ## Установка
 Currently the only recommended way to install custom songs and mods is BMBF sideloaded with [SideQuest using a PC](#installing-bmbf-with-sidequest).
 
-If you do not have access to a PC you can use an [Android Phone or Tablet](/support/modding-with-android.md). Chromebooks and iOS devices such as iPhones or iPads are not supported.
+If you do not have access to a PC you can use an [Android Phone or Tablet](/support/modding-with-android.md). Устройства Chromebooks и iOS, такие как iPhones или iPads, не поддерживаются.
 
-:::warning Installing BMBF and modding your game will disable Official Multiplayer as well as viewing and uploading scores on the base game leaderboards. If you would like to play modded multiplayer, you need the mod, `Beat Together`, which allows for cross-play between pc and quest and allows for custom songs to be used. The mod can be found in the [Beat Saber Modding Group](discord.gg/beatsabermods) in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
+:::warning ВНИМАНИЕ Установка BMBF и модификация игры отключит возможность играть в официальный сетевой режим, просмотр и загрузку очков на официальную таблицу лидеров. Если вы хотите играть в мультиплеер на модифицированной версии игры, то вам нужна модификация `Beat Together`, которая позволяет играть с разных платформ (ПК\Quest), и использовать пользовательские песни, если все участники уже установили эту песню перед началом игры. Эту модификацию можно найти в [Beat Saber Modding Group](discord.gg/beatsabermods) в `#quest-mods` или же на сайте [Questboard](https://questmodding.com).
 
 To get leaderboards on custom songs and to be able to get Performance Points (PP) from ranked songs you need the [ScoreSaber](https://new.scoresaber.com/quest) mod. [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
 
@@ -63,9 +63,9 @@ Select the `Install APK from folder` button shown below and find the latest BMBF
 
 You can now continue to the [BMBF Setup](#bmbf-setup) section of the guide.
 
-#### BMBF Setup
+#### Установка BMBF
 
-Once it has been successfully installed, make sure you have the latest version of Beat Saber installed and unmodded.
+Once BMBF has been successfully installed, make sure you have the latest supported version of Beat Saber installed and unmodded. Check the BSMG `#modding-announcements` channel or [QuestBoard](https://www.questmodding.com/) to see which game version this is and for other modding news.
 
 :::warning Before modding, run Beat Saber once, play a level and immediately fail!
 
@@ -101,7 +101,7 @@ Using the SideQuest file explorer, take the 3 files you saved from the [Backup S
 ## Установка модификаций
 
 ### Core Mods
-Before installing any additional mods look in the top right of the BMBF web interface, you should see a red button that says, `Sync to Beat Saber`. Click this and let it finish syncing. Then go to your `mods` tab in BMBF. Make sure that you have the 7 core mods:
+Before installing any additional mods look in the top right of the BMBF web interface, you should see a red button that says, `Sync to Beat Saber`. Click this and let it finish syncing. Затем перейдите на вкладку `mods` в BMBF. Убедитесь, что у вас есть 7 базовых модификаций:
 
 * Custom Types
 * Codegen
@@ -111,7 +111,7 @@ Before installing any additional mods look in the top right of the BMBF web inte
 * SongDownloader
 * PinkCore
 
-:::danger Other mods will not work without these Core Mods!
+:::danger ВНИМАНИЕ Другие модификации не будут работать без этих базовых модификаций!
 
 If one of these mods are not listed, try the reinstall button in the `Tools` Tab inside of BMBF. If it still does not appear, or mods are appear but not working in-game, see [Core Mods don't work](#core-mods-don-t-work) for troubleshooting steps. :::
 
@@ -158,7 +158,7 @@ Now just drag any Quest compatible mods into the upload box and sync. If the mod
 You can now download songs in-game using SongDownloader (core mod) There are a few steps to downloading songs in-game:
 
 1. Open Beat Saber
-2. Go into Mod Settings (Settings -> Mod Settings)
+2. On the main menu, look at the Mods screen, on the left.
 3. Open the SongDownloader tab
 4. Search for a song and download it.
 
@@ -267,7 +267,7 @@ This is most likely due to having an outdated BMBF App, grab the latest [BMBF Re
 If your game is crashing when doing something, disable your mods one by one, running your game each time to see if the issue is fixed before asking for help in a support channel.
 
 ### I only see a white screen when I open BMBF
-If you only see a white screen when you open BMBF from unknown sources, try waiting a few secconds. If that does not work, restart your quest and try opening BMBF again.
+If you only see a white screen when you open BMBF from unknown sources, try waiting a few seconds. If that does not work, restart your quest and try opening BMBF again.
 
 ### My Beat Saber gets 3 dots when I launch
 If your Beat Saber is getting 3 dots when launching make sure that:

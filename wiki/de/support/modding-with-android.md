@@ -69,48 +69,48 @@ Gehe danach zum [Oculus Dashboard](https://dashboard.oculus.com/) und erstelle e
 ![DevModeCreateOrg](~@images/beginners-guide/DevModeCreateOrg.png)
 
 #### Füge dich zur Organisation hinzu
-After you created your Organization you have to add your Facebook profile to your Organization by Selecting your Organization in the drop down and then clicking on Members. There you add a new Member with the Role Admin and put in the Username of your Facebook profile. After that, click add and the user should be added.
+Nachdem du deine Organisation erstellt hast, musst du dein Facebook Profil zu deiner Organisation hinzufügen, indem du deine Organisation auswählst. Klicke dann im drop-down auf Mitglieder. Dort fügst du ein neues Mitglied mit der Rolle Admin hinzu und gibst den Benutzernamen deines Facebook Profils ein. Klicke danach hinzufügen und der Benutzer sollte hinzugefügt werden.
 
 ![DevModeCreateOrg](~@images/beginners-guide/addmember.png)
 
-#### Enable Developer Mode in the Oculus App
-You should now be able to enable the developer mode in the Oculus app on your smartphone.
+#### Entwicklermodus in der Oculus App aktivieren
+Du solltest nun in der Lage sein, den Entwicklermodus in der Oculus App auf deinem Smartphone zu aktivieren.
 
 ![EnableDevMode](~@images/beginners-guide/EnableDevMode.png)
 
-You can now continue to [Setup your Phone](#setup-your-phone)
+Du kannst nun mit [Handy einrichten](#handy-einrichten) weiter machen
 
-## Setup your Phone
+## Handy einrichten
 
-1. Download the [SideQuest app from the Google Play store](https://play.google.com/store/apps/details?id=side.quest.mobile)
-2. Enable Developer mode on your Phone
-    1. Go into your Android settings
-    2. Scroll to "About phone" and open it
-    3. Tap "Software information"
-    4. Tap the "Build number" field until it says Developer mode enabled. This should take about 7 taps.
-3. Enable USB debugging on your Phone
-    1. Go back to settings
-    2. Tap "Developer options"
-    3. Activate USB debugging
+1. Lade die [Sidequest App aus dem Google Play Store](https://play.google.com/store/apps/details?id=side.quest.mobile) herunter
+2. Aktiviere den Entwicklermodus auf deinen Handy
+    1. Geh in die Android Einstellungen
+    2. Scrolle zu "Über Telefon" und öffne es
+    3. Tippe auf "Software Informationen"
+    4. Tippe auf das Feld "Build number", bis der Entwicklermodus aktiviert ist. Dies sollte etwa 7 Tippe erfordern.
+3. USB-Debugging auf Deinem Telefon aktivieren
+    1. Zurück zu Einstellungen
+    2. Tippe auf "Entwickleroptionen"
+    3. Aktiviere USB debugging
 
-### Installing BMBF with your Phone
-:::warning Before modding, run Beat Saber once, play a level and immediately fail! :::
+### BMBF mit deinem Handy installieren
+:::warning Bevor du das Spiel moddest, starte Beat Saber einmal, spiele ein Level und scheitere sofort! :::
 
-Open Sidequest on your Phone connect and your Quest with your phone via the USB Cord. You should get a USB debugging pop-up in your Quest and on your phone. Select allow on both devices and if you prefer, select always allow.
+Öffne Sidequest auf deinem Handy und verbinde deine Quest mit einem USB Kabel. Du solltest ein USB-Debugging Pop-Up in Deiner Quest und auf Deinem Telefon erhalten. Wählen auf beiden Geräten "Zulassen" und wenn Du möchtest, wähle "Immer zulassen".
 
-Now if SideQuest picked your Quest up you should see the SideQuest logo with a green dot next to it at the bottom of your Screen.
+Falls SideQuest deine Quest erkennt, solltest du einen grünen Punkt neben dem SideQuest Logo auf dem unteren Bildschirmrand sehen.
 
-Then install BMBF by clicking the search icon at the top of SideQuest and search for `BMBF`. You should see an app with an unicorn as symbol. Tap on that and click `INSTALL TO HEADSET`.
+Installiere dann BMBF, indem du das Suchsymbol oben bei SideQuest tippst und nach `BMBF` suchsts. Du solltest eine App mit einem Einhorn als Symbol sehen. Klicke es an und klicke `INSTALL TO HEADSET`.
 
-Afterwards you should have BMBF installed on your Quest and are ready to mod Beat Saber.
+Danach solltest du BMBF auf deiner Quest installiert haben und bereit sein, um Beat Saber zu modden.
 
-## Setup Beat Saber
-After successfully installing BMBF onto your Quest you should be able to find it in your Quests library under unknown sources.
+## Beat Saber einrichten
+Nach der erfolgreichen Installation von BMBF auf deiner Quest solltest du diese in deiner Quest-Bibliothek unter Unbekannten Quellen finden können.
 
 ![UnknownMenu](~@images/beginners-guide/quest_home-menu.jpg)
 
-Open it and allow file access after starting it if prompted. Now follow the on-screen instructions carefully. After you finished you should see [BeastSaber](https://bsaber.com).
+Öffne es und erlaube den Dateizugriff nach dem Start, wenn du dazu aufgefordert wirst. Folge nun sorgfältig den Anweisungen auf dem Bildschirm. Nachdem du fertig bist, solltest du [BeastSaber](https://bsaber.com) sehen.
 
-If at any point during the install process, you get the Restore App popup just click Close. This warning is directed to pirated versions of the game so there will likely be no consequences for ignoring it if you have a legitimate copy.
+Wenn du während des Installationsvorgangs das Popup-Fenster "App wiederherstellen" erhältst, klicke einfach auf "Schließen". Diese Warnung richtet sich an raubkopierte Versionen des Spiels, so dass es wahrscheinlich keine Konsequenzen hat, wenn du sie ignorierest, wenn Du eine legitime Kopie besitzt.
 
-Now you can continue with the [Core Mods](/quest-modding.md#core-mods) step of the installation process as if you were modding with your PC.
+Nun können Sie mit dem [Core Mods](/quest-modding.md#core-mods) Schritt des Installationsprozesses fortfahren, als ob Sie mit Ihrem PC moden würden.

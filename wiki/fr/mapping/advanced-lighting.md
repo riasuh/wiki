@@ -70,7 +70,15 @@ The exact starting and ending intervals (on the interval change between events) 
   [Streamable](https://streamable.com/zx1sf) | [BeatSaver](https://beatsaver.com/beatmap/5bb2)
 
 ## Environnements personnalisés
-::: tip NOTE This is an empty section. If you’d like to contribute, submit suggestions via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform). :::
+
+### Environment Logs
+How to generate logs to get all the data in an environment:
+
+1. Open `Beat Saber/UserData/Beat Saber IPA.json` in a text editor and set `"CreateModLogs": true`.
+2. Open `Beat Saber/UserData/Chroma.json` and set `"PrintEnvironmentEnhancementDebug": true`. :::warning NOTE Now when you open any Chroma map in game, it will generate a log of its environment. :::
+3. Open ChroMapper, select the environment you want to use and save the song info.
+4. Place a single light event in the map and change the light to a chroma color.
+5. Load Beat Saber and play the map for a second. The log is located in `Beat Saber/Logs/Chroma`.
 
 ## Chroma (Lumières RVB)
 The Chroma mod allows you to use more than two colours for lighting! There are two versions, [Chroma 1.0](#chroma-1-0) and [Chroma 2.0](#chroma-2-0) which are not compatible with each other.
@@ -158,7 +166,7 @@ In the new Chroma format, the colour data is built into the vanilla lighting eve
 | ![Image of Red 1.00 Alpha](~@images/mapping/red-lights-alpha-100.jpg) | ![Image of Red 0.75 Alpha](~@images/mapping/red-lights-alpha-075.png) | ![Image of Red 0.50 Alpha](~@images/mapping/red-lights-alpha-050.png) | ![Image of Red 0.25 Alpha](~@images/mapping/red-lights-alpha-025.png) | ![Image of Red 0.00 Alpha](~@images/mapping/red-lights-alpha-000.png) |
  :::
 
-### Dégradés Chroma 2.0
+### Chroma 2.0 Gradients
 In comparison to the older format, gradients can be created with a single event using the `_lightGradient` property. Example gradient linearly easing from red to blue over 2 beats:
 
 ```json

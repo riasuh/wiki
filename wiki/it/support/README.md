@@ -2,234 +2,233 @@
 sidebar: auto
 ---
 
-# Support
+# Supporto
 
-## Table of Contents
+## Tabella dei Contenuti
 
-0. [Updates](#_0-updates)
-1. [No mods?](#_1-no-mods)
-2. [Game Issues After Modding](#_2-game-issues-post-modding)
-3. [Common Questions](#_3-common-questions)
-4. [Miscellaneous Troubleshooting](#_4-miscellaneous-troubleshooting)
-5. [Still Having Issues](#_5-still-having-issues)
+0. [Aggiornamenti](#_0-updates)
+1. [Nessuna mod?](#_1-no-mods)
+2. [Problemi di Gioco Dopo il Modding](#_2-game-issues-post-modding)
+3. [Domande Comuni](#_3-common-questions)
+4. [Risoluzione di Problemi Vari](#_4-miscellaneous-troubleshooting)
+5. [Riscontri Ancora Problemi](#_5-still-having-issues)
 
-## 0. Updates
-After an update, the BSMG discord `#modding-announcements` channel should have the most up to date information on the status of mods. The following are more detailed instructions of the most common procedure.
+## 0. Aggiornamenti
+Dopo un aggiornamento, il canale `#modding-announcements` del Discord di BSMG dovrebbe avere le informazioni più aggiornate sullo stato delle mod. Seguono altre istruzioni dettagliate della procedura più comune.
 
-### Update broke my mods
-**Run the game once** on the new update. Then, reinstall your mods using an installer linked in the [beginner's guide](/beginners-guide), such as Mod Assistant.
+### L'aggiornamento ha corrotto le mie mod
+**Esegui il gioco una volta** al nuovo aggiornamento. Poi, reinstalla le tue mod usando un installatore collegato nella [guida per principianti](/beginners-guide), come Mod Assistant.
 
-## 1. No mods?
+## 1. Nessuna mod?
 
-### Misc Questions
+### Domande Varie
 
-#### 1.1 No mods appear on a fresh copy of the game
-First, make sure that the following are correct:
+#### 1.1 Nessuna mod compare su una nuova copia del gioco
+Prima, assicurati che quanto segue sia corretto:
 
-* **You ran the game once before installing mods**. BSIPA removes all mods on the first run of a fresh update to prevent broken old mods from loading on a new version. Reinstall mods again if this is the case.
-* Steam/Oculus is launching Beat Saber from the **same installation** that mods are in. *e.g. mods are on the D drive but steam is launching from the C drive.* Set the correct install location in your choice of installer.
-* If you installed mods manually, make sure you included all the files from the download and put them in the correct folders, as well as their dependencies.
+* **Hai eseguito il gioco una volta prima di installare le mod**. BSIPA rimuove tutte le mod alla prima esecuzione di un nuovo aggiornamento per prevenire che le vecchie mod corrotte carichino su una nuova versione. Reinstalla le mod se questo è il caso.
+* Steam/Oculus sta lanciando Beat Saber dalla **stessa installazione** in cui si trovano le mod. *es. le mod sono sull'unità D ma Steam si sta avviando dall'unità C.* Imposta la posizione d'installazione corretta nell'installatore di tua scelta.
+* Se hai installato le mod manualmente, assicurati di aver incluso tutti i file dal download e inseriscile nelle cartelle corrette, nonché nelle proprie dipendenze.
 
-#### 1.2 I had mods installed on an older version, but nothing loads after an update
-If the details in section 1.1 above are correct, try the solutions below, in descending order.
+#### 1.2 Avevo installato delle mod su una vecchia versione, ma dopo un aggiornamento non carica nulla
+Se i dettagli nella suddetta sezione 1.1 sono corretti, prova le seguenti soluzioni, in ordine decrescente.
 
-##### Solution 1
+##### Soluzione 1
 
-* Update BSIPA to the latest version (in Mod Assistant or manually)
-* Go into your Beat Saber folder
-* Run `IPA.exe`
+* Aggiorna BSIPA all'ultima versione (su Mod Assistant o manualmente)
+* Vai alla tua cartella di Beat Saber
+* Esegui `IPA.exe`
 
-##### Solution 2 (Steam Only)
+##### Soluzione 2 (Solo Steam)
 
-* [Verify your game files](#verify-game-files-for-steam)
-* Update BSIPA to the latest version
-* Go into your Beat Saber folder
-* Run `IPA.exe`
+* [Verifica i tuoi file di gioco](#verify-game-files-for-steam)
+* Aggiorna BSIPA all'ultima versione
+* Vai alla tua cartella di Beat Saber
+* Esegui `IPA.exe`
 
-##### Solution 3
+##### Soluzione 3
 
-* Go into your Beat Saber folder
-* Make a backup of the `UserData` folder (optional)
-* Delete UserData
+* Vai alla tua cartella di Beat Saber
+* Crea un backup della cartella `UserData` (facoltativo)
+* Elimina UserData
 
-::: warning This will reset all mod settings! :::
+::: attenzione Questo ripristinerà le impostazioni di tutte le mod! :::
 
-##### Solution 4
+##### Soluzione 4
 
-* Perform a [Clean Installation](#clean-installation)
+* Esegui un'[Installazione Pulita](#clean-installation)
 
-#### 1.2 Mod Assistant doesn't seem to be installing any mods
-The installers download mods to `Beat Saber/IPA/Pending`, BSIPA moves these files to root folder when you launch the game. If your game Plugins folder still is empty afterwards, run `IPA.exe` again and make sure that nothing is preventing it from running, e.g. `Anti-viruses, Admin permissions, etc.`
+#### 1.2 Mod Assistant non sembra installare alcuna mod
+L'installatore scarica le mod in `Beat Saber/IPA/Pending`, BSIPA sposta questi file alla cartella di root quando avvii il gioco. Se la cartella Plugins del tuo gioco è ancora vuota in seguito, esegui nuovamente `IPA.exe` e assicurati che nulla ne stia impedendo l'esecuzione, es. `Antivirus, permessi d'amministratore, etc.`
 
-## 2. Game Issues Post-Modding
+## 2. Problemi di Gioco Dopo il Modding
 
-### Game Won't Start
+### Il Gioco Non Si Avvia
 
-#### 2.1 GetThreadContext Failed Error
-If a window pops up saying `GetThreadContext Failed` and/or you hear a Windows error sound, you may have software on your PC that breaks Beat Saber mods. Many third-party anti-cheat software like ESEA and FaceIt disrupt BSIPA from applying mods to Beat Saber, even when not running. Some Anti-Virus software also exhibit similar behavior.
+#### 2.1 Errore GetThreadContext Fallito
+Se una finestra appare dicendo `GetThreadContext Fallito` e/o senti un suono d'errore di Windows, potresti avere dei software sul tuo PC che corrompe le mod di Beat Saber. Molti software antitruffa di terze parti come ESEA e FaceIt interrompono BSIPA dall'applicare mod a Beat Saber, anche quando non è in esecuzione. Alcuni software di antivirus esibiscono anch'essi un comportamento simile.
 
-To solve this problem:
+Per risolvere questo problema:
 
-1. Uninstall the anti-cheat software.
-2. Reboot your PC.
-3. Check if any remnants of the software still exist in your `AppData` folders.
-4. Run the game. If problems persist then try the following: `Additional Note: The problem can continue to persist due to lacking permissions or exceptions, any program that can
-block BSIPA, or programs marked suspicious can make this problem persist` Steam: [Verify Steam Game Files](#verify-game-files-for-steam) Oculus: Perform a [Clean Installation](#clean-installation)
+1. Disinstalla il software di anticheat.
+2. Riavvia il tuo PC.
+3. Controlla se c'è ancora qualche residuo del software nelle tue cartelle di `AppData`.
+4. Esegui il gioco. Se i problemi persistono, allora prova quanto segue: `Nota Aggiuntiva: Il problema può continuare a persistere a causa della mancanza di permessi o eccezioni, qualsiasi programma che può bloccare BSIPA, o programmi contrassegnati come sospetti possono far persistere questo problema` Steam: [Verifica i File di Gioco di Steam](#verify-game-files-for-steam) Oculus: Esegui un'[Installazione Pulita](#clean-installation)
 
-This should fix the problem.
+Questo dovrebbe risolvere il problema.
 
-#### 2.2 Frozen on Startup
-If the game is frozen at the Health and Safety screen, or you see an avatar T-posing with no control of the game, [verify your files](#verify-game-files-for-steam) if you have the game on Steam, or reinstall the game on Oculus Home. Refer to [Clean Installation](#clean-installation)
+#### 2.2 Congelato all'Avvio
+Se il gioco è congelato alla schermata Salute e Sicurezza, o si vede un avatar in posa a T senza controllo del gioco, [verifica i tuoi file](#verify-game-files-for-steam) se hai il gioco su Steam, o reinstalla il gioco su Oculus Home. Fai riferimento all'[Installazione Pulita](#clean-installation)
 
-This seems to happen when updating Beat Saber and having mods installed previously, but not to users with clean installs of the game.
+Questo sembra succedere aggiornando Beat Saber, avendo precedentemente installato delle mod.
 
-### Framerate Issues
+### Problemi di Framerate
 
-#### 2.3 The game stutters unbearably after installing mods
-If the game lags so badly that you can barely click the `Continue` button on the Health & Safety screen, then verify files if you have the game on Steam, or reinstall the game on Oculus Home. Do the same if it won't start up at all and shows no error messages when trying to launch the game.
+#### 2.3 Il gioco va a tratti in modo insopportabile dopo aver installato le mod
+Se il gioco lagga così tanto da poter a malapena cliccare il pulsante `Continua` sulla schermata Salute e Sicurezza, verifica i file se hai il gioco su Steam o reinstalla il gioco su Oculus Home. Fa lo stesso se non si avvia affatto e non mostra alcun messaggio d'errore provando ad avviare il gioco.
 
 If that didn't solve the issue, then check section [2.4 Improving framerate](#_2-4-improving-framerate)
 
-#### 2.4 Improving Framerate
-If [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) didn't improve your fps, then your PC might simply be struggling to keep up with the stress caused by mods. Here are some things you can do to improve framerate, in no particular order:
+#### 2.4 Migliorare il Framerate
+Se [2.3](#2-3-the-game-stutters-unbearably-after-installing-mods) non ha migliorato i tuoi fps, il tuo PC potrebbe semplicemente star facendo fatica a tenersi al passo con lo stress causato dalle mod. Ecco alcune cose che puoi fare per migliorare il framerate, in nessun ordine particolare:
 
-* Check to see if NVIDIA GEFORCE EXPERIENCE set the rendering scale for Beat Saber past the default of 1.0. It may have set it to a higher number to 1.4 or 1.8 which significantly increases the GPU load.
-* Use a less complex custom avatar.
-* The custom saber **Plasma Katanas** have tons of custom events and are known to introduce lag if you miss.
-* Camera2 and CameraPlus can be very taxing, especially if you have multiple cameras or increase the FOV.
-* Turn down Render Scale, Anti-Aliasing, mirror, fog, etc in the base game settings.
-* For Oculus Rift (CV1) players: consider using 2 sensors instead of 3+.
-* Reduce your total mod and song count.
-* Perform a [Clean Installation](#clean-installation) of the game files.
-* Low framerate can also be caused by something going wrong within your application data folder, refer to [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
-* Disable Counters+ counters like score counter and swing speed as they can be expensive.
-* HTTPStatus and DataPuller can cause lag spikes. Test without this mod to see if the lag spikes go away.
+* Verifica se NVIDIA GEFORCE EXPERIENCE ha impostato la scala di rendering per Beat Saber oltre il predefinito di 1.0. Potrebbe averlo impostato a un numero maggiore a 1,4 o 1,8, il che aumenta significativamente il carico della GPU.
+* Usa un avatar personalizzato meno complesso.
+* La sciabola personalizzata **Plasma Katanas** contiene tonnellate di eventi personalizzati, noti per introdurre lag se perdi.
+* Camera2 e CameraPlus possono esser molto pesanti, specialmente se hai molte telecamere o aumenti il FOV.
+* Disattiva la Scala di Rendering, l'Anti-Aliasing, specchio, nebbia, etc. nelle impostazioni di base del gioco.
+* Per i giocatori con Oculus Rift (CV1): considera di usare 2 sensori invece che oltre 3.
+* Riduci il conteggio totale delle tue mod e canzoni.
+* Esegui un'[Installazione Pulita](#clean-installation) dei file di gioco.
+* Il basso framerate può anche esser causato da qualcosa che va storto nella cartella dei dati della tua applicazione, fai riferimento all'[Eliminazione della Cartella di BeatSaber Nel Tuo AppData](#deleting-your-save-in-appdata)
+* Disabilita i contatori di Counters+ come contatori di punteggio e la velocità d'oscillazione, poiché possono esser pesanti.
+* HTTPStatus and DataPuller can cause lag spikes. Prova senza questa mod a vedere se i picchi di lag spariscono.
 
-VR is very CPU intensive, especially if you add mods. If you're struggling to run the game with the mods you want, consider upgrading your hardware. Note that Beat Saber doesn't utilize the GPU very much as visually it's a fairly simple game.
+Il VR usa molto intensivamente la CPU, specialmente se aggiungi le mod. Se non riesci a eseguire il gioco con le mod che vuoi, considera di aggiornare il tuo hardware. Nota che Beat Saber non utilizza molto la GPU, essendo un gioco visivamente abbastanza semplice.
 
-## 3. Common Questions
+## 3. Domande Comuni
 
-### Misc
+### Varie
 
-#### 3.1 Blank Menu, No Buttons
-If your main window in game is blank, your save file likely got corrupted. To fix this, refer to [Delete Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
+#### 3.1 Menu Vuoto, Nessun Pulsante
+Se la tua finestra principale di gioco è vuota, il tuo file di salvataggio potrebbe essersi corrotto. Per risolverlo, fai riferimento all'[Eliminazione della Cartella di BeatSaber Nel Tuo AppData](#deleting-your-save-in-appdata)
 
-::: warning This will delete your local scores and statistics. :::
+::: attenzione Questo eliminerà tutti i tuoi punteggi e statistiche locali. :::
 
-#### 3.2 How do I use `x` mod?
-If you're using Mod Assistant, click the mod and hit the "Mod Info" button. [BeatMods](http://beatmods.com) has a "More Info" button on each mod as well.
+#### 3.2 Come posso usare la mod `x`?
+Se stai usando Mod Assistant, clicca la mod e premi il pulsante "Info Mod". [BeatMods](http://beatmods.com) include anche un pulsante "Altre Info" per ogni mod.
 
-#### 3.3 Rumble Issues
-Gameplay Modifiers Plus had a toggle to enable/disable controller rumble. If you disabled it then removed the mod, you'll need to modify the save data file that it writes to manually. Open `%appdata%\..\LocalLow\Hyperbolic Magnetism\Beat Saber\settings.cfg` and set `controllersRumbleEnabled` to `true`.
+#### 3.3 Problemi di Vibrazione
+Gameplay Modifiers Plus aveva un interruttore per abilitare/disabilitare la vibrazione del controller. Se lo hai disabilitato e poi hai rimosso la mod, dovrai modificare il file dei dati di salvataggio che scrive manualmente. Apri `%appdata%\..\LocalLow\Hyperbolic Magnetism\Beat Saber\settings.cfg` e imposta `controllersRumbleEnabled` a `true`.
 
-If this isn't the cause of your rumble issues and the following are true regarding your haptics:
+Se questa non è la causa dei tuoi problemi di vibrazione e quanto segue è vero relativamente le tue sensazioni tattili:
 
-* haptics are miniscule
-* there is no vibration when hitting multiple blocks
-* there is a slight delay when touching sabers together
-* you are using Oculus touch controllers
+* le tattili sono minuscole
+* non c'è alcuna vibrazione colpendo più blocchi
+* c'è un lieve ritardo facendo toccare le sciabole
+* stai usando i controller touch di Oculus
 
-Then there is a good chance that Beat Saber is overloading your motherboard's USB controller. Oculus devours your USB controller bandwidth and most motherboards come with a very cheap controller. Beat Saber pushes it harder than any other game, which is why other games and menus might be fine. There is no clear-cut solution, so try the following:
+Poi c'è una buona probabilità che Beat Saber stia sovraccaricando il controller USB della tua scheda madre. Oculus divora la larghezza di banda del tuo controller USB e gran parte delle schede madri hanno un controller molto economico. Beat Saber le spinge molto più di qualsiasi altro gioco, ecco perché gli altri giochi e menu potrebbero andare bene. Non esiste una soluzione chiara, quindi prova quanto segue:
 
-* Shuffle the sensor and HMD USB cables around in different ports
-* Unplug unnecessary USB devices
-* Buy a PCI-E USB hub
-* Use `-vrmode oculus` if you're using SteamVR to bypass it and use the Oculus SDK instead
+* Mischia il sensore e i cavi USB HMD su diverse porte
+* Scollega i dispositivi USB non necessari
+* Acquista un hub PCI-E USB
+* Usa `-vrmode oculus` se stai usando SteamVR per bypassarlo e usa invece la SDK di Oculus
 
-### Custom Avatars
+### Avatar Personalizzati
 
-#### 3.4 Custom Avatars (Not) Showing Ingame
-Click the **Home** button on your keyboard with the game in focus to toggle visibility in the headset.
+#### 3.4 Avatar Personalizzati (Non) Mostrati In Gioco
+Clicca il pulsante **Home** sulla tua tastiera con il gioco a fuoco per attivare la visibilità nell'auricolare.
 
-#### 3.5 My Avatars Are Broken
-Make sure your custom avatars mod is installed properly and updated, also make sure your dependencies are too. You might have a corrupted/broken avatar, having one avatar break can break all of your avatars likewise with songs and sabers.
+#### 3.5 I Miei Avatar Sono Corrotti
+Assicurati che la tua mod degli avatar personalizzati sia propriamente installata e aggiornata, assicurati che anche le tue dipendenze lo siano. Potresti avere un avatar corrotto/rotto, il che potrebbe rompere tutti i tuoi avatar allo stesso modo, con canzoni e sciabole.
 
-### Custom Songs
+### Canzoni Personalizzate
 
-#### 3.6 My Songs Are Missing
-Make sure your songs are in your `CustomLevels` folder, located at `Beat Saber/Beat Saber_Data/`. This is where the game natively reads custom songs from.
+#### 3.6 Le Mie Canzoni Sono Mancanti
+Assicurati che le tue canzoni siano nella tua cartella `CustomLevels`, situata in `Beat Saber/Beat Saber_Data/`. È da qui che il gioco legge nativamente le canzoni personalizzate.
 
-**Do not** place songs in the old `Beat Saber/CustomSongs` folder. This location is deprecated as the format for custom songs has changed. If you have maps in the old format (`.json` and `.ogg` files instead of `.dat` and `.egg`), leave them in the old `Beat Saber/CustomSongs` folder. You will need to download them again from BeatSaver.
+**Non** posizionare canzoni nella vecchia cartella `Beat Saber/CustomSongs`. Questa posizione è obsoleta, poiché il formato per le canzoni personalizzate è cambiato. Se hai mappe nel vecchio formato (file `.json` e `.ogg` invece di `.dat` e `.egg`), lasciali nella vecchia cartella `Beat Saber/CustomSongs`. Dovrai riscaricarli da BeatSaver.
 
-Alternatively you can manually convert them using [Song Converter](https://github.com/lolPants/songe-converter) however, you will not get any help with this method and need to compile the program yourself.
+Altrimenti, puoi convertirli manualmente usando [Song Converter](https://github.com/lolPants/songe-converter), tuttavia, non riceverai alcun aiuto con questo metodo e dovrai compilare da solo il programma.
 
-#### 3.7 Grayed Out Play Button
-Click the shiny blue question mark (?) button in the top right corner. This should tell you what mods are required to y the song, which you are missing and should install. If it is still not working, try re-installing the required mod. Otherwise try a [Clean Install](#clean-installation).
+#### 3.7 Pulsante di Gioco Ingrigito
+Clicca il pulsante del punto interrogativo blu lucido (?) in alto a destra. Questo dovrebbe dirti che mod sono necessarie per riprodurre la canzone, quali sono mancanti e dovresti installare. Se ancora non funziona, prova a reinstallare la mod necessaria. Altrimenti, prova un'[Installazione Pulita](#clean-installation).
 
-#### 3.8 Map details are infinitely loading
-If this only happens on particular maps, you may be missing required mods or those song files are broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
+#### 3.8 I dettagli della mappa caricano all'infinito
+Se questo si verifica solo su certe mappe, potresti mancare delle mod necessarie o quei file di canzoni sono corrotti. Se si verifica su tutte le tue mappe, elimina la tua cartella dei `Plugins` e reinstallali.
 
 ### CameraPlus
 
-#### 3.9 CameraPlus Isn't Working/Past Health Screen
-Make sure the in-game setting for "Smooth Camera" is turned off in your in-game settings. If that does not work, try reinstalling it and associated dependencies.
+#### 3.9 CameraPlus Non Funziona/Supera la Schermata di Salute
+Assicurati che l'impostazione di gioco per "Smooth Camera" sia disattivata nelle tue impostazioni di gioco. Se non funziona, prova a reinstallarlo con le dipendenze associate.
 
-#### 3.10 My desktop view only takes up a small section of the screen
-Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
+#### 3.10 La mia vista desktop occupa solo una piccola sezione del mio schermo
+La tua schermata di CameraPlus non sta riempendo il tuo schermo. Trascina l'angolo per adattarlo allo schermo, o clicca con il destro sulla finestra e clicca "Adatta alla Tela".
 
-### BeatSaver Downloader
+### Downloader di BeatSaver
 
-#### 3.11 BeatSaver Downloader More Songs Button
-**The More Songs button is located in the main menu to the left under the Mods text.** If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in by the rainbow progress bar on the main menu. If your Mods menu isn't there then make sure your mods and dependencies are working and installed properly, refer to the [No Mods?](#_1-no-mods) section.
+#### 3.11 Pulsante Altre Canzoni del Downloader di BeatSaver
+**Il pulsante Altre Canzoni si trova nel menu principale a sinistra, sotto al testo Mods.** Se il pulsante per Altre Canzoni è ingrigito, assicurati prima che tutte le tue canzoni siano caricate, come visto nella barra di progresso arcobaleno nel menu principale. Se il tuo menu Mods non c'è, assicurati che le tue mod e dipendenze stiano funzionando e siano propriamente installate, fai riferimento alla sezione [Nessuna Mod?](#_1-no-mods).
 
-#### 3.12 Nothing Showing Up In The More Songs Menu
-The probable causes for BeatSaver Downloader not working are:
+#### 3.12 Nel Menu Altre Canzoni Non Compare Nulla
+Le probabili cause per cui il Downloader di BeatSaber non stia funzionando sono:
 
-1. Make sure all of your songs have loaded in before, or else the More Songs button will be greyed out.
-2. Your anti-virus or firewall blocking access to BeatSaver.
-3. You have hit Beatsaver's rate limit and will have to wait before trying again.
+1. Prima, assicurati che tutte le tue canzoni siano state caricate, altrimenti il pulsante Altre Canzoni sarà ingrigito.
+2. Il tuo antivirus o firewall sta bloccando l'accesso a BeatSaver.
+3. Hai superato il limite di utilizzo di BeatSaber e dovrai attendere prima di riprovare.
 
-### Multiplayer Error Codes
-Here is a list of known error codes, what they mean, and what you can do to fix them.
+### Codici d'Errore del Multigiocatore
+Ecco un elenco dei codici d'errore noti, cosa significano e cosa puoi fare per risolverli.
 
 <!-- Disable line length rule because of table -->
 <!-- markdownlint-disable MD013 -->
-| Code&nbsp; | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-|:---------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CFR-1      | Unknown Error Occurred. Try restarting the game.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| CFR-2      | The multiplayer connection was canceled.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| CFR-3      | Server is not reachable. There may be an issue with your internet connection or with Beat Saber's relay servers. Double check you are not offline and your firewall allows Beat Saber to connect to the internet. <details><summary>**Background Information**</summary>Beat Saber Multiplayer is peer-to-peer where you connect directly with each player in the lobby. When this is not possible Beat Saber starts a "relay" server to send the data. This error means both of these methods failed.</details> &nbsp; This can also be caused by using emojis or special characters in your username. |
-| CFR-4      | The server already exists.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| CFR-5      | Server does not exist. The lobby you were connecting to might have closed as you were joining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| CFR-6      | The server is full. Choose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| CFR-7      | You are on a version of the game that is not supported by the servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| CFR-8      | Lobby password is incorrect. Double check you are entering the right password.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| CFR-9      | The matchmaking servers Beat Games run, which keeps track of open public and private lobbies, is offline. Try again later.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| CFR-10     | Your session key from Steam or Oculus is not valid. If you are playing on Quest and have modded your game, check out this [FAQ answer](/faq/README.md#does-multiplayer-have-crossplay) to work around this. Otherwise you are on a pirated copy of the game which is not supported.                                                                                                                                                                                                                                                                                                 |
-| CFR-11     | Your internet connection is offline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Code&nbsp; | Descrizione                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|:---------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| CFR-1      | Errore Sconosciuto. Prova a riavviare il gioco.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-2      | La connessione multigiocatore è stata annullata.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| CFR-3      | Il server è irraggiungibile. Potrebbe esserci un problema con la tua connessione a internet o con i server relè di Beat Saber. Ricontrolla di non essere offline e che il tuo firewall consenta a Beat Saber di connettersi a internet. <details><summary>**Informazioni di Background**</summary>Beat Saber Multiplayer è in pari, connettendoti direttamente con ogni giocatore nella lobby. Quando ciò è impossibile, Beat Saber avvia un server di "relè" per inviare i dati. Questo errore significa che entrambi questi metodi sono falliti.</details> &nbsp; Questo può anch'esser causato dall'uso di emoji o caratteri speciali nella tua username. |
+| CFR-4      | Il server esiste già.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| CFR-5      | Il server non esiste. La lobby a cui ti stavi connettendo potrebbe aver chiuso mentre ti univi.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-6      | Il server è pieno. Scegli una lobby differente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-7      | Sei su una versione del gioco non supportata dai server.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| CFR-8      | La password della lobby è errata. Ricontrolla di star inserendo quella corretta.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| CFR-9      | I server di matchmaking eseguiti da Beat Saber, che tengono traccia delle lobby pubbliche aperte e private, sono offline. Riprova più tardi.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| CFR-10     | La chiave della tua sessione da Steam od Oculus non è valida. Se stai giocando su Quest e hai moddato il tuo gioco, dai un'occhiata a questa [risposta della FAQ](/faq/README.md#does-multiplayer-have-crossplay) per risolvere. Altrimenti, stai usando una copia piratata del gioco, che non è supportata.                                                                                                                                                                                                                                                                                                                         |
+| CFR-11     | La tua connessione a internet è offline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 <!-- markdownlint-enable MD013 -->
 
-## 4. Miscellaneous Troubleshooting
+## 4. Risoluzione di Problemi Vari
 
-### Understanding Logs
-If you're on Steam you can go to
-> Beat Saber > Properties > General > Add `--verbose` to the launch options field
+### Comprendere i Registri
+Se sei su Steam puoi andare a
+> Beat Saber > Proprietà > Generali > Aggiungi `--verbose` al campo delle opzioni d'avvio
 
-If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
+Se sei su Oculus, dovrai allora cliccare con il Destro su Beat Saber.exe e creare una scorciatoia. Modifica l'obiettivo per aggiungere "--verbose" alla fine di esso. es. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs
+Dopo aver aggiunto verbose al tuo gioco, si spera che mostrerà ogni errore relativo ai tuoi avatar, sciabole e canzoni
 
-* This may not show 100% of the time for avatars and sabers, and you may have to remove all your avatars/sabers and try them one by one to see which one breaks the game.
+* Questo potrebbe non mostrare il 100% delle volte gli avatar e le sciabole e potresti dover rimuovere tutti i tuoi avatar/sciabole e provarli a uno a uno, per scoprire quale corrompe il gioco.
 
-These messages are also written to `Beat Saber/Logs`.
+Questi messaggi sono scritti anche a `Beat Saber/Logs`.
 
-A list of common exceptions can be found [here](./exceptions.md).
+Un elenco di eccezioni comuni si può trovare [qui](./exceptions.md).
 
-### Verify Game Files For Steam
-To verify integrity of game files follow these steps:
+### Verifica i File di Gioco Per Steam
+Per verificare l'integrità dei file di gioco, segui questi passaggi:
 
-1. Make sure SteamVR is closed as it wont let you verify your games otherwise.
-2. Go to your steam library and find Beat Saber
-3. Right click Beat Saber and click on Properties
-4. Go to the "Local Files" tab in properties
-5. Select the "Verify Integrity Of Game Files" option.
-6. Let it finish verifying and downloading any missing files and you should be good to go.
+1. Assicurati che SteamVR sia chiuso poiché, altrimenti, non ti permetterebbe di verificare i tuoi giochi.
+2. Vai alla tua libreria di Steam e trova Beat Saber
+3. Clicca con il destro su Beat Saber e clicca su Proprietà
+4. Vai alla scheda dei "File Locali" nelle proprietà
+5. Seleziona l'opzione "Verifica Integrità dei File di Gioco.
+6. Fagli concludere la verifica e il download di qualsiasi file mancante e dovresti aver risolto.
 
-Here is a [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) although it is on the old steam UI, the steps are still the same.
+Ecco una [Videoguida](https://www.youtube.com/watch?v=EBFfT4-ZiIc), sebbene sia sulla vecchia UI di Steam, i passaggi sono ancora gli stessi.
 
-### Clean Installation
+### Installazione Pulita
 
-1. (Optional) Back up your downloaded custom content by making a copy of the following folders:
+1. (Facoltativo) Esegui il backup dei tuoi contenuti personalizzati scaricati creando una copia delle seguenti cartelle:
 
 * `Beat Saber\Beat Saber_Data\CustomLevels`
 * `Beat Saber\CustomSabers`
@@ -237,47 +236,47 @@ Here is a [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) although it
 * `Beat Saber\CustomNotes`
 * `Beat Saber\CustomAvatars`
 
-2. **Delete the ENTIRE Beat Saber Folder.** This is different from uninstalling the game on steam, as those methods will not remove files that did not come with the game.
+2. **Elimina l'INTERA Cartella di Beat Saber.** Questo è diverso dalla disinstallazione del gioco su Steam, poiché questi metodi non rimuoveranno i file che non erano parte del gioco.
 
 > Steam: ``\steamapps\common\Beat Saber\`
   Oculus:``\hyperbolic-magnetism-beat-saber\`
 
-3. Reinstall the game via the Steam or Oculus store
-4. **Before modding, launch the game once**
-5. Run Mod Assistant, install your mods, and boot up the game.
+3. Reinstalla il gioco tramite il negozio di Steam o di Oculus
+4. **Prima di moddare, avvia il gioco una volta**
+5. Esegui Mod Assistant, installa le tue mod e avvia il gioco.
 
-(Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
+(Facoltativo) Se vuoi effettuare un ulteriore passaggio, fai riferimento all'[Eliminazione della Cartella di BeatSaber Nel Tuo AppData](#deleting-your-save-in-appdata)
 
-### Deleting Your Save in AppData
-This will delete your scores and local data, but not your custom leaderboard/ScoreSaber stats. You can find the folder at
+### Eliminare il Tuo Salvataggio in AppData
+Questo eliminerà i tuoi punteggi e dati locali, ma non le statistiche della tua classifica/ScoreSaber personalizzata. Puoi trovare la cartella a
 > `%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
-Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
+Copia e incolla tutto dall'interno della barra superiore e incollalo nella tua barra degli indirizzi in esplora file ed eliminala.
 
-You can also get to this folder by showing hidden items and navigating to your
-> Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
+Puoi anche arrivare a questa cartella mostrando gli elementi nascosti e navigando nella tua
+> Utenti > "USER" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Deleting this folder in Appdata will also delete your local scores and statistics. :::
+::: attenzione Eliminare questa cartella in AppData, eliminerà anche i tuoi punteggi e statistiche locali. :::
 
-#### Desperate Measures
-::: warning Disabling your anti-virus involves security risks, be sure to know what you're doing (i.e don't download or open suspicious files while it's turned off) and don't forget to re-enable it as soon as you finished these steps. :::
+#### Misure Disperate
+::: attenzione Disabilitare il tuo antivirus comporta rischi per la sicurezza, assicurati di sapere cosa stai facendo (es. non scaricare o aprire file sospetti quando è disattivato) e non dimenticarti di riabilitarlo non appena terminati questi passaggi. :::
 
-* Make sure your current user **is an administrator**
-* Turn your anti-virus **Off** (for the meantime at least)
-* Ensure that you have permission to create folders and edit files within the disk drive/your pc, (from what I heard a windows update recently caused problems for people)
-* Ensure that your drivers are up to date
-* Check that the problem doesn't lie within your headset, or operating system, or your hardware/software
-* Check your internet connection, and that nothing is blocking anything related to beatsaber modding and steam etc.
+* Assicurati che il tuo utente corrente **sia un amministratore**
+* **Disattiva** il tuo antivirus (almeno per ora)
+* Assicurati di avere i permessi per creare cartelle e modificare file nell'unità disco/nel tuo pc (da ciò che ho sentito, un aggiornamento di Windows ha recentemente causato problemi alle persone)
+* Assicurati che i tuoi driver siano aggiornati
+* Controlla che il problema non si trovi nel tuo auricolare o sistema operativo o hardware/software
+* Controlla la tua connessione a internet e che nulla stia bloccando qualsiasi cosa sia correlata al modding di BeatSaber e Steam, etc.
 
-## 5. Still having issues
-If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
+## 5. Riscontri Ancora Problemi
+Se questa pagina non copre le basi, sentiti libero di fare una domanda su Discord! Per aumentare le possibilità che tu riceva risposte alle tue domande, considera quanto segue:
 
-* Use the correct channels please, `#pc-help` for pc mod support and `#quest-help` for quest mod support. Use `#pc-3d-modeling` and `#quest-3d-modeling` for questions about **making your own avatars, platforms, notes, or sabers**, and `#mapping-discussion` for questions about **making maps.**
-* Be polite and respectful
-* Describe your problem in detail. "It didn't work" is about as descriptive as telling your doctor you don't feel well. What's not working, and what did you try? Are there any messages that come up on screen? Did your entire screen turn bright purple?
+* Sei pregato di usare i canali corretti, `#pc-help` per il supporto mod per pc e `#quest-help` per il supporto mod per Quest. Usa `#pc-3d-modeling` e `#quest-3d-modeling` per le domande sulla **creazione di avatar, piattaforme, note o sciabole proprie**, e `#mapping-discussion` per le domande sulla **creazione di mappe.**
+* Sii educato e rispettoso
+* Descrivi il tuo problema in dettaglio. "Non ha funzionato" è tanto descrittivo quanto dire al tuo medico che non ti senti bene. Cosa non funziona e cosa hai provato? Ci sono dei messaggi che compaiono su schermo? Il tuo intero schermo è diventato viola luminoso?
 
-::: tip NOTE Those with the `Support` role are volunteers that might choose to help out in their free time. The support role is in recognition of the knowledge and effort they have put forth, but it doesn't necessarily mean that they'll be around to help just because they're online. :::
+::: tip NOTA Coloro che hanno il ruolo `Supporto` sono volontari che potrebbero scegliere di dare una mano nel loro tempo libero. Il ruolo di supporto consiste nel riconoscimento delle conoscenze e gli sforzi da loro messi in atto, ma non significa necessariamente che saranno lì ad aiutare solo perché sono online. :::
 
-Credit to Saber-Chan for their hard work on this page.
+Crediti a Saber-Chan per il loro duro lavoro su questa pagina.

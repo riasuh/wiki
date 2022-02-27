@@ -2,115 +2,115 @@
 sidebar: auto
 ---
 
-# Quest Modding with Android
+# Modding de Quest com Android
 
-:::warning Installing BMBF and modding your game will disable Official Multiplayer as well as viewing and uploading scores on the base game leaderboards. If you would like to play modded multiplayer, you need the mod, `Beat Together`, which allows for cross-play between pc and quest and allows for custom songs to be used. The mod can be found in the [Beat Saber Modding Group](discord.gg/beatsabermods) in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
+BMBF apk:::warning Instalar o BMBF e instalar mods ao seu jogo desativará o Multiplayer oficial, assim como ver e enviar scores para os placares base do jogo. Se você gostaria de jogar multiplayer modded, você precisa do mod, `Beat Together`, que permite cross-play entre pc e quest e permite que custom songs sejam usadas. O mod pode ser encontrado no [Beat Saber Modding Group](discord.gg/beatsabermods) em `#quest-mods` ou no site [Questboard](https://questmodding.com).
 
-To get leaderboards on custom songs and to be able to get Performance Points (PP) from ranked songs you need the [ScoreSaber](https://new.scoresaber.com/quest) mod. [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
+Para obter rankings em custom songs e ser capaz de obter Pontos de Performance (PP) de músicas ranqueadas você precisa do mod [ScoreSaber](https://new.scoresaber.com/quest). [Este link](https://new.scoresaber.com/quest) vai te levar à página de ScoreSaber para configurá-lo. O ScoreSaber não substitui o ranking base do jogo, apenas adiciona rankings para custom songs.
 
-**Note:** Check the updates channel in the [ScoreSaber Discord](https://discord.gg/WpuDMwU) to see if the mod is available for the current game version. :::
+**Nota:** Confira o chat de atualizações do [Discord do ScoreSaber](https://discord.gg/WpuDMwU) para ver se o mod está disponível para a versão atual do jogo. :::
 
-::: tip NOTE The recommended way to install BMBF is with [SideQuest on a PC](/quest-modding.md#installing-bmbf-with-sidequest). This method should only be used if you do not have access to a PC. :::
+::: tip NOTA A maneira recomendada de instalar BMBF é com o [SideQuest em um PC](/quest-modding.md#installing-bmbf-with-sidequest). Este método só deve ser usado se você não tiver acesso a um PC. :::
 
-* [Requirements](#requirements)
-* [Enable Developer mode on your Quest](#how-to-enable-developer-mode-on-the-oculus-quest)
-* [Setup your Phone](#setup-your-phone)
-* [Installing BMBF with your Phone](#installing-bmbf-with-your-phone)
-* [Setup Beat Saber](#setup-beat-saber)
+* [Requisitos](#requirements)
+* [Ative o modo de desenvolvedor em seu Quest](#how-to-enable-developer-mode-on-the-oculus-quest)
+* [Configurando o seu Celular](#setup-your-phone)
+* [Instalando o BMBF com seu celular](#installing-bmbf-with-your-phone)
+* [Configurando o Beat Saber](#setup-beat-saber)
 
-## Requirements
+## Requisitos
 
-* An Android Phone or Android Tablet
-  * iPhones or iPads are **NOT** supported
-* A **paid** Version of Beat Saber on the Oculus Quest Store
-* A Cable to connect your Quest to your Phone (If your phone charges over USB C the charger that was included with your Quest should work)
+* Um Celular Android ou Tablet Android
+  * iPhones ou iPads **NÃO** são suportados
+* Uma versão **paga** do Beat Saber na Loja do Oculus Quest
+* Um Cabo para conectar seu Quest ao seu Telefone (Se seu telefone carregar por cabo USB C, o carregador que foi incluído em seu Quest deve funcionar)
 
-## How to Enable Developer Mode on the Oculus Quest
-There are two methods, the first one requires a credit card. If you do not have one you can follow the [I have no Credit Card](#i-have-no-credit-card) steps instead.
+## Como ativar o Modo de Desenvolvedor no Oculus Quest
+Existem dois métodos, o primeiro requer um cartão de crédito. Se você não tem um, você pode seguir os passos do [Eu não tenho um Cartão de Crédito](#i-have-no-credit-card) invés disso.
 
-### Verify with a Credit Card
-Head to the [Oculus dashboard](https://dashboard.oculus.com/) and sign in with your Facebook Account.
+### Verificando com um Cartão de Crédito
+Vá até a [Dashboard Oculus](https://dashboard.oculus.com/) e faça login com sua Conta do Facebook.
 
-After you successfully logged in and verified you can create your new Organization.
+Depois de entrar com sucesso e verificar, você pode criar sua nova Organização.
 
 ![DevModeDashboard](~@images/beginners-guide/DevModeDashboard.png)
 
 ![DevModeCreateOrg](~@images/beginners-guide/DevModeCreateOrg.png)
 
-After you created it, you can enable Developer mode in the Oculus app on your smartphone.
+Após de criada, você pode habilitar o modo de desenvolvedor no aplicativo Oculus no seu smartphone.
 
-#### Enable Developer mode in the Oculus App
+#### Ativar o Modo de Desenvolvedor no App Oculus
 
 ![EnableDevMode](~@images/beginners-guide/EnableDevMode.png)
 
-You can now skip to [Setup your Phone](#setup-your-phone)
+Agora você pode pular para [Configurando seu Celular](#setup-your-phone)
 
-### I have no Credit Card
-[Original Source](https://www.reddit.com/r/sidequest/comments/jaxy4u/cant_verify_oculus_developer_account/?utm_source=amp&utm_medium=&utm_content=post_body).
+### Eu não tenho Cartão de Crédito
+[Fonte Original](https://www.reddit.com/r/sidequest/comments/jaxy4u/cant_verify_oculus_developer_account/?utm_source=amp&utm_medium=&utm_content=post_body).
 
-So please note that you have to create a second account (Oculus developer account) and then add your Facebook profile to the organization created. It is a bit harder.
+Então observe que você tem que criar uma segunda conta (Conta de desenvolvedor Oculus) e então adicionar seu perfil do Facebook a a organização criada. Isso é um pouco mais dificil.
 
-:::tip If you have a friend who has a organization you can ask them to add you so you do not have to make a new account. If so, tell your friend to follow the steps in [Add yourself to the organization](#add-yourself-to-the-organization) using your Facebook account instead. :::
+:::tip Se você tem um amigo que tem uma organização, você pode pedir para ser adicionado, assim você não precisa fazer uma nova conta. Se for o caso, diga a seu amigo para seguir as etapas em [Se adicione na organização](#add-yourself-to-the-organization) usando sua conta do Facebook no lugar. :::
 
-#### Create a New Developer Account
+#### Criando uma Nova Conta de Desenvolvedor
 
-1. Go to the [sign up page for Oculus developers](https://developer.oculus.com/sign-up/) and click `Create an Unmerged Oculus Developer Account`.
-2. Fill in all required information.
-3. Verify with the email you got sent and log in again with the account you created.
-4. Go to the [verify page](https://developer.oculus.com/manage/verify/) and set up Two Factor Authentication.
+1. Vá para a [página de cadastro para desenvolvedores Oculus](https://developer.oculus.com/sign-up/) e clique em `Criar uma conta de desenvolvedor Oculus separada`.
+2. Preencha todas as informações necessárias.
+3. Verifique com o e-mail que você enviou e faça login novamente com a conta que você criou.
+4. Vá para a [página de verificação](https://developer.oculus.com/manage/verify/) e configure a Autenticação de Dois Fatores.
 
 ![2fa](~@images/beginners-guide/2fa.png)
 
-#### Create New Organization
-After you did that head to the [Oculus Dashboard](https://dashboard.oculus.com/) and create a organization with *almost* any name you want.
+#### Crie uma Nova Organização
+Depois de fazer isso, vá para o [Dashboard Oculus](https://dashboard.oculus.com/) e crie uma organização com *quase* qualquer nome que quiser.
 
 ![DevModeDashboard](~@images/beginners-guide/DevModeDashboard.png)
 
 ![DevModeCreateOrg](~@images/beginners-guide/DevModeCreateOrg.png)
 
-#### Add Yourself to the Organization
-After you created your Organization you have to add your Facebook profile to your Organization by Selecting your Organization in the drop down and then clicking on Members. There you add a new Member with the Role Admin and put in the Username of your Facebook profile. After that, click add and the user should be added.
+#### Adicione você mesmo à Organização
+Depois de criar a sua Organização você precisa adicionar o seu perfil do Facebook à sua Organização, selecionando a sua Organização no menu suspenso e depois clicando nos Membros. Lá você pode adicionar um novo membro com o cargo de administrador e colocar o nome de usuário do seu perfil do Facebook. Depois disso, clique em adicionar e o usuário deve ser adicionado.
 
 ![DevModeCreateOrg](~@images/beginners-guide/addmember.png)
 
-#### Enable Developer Mode in the Oculus App
-You should now be able to enable the developer mode in the Oculus app on your smartphone.
+#### Ativar o Modo de Desenvolvedor no App Oculus
+Agora você deve ser capaz de ativar o modo de desenvolvedor no aplicativo Oculus em seu smartphone.
 
 ![EnableDevMode](~@images/beginners-guide/EnableDevMode.png)
 
-You can now continue to [Setup your Phone](#setup-your-phone)
+Agora você pode continuar em [Configurando seu Celular](#setup-your-phone)
 
-## Setup your Phone
+## Configurando o seu Celular
 
-1. Download the [SideQuest app from the Google Play store](https://play.google.com/store/apps/details?id=side.quest.mobile)
-2. Enable Developer mode on your Phone
-    1. Go into your Android settings
-    2. Scroll to "About phone" and open it
-    3. Tap "Software information"
-    4. Tap the "Build number" field until it says Developer mode enabled. This should take about 7 taps.
-3. Enable USB debugging on your Phone
-    1. Go back to settings
-    2. Tap "Developer options"
-    3. Activate USB debugging
+1. Baixe o [aplicativo SideQuest na loja da Google Play](https://play.google.com/store/apps/details?id=side.quest.mobile)
+2. Ative o modo de Desenvolvedor em seu Celular
+    1. Vá para as configurações do Android
+    2. Vá até "Sobre o telefone" e abra-o
+    3. Clique em "Informações do Software"
+    4. Toque no campo "Número de build" até dizer que o modo desenvolvedor está habilitado. Isto deve levar cerca de 7 toques.
+3. Ativar a depuração USB no seu Celular
+    1. Volte às configurações
+    2. Toque em "Opções de Desenvolvedor"
+    3. Ative a depuração USB
 
-### Installing BMBF with your Phone
-:::warning Before modding, run Beat Saber once, play a level and immediately fail! :::
+### Instalando o BMBF com seu Celular
+:::warning Antes de instalar os mods, abra o Beat Saber uma vez, jogue um level e falhe imediatamente! :::
 
-Open Sidequest on your Phone connect and your Quest with your phone via the USB Cord. You should get a USB debugging pop-up in your Quest and on your phone. Select allow on both devices and if you prefer, select always allow.
+Abra a Sidequest no seu Celular e conecte seu Quest com o seu celular via cabo USB. Você deve receber um pop-up de depuração USB em seu Quest e no seu celular. Selecione permitir em ambos os dispositivos e, se preferir, selecione sempre permitir.
 
-Now if SideQuest picked your Quest up you should see the SideQuest logo with a green dot next to it at the bottom of your Screen.
+Agora se o SideQuest detectou seu Quest, você deverá ver o logotipo do SideQuest com um ponto verde ao lado dele na parte inferior da sua tela.
 
-Then install BMBF by clicking the search icon at the top of SideQuest and search for `BMBF`. You should see an app with an unicorn as symbol. Tap on that and click `INSTALL TO HEADSET`.
+E então instale o BMBF clicando no ícone de pesquisa no topo do SideQuest e procure por `BMBF`. Você deve ver um aplicativo com um unicórnio como símbolo. Toque nisso e clique em `INSTALL TO HEADSET`.
 
-Afterwards you should have BMBF installed on your Quest and are ready to mod Beat Saber.
+Depois disso você deverá ter o BMBF instalado em seu Quest e está pronto para instalar mods no Beat Saber.
 
-## Setup Beat Saber
-After successfully installing BMBF onto your Quest you should be able to find it in your Quests library under unknown sources.
+## Configurando o Beat Saber
+Depois de instalar com sucesso o BMBF em seu quest, você poderá encontrá-la na sua biblioteca dentro do unknown sources.
 
 ![UnknownMenu](~@images/beginners-guide/quest_home-menu.jpg)
 
-Open it and allow file access after starting it if prompted. Now follow the on-screen instructions carefully. After you finished you should see [BeastSaber](https://bsaber.com).
+Abra-o e permita o acesso de arquivos depois de iniciá-lo se solicitado. Agora siga as instruções na tela cuidadosamente. Depois de terminar, você deverá ver o [BeastSaber](https://bsaber.com).
 
-If at any point during the install process, you get the Restore App popup just click Close. This warning is directed to pirated versions of the game so there will likely be no consequences for ignoring it if you have a legitimate copy.
+Se em algum momento durante o processo de instalação, você ver um pop-up com Restore App escrito, apenas clique em Close. Este aviso é direcionado para versões pirateadas do jogo, então provavelmente não haverá consequências se você tiver uma cópia legítima.
 
-Now you can continue with the [Core Mods](/quest-modding.md#core-mods) step of the installation process as if you were modding with your PC.
+Agora você pode continuar com o passo [Core Mods](/quest-modding.md#core-mods) do processo de instalação, como se você estivesse modificando com o seu PC.

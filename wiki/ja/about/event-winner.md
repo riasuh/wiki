@@ -88,43 +88,43 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 ### 大賞
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
-## 2020 Halloween Contest
+## ハロウィンコンテスト2020
 The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
 [入賞](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
-### Map Winners
+### マップ部門
 
-#### Vanilla
+#### バニラ
 
 * **1st:** [Marnik - Hocus Pocus (Original Mix)](https://beatsaver.com/beatmap/10377) by **ETAN**
 * **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) by **Jamman360**
 * **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) by **FireStrike**
 
-#### Modded
+#### Mod付き
 
 * **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
 
-### Model Winners
+### モデル部門
 
 * **1st:** [ditCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
 * **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
 * **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
-### Grand Prize
+### 大賞
 [Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) by **nitronik.exe**
 
-## 2020 Battle Royale
+## バトルロワイアル2020
 An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challengers faced a variety of challenges both related and unrelated to Beat Saber. The final one being an extreme round of Connect 4.
 
 ---
 
 [Victory Royale Announcement](https://discord.com/channels/441805394323439646/441807344591044619/695297076669448203)
 
-### Top 7
-In no particular order...
+### トップ 7
+順不同
 
 * **Alzaraf**
 * **Bobbie**
@@ -137,7 +137,7 @@ In no particular order...
 ### Victory Royale
 **Arti** also known as **ratsby**
 
-## 2019 Christmas Contest
+## クリスマスコンテスト2021
 The second Holiday/Winter contest. This time throwing the holidays out of the window for Christmas, Padoru, and a Grand Prize.
 
 ---

@@ -54,7 +54,7 @@ sidebar: auto
 
 #### 新しく開発者アカウントを作成する
 
-1. Go to the [sign up page for Oculus developers](https://developer.oculus.com/sign-up/) and click `Create an Unmerged Oculus Developer Account`.
+1. Oculus開発者向けの [登録ページ](https://developer.oculus.com/sign-up/) に移動し、 `統合されていないOculus開発者アカウントを作成`をクリックします。
 2. 必要な情報をすべて入力してください。
 3. メールからアカウントを有効にし、作成したアカウントで再度ログインします。
 4. [ページの確認](https://developer.oculus.com/manage/verify/) に移動し、2段階認証を設定します。
@@ -85,8 +85,8 @@ sidebar: auto
 1. [Bugjaeger app](https://play.google.com/store/apps/details?id=side.quest.mobile)をGoogleストアからダウンロードします。
 2. 開発者モードを有効にする。
     1. Androidの設定をひらく
-    2. Scroll to "About phone" and open it
-    3. Tap "Software information"
+    2. 「デバイス情報」を開きます。
+    3. ソフトウェア情報をタップします。
     4. ビルド番号をタップして開発者モードを有効にします 7回タップします
 3. USBデバッグを有効にする
     1. 設定に戻ります
@@ -109,7 +109,7 @@ BMBFを正常にインストールし終えたら、クエストのライブラ�
 
 ![UnknownMenu](~@images/beginners-guide/quest_home-menu.jpg)
 
-それを起動するとファイルへのアクセス許可を促すポップが表示されます 画面上の指示に従ってください。 終わったら、 [BeastSaber](https://bsaber.com) を見てください
+それを起動するとファイルへのアクセス許可を促すポップが表示されます 画面上の指示に従ってください。 その後 [BeastSaber](https://bsaber.com) を見てください
 
 インストールプロセス中に Restore App ポップアップが表示されることがありますが、そのときは Close をクリックしてください。 この警告は海賊版を防止するために表示されるものなので、正規版を購入している場合は無視をしてもかまいません。
 

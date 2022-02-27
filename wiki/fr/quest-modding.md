@@ -65,7 +65,7 @@ You can now continue to the [BMBF Setup](#bmbf-setup) section of the guide.
 
 #### BMBF Setup
 
-Once it has been successfully installed, make sure you have the latest version of Beat Saber installed and unmodded.
+Once BMBF has been successfully installed, make sure you have the latest supported version of Beat Saber installed and unmodded. Check the BSMG `#modding-announcements` channel or [QuestBoard](https://www.questmodding.com/) to see which game version this is and for other modding news.
 
 :::warning Before modding, run Beat Saber once, play a level and immediately fail!
 
@@ -158,7 +158,7 @@ Now just drag any Quest compatible mods into the upload box and sync. If the mod
 You can now download songs in-game using SongDownloader (core mod) There are a few steps to downloading songs in-game:
 
 1. Open Beat Saber
-2. Go into Mod Settings (Settings -> Mod Settings)
+2. On the main menu, look at the Mods screen, on the left.
 3. Open the SongDownloader tab
 4. Search for a song and download it.
 
@@ -267,7 +267,7 @@ This is most likely due to having an outdated BMBF App, grab the latest [BMBF Re
 If your game is crashing when doing something, disable your mods one by one, running your game each time to see if the issue is fixed before asking for help in a support channel.
 
 ### I only see a white screen when I open BMBF
-If you only see a white screen when you open BMBF from unknown sources, try waiting a few secconds. If that does not work, restart your quest and try opening BMBF again.
+If you only see a white screen when you open BMBF from unknown sources, try waiting a few seconds. If that does not work, restart your quest and try opening BMBF again.
 
 ### My Beat Saber gets 3 dots when I launch
 If your Beat Saber is getting 3 dots when launching make sure that:

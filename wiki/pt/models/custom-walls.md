@@ -4,7 +4,7 @@
 :::tip NOTA As paredes precisam ser feitas especificamente para Quest ou PC e não podem ser trocadas entre as duas. Você pode dizer para qual plataforma uma parede se destina pela extensão do arquivo. `Arquivos .pixie` são para o PC enquanto o Quest usa arquivos `.zip`. :::
 
 ### PC Walls
-The latest Custom Walls mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant).
+A última versão do mod Custom Walls pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [Mod Assistant](https://github.com/Assistant/ModAssistant).
 
 Uma vez instalado, você deve ver uma pasta `CustomWalls` na [sua pasta de instalação](/faq/install-folder.md). Esta pasta é onde você colocará os arquivos `*.pixie`.
 
@@ -19,7 +19,7 @@ Custom Walls para Quest são fornecidos pelo mod Qosmetics. A versão mais recen
 Dentro do jogo no menu principal que você verá à esquerda um botão `CUSTOM WALLS` sob a seção `Mods`. Pressioná-lo abrirá o menu que você pode usar para selecionar quais paredes você deseja usar. Há também configurações adicionais que você pode alterar, como desativar os quadros de paredes.
 
 ### Usuários do Quest
-Upload the `.qwall` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which wall is active from the Qosmetics menu in-game.
+Envie o arquivo `.qwall` para seu Quest usando a [Interface Web do BMBF](/quest-modding.md#installing-mods). Você pode selecionar qual parede está ativa no menu Qomestics no jogo.
 
 ## Criando Custom Walls
 Embora não exista atualmente um guia sobre como criar custom walls, um está sendo feito.

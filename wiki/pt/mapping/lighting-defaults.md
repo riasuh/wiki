@@ -1,20 +1,20 @@
 ---
 sidebar: auto
 prev: ./basic-lighting.md
-description: A list of the default color palettes used in each environment.
+description: Uma lista de paleta de cores padrões usadas por cada environment.
 ---
 
 # Cores padrões de Environment
-_A list of the default color palettes used in each environment._
+_Uma lista de paleta de cores padrões usadas por cada environment._
 
 ---
 
-## 1.17.0 Colors
-These are the colors used in the 1.17.0 version of the game.
+## 1.18.3 Colors
+These are the colors used in the 1.18.3 version of the game.
 
 ### The First (Default)
 ![Image of TheFirst colors](~@images/mapping/color-thefirst.png)  
-This is used by most environments. It it used by The First (Default), Triangle, Nice, Big Mirror, Imagine Dragons, Monstercat, and Panic! at the Disco environments.
+Essa é usada pela maioria dos environments. É usada pelo environment The First (Default), Triangle, Nice, Big Mirror, Imagine Dragons, Monstercat, e Panic! at the Disco.
 
 #### Left Side Block Color (Red)
 
@@ -68,7 +68,7 @@ This is used by most environments. It it used by The First (Default), Triangle, 
 
 ### Origins
 ![Image of Origins colors](~@images/mapping/color-origins.png)  
-This is used by the Origins environment. These colors are also used in the Glass Desert environment.
+Essas são usadas pelo environment Origins. Essas cores também são usadas pelo environment Glass Desert.
 
 #### Left Side Block Color (Yellow)
 
@@ -122,7 +122,7 @@ This is used by the Origins environment. These colors are also used in the Glass
 
 ### KDA
 ![Image of KDA colors](~@images/mapping/color-kda.png)  
-This is used by the K/DA environment.
+Essas são usadas pelo environment K/DA.
 
 #### Left Side Block Color (Orange)
 
@@ -176,7 +176,7 @@ This is used by the K/DA environment.
 
 ### Crab Rave
 ![Image of Crabrave colors](~@images/mapping/color-crabrave.png)  
-This is used by the Crab Rave environment.
+Essas são usadas pelo environment Crab Rave.
 
 #### Left Side Block Color (Green)
 
@@ -230,7 +230,7 @@ This is used by the Crab Rave environment.
 
 ### Rocket
 ![Image of Rocket colors](~@images/mapping/color-rocket.png)  
-This is used by the Rocket League environment.
+Essas são usadas pelo environment Rocket League.
 
 #### Left Side Block Color (Orange)
 
@@ -284,7 +284,7 @@ This is used by the Rocket League environment.
 
 ### Green Day
 ![Image of GreenDay colors](~@images/mapping/color-greenday.png)  
-This is used by the Green Day and Green Day Grenade environment.
+Essas são usadas pelos environments Green Day e Green Day Grenade.
 
 #### Left Side Block Color (Green)
 
@@ -338,7 +338,7 @@ This is used by the Green Day and Green Day Grenade environment.
 
 ### Timbaland
 ![Image of Timbaland colors](~@images/mapping/color-timbaland.png)  
-This is used by the Timbaland environment.
+Essas são usadas pelo environment Timbaland.
 
 #### Left Side Block Color (Grey)
 
@@ -392,7 +392,7 @@ This is used by the Timbaland environment.
 
 ### FitBeat
 ![Image of FitBeat colors](~@images/mapping/color-fitbeat.png)  
-This is used by the FitBeat environment.
+Essas são usadas pelo environment FitBeat.
 
 #### Left Side Block Color (Yellow)
 
@@ -446,9 +446,9 @@ This is used by the FitBeat environment.
 
 ### Linkin Park
 ![Image of Linkin Park colors](~@images/mapping/color-linkinpark.png)  
-This is used by the Linkin Park environment.
+Essas são usadas pelo environment Linkin Park.
 
-Introduced in this environment are the boost colors. All other environments fallback to their respective environment colors for boost colors.
+Nesse environment foi introduzido as boost colors. Todos os outros environments voltaram para suas respectivas cores de environment para boost colors.
 
 #### Left Side Block Color (Red)
 
@@ -522,7 +522,7 @@ Introduced in this environment are the boost colors. All other environments fall
 
 ### BTS
 ![Image of BTS colors](~@images/mapping/color-bts.png)  
-This is used by the BTS environment.
+Essas são usadas pelo environment BTS.
 
 #### Left Side Block Color (Red-Purple)
 
@@ -596,7 +596,7 @@ This is used by the BTS environment.
 
 ### Kaleidoscope
 ![Image of Kaleidoscope colors](~@images/mapping/color-kaleidoscope.png)  
-This is used by the Kaleidoscope environment.
+Essas são usadas pelo environment Kaleidoscope.
 
 #### Left Side Block Color (Red)
 
@@ -670,7 +670,7 @@ This is used by the Kaleidoscope environment.
 
 ### Interscope
 ![Image of Interscope colors](~@images/mapping/color-interscope.png)  
-This is used by the Interscope environment.
+Essas são usadas pelo environment Interscope.
 
 #### Left Side Block Color (Yellow)
 
@@ -744,7 +744,7 @@ This is used by the Interscope environment.
 
 ### Skrillex
 ![Image of Skrillex colors](~@images/mapping/color-skrillex.png)  
-This is used by the Skrillex environment.
+Essas são usadas pelo environment Skrillex.
 
 #### Left Side Block Color (Red)
 
@@ -814,6 +814,153 @@ This is used by the Skrillex environment.
   "g": 0.80000001,
   "b": 0.44597632
  },
+```
+
+### Billie Eilish
+![Image of Billie colors](~@images/mapping/color-billie.png)  
+This is used by the Billie Eilish environment.
+
+#### Left Side Block Color (Yellow)
+
+```json
+"_colorLeft": {
+  "r": 0.8,
+  "g": 0.64481932,
+  "b": 0.432
+},
+```
+
+#### Right Side Block Color (Light Grey)
+
+```json
+"_colorRight": {
+  "r": 0.54808509,
+  "g": 0.61276591,
+  "b": 0.64
+},
+```
+
+#### Left Side Light Color (Orange)
+
+```json
+"_envColorLeft": {
+  "r": 0.81960785,
+  "g": 0.442,
+  "b": 0.184
+},
+```
+
+#### Right Side Light Color (Cream)
+
+```json
+"_envColorRight": {
+  "r": 0.94117647,
+  "g": 0.70677096,
+  "b": 0.56470591
+},
+```
+
+#### Wall Color (Purple)
+
+```json
+"_obstacleColor": {
+  "r": 0.71325314,
+  "g": 0.56140977,
+  "b": 0.78301889
+},
+```
+
+#### Left Side Boost Light Color (Red)
+
+```json
+"_envColorLeftBoost": {
+  "r": 0.8,
+  "g": 0.0,
+  "b": 0.0
+},
+```
+
+#### Right Side Boost Light Color (White Blue)
+
+```json
+"_envColorRightBoost": {
+  "r": 0.55686277,
+  "g": 0.7019608,
+  "b": 0.77647066
+},
+```
+
+### Spooky
+This is used by the Spooky environment.
+
+#### Left Side Block Color (Orange)
+
+```json
+"_colorLeft": {
+  "r": 0.81960785,
+  "g": 0.49807876,
+  "b": 0.27702752
+},
+```
+
+#### Right Side Block Color (Black)
+
+```json
+"_colorRight": {
+  "r": 0.37894738,
+  "g": 0.35789475,
+  "b": 0.40
+},
+```
+
+#### Left Side Light Color (Red)
+
+```json
+"_envColorLeft": {
+  "r": 0.90196079,
+  "g": 0.23009226,
+  "b": 0
+},
+```
+
+#### Right Side Light Color (Light Blue)
+
+```json
+"_envColorRight": {
+  "r": 0.46005884,
+  "g": 0.56889427,
+  "b": 0.92941177
+},
+```
+
+#### Wall Color (Orange)
+
+```json
+"_obstacleColor": {
+  "r": 0.81960791,
+  "g": 0.44313729,
+  "b": 0.18431373
+},
+```
+
+#### Left Side Boost Light Color (Green)
+
+```json
+"_envColorLeftBoost": {
+  "r": 0.33768433,
+  "g": 0.63207543,
+  "b": 0.33690813
+},
+```
+
+#### Right Side Boost Light Color (Light Purple)
+
+```json
+"_envColorRightBoost": {
+  "r": 0.60209066,
+  "g": 0.3280082,
+  "b": 0.85849059
+},
 ```
 
 ### Noir
@@ -947,7 +1094,7 @@ Differs to the colors in [Origins](#origins) slighty.
 },
 ```
 
-## Legacy Colors
+## Cores Legacy
 This section lists environment colors only if there are different from the section above.
 
 ::: tip NOTE This section only contains values from Beat Saber version 1.13.0. These are not the full list of changes made to colors over Beat Saber's history. :::
@@ -1094,5 +1241,5 @@ This section lists environment colors only if there are different from the secti
 },
 ```
 
-## Credits
+## Créditos
 Content in this section was authored by [Bullet](./mapping-credits.md#bullet) with the use of [Aeroluna](./mapping-credits.md#aeroluna)'s PrintColorScheme mod.

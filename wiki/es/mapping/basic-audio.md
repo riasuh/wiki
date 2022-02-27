@@ -334,15 +334,15 @@ Para generar un archivo de sonido compatible a utilizar necesitamos hacer lo sig
 2. Haz clic en el menú `Archivo -> Exportar -> Exportar como OGG.`  
    ![Exportar como ubicación Ogg](~@images/mapping/audacity-export.png)
 3. Nombra tu archivo `canción.ogg`.
-4. Elige una calidad OGG apropiada ([más información aquí](./advanced-audio.md#choosing-appropriate-ogg-export-quality)):  
-   ![Exportar deslizador de calidad](~@images/mapping/export-quality.png)
-   * Fuente de alta calidad (WAVE / FLAC / MP3 / AAC) usar 6-9 (a menos que haya un problema de tamaño de archivo.)
-   * Fuente de baja calidad (YouTube o tal): usar 3-5
-5. Haz clic en Guardar.
+4. Choose an appropriate OGG quality ([more info here](./advanced-audio.md#choosing-appropriate-ogg-export-quality)).
+   * High quality source (WAVE / FLAC / MP3 / AAC) use 6-9 (unless there is a file size issue.)
+   * Low quality source (YouTube or such): use 3-5
+5. Click Save.  
+   ![Export Quality Slider](~@images/mapping/export-quality.png)
 
 El archivo de canción/audio está listo para ser utilizado en cualquier editor de mapas. Ingresa el mismo BPM que obtuviste antes en tu editor de mapas de elección y asegúrate de usar 0ms de offset para todas las dificultades (ya que la canción ya está sincronizada con el ritmo).
 
-::: warning NOTA El archivo de audio no debe ser mayor de ~12 MB debido al límite de archivos ZIP de 14,3 MB de BeatSaver. Los 15 MB listados no son exactos en este momento. Si este es el caso, exporta a una calidad inferior hasta que el archivo alcance el límite de tamaño del archivo. Los archivos ZIP de más de 8 MB no se pueden compartir directamente en Discord (sin Nitro o Nivel de Aumento del Servidor 2) para las pruebas de juego. :::
+::: warning NOTE Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord (without Nitro or Server Boost Level 2) for playtesting. :::
 
 ## Créditos
 El contenido de esta página se deriva de guías de [Kolezan](./mapping-credits.md#kolezan) & [Nik](./mapping-credits.md#nik-n3tman).

@@ -34,66 +34,77 @@ He'll teach you to fix your mods and your terribly off-beat first map. We've all
 
 [Twitch](https://www.twitch.tv/kolezan) | [Donate](https://paypal.me/kolezan)
 
+## Luna
+She's often forgetful, but happy to help
+
+**Roles:** Support
+
 ## male
 is too uncreative to think of a bio
 
 **Roles:** Support
 
 ## Pespiri
-Me dará su biografía más tarde hoy, o eso dice.
+He'll give me his bio later today, or so he says.
 
-**Roles:** Soporte, Modder
+**Roles:** Support, Modder
 
 [GitHub](https://github.com/pespiri)
 
 ## Radevirot
-Este tipo salió de la nada y empezó a ayudar en soporte diciendo que era algún tipo de adicción, que loco.
+This guy came out of nowhere and started helping in support saying it was some kind of addiction, what a loon.
 
-**Roles:** Soporte
+**Roles:** Support
 
-[Twitter](https://twitter.com/Radevirot) | [Donar](paypal.me/Radevirot)
+[Twitter](https://twitter.com/Radevirot) | [Donate](paypal.me/Radevirot)
 
 ## Rex
-Me gusta mucho ayudar a la gente. Sí, eso es todo.
+I really like to help people. Yeah that's all.
 
 **Roles:** Soporte
 
 ## rui2015
-No tiene creatividad y no sabe qué poner aquí. Sin embargo, es una persona genial.
+Has no creativity and doesn't know what to put here. Is a cool person though.
 
 **Roles:** Soporte
 
 ## Sands
-No tiene vida y es bastante tonto pero puede ayudarte con tu bmbf y eso es lo único que importa ¿no?
+He has no life and he's pretty dumb but he can help with your bmbf and that's all that matters right?
 
-**Roles:** Soporte
+**Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCiZEAQOgVABYs1-u3psPezg)
 
 ## Simme63
-"Cocainómano"
+"Coke Head"
 
-**Roles:** Soporte
+**Roles:** Support
 
 ## Squares
-Te juro que soy bueno en Beat Saber y en ayudar, ¡sólo pregúntale a Boulders!
+I swear i'm good at Beat Saber and helping just ask boulders!
 
 **Roles:** Support
 
 [YouTube](https://www.youtube.com/channel/UCaQ7PLj4AqGHZnqQVjc_XBQ)
 
+## StormPacer
+I can show you the world after you show me your _latest.log
+
+**Roles:** Support
+
 ## Toblersto
-Un día decidí que quería ayudar, y desde entonces soy un poco adicto.
+I decided I wanted to help one day, and have been slightly addicted ever since.
 
-**Roles:** Soporte
+**Roles:** Support
 
-## Bot de monitorización de canales
-El bot que lo mantiene todo unido. ¡Creado por Megalon, recreado por lolPants y personificado por Rolo!
+## Channel Monitor Bot
+The bot that holds it all together. Created by Megalon, recreated by lolPants, and personified by Rolo!
 
-[¡Merchandising!](https://www.redbubble.com/people/megalon-gaming/portfolio)
+[Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
 ---
 
-::: tip See Also **Artistas 3D:** [RedBrumbler](./3d-artists.md#redbrumbler)  
+::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
 **Modders:** [Kyle1413](./modders.md#kyle1413)  
-**Moderadores:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Eradawn](./moderators.md#eradawn) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed) **Personal:** [Assistant](./staff.md#assistant) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::
+**Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed-retired)  
+**Staff:** [Assistant](./staff.md#assistant-retired) | [Eradawn](./staff.md#eradawn) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

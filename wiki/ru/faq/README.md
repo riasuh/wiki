@@ -13,7 +13,10 @@
 
 ### Внешние программы для загрузки и организации карт
 
-Сейчас нет работающих приложений для управления песнями.
+The following can be used to help you manage custom songs or playlists.
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
 
 ## Как установить плейлисты?
 
@@ -22,8 +25,8 @@
 
 Потом вы сможете:
 
-* Использовать инструмент`Установка Плейлистов` в программе Mod Assistant, перейдя во вкладку Настройки.
-* Поместить файл с плейлистом в `Beat Saber/Playlists`, выбрать название плейлиста в игре и нажать «скачать все песни».
+* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 Теперь вы увидите плейлист после кнопки с альбомом пользовательских песен в игре. Модификация также поддерживает управление плейлистами в игре.
 

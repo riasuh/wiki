@@ -13,7 +13,10 @@ Om du laddar ner banor manuellt från BeatSaver, extrahera dem till en mapp och 
 
 ### Verktyg för låthantering
 
-There are no working song management apps available at this time.
+The following can be used to help you manage custom songs or playlists.
+
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
 
 ## Hur installerar jag spellistor?
 

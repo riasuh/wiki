@@ -70,7 +70,15 @@ De exacte begin- en eind intervallen (over de interval verandering tussen evenem
   [Streamable](https://streamable.com/zx1sf) | [BeatSaver](https://beatsaver.com/beatmap/5bb2)
 
 ## Custom Environments
-::: tip OPMERKING Dit is een lege sectie. Als je wilt bijdragen, dien dan suggesties in via [dit formulier](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform). :::
+
+### Environment Logs
+How to generate logs to get all the data in an environment:
+
+1. Open `Beat Saber/UserData/Beat Saber IPA.json` in a text editor and set `"CreateModLogs": true`.
+2. Open `Beat Saber/UserData/Chroma.json` and set `"PrintEnvironmentEnhancementDebug": true`. :::warning NOTE Now when you open any Chroma map in game, it will generate a log of its environment. :::
+3. Open ChroMapper, select the environment you want to use and save the song info.
+4. Place a single light event in the map and change the light to a chroma color.
+5. Load Beat Saber and play the map for a second. The log is located in `Beat Saber/Logs/Chroma`.
 
 ## Chroma (RGB Lichten)
 Met de Chroma mod kan je meer dan twee kleuren gebruiken voor de lichten! Er zijn twee versies die niet met elkaar compatibel zijn, [Chroma 1.0](#chroma-1-0) en [Chroma 2.0](#chroma-2-0).
@@ -80,19 +88,19 @@ Chroma 1.0 evenementen zijn minder efficiënt en kunnen de editor prestaties be�
 
 Een enkele manier van converteren naar 2.0 is beschikbaar voor gebruik voordat je jouw level vrijgeeft. [ChromaNoodleConverter](https://github.com/CyanSnow/ChromaNoodleConverter/releases/latest)
 
-### Instellen in MMA2
+### Set-up in MMA2
 
 1. Open MMA2.
-2. Klik in de instellingen balk aan de rechter kant, onder het Legacy gedeelte, op het ChromaToggle selectievakje.
-3. Selecteer het level waar je wilt werken en klik op het tabblad ExtraFields rechts van de niveau selectie.
-4. Klik op het tabblad suggestions en typ vervolgens in `Chroma`.
+2. In the Settings bar on the right, under the Legacy section, click on the ChromaToggle checkbox.
+3. Select the level you want to map in and click on the ExtraFields tab to the right of the difficulty select.
+4. Click on the Suggestions tab and then type in `Chroma`.
 
 :::warning OPMERKING De tekst die je invoert in de suggesties moet exact zijn of de Chroma verlichtingseffecten zullen niet verschijnen in het spel :::
 
-5. Klik op de Add knop om het aan de suggesties toe te voegen.
-6. Klik op Save song infos links onderin.
-7. Klik op Edit Level.
-8. Druk op `Tab` in de editor om te wisselen naar het verlichtingsmenu en druk vervolgens op `Shift + C` om het RGB paneel te tonen.
+5. Click the Add button to add it to the suggestions.
+6. Click Save song infos in the bottom left corner.
+7. Click Edit Level.
+8. While in the editor, press `Tab` to swap to the lighting menu and then press `Shift+C` to bring up the RGB panel.
 
 ::: align center ![Screenshot van het MMA2 Chroma RGB paneel](~@images/mapping/mma2-chroma-rgb-panel.png)
 
@@ -109,19 +117,19 @@ Selecteer een standaard verlichtingsevenement door op een evenement te klikken v
 
 :::danger Het is **STERK** aanbevolen om jouw level om te zetten in het 2.0 formaat met behulp van de [ChromaNoodleConverter](https://github.com/CyanSnow/ChromaNoodleConverter/releases/latest) voordat je het vrij geeft. Zorg dat je een back-up maakt voordat je dit gebruikt omdat het nieuwe formaat niet werkt in MMA2 en er geen optie is om het teug te zetten. :::
 
-### Hoe Chroma 1.0 evenementen werken
+### How Chroma 1.0 Events Function
 Chroma evenementen doen niks uit zichzelf. Chroma evenementen functioneren als een licht filter voor toekomstige evenementen door de normale verlichtingsevenementen te "verven" naar de gespecificeerde kleur. In het volgende voorbeeld doen de oranje en roze evenementen niks totdat het standaard blauwe fade-evenement plaatsvindt. Dit werkt als een oranje fade en vervolgens als een roze fade.
 
 ::: align center ![Screenshot of the MMA2 lighting track with Chroma events](~@images/mapping/mma2-chroma.png) :::
 
 :::warning Plaats geen chroma evenementen in een ander evenement. Het kan problemen veroorzaken bij het kopiëren en plakken, en de slordige afronding van MMA2 kan zelfs het chroma na het eigenlijke evenement plaatsen en het zal de kleur niet veranderen. Vermijd het volledig. ~Halcyon12 :::
 
-### Gradienten
+### Gradients
 Hoe plaats je een gradient met Chroma evenementen:
 
-1. Onder de gradient knop plaats je de eerste kleur in het linker vak en de uiteindelijke kleur aan de rechterkant.
-2. Klik op de gradient knop.
-3. Klik op het startpunt en opnieuw op het eindpunt (vergelijkbaar met het plaatsen van een muur).
+1. Underneath the gradient button, place the initial colour in the left box and the ending/final colour on the right box.
+2. Click the gradient button.
+3. Click on the starting point and again on the ending point (similar to placing a wall).
 
 De gradiënten die een 1/8 precision gebruiken zijn mooi genoeg om er mooi uit te zien in het spel. (Het gebruik van te veel evenementen of een te hoge precision kan de prestaties van het spel beïnvloeden)
 
@@ -129,7 +137,7 @@ Vergeet niet dat je nog steeds de normale verlichtingsevenementen moet plaatsen 
 
 ::: align center ![Screenshot of the MMA2 lighting track with a Chroma gradient](~@images/mapping/mma2-chroma-gradient.png) :::
 
-### Custom fades
+### Custom Fades
 
 Het gebruiken van donkere tinten van de kleuren kan je een custom fade in/out effect nadoen. Kleuren die een lagere waarde gebruiken zullen minder fel zijn (verschijnen donker). Door een gradient te gebruiken dat begint of eindigt met een zwarte kleur kan het gevoel krijgen dat het fade in/out evenement is.
 
@@ -148,7 +156,7 @@ Alle beschikbare functies staan vermeld in de documentatie: [GitHub](https://git
 :::danger Chroma 2.0 wordt momenteel alleen ondersteund door ChroMapper.   
 Het openen van een level in MMA2 zal alle Chroma 2.0 evenementen uit het niveau verwijderen. :::
 
-### Kleur data
+### Color Data
 In het nieuwe Chroma formaat is de kleur data ingebouwd in het standaard verlichtingsevenement. Het is niet nodig om een Chroma evenement te plaatsen voor het daadwerkelijke verlichtingsevenement. Het kleur data heeft nu een optionele waarde voor alpha. Deze kunnen worden gebruikt voor nog overtuigendere fades of voor meer subtielere verlichting.
 
 ::: align center Vergelijking van dezelfde rood met verschillende alphas.
@@ -158,7 +166,7 @@ In het nieuwe Chroma formaat is de kleur data ingebouwd in het standaard verlich
 | ![Afbeelding van rode 1.00 alfa](~@images/mapping/red-lights-alpha-100.jpg) | ![Afbeelding van rode 0.75 alfa](~@images/mapping/red-lights-alpha-075.png) | ![Afbeelding van rode 0.50 alfa](~@images/mapping/red-lights-alpha-050.png) | ![Afbeelding van rode 0.25 alfa](~@images/mapping/red-lights-alpha-025.png) | ![Afbeelding van rode 0.00 alfa](~@images/mapping/red-lights-alpha-000.png) |
  :::
 
-### Chroma 2.0 gradienten
+### Chroma 2.0 Gradients
 In vergelijking met het oudere formaat, kunnen gradiënten worden gemaakt met een enkel evenement door middel van de `_lightGradient` eigenschap. Voorbeeld vaneen gradient dat langzaam van rood naar blauw gaat over 2 beats:
 
 ```json

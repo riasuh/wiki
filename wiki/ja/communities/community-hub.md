@@ -15,7 +15,7 @@ Beat Saber Modding Group以外のコミュニティのリストです。
 ---
 
 ## Acc Champ Community
-We are an Acc focused community that plans to be the new hub for Acc related events, training, and a new ranking system to help give specific info on each player's strengths and weaknesses in Acc categories.
+私たちは精度（Accurately=Acc）に焦点をあてたコミュニティで、Acc関連のイベント、トレーニングのハブになる予定です。そして精度のカテゴリー内でプレイヤーの強みや弱みに関する情報を提供します。
 
 [Discord](https://discord.gg/zd8W4rr)
 
@@ -24,11 +24,11 @@ We are an Acc focused community that plans to be the new hub for Acc related eve
 ## BeatKhana
 私たちはトーナメントを主宰するコミュニティです！ 以下の取り組みを行っています。
 
-* refer to the [original English version](../../communities/community-hub.md),
-* wait for a translation to be done,
-* Provide a place for people to promote their own tournaments and find suitable coordinators and casters
-* Host our own tournaments
-* Manage a pleasant Beat Saber community
+* We update and announce upcoming online tournaments, giving you all the information you need
+* Archive old tournaments so you can always find them back
+* 主催した大会を宣伝する場所です。また、コーディネーターやキャスターを探したりすることができます。
+* トーナメントを主催しています。
+* Beat Saberコミュニティを管理します。
 
 [Discord](https://discord.gg/5NjfSAC)
 
@@ -42,83 +42,76 @@ Beat Saber Clan Hubはクランに関連するすべてのことを扱います�
 ---
 
 ## Beat Saber Commissions
-Have a model, map, or mod that you'd like done? Get in contact with the professionals here.
+お好きな3D モデルやマップ、Modは見つかりましたか？ プロフェッショナルに相談ができます。
 
 [Discord](https://discord.gg/e4f3WBBVnr)
 
 ---
 
-## Beat Saber Events
-A place to plan, post, discuss, and get notifications for events in your area.
-
-[Discord](https://discord.gg/q92brWG)
-
----
-
 ## Beat Saber League
-A League-style tournament for Beat Saber!
+Beat Saberのリーグ形式トーナメント!
 
-[Discord](https://discord.gg/rNmazdz) | [Website](https://beatsaberleague.com/)
+[Discord](https://discord.gg/rNmazdz) | [ウェブサイト](https://beatsaberleague.com/)
 
 ---
 
 ## Beat Saber Legacy Group
-Welcome to the Beat Saber Legacy Group! Here we come together to relive the old days of Beat Saber by creating assets, mods, and tools to enhance your experience of Beat Saber! You can even downgrade your version here along with full mod support!
+Beat Saber Modding Group Wiki へようこそ! ここではアセットやMod、その他ツールを用いて昔のBeat Saber をよみがえらせます。 あなたのバージョンをダウングレードすることもできます。完全なMODサポート！
 
-[Discord](https://discord.gg/MrwMx5e) | [Website](https://bslegacy.com/)
+[Discord](https://discord.gg/MrwMx5e) | [ウェブサイト](https://bslegacy.com/)
 
 ---
 
 ## BeatSaver
-The BeatSaver discord provides a centralized location for site support, content reports, bug reports, and developer discussions related to the main repository of custom maps.
+BeatSaverディスコードはサイトサポートやコンテンツレポート、バグレポートをメインに行っています。カスタムマップのメインレポジトリに関するディスカッションもあります。
 
-[Discord](https://discord.gg/rjVDapkMmj) | [Website](https://beatsaver.com/)
+[Discord](https://discord.gg/rjVDapkMmj) | [ウェブサイト](https://beatsaver.com/)
 
 ---
 
 ## BeatTogether Community
-Community for the BeatTogether mod. This mod allows crossplay between PC platforms and Quest. This is a place to discuss the mod and follow its progress and releases!
+BeatTogether Modのためのコミュニティ この mod は、PCとQuest間のクロスプレイを可能にします。 ここには、modに関するコメントやリリース情報があります。
 
-[Discord](https://discord.com/invite/gezGrFG4tz)
+[ディスコード](https://discord.com/invite/gezGrFG4tz)
 
 ---
 
 ## Cube Community
-Beat Saber gameplay spotlights, scoring guides, clip compilations, community events and more!
+Beat Saberのプレイハイライト、スコアガイド、クリップ、コミュニティイベントなどがあります。
 
-[Discord](https://discord.gg/dwe8mbC) | [YouTube](https://youtube.com/CubeCommunity)
+[ディスコード](https://discord.gg/dwe8mbC) | [YouTube](https://youtube.com/CubeCommunity)
 
 ---
 
 ## KPOP Beat Saber
-Hi! We are a small community dedicated to mapping songs for Beat Saber. Bonus points if it's a Kpop song. But we welcome anyone who is interested in mapping or wants feedback! We also update the server with Kpop themed sabers and recent Kpop maps.
+こんにちは! 私たちはBeat Saberの曲をマッピングするための小さなコミュニティです。 KPOPだと最高です！ しかし、私たちはマッピングに興味がある人やフィードバックが欲し人は誰でも歓迎します。 ほかにもKPOPに関するセイバーやKPOPマップに関するサーバーを更新しています。
 
-[Discord](https://discord.gg/c9uHGYP)
+[ディスコード](https://discord.gg/c9uHGYP)
 
 ---
 
 ## Saber Factory
-Welcome to the Saber Factory server! Here you find all resources dedicated to the Saber Factory mod. Get help with the usage and creation of content, keep in touch with new updates, leave suggestions and much more.
+Saber Factory サーバーへようこそ！ ここでは、Saber Factoryモッド専用のすべてのリソースを見つけることができます。 コンテンツの作成と使用方法があり、アップデートの通知も受けることができ、提案やそのほかコメントを残せます。
 
-[Discord](https://discord.gg/PjD7WcChH3)
+[ディスコード](https://discord.gg/PjD7WcChH3)
 
 ---
 
 ## ScoreSaber
-Custom leaderboards and global ranking!
+カスタムリーダーボードとグローバルランキング！
 
 [Discord](https://discord.gg/WpuDMwU) | [Twitter](https://twitter.com/scoresaber)
 
 ---
 
 ## Qosmetics Community
-Qosmetics Community is a community focused around providing Custom models, including sabers bloqs and walls to the quest! We are striving to improve and grow the community of the Quest Custom Content to a whole new level. Come play your way!
+Qosmetics Communityは、Questにセイバーのブロックや壁を含むカスタムモデルを提供することに焦点を当てたコミュニティです! Questのカスタムコンテンツのコミュニティを発展させ、新たなレベルに引き上げるように努めています 遊びに来てください！
 
-[Discord](https://discord.gg/NXnPYEh)
+[ディスコード](https://discord.gg/NXnPYEh)
 
 ---
 
 ## QuestBoard
-We are a quest-focused beat saber community server, dedicated to improving the experience for as many players as we can.
+私たちはQuestに焦点を当てたビートセイバーコミュニティサーバーで、できるだけ多くのプレイヤーの経験を向上させることに専念しています。
 
-[Discord](https://discord.gg/d6DyW9v) | [Website](https://www.questmodding.com/)
+[ディスコード ](https://discord.gg/d6DyW9v) | [Website](https://www.questmodding.com/)

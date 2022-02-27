@@ -6,16 +6,16 @@ description: Learn about taking your lighting to the next level!
 ---
 
 # 中級者向け照明効果
-_You've learned the basics and now you want more!_
+_基本は習得しました！さらに技術を向上させましょう！_
 
-* [Glossary of Terms](./glossary.md)
+* [用語](./glossary.md)
 
-> "The first thing when getting into lighting is that you need to learn that you should learn your own style. Don’t think you need to copy others to become decent. Explore a bit." ~ Puds, Lighting Mentor
+> 「照明効果をつけるときに、まず自分自身のスタイルを学ぶ必要があります。 一人前になるために他の人の方法を真似しなければならないと考えるのはやめましょう。 必要なことは冒険です。」 ~ ライティングメンターPuds
 
-You've got your lighting feet wet in [Basic Lighting](./basic-lighting.md) and have decided that it's not so scary after all... great! Welcome! This page will help you expand on your "vanilla" lighting technique library but as Puds says, now it's time to start exploring and experimenting. Have fun with it!
+[基本的な照明効果](./basic-lighting.md)の技術を習得して、照明効果は怖くない！そう感じているのなら素晴らしいことです。 ようこそ! このページはあなたの「素」の照明効果をより鮮やかにするお手伝いをします。Pudsに言わせれば、今度は探検と実験を始める時が来たのです。 ぜひ楽しんでください。
 
-## Off Event Timing
-It's common for new lighters to overlook the importance of the timing of Off events throughout a lightshow. Well timed Off events can have as much impact as any On or Flash, and consistently timed Off events will produce a show that feels much more organic, and less rigid or computer driven. Since most sounds have a much clearer beginning than an end, especially vocals, there's rarely a universally correct timing for Off events.
+## オフイベントのタイミング
+照明効果においてオフイベントのタイミングの重要性を見落としてしまうことは、初心者のうちは一般的なことです。 Well timed Off events can have as much impact as any On or Flash, and consistently timed Off events will produce a show that feels much more organic, and less rigid or computer driven. Since most sounds have a much clearer beginning than an end, especially vocals, there's rarely a universally correct timing for Off events.
 
 ::: tip NOTE Once established, it's essential to apply decisions about Off block placement consistently throughout the entire show. :::
 

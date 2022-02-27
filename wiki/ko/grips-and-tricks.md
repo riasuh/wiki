@@ -3,17 +3,17 @@ sidebar: auto
 ---
 
 # 그립과 팁
-_A compilation of resources to help you to hit bloq._
+_노트를 맞추는데 도움되는 자료들._
 
 ## 랭킹 올리기 튜토리얼
-PP를 얻는 데 도움을 주는 TeknozFR의 믿을 수 없는 글. [랭킹 & 고득점 가이드](./ranking-guide)
+PP를 얻는 데 많은 도움을 주는 TeknozFR의 대단한 글. [랭킹 & 고득점 가이드](./ranking-guide)
 
 ## 고득점
-See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) about how the scoring system works.
+[Cube Comminity](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg)가 올린 이 영상에는 점수 시스템이 어떻게 작동하는지 알 수 있습니다.
 
 <YouTube url='https://www.youtube.com/watch?v=rVbXCGddspA' />
 
-Additionally, here's an image from the game developers about how the [hitboxes](https://twitter.com/Split82/status/979365834324889600) work
+추가로, 이 [이미지](https://twitter.com/Split82/status/979365834324889600)를 보면 히트박스 판정이 어떻게 작동하는지 확인할 수 있습니다.
 
 ![블럭 히트박스](~@images/mapping/hitbox-from-split.jpg)
 

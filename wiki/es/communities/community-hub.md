@@ -48,24 +48,17 @@ Have a model, map, or mod that you'd like done? Ponte en contacto con los profes
 
 ---
 
-## Eventos de Beat Saber
-Un lugar para planificar, publicar, debatir y recibir notificaciones de eventos en tu zona.
+## Beat Saber League
+A League-style tournament for Beat Saber!
 
-[Discord](https://discord.gg/q92brWG)
-
----
-
-## Liga Beat Saber
-¡Un torneo al estilo liga para Beat Saber!
-
-[Discord](https://discord.gg/rNmazdz) | [Página web](https://beatsaberleague.com/)
+[Discord](https://discord.gg/rNmazdz) | [Website](https://beatsaberleague.com/)
 
 ---
 
-## Antiguo grupo de Beat Saber
-¡Bienvenido al antiguo grupo de Beat Saber! Aquí nos reunimos para revivir los viejos tiempos de Beat Saber creando recursos, mods, y herramientas para mejorar tu experiencia con Beat Saber. Incluso puedes volver a una versión menor manteniendo el soporte completo para los mods.
+## Beat Saber Legacy Group
+Welcome to the Beat Saber Legacy Group! Here we come together to relive the old days of Beat Saber by creating assets, mods, and tools to enhance your experience of Beat Saber! You can even downgrade your version here along with full mod support!
 
-[Discord](https://discord.gg/MrwMx5e) | [Página web](https://bslegacy.com/)
+[Discord](https://discord.gg/MrwMx5e) | [Website](https://bslegacy.com/)
 
 ---
 

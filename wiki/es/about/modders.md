@@ -43,7 +43,7 @@ Construido de forma diferente. En el Goog.
 
 [GitHub](https://github.com/bigfoott) | [Twitch](https://www.twitch.tv/bigfooott) | [Donar](https://streamlabs.com/bigfooott)
 
-## brian
+## brian (Retired)
 Creador de CustomUI, haciendo que la creación de nuevos componentes de la interfaz de usuario sea una brisa para modders. También ha creado algunas de las herramientas de streaming más útiles que se utilizan hoy, incluyendo tomar el control de CameraPlus en ausencia de xyonico y el ampliamente utilizado modo Enhanced Chat Stream. ¡Este hombre quiere más canciones de hip hop, pónganse a ello gente!
 
 **Contribuciones:** CustomUI, CameraPlus, Enhanced Stream Chat, StreamCore, SongRequestManager, Hidden Blocks, SyncSaber
@@ -192,6 +192,13 @@ If you've ever played darth maul mode, you have this guy to thank.
 **Roles:** Modder **Contributions:** Darth Maul Plugin, Reactive Materials, Custom Key Events, Transparent Walls
 
 [GitHub](https://github.com/PureDark)
+
+## Raemien
+Behind some content creation improvements for Quest and experimental PC mods. Responsible for numerous duct tape bodges.
+
+**Roles:** Modder **Contributions:** MRCPlus, CustomBackgrounds, ARCompanion, Burnout, Puro, MouseSaber, DebrisTweaks
+
+[GitHub](https://github.com/Raemien) | [Patreon](https://www.patreon.com/Raemien) | [Ko-Fi](https://ko-fi.com/raemien)
 
 ## raftario
 does things sometimes ????

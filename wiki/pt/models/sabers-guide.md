@@ -5,7 +5,7 @@ description: Guia de MissRaynor para fazer Custom Sabers!
 ---
 
 # Guia dos Custom Sabers
-_MissRaynor's guide to making Custom Sabers._
+_Guia de MissRaynor para fazer Custom Sabers._
 
 ## Introdução
 Since people are still having trouble with making custom sabers, we think that it’s best to update our current tutorial. Thank you to angeliod0103 for making the previous guide. Additional contributions to this guide made by Bobbie and Mdot.
@@ -13,26 +13,32 @@ Since people are still having trouble with making custom sabers, we think that i
 ## Preparação
 YOU MUST HAVE:
 
-* Unity 2018.1.6f1 to make a custom saber file (*.saber). [Download HERE](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
-* The Custom Saber Unity project. [Download HERE](https://cdn.discordapp.com/attachments/468249466865057802/703747388556181534/Custom_Sabers-4.3.0-UnityProject.zip)
+* Unity [2019.3.15f1](https://unity3d.com/get-unity/download/archive)
+  * You need to go to the tab that says `Unity 2019.x` and scroll down to 2019.3.15. This has to be installed with [Unity Hub](https://unity3d.com/get-unity/download).
+  * Need a guide on how to install? [Check out this Unity guide to Unity Hub.](https://docs.unity3d.com/Manual/LicensesAndActivation.html)
+* [The Custom Saber Unity project.](https://cdn.discordapp.com/attachments/468249466865057802/935252103935434762/Unity2019.3.15-CustomSaber-4.3.0.zip)
 * A 3d model file of the saber of your choice. The most common and acceptable file formats are .obj and .fbx files. You can download your saber from 3d model hosting/showcase sites like Sketchfab or turbosquid.
 
 Opcional:
 
 * 3d modeling software: Blender is a good free option, or 3dsmax if you have a license for it (educational license is fine)
 * Image editor: [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/downloads/) work if you want to make your own saber texture
-* The saber model used in this tutorial. [Download HERE](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
+* The saber model used in [this tutorial.](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
 
 ## Setup
 Extraia o projeto Unity do Cusotm Saber para o local desejado.
 
-Se você estiver usando o Unity Hub, clique em Adicionar, selecione a pasta do Projeto Unity Custom Saber, clique em Select folder.
+### Importing and setting Unity version of the project
 
 ![Adding Custom Saber project](~@images/models/sabers/01.png)
 
 The Custom saber project should appear on the list. Make sure the Unity version is correct for the project.
 
-![Checking that the version is correct](~@images/models/sabers/02.png)
+![Checking that the project version is correct](~@images/models/sabers/02.png)
+
+![If the Unity version is incorrect, change this to match the project version.](~@images/models/sabers/02-2.png)
+
+### Opening and setting up the project in the Editor
 
 Abra o projeto de Custom Saber, ele deve aparecer assim:
 
@@ -135,7 +141,7 @@ This component lets you perform an action every N combo. It works the same as th
 ### Custom Trails
 This component lets you change the default trail for sabers. For a comprehensive tutorial on how to use custom trails, check out [MDot's custom trail guide](https://mdotamaan.github.io/BeatSaber-CustomTrailsGuide/).
 
-### Animação
+### Animation
 If you want your sabers to play a certain animation, you need to use an `Animator` component.This will allow you to better manage what animation you're making, in addition to letting you control how the animation transitions/triggers using the Event Manager. [More information on the animator component can be found in the unity docs here](https://docs.unity3d.com/Manual/class-AnimatorController.html).
 
 ### Advanced Shader Properties

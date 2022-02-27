@@ -4,7 +4,7 @@
 :::tip NOTA As notas precisam ser feitas especificamente para a Quest ou PC e não podem ser trocadas entre as duas. Você pode informar para qual plataforma uma nota serve pela extensão do arquivo. Arquivos `.bloq`são para PC enquanto o Quest usa arquivos `.zip`. :::
 
 ### PC Notes
-The latest Custom Notes mod can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant).
+A última versão do mod de Custom Notes pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [ModAssistant](https://github.com/Assistant/ModAssistant).
 
 Uma vez instalado, você deve ver uma pasta `CustomNotes` na [sua pasta de instalação](/faq/install-folder.md), com algumas notas de exemplo instaladas para você. Esta pasta também é onde você colocará os arquivos `*.bloq`.
 
@@ -19,7 +19,7 @@ Custom Notes para Quest são fornecidas pelo mod Qosmetics. A versão mais recen
 Dentro do jogo no menu principal que você verá na esquerda um botão `CUSTOM NOTES` sob a seção `Mods`. Pressioná-lo abrirá o menu que você pode usar para selecionar que nota você deseja usar.
 
 ### Usuários do Quest
-Upload the `.qbloq` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which note is active from the Qosmetics menu in-game.
+Envie o arquivo `.qbloq` para seu Quest usando a [ Interface Web do BMBF](/quest-modding.md#installing-mods). Então você pode selecionar qual nota está ativa no menu Qomestics no jogo.
 
 ## Criando Custom Notes
 

@@ -4,63 +4,69 @@ next: ./avatars-guide.md
 description: MissRaynor's guide to making Custom Sabers!
 ---
 
-# Custom Sabers Guide
-_MissRaynor's guide to making Custom Sabers._
+# カスタムセイバー作成ガイド
+_MissRaynorによる、カスタムセイバー作成ガイド_
 
-## Intro
-Since people are still having trouble with making custom sabers, we think that it’s best to update our current tutorial. Thank you to angeliod0103 for making the previous guide. Additional contributions to this guide made by Bobbie and Mdot.
+## はじめに
+カスタムセイバーを作るうえでまだ多くの人が問題を抱えているので、現在のチュートリアルを更新したいと思います。 前回のガイド作成においてangeliod0103に感謝を申し上げたいと思います。 BobbieとMdotには追加の説明をいただきました。ありがとうございます。
 
-## Preparation
-YOU MUST HAVE:
+## 準備
+必要なもの
 
-* Unity 2018.1.6f1 to make a custom saber file (*.saber). [Download HERE](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)
-* The Custom Saber Unity project. [Download HERE](https://cdn.discordapp.com/attachments/468249466865057802/703747388556181534/Custom_Sabers-4.3.0-UnityProject.zip)
-* A 3d model file of the saber of your choice. The most common and acceptable file formats are .obj and .fbx files. You can download your saber from 3d model hosting/showcase sites like Sketchfab or turbosquid.
+* Unity [2019.3.15f1](https://unity3d.com/get-unity/download/archive)
+  * You need to go to the tab that says `Unity 2019.x` and scroll down to 2019.3.15. This has to be installed with [Unity Hub](https://unity3d.com/get-unity/download).
+  * Need a guide on how to install? [Check out this Unity guide to Unity Hub.](https://docs.unity3d.com/Manual/LicensesAndActivation.html)
+* [The Custom Saber Unity project.](https://cdn.discordapp.com/attachments/468249466865057802/935252103935434762/Unity2019.3.15-CustomSaber-4.3.0.zip)
+* お好みの３Dモデルファイル 最も一般的なファイル形式は.objと.fbxです。 Sketchfabやturbosquidなどの3Dモデルサイトからお好みのモデルをダウンロードして使うことも可能です。
 
-Optional:
+任意
 
-* 3d modeling software: Blender is a good free option, or 3dsmax if you have a license for it (educational license is fine)
-* Image editor: [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/downloads/) work if you want to make your own saber texture
-* The saber model used in this tutorial. [Download HERE](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
+* 3Dモデリングソフトウェア: Blenderは無料で使える良いソフトです。ライセンスをお持ちの場合は3dsmaxです(教育ライセンスで構いません)
+* 画像編集: [Photoshop](https://www.adobe.com/products/photoshop.html) または [GIMP](https://www.gimp.org/downloads/) が、自分のセイバーのテクスチャを作りたい場合に必要です。
+* The saber model used in [this tutorial.](https://bs.assistant.moe/Sabers/resources/Tutorial_Saber.zip)
 
-## Setup
-Extract the Custom Saber Unity project to your desired location.
+## 設定
+カスタムセイバーのUnityプロジェクトを任意の場所に解凍します。
 
-If you're using Unity hub, Click on Add, select the Custom Saber Unity Project folder, click on Select folder.
+### Importing and setting Unity version of the project
 
 ![Adding Custom Saber project](~@images/models/sabers/01.png)
 
 The Custom saber project should appear on the list. Make sure the Unity version is correct for the project.
 
-![Checking that the version is correct](~@images/models/sabers/02.png)
+![Checking that the project version is correct](~@images/models/sabers/02.png)
 
-Open the Custom saber project, it should show up like this:
+![If the Unity version is incorrect, change this to match the project version.](~@images/models/sabers/02-2.png)
+
+### Opening and setting up the project in the Editor
+
+Custom Saberプロジェクトを開くと、次のように表示されます。
 
 ![Checking that the project shows up correctly](~@images/models/sabers/03.png)
 
-Check if the project is functional by double checking that the `Saber Exporter` shows up in the `Window` tab.
+`window` タブに `Saber Exporter` が表示されることを確認してください。
 
 ![Checking that project has a saber exporter](~@images/models/sabers/04.png)
 
 ![Checking that the saber exporter works properly](~@images/models/sabers/05.png)
 
-The current scene should contain a GameObject called `TemplateSaber`.
+初めのシーンには、 `TemplateSaber` というGameObjectが含まれています。
 
 ![Red circle around TemplateSaber](~@images/models/sabers/06.png)
 
-If it’s your first time opening this project, the Unity viewport will be very far away from the saber. To see the template saber in the viewport, doubleclick on the `TemplateSaber` GameObject.
+初めてこのプロジェクトを開いた場合、Unityのビューポートはセーバーから非常に遠く離れています。 ビューポートにテンプレートセイバーを表示するには、 `TemplateSaber` GameObjectにダブルクリックします。
 
-Click both the `RightSaber` and `LeftSaber` GameObjects and make sure that they have an `Event Manager` component attached.
+`RightSaber` と `LeftSaber` GameObjects の両方をクリックし、 `Event Manager` コンポーネントが添付されていることを確認します。
 
 ![Checking that EventManager exists on the RightSaber object](~@images/models/sabers/07.png)
 
-Now try exporting the Template Saber into your `CustomSabers` folder with the Saber Exporter.
+テンプレートセイバーを `CustomSabers` フォルダにエクスポートしてみてください。
 
 ![Exporting TemplateSaber](~@images/models/sabers/08.png)
 
-If the Template Saber appears and works properly ingame, setup is complete and you’re ready for the next part.
+Template Saberが表示され、ゲーム内で正しく動作した場合、セットアップが完了しました。 次のパートへ進みましょう。
 
-## Modeling
+## 3Dモデリング
 I won’t go into detail about making a 3d model. If you don't have already have a model and want to learn how to make one, you can find tutorials here:
 
 ### Blender
@@ -77,31 +83,31 @@ Once the saber is done, you can export it by choosing File-Export, choosing the 
 
 ::: tip NOTE You don't have to export both sabers if they both have the exact same shape. If they're identical, exporting one should be good enough. ::: ::: tip NOTE Merging meshes that share the same color/glowing attributes will help a LOT in the long run. :::
 
-## Unity
-To import the model into unity, simply drag and drop it into the Assets window. Afterwards, line the saber up with the TemplateSaber. Video example:
+## Unityでの操作
+モデルをUnityへインポートする方法は、アセットウィンドウにモデルをドラッグアンドドロップするだけです。 その後、モデルをテンプレートセイバーの横に並べます。 動画：
 
 <YouTube url='https://www.youtube.com/watch?v=mphD87zOer4' />
 
-Next, you need to add Beat Saber compatible materials to your sabers.
+次に、ビートセイバーに互換性のあるマテリアルをセイバーに追加します。
 
-The custom sabers unity project comes with 4 different beat saber compatible shaders. Here are the main differences between them:
+カスタムセイバーには4つの互換性のあるシェーダーが付属しています。 主な違いは次のとおりです。
 
-* Lit glow is lit and has shadows. You can change the direction the light comes from and how strong it is
-* Metallic makes the material slightly darker and allows you to add a metallic reflection
-* Unlit glow is similar to lit glow but it doesn't have any lighting effects.
-* Unlit glow cutout dither is the same as unlit glow but allows you to add transparency to your material.
+* Lit glowは点灯し、影があります。 光の向きと強さを変えることができます
+* 金属質は材料を少し暗くし、金属反射を加えることができます。
+* Unlit glowはlit glowに似ていますが、照明効果はありません。
+* Unlighted glow cutout ditherは、unlit glowと同じですが、マテリアルに透明性を追加できます。
 
-The materials you use will depend on what traits you're looking for.
+使用するマテリアルは、探している特性によって異なります。
 
-::: warning WARNING Make sure you *ONLY* use shaders that are compatible with beat saber. If you use a shader that isn't compatible (the Unity Standard shader, for example) your material will simply show up as white in-game. :::
+::: warning 警告 ビートセイバーと互換性のあるシェーダー*のみ*使用してください。 互換性のないシェーダー(Unity標準シェーダーなど)を使用すると、ゲーム内で白として表示されます。 :::
 
-::: tip NOTE For more information on shader compatibility, visit the Advanced Shaders Properties section of this guide. :::
+::: tip 補足 シェーダーの互換性の詳細については、このガイドの高度なシェーダーのプロパティセクションをご覧ください。 :::
 
-Video example of applying materials:
+マテリアルを適用するビデオ例:
 
 <YouTube url='https://www.youtube.com/watch?v=zKFCNJoQOWk' />
 
-You can add a texture to a material by dragging an image file in the texture slot.
+テクスチャスロットに画像ファイルをドラッグすることで、素材にテクスチャを追加できます。
 
 ![Adding texture to saber](~@images/models/sabers/10.png)
 

@@ -18,7 +18,9 @@ Attackera inte spelutvecklare för frågor som rör mods, och vice versa - modda
 
 Om du har hämtat och installerat en mod och du får User Account Control prompt, så klicka **INTE** på acceptera, och sedan rapportera. Vilket mod som du installerat och var skadligt!
 
-Om du är osäker på om något du installerat är en skadelig kod eller inte, ***vänligen fråga någon i vår discord server***. :::
+The only approved case is when activating/deactivating OneClick™ Install in Mod Assistant. Administrator access is required to register the program with your computer to handle OneClick™ Install links.
+
+If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
 
 Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
 
@@ -55,6 +57,8 @@ The `BeatSaver Downloader` mod allows you to download maps in-game using the `MO
 
 ### BeatSaver
 [BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is where they are stored. To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
+
+To enable and use Mod Assistant's OneClick™ Install see the picture below: ![Mod Assistant](~@images/beginners-guide/modassistant-oneclick.png)
 
 ### Beast Saber
 [Beast Saber](https://www.bsaber.com) (bsaber.com) is a site that tries to help make finding fantastic maps to play easier. It does this by categorizing the thousands of songs on BeatSaver and lets you sort by a song's genre and many other attribute tags. It also has a full social feature where players can review songs and comment on them. One of the most used features is the "Curator Recommended" feature where a team plays through most songs released each day and recommends the ones that stand out, letting you [automatically download these in-game](https://bsaber.com/beatsync/).

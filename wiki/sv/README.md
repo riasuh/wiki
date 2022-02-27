@@ -52,14 +52,14 @@ tags:
 ## Externa Länkar
 
 * [Gå med i Discord-servern!](https://discord.gg/beatsabermods)
-* [Kontakta Oss](http://bit.ly/MessageBSMG) - Erbjud dina färdigheter, sponsra oss, överklaga en mute/ban, rapportera en användare etc.
-* [BSMG Patreon](https://www.patreon.com/beatsabermods) - Stöd våra BSMG-tjänster!
+* [Kontakta oss](https://bsmg.dev/contact) - Erbjud dina färdigheter, sponsra oss, överklaga en server mute/ban, rapportera en användare, etc.
+* [BSMG Patreon](https://www.patreon.com/beatsabermods) - Stöd BSMGs tjänster!
 * [BeatMods](https://beatmods.com) - Samling av PC-mods som finns i olika installatörer, till exempel Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Ladda ner egna låtar här
+* [BeatSaver](https://beatsaver.com/) - Ladda ner customlåtar här
 * [BeastSaber](https://bsaber.com/) - Recensioner, artiklar, spellistor, och mer!
-* [ModelSaber](https://modelsaber.com/) - Download PC custom sabers, avatars, bloqs, and platforms!
-* [Qosmetics Discord](https://discord.gg/qosmetics) - Download Quest custom sabers, walls, and bloqs!
-* [ScoreSaber](https://scoresaber.com/) - Custom map leaderboards
-* [Apply to Help Translate the Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localize the wiki to your language!
-* [Steam Store Page](https://store.steampowered.com/app/620980/Beat_Saber/)
-* [Oculus Store Page](https://www.oculus.com/experiences/rift/1304877726278670/)
+* [ModelSaber](https://modelsaber.com/) - Ladda ner customsablar till PC, avatarer, bloq och plattformar!
+* [Qosmetics Discord](https://discord.gg/qosmetics) - Ladda ner customsablar, väggar och bloq till Quest!
+* [ScoreSaber](https://scoresaber.com/) - Topplistor för custom-mappar
+* [Ansök om att hjälpa till att översätta wikin!](https://forms.gle/e3BqA3poMjESARe76) - Översätt wikin till ditt egna språk!
+* [Steambutikens hemsida](https://store.steampowered.com/app/620980/Beat_Saber/)
+* [Oculusbutikens hemsida](https://www.oculus.com/experiences/rift/1304877726278670/)

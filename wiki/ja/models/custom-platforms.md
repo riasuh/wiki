@@ -1,15 +1,15 @@
-# Custom Platforms
+# カスタムプラットフォーム
 
-## Installation
+## はじめに
 
-:::warning Custom Platforms is a PC only mod. :::
+:::warning　警告 カスタムプラットフォームはPC専用のModです。 :::
 
-The latest Custom Platforms mod can be found in the can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Once you've installed it you will see a folder called `CustomPlatforms` in [your install folder](/faq/install-folder.md). This is where you should place the `*.plat` files you want to use.
+最新のカスタムプラットフォームModはBSMGのDiscordサーバーの[#pc-mods channel](https://discord.gg/beatsabermods)チャンネルか[Mod Assistant](https://github.com/Assistant/ModAssistant)から利用できます。 Modをインストールすると[インストールフォルダ](/faq/install-folder.md)内に`CustomPlatforms`というフルだが作成されます。 ここに使いたい`*.plat`ファイル形式のプラットフォームを入れてください。
 
-You can download more platforms on [ModelSaber](https://modelsaber.com/Platforms/).
+[ModelSaber](https://modelsaber.com/Platforms/)で多くのプラットフォームをインストールできます。
 
-## Usage
-Inside the game in the main menu you will see a `PLATFORMS` button at the top left of the Mods menu over by the release notes. Pressing it will open up the menu you can use to select which platform you want to use. Note that if you intend to use Progress Counter from Counters+, most platforms will block the center song timer.
+## 使い方
+メインメニューの左に表示されているModメニューから`PLATFORMS`ボタンがあります。 それを押すとプラットフォームを選択する画面が表示されます。 Counters+のProgress Counter機能を使用したい場合は、ほとんどのプラットフォームは中央の時間表示を隠してしまうことに注意してください。
 
-## Creating Platforms
-[Emma's Platform Guide](./platforms-guide.md) is a great resource for learning how to make your own platforms.
+## プラットフォームの作成
+[Emma's Platform Guide](./platforms-guide.md)はプラットフォームを作成する方法を学ぶ最高のガイドです。

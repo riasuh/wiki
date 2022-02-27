@@ -3,11 +3,11 @@ sidebar: auto
 ---
 
 # Guia de Ranking & Pontuação
-Written by Teknoz
+Escrito por Teknoz
 
 *Um grande obrigado Flee por corrigir erros gramaticais e fornecer informações úteis.*
 
-:::warning Aviso Este guia foi originalmente escrito em 7 de fevereiro de 2019. It has been updated multiple times but some information may be inaccurate or missing. If you notice inaccurate/missing information in this guide, you can submit a pull request on the [BSMG Wiki GitHub](https://github.com/bsmg/wiki#readme) or send me a message on Discord (teknoz#6900). :::
+:::warning Aviso Este guia foi originalmente escrito em 7 de fevereiro de 2019. Ele foi atualizado várias vezes, mas algumas informações podem estar incorretas ou faltando. Se você notar informações imprecisas/faltando neste guia, você pode enviar um pull request no [GitHub da Wiki do BSMG](https://github.com/bsmg/wiki#readme) ou enviar-me uma mensagem no Discord (teknoz#6900). :::
 
 ## Precisão e Pontuação
 

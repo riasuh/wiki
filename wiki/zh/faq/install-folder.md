@@ -8,7 +8,7 @@ _Beat Saber 安装在哪里？_
 | Oculus: | `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## 其他位置
-**If you have moved your install folder to a different drive, it might be in the location below.** Replace the drive letter `F` with the drive your game is installed on.
+**如果您将您的游戏安装在其他磁盘，那么它可能在以下位置。** 将`F`替换为您安装游戏的磁盘。
 |         |                                                        |
 | ------- | ------------------------------------------------------ |
 | Steam:  | `F:\SteamLibrary\steamapps\common\Beat Saber\`  |
