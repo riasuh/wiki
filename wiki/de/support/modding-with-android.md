@@ -4,7 +4,7 @@ sidebar: auto
 
 # Quest Modding mit Android
 
-:::warning Wenn du BMBF installierst und dein Spiel modifizierst, wird der offizielle Mehrspielermodus sowie die Anzeige und das Hochladen von Spielständen in den Bestenlisten des Basisspiels deaktiviert. Wenn du einen modifizierten Mehrspielermodus spielen möchtest, benötigst du die Mod `Beat Together`, die Cross-Play zwischen PC und Quest ermöglicht und die Verwendung von Custom Songs erlaubt. Die Mod kann im [Beat Saber Modding Group](discord.gg/beatsabermods) Discord unter `#quest-mods` oder auf der [Questboard](https://questmodding.com) Seite gefunden werden.
+:::warning Wenn du BMBF installierst und dein Spiel modifizierst, wird der offizielle Mehrspielermodus sowie die Anzeige und das Hochladen von Spielständen in den Bestenlisten des Basisspiels deaktiviert. If you would like to play modded multiplayer, you need the `Beat Together` and `MultiQuestensions` mods, which enables cross-play between PC and modded Quests and allows for custom songs to be played. Die Mod kann im [Beat Saber Modding Group](discord.gg/beatsabermods) Discord unter `#quest-mods` oder auf der [Questboard](https://questmodding.com) Seite gefunden werden.
 
 Um Ranglisten für Custom Songs zu erhalten und um Performance-Punkte (PP) für Ranked Songs zu bekommen, benötigst du die [ScoreSaber](https://new.scoresaber.com/quest) Mod. [Dieser Link](https://new.scoresaber.com/quest) führt dich zur ScoreSaber-Seite, um das Programm einzurichten. ScoreSaber ersetzt nicht die Bestenlisten des Basisspiels, sondern fügt nur Bestenlisten für Custom Songs hinzu.
 
@@ -94,7 +94,9 @@ Du kannst nun mit [Handy einrichten](#handy-einrichten) weiter machen
     3. Aktiviere USB debugging
 
 ### BMBF mit deinem Handy installieren
-:::warning Bevor du das Spiel moddest, starte Beat Saber einmal, spiele ein Level und scheitere sofort! :::
+:::warning
+Bevor du das Spiel moddest, starte Beat Saber einmal, spiele ein Level und scheitere sofort!
+:::
 
 Öffne Sidequest auf deinem Handy und verbinde deine Quest mit einem USB Kabel. Du solltest ein USB-Debugging Pop-Up in Deiner Quest und auf Deinem Telefon erhalten. Wählen auf beiden Geräten "Zulassen" und wenn Du möchtest, wähle "Immer zulassen".
 

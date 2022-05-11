@@ -7,6 +7,72 @@ Ganadores de concursos/eventos pasados celebrados en el discord. ¡Manténte al 
 
 If you want to see us holding more fun events, please consider contributing to the events tier on our [Patreon](https://www.patreon.com/beatsabermods)!
 
+---
+
+## 2021 Christmas Competition
+The fourth Christmas competition. Now with 1000% more Padoru!
+
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/924057004618678292)
+
+### Map Winners
+
+#### Vanilla
+
+* **1st:** [Jingle Bells (ft. Scarlett Quinn)](https://beatsaver.com/maps/1ee43) by **Nixie.Korten**
+* **2nd:** [Christmas EveL](https://beatsaver.com/maps/1ee81) by **NotelEvil**
+* **3rd:** [Carol of the Cartels - Bossfight](https://beatsaver.com/maps/1efb3) by **Timeweaver**
+
+#### Modeado
+
+* **1st:** [Merry Christmas](https://beatsaver.com/maps/1eb49) by **NFaded**
+* **2nd:** [12 Days of Christmas](https://beatsaver.com/maps/1ef8a) by **Duodecillionare**
+* **3rd:** [Carol of the Bells](https://drive.google.com/file/d/1NrU9Hu2uldZ8JFsvFyj3nPG5FCLmCUxM/view?usp=sharing) by **Goodluky**
+
+### Model Winners
+
+* **1st:** PC Saber [T-Winter](https://www.mediafire.com/file/u8ragfzeanjx6ce/T-Winter_.saber/file) by **Tru**
+* **2nd:** PC Saber [Bush Noel](https://drive.google.com/file/d/18JiBXIpdTWY_TEud7OBfllhBDA-X6Dp0/view?usp=sharing) by **ToxicBush**
+
+And for the first time there was a tie for 3rd!
+
+* **3rd:** Quest Saber [Silent Knight](https://drive.google.com/file/d/1OSVWA2DnVwbbIx9rWpF361mCUuAO2dtj/view?usp=sharing) by **Knight** and Platform [Snow Forest](https://tonihub.com/SnowForest.zip) by **Toni Macaroni**
+
+### Grand Prize Winner
+
+**NFaded's** map: [Merry Christmas](https://beatsaver.com/maps/1eb49)
+
+Congrats to all the finalists!
+
+---
+
+## 2021 Halloween Competition
+The fourth Halloween contest. CMB turned into a pumpkin!
+
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/904113909131247729)
+
+### Map Winners
+
+#### Vanilla
+
+* **1st:** [Avantasia - The Haunting](https://beatsaver.com/maps/1d616) by **Cyrix**
+* **2nd:** [t+pazolite - Party in the HOLLOWood (feat. Nanahira)](https://beatsaver.com/maps/1d5f1) by **That_Narwhal**
+* **3rd:** [Nanou - Happy Hollow and the God Club](https://beatsaver.com/maps/1d407) by **Aimedhades16**
+
+#### Modeado
+
+* **1st:** [Dracula - f(x)](https://beatsaver.com/maps/1d60e) by **aggrogahu**
+* **2nd:** [Ghost Family Living In Graveyard](https://beatsaver.com/maps/1d61a) by **Reddek** and **Atmosophere**
+* **3rd:** [ReeK - Weeaboo Spookfest](https://beatsaver.com/maps/1cbbc) by **Jevk**
+
+### Model Winners
+
+* **1st:** [Curse](https://modelsaber.com/Sabers/?id=1635299789&pc) by **iSmellFood**
+* **2nd:** [Twins of Cthulhu](https://modelsaber.com/Sabers/?id=1635305833&pc) by **Clanps**
+* **3rd:** [T-Midnight](https://www.mediafire.com/file/iygz9cz2jtlkh99/T-Midnight.saber/file) by **Tru**
+
+### Grand Prize
+[Curse](https://modelsaber.com/Sabers/?id=1635299789&pc) by **iSmellFood**
+
 ## 2021 Bloodcloak's Birthday Bash
 In celebration of Bloodcloak's Birthday, this was a stage vc triva game show hosted by them based on a small impromptu quiz they held in `#general` chat a few months before. The prize pool consisted of random Steam Game Keys, Steam Wallet Codes, and Full and Classic Discord Nitro. Funding and prizes were generously donated by Pink, Bobbie, and Stemisty with the rest covered by the events tier of our Patreon!
 
@@ -77,7 +143,7 @@ The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 * **2nd:** [Majestica - Ghost of Christmas Present](https://beatsaver.com/beatmap/11c53) by **Cyrix**
 * **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) by **Alekcake**
 
-#### Modeado
+#### Modded
 
 * **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
@@ -103,13 +169,13 @@ The third Halloween contest. This time with celebrity judges, LostVint, Protosta
 * **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) by **Jamman360**
 * **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) by **FireStrike**
 
-#### Modeado
+#### Modded
 
 * **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
 
 ### Model Winners
 
-* **1st:** [ditCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
+* **1st:** [dotCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
 * **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
 * **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
@@ -150,7 +216,7 @@ The second Holiday/Winter contest. This time throwing the holidays out of the wi
 * **2nd:** [Swing Republic - Boogie Woogie Santa ft. Patti Page](https://beatsaver.com/beatmap/11c71) by **HelenCarnate**
 * **3rd:** [After the Rain - Black Christmas (JubyPhonic English Cover)](https://beatsaver.com/beatmap/7748) by **Bloodcloak**
 
-#### Menciónes honoríficas
+#### Honorable Mentions
 In no particular order...
 
 * [August Burns Red - Carol of the Bells](https://beatsaver.com/beatmap/8fe5) by **Skeelie**
@@ -182,7 +248,7 @@ The second Halloween contest, Halloween 2: Electric Boogaloo.
 * **2nd:** [AronChupa, Little Sis Nora - Rave in the Grave](https://beatsaver.com/beatmap/6cf7) by **TranquillizeMe**
 * **3rd:** [The Living Tombstone - Ghostbusters REMIX](https://beatsaver.com/beatmap/6b81) by **DownyCat**
 
-#### Menciónes honoríficas
+#### Honorable Mentions
 In no particular order...
 
 * [S3RL - Scary Movie](https://beatsaver.com/beatmap/6cf9) by **Teuflum**

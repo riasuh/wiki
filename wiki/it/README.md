@@ -6,7 +6,7 @@ tagline: Benvenuto alla Wiki del Gruppo di Modding di Beat Saber!
 description: Benvenuto alla Wiki del Gruppo di Modding di Beat Saber!
 actionText: Guida per Principianti →
 actionLink: ./beginners-guide.md
-footer: Copyright © 2019-2021 Beat Saber Modding Group | Licenziato sotto CC BY-NC-SA 4.0
+footer: Copyright © 2019-2022 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
   - bsmg
   - beat saber
@@ -54,12 +54,23 @@ tags:
 * [Unisciti al server Discord!](https://discord.gg/beatsabermods)
 * [Contact Us](https://bsmg.dev/contact) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
 * [Patreon di BSMG](https://www.patreon.com/beatsabermods) - Supporta i Servizi di BSMG!
-* [BeatMods](https://beatmods.com) - Repository di mod PC riflettute negli installatori come Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Scarica qui le canzoni personalizzate
-* [BeastSaber](https://bsaber.com/) - Recensioni, articoli, playlist e altro!
-* [ModelSaber](https://modelsaber.com/) - Scarica sciabole personalizzate per PC, avatar, bloq e piattaforme!
-* [Qosmetics Discord](https://discord.gg/qosmetics) - Scarica sciabole personalizzate per Quest, muri e bloq!
-* [ScoreSaber](https://scoresaber.com/) - Classifiche personalizzate delle mappe
-* [Fai Domanda per Aiutare a Tradurre la Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localizza la wiki nella tua lingua!
-* [Pagina di Steam](https://store.steampowered.com/app/620980/Beat_Saber/)
-* [Pagina dell'Oculus Store](https://www.oculus.com/experiences/rift/1304877726278670/)
+
+---
+
+* [BeatMods](https://beatmods.com) - Repository of PC mods that are reflected in installers like Mod Assistant
+* [BeatSaver](https://beatsaver.com/) - Download custom songs here
+* [BeastSaber](https://bsaber.com/) - Reviews, articles, playlists, and more!
+* [ModelSaber](https://modelsaber.com/) - Download PC custom sabers, avatars, bloqs, and platforms!
+
+---
+
+* [Qosmetics Discord](https://discord.gg/qosmetics) - Download Quest custom sabers, walls, and bloqs!
+* [QuestBoard Hub](https://discord.gg/d6DyW9v) - The Discord for all things about Quest BeatSaber!
+* [ScoreSaber](https://scoresaber.com/) - Custom map leaderboards
+* [Steam Store Page](https://store.steampowered.com/app/620980/Beat_Saber/)
+* [Oculus Store Page](https://www.oculus.com/experiences/rift/1304877726278670/)
+
+---
+
+* [Contribution Page](https://docs.google.com/document/d/1r6IP6l3uo8rc__GxfLkpaToxheeXotdYaKEj3oWB2js/edit?usp=sharing) - A how-to guide on contributing to the wiki.
+* [Apply to Help Translate the Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localize the wiki to your language!

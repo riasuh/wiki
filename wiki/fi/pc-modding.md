@@ -46,7 +46,11 @@ A simple Beat Saber Mod Installer similar to the mod manager, but with additiona
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## How to get more songs
-::: tip Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before good mapping practices were established. Try downloading songs released between late 2019 and now to get the best custom levels experience. :::
+::: tip
+Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before
+good mapping practices were established. Try downloading songs released between late 2019 and now to get the best
+custom levels experience.
+:::
 
 ::: warning It is a good idea to backup your `CustomLevels` folder periodically as there is a small chance it will be reset if the game updates!
 
@@ -114,6 +118,17 @@ If you've downloaded and installed a mod and you get the User Account Control pr
 
 4. Download the mod(s) you wish to install, whether it be from GitHub, the [BSMG Discord](https://discord.com/invite/beatsabermods) `#pc-mods` channel,  [BeatMods](https://beatmods.com/#/mods) or other sources. **Make sure to download any dependencies required by the mod.** ![Directory Plugins](~@images/beginners-guide/directory-plugins.png "Directory Plugins")
 5. Some mods have installation instructions, some don't. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders.
+
+## Downgrading
+
+Check `#modding-announcements` in [BSMG](https://www.discord.gg/beatsabermods) to see if the latest version is moddable. If it is not, you can follow these tutorials to downgrade to a moddable version.
+
+Click on these links corresponding to where you own the game to see the tutorials.
+
+* [Oculus Store](https://computerelite.github.io/tools/Oculus/OculusDowngraderGuide.html)
+* For Steam you have a few options to be able to downgrade. These two are supported by [BSLG](https://discord.gg/MrwMx5e).
+  * [BSLegacyLauncher](https://www.youtube.com/watch?v=qjNU5aENHRU)
+  * [LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller#readme)
 
 ## How to uninstall mods
 Either remove the dll from the `Plugins` folder, or click the `Uninstall` button in Mod Assistant.

@@ -14,7 +14,7 @@ sidebar: auto
 5. [Still Having Issues](#_5-still-having-issues)
 
 ## 0. Uppdateringar
-After an update, the BSMG discord `#modding-announcements` channel should have the most up to date information on the status of mods. Följande är mer detaljerade instruktioner för den vanligaste proceduren.
+After an update, the BSMG discord [#modding-announcements](https://discord.com/channels/441805394323439646/612468002243477505) channel should have the most up to date information on the status of mods. Följande är mer detaljerade instruktioner för den vanligaste proceduren.
 
 ### Update broke my mods
 **Kör spelet en gång** i den nya uppdateringen. Then, reinstall your mods using an installer linked in the [beginner's guide](/beginners-guide), such as Mod Assistant.
@@ -52,7 +52,9 @@ Om detaljerna i punkt 1.1 ovan är korrekta prova lösningarna nedan i fallande 
 * Gör en backup av mappen `UserData` (valfritt)
 * Ta bort UserData
 
-::: warning This will reset all mod settings! :::
+::: warning
+This will reset all mod settings!
+:::
 
 ##### Solution 4
 
@@ -114,7 +116,9 @@ VR is very CPU intensive, especially if you add mods. If you're struggling to ru
 #### 3.1 Blank Menu, No Buttons
 If your main window in game is blank, your save file likely got corrupted. To fix this, refer to [Delete Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 
-::: warning This will delete your local scores and statistics. :::
+::: warning
+This will delete your local scores and statistics.
+:::
 
 #### 3.2 How do I use `x` mod?
 If you're using Mod Assistant, click the mod and hit the "Mod Info" button. [BeatMods](http://beatmods.com) has a "More Info" button on each mod as well.
@@ -159,20 +163,17 @@ Click the shiny blue question mark (?) button in the top right corner. This shou
 #### 3.8 Map details are infinitely loading
 If this only happens on particular maps, you may be missing required mods or those song files are broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.
 
-### CameraPlus
+### Camera2
 
-#### 3.9 CameraPlus Isn't Working/Past Health Screen
-Make sure the in-game setting for "Smooth Camera" is turned off in your in-game settings. If that does not work, try reinstalling it and associated dependencies.
-
-#### 3.10 My desktop view only takes up a small section of the screen
-Your CameraPlus display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
+#### 3.9 My desktop view only takes up a small section of the screen
+Your Camera2 display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
 ### BeatSaver Downloader
 
-#### 3.11 BeatSaver Downloader More Songs Button
+#### 3.10 BeatSaver Downloader More Songs Button
 **The More Songs button is located in the main menu to the left under the Mods text.** If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in by the rainbow progress bar on the main menu. If your Mods menu isn't there then make sure your mods and dependencies are working and installed properly, refer to the [No Mods?](#_1-no-mods) section.
 
-#### 3.12 Nothing Showing Up In The More Songs Menu
+#### 3.11 Nothing Showing Up In The More Songs Menu
 The probable causes for BeatSaver Downloader not working are:
 
 1. Se till att alla dina banor har laddats in tidigare, annars kommer More Songs-knappen vara gråtonad.
@@ -259,10 +260,16 @@ You can also get to this folder by showing hidden items and navigating to your
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Deleting this folder in Appdata will also delete your local scores and statistics. :::
+::: warning
+Deleting this folder in Appdata will also delete your local scores and statistics.
+:::
 
 #### Desperate Measures
-::: warning Disabling your anti-virus involves security risks, be sure to know what you're doing (i.e don't download or open suspicious files while it's turned off) and don't forget to re-enable it as soon as you finished these steps. :::
+::: warning
+Disabling your anti-virus involves security risks, be sure to know what you're doing
+(i.e don't download or open suspicious files while it's turned off)
+and don't forget to re-enable it as soon as you finished these steps.
+:::
 
 * Se till att din nuvarande användare **är en administratör**
 * **Stäng av** ditt anti-virus (tills vidare)

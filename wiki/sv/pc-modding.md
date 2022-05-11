@@ -46,7 +46,11 @@ A simple Beat Saber Mod Installer similar to the mod manager, but with additiona
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## How to get more songs
-::: tip Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before good mapping practices were established. Try downloading songs released between late 2019 and now to get the best custom levels experience. :::
+::: tip
+Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before
+good mapping practices were established. Try downloading songs released between late 2019 and now to get the best
+custom levels experience.
+:::
 
 ::: warning It is a good idea to backup your `CustomLevels` folder periodically as there is a small chance it will be reset if the game updates!
 
@@ -115,10 +119,21 @@ If you've downloaded and installed a mod and you get the User Account Control pr
 4. Ladda ner de mods du vill installera, oavsett om det kommer från GitHub, [BSMGs Discords](https://discord.com/invite/beatsabermods) `#pc-mods`kanal,  [BeatMods](https://beatmods.com/#/mods) eller andra källor. **Se till att ladda ner alla dependencies som krävs av modden.** ![Directory Plugins](~@images/beginners-guide/directory-plugins.png "Directory Plugins")
 5. Vissa mods har installationsinstruktioner, andra inte. Generellt kan du bara dra och släppa zip-innehållet i din beat saber installationsmapp, och filerna bör gå in i motsvarande mappar.
 
-## Hur man avinstallerar mods
+## Downgrading
+
+Check `#modding-announcements` in [BSMG](https://www.discord.gg/beatsabermods) to see if the latest version is moddable. If it is not, you can follow these tutorials to downgrade to a moddable version.
+
+Click on these links corresponding to where you own the game to see the tutorials.
+
+* [Oculus Store](https://computerelite.github.io/tools/Oculus/OculusDowngraderGuide.html)
+* For Steam you have a few options to be able to downgrade. These two are supported by [BSLG](https://discord.gg/MrwMx5e).
+  * [BSLegacyLauncher](https://www.youtube.com/watch?v=qjNU5aENHRU)
+  * [LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller#readme)
+
+## How to uninstall mods
 Either remove the dll from the `Plugins` folder, or click the `Uninstall` button in Mod Assistant.
 
-## Var man kan gå härifrån
+## Where to go from here
 
 * [Grips and Tricks](./grips-and-tricks.md)
 * [Making Beatmaps](/mapping/)
@@ -128,5 +143,5 @@ Either remove the dll from the `Plugins` folder, or click the `Uninstall` button
 * [Play Customs in Multiplayer](https://discord.com/invite/gezGrFG4tz)
 * [Making Mods](/modding/)
 
-## Har du frågor?
+## Have questions?
 Visit the support channels in the [BSMG Discord](https://discord.gg/beatsabermods)!

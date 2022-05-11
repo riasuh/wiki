@@ -22,10 +22,17 @@ custom saberの作成ガイドをほかの素晴らしい仲間とともに作�
 
 **ロール:**3D Artist, Modder **主な仕事:** Bloom Mod
 
-## laugexd
-ModelSaber 2.0の開発者であり、多くのセイバーとブロックを手掛けています。
+## JJ | hi
+I’ve been modeling for almost 3 years and make mostly private and collab sabers.
 
 **ロール:** 3D Artist
+
+[ModelSaber](https://modelsaber.com/Profile/?user=366411130962313216)
+
+## laugexd
+Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
+
+**Roles:** 3D Artist
 
 [Twitter](https://twitter.com/laugexd) | [YouTube](https://www.youtube.com/channel/UCr_JES9nBCUaAR9-UbgDMRw) | [ModelSaber](https://modelsaber.com/Profile/?user=146243483898871808)
 
@@ -33,19 +40,19 @@ ModelSaber 2.0の開発者であり、多くのセイバーとブロックを手
 **ロール:** 3D Artist
 
 ## Mordred
-アバターを多く生み出し、このロールを作り出したひとりです。
+One of the first creators to mass produce avatars, and thus give birth to this role.
 
-**ロール:** 3D Artist
+**Roles:** 3D Artist
 
 ## Oshi
-**ロール:** 3D Artist
+**Roles:** 3D Artist
 
 ## RedBrumbler
 "The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019
 
-上にあるようにQuest用のセイバーを作成しました。しかし私は普段Modのアセットを作っていて、またほかのゲームも楽しんでいます。もちろんお気に入りはBeatSaberです。 もしQuest用のセイバーを作るときに助けが必要になったら、いつでもQuest用Modのチャンネルで私に聞いてください（qsaber Modが完成するまで）
+As you can read I make sabers for quest, but generally I've been active in the asset modding part of beat saber, I've also done some for other games but Beat saber is my main love. If you ever need help making sabers specifically for quest you can always ask me over in the quest modeling channel (until we get that qsaber mod anyways) keep on sabering that meat till it's real tender!
 
-**ロール:** 3D Artist, Support
+**Roles:** 3D Artist, Support
 
 [PayPal](https://paypal.me/RedBrumblerOfficial?locale.x=nl_NL) | [Patreon](https://www.patreon.com/RedBrumbler) | [Ko-Fi](https://ko-fi.com/redbrumbler) | [YouTube](https://www.youtube.com/channel/UCYmzlDob8BQYWrOQWkHtCpQ) | [Facebook](https://www.facebook.com/red.brumbler.7) | [Twitter](https://twitter.com/RedBrumbler) | [GitHub](https://github.com/RedBrumbler/BeatOnCustomSabers) | [Reddit](https://www.reddit.com/user/RedBrumbler/)
 

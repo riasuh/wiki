@@ -3,28 +3,28 @@ sidebar: auto
 ---
 
 # Rangering & Pointguide
-Written by Teknoz
+Skrevet af Teknoz
 
 *Stor tak til Flee for at rette grammatiske fejl og give nyttige oplysninger.*
 
-:::warning Disclaimer Denne vejledning blev oprindeligt skrevet den 7. februar 2019. It has been updated multiple times but some information may be inaccurate or missing. If you notice inaccurate/missing information in this guide, you can submit a pull request on the [BSMG Wiki GitHub](https://github.com/bsmg/wiki#readme) or send me a message on Discord (teknoz#6900). :::
+:::warning Disclaimer Denne vejledning blev oprindeligt skrevet den 7. februar 2019. Den er blevet opdateret flere gange, men nogle oplysninger kan stadig være unøjagtige eller mangler. Hvis du bemærker unøjagtigheder/manglende oplysninger i denne guide, du kan indsende en pull-anmodning på [BSMG Wiki GitHub](https://github.com/bsmg/wiki#readme) eller sende mig en besked på Discord (TeknozFR#6900). :::
 
 ## Nøjagtighed og Scoring
 
 ### Scoremultiplikator
-Din scoremultiplikator kan ses nedenfor, er omgivet af en ydre ring. As said in the name, the multiplier has an effect on your score. You start the song with a multiplier of **1x** and the outer ring shows the progression to the next multiplier. When you hit the note that brings you up to the next multiplier, that note is affected by the new multiplier and not the old one. De forskellige multiplikatorer er: **1x, 2x, 4x og 8x**. Every time you lose combo which involves missing a note, cutting in the wrong direction or the with the wrong saber, hitting a bomb or going through an obstacle, your multiplier will be cut in half.
+Din scoremultiplikator kan ses nedenfor, er omgivet af en ydre ring. Som sagt i navnet, har multiplikatoren en effekt på din score. Du starter sangen med en multiplikator på **1x**, og den ydre ring viser progressionen til den næste multiplikator. Når du rammer blokken, der bringer dig op til den næste multiplikator, er blokken selv påvirket af den nye multiplikator og ikke den gamle. De forskellige multiplikatorer er: **1x, 2x, 4x og 8x**. Hver gang du mister din combo, der indebærer at du misser en blok, skærer i den forkerte retning eller med den forkerte saber, rammer en bombe eller går gennem en forhindring, vil din multiplikator blive halveret.
 
 ![Scoremultiplikator](~@images/ranking-guide/score_multiplier.png "Scoremultiplikator")
 
 ### Scoring
-Scoring well in Beat Saber isn’t as simple as keeping a high combo and not missing notes, it is also determined by your score per block. Den højest mulige score at opnå ved at skære en blok er **115** (uden at tælle scoremultiplikatoren). While cutting a block, you must achieve the correct swing angles and you must slice it in the center to achieve the best score for that cut.
+At score godt i Beat Saber er ikke så simpelt som at holde en høj combo og ikke misse blokke, det er nemlig også bestemt af din score per blok. Den højest mulige score at opnå ved at skære en blok er **115** (uden at tælle scoremultiplikatoren). Når du skærer en blok, skal du opnå de korrekte svingvinkler, og du skal skære blokken i midten for at opnå den bedste score for dit snit.
 
-Here is how score is calculated for a cut:
-| Component          | Point Value |
-| ------------------ | ----------- |
-| 100° Approach      | 70 Points   |
-| 60° Follow Through | 30 Points   |
-| Cutting in Half    | 15 Points   |
+Her er hvordan scoren beregnes for et snit:
+| Komponent         | Scoringsværdi |
+| ----------------- | ------------- |
+| 100° Før Snittet  | 70 Point      |
+| 60° Efter Snittet | 30 Point      |
+| Rammer i midten   | 15 Point      |
 
 This shows how important it is to do proper swings to get the right angles and the best score possible. Remember, it’s better to get a bad cut than a miss since a miss counts as **0 points** and breaks your combo.
 
@@ -107,14 +107,20 @@ With this said, here is a list of all the modifiers in the game, their effects o
 | Modifier                    | Description                                                                                                                                                                       |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | No Fail (0.00/-0.50)        | Acts as a safety net letting you continue playing if you fail. As of version 1.13.2, this modifier applies the score penalty only if you lose all of your health during the song. |
-| No Obstacles (-0.05)        | Removes all of the obstacles (walls) from the map.                                                                                                                                |
+| No Walls (-0.05)            | Removes all of the obstacles (walls) from the map.                                                                                                                                |
 | No Bombs (-0.10)            | Removes all of the bombs from the map.                                                                                                                                            |
+| No Arrows (-0.30)           | All notes become dot notes, meaning you can hit them in any direction!                                                                                                            |
 | Slower Song (-0.30)         | Slows down the song to 85% of the original speed.                                                                                                                                 |
-| Insta Fail (0.00)           | Makes you fail on the first miss you make.                                                                                                                                        |
-| Battery Energy (0.00)       | Stops the health bar from replenishing. This limits the total amount of misses and bad cuts you can have before failing.                                                          |
+| 1 Life (0.00)               | Makes you fail on the first miss you make.                                                                                                                                        |
+| 4 Lives (0.00)              | Stops the health bar from replenishing. This limits the total amount of misses and bad cuts you can have before failing.                                                          |
 | Disappearing Arrows (+0.07) | Makes the arrows disappear from the note as they approach you. You still need to remember the direction as you need to cut in the correct direction as always.                    |
 | Faster Song (+0.08)         | Speeds up the song to 120% of the original speed.                                                                                                                                 |
+| Super Fast Song (+0.10)     | Speeds up the song to 150% of the original speed.                                                                                                                                 |
 | Ghost Notes (+0.11)         | Notes are invisible and the arrows disappear shortly before you hit them, similarly to Disappearing Arrows.                                                                       |
+| Pro Mode (0.0)              | Changes the hitboxes to match the notes precisely.                                                                                                                                |
+| Strict Angles (0.0)         | Tolarace for a good cut angle is reduced                                                                                                                                          |
+| Small Notes (0.0)           | Changes the notes to 50% normal size                                                                                                                                              |
+| Zen Mode (-100)             | No notes, walls, or bombs. Just the music and the lights!                                                                                                                         |
 <!-- markdownlint-enable MD013 -->
 
 ## Greb

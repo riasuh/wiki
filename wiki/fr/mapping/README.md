@@ -34,7 +34,7 @@ Un grand mapper ne se crée pas en une journée. Il faut du dévouement sans que
 
 1. Téléchargez les outils nécessaires pour créer une map : un [éditeur audio](https://www.audacityteam.org/) et un [éditeur de map](#ressources-pour-l-edition-de-map).
 2. [Configurez votre fichier audio](#ressources-pour-l-edition-audio), trouvez et vérifiez le BPM, et exportez-le au format OGG.
-3. Préparez votre chanson dans votre éditeur de musique. (Les étapes vont varier par éditeur mais voici le [Guide de l'utilisateur](./mediocre-map-assistant.md) pour MMA2).
+3. Set up your song in your [mapping editor](#map-editing-resources) (steps vary by editor).
 4. Commencez le mapping ! Vérifiez [les pratiques de base pour mapping](./basic-mapping.md) avant de commencer. [Testez](#test-en-jeu) vos propre travail tôt et souvent pendant mapping.
 5. Commencez à éclairer ! Lisez les [informations de base concernant l'éclairage](#pratiques-sur-l-eclairage). Mettre en place un éclairage basique est plus simple que vous ne le pensez !
 6. Faites [tester](#test-en-jeu) votre map ! Tester votre map via le [Discord BSMG](https://discord.gg/beatsabermods) est fortement conseillé pour obtenir des retours constructifs d'un point de vue différent du vôtre.
@@ -74,7 +74,9 @@ Un guide plus avancé sur l'ajustement des fichiers audio tel que raccourcir une
 ## Ressources pour l'édition de map
 
 ### Outils de mapping supplémentaires
-::: warning ATTENTION Les éditeurs de la communauté ont bien souvent plus de fonctions et ne nécessitent pas de casque VR, mais ils peuvent être buggés, ils sont donc à utiliser avec précaution. ::: Les raccourcis claviers pour ces éditeurs sont disponibles dans leurs menus respectifs, avec une référence croisée entre eux [disponible ici](./editor-keybinds.md).
+::: warning ATTENTION
+Les éditeurs de la communauté ont bien souvent plus de fonctions et ne nécessitent pas de casque VR, mais ils peuvent être buggés, ils sont donc à utiliser avec précaution.
+::: Les raccourcis claviers pour ces éditeurs sont disponibles dans leurs menus respectifs, avec une référence croisée entre eux [disponible ici](./editor-keybinds.md).
 
 #### ChroMapper
 **Now in open beta!** A 3D editor that has stellar support for lighting, Chroma, Noodle Extensions, 360/90 mapping, and shares similar assets with Beat Saber, allowing for a more accurate preview. By FAR the most feature-rich editor available to the community.
@@ -82,7 +84,8 @@ Un guide plus avancé sur l'ajustement des fichiers audio tel que raccourcir une
 Joining the [ChroMapper Discord](https://discord.gg/wFjZt4z) is encouraged to access plugins, scripts, and application support (mapping support is available in BSMG).
 
 * [ChroMapper Launcher Download](https://cm.topc.at/dl)
-* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki)
+* [ChroMapper First Time Setup Guide](https://chromapper.atlassian.net/wiki/spaces/UG/pages/917506/First-time+setup)
+* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki/spaces/UG/overview)
 
 #### Mediocre Map Assistant 2
 MMA2 was used by the majority of the mapping community until the ChroMapper open beta.
@@ -355,7 +358,11 @@ Once your song has been mapped, lighted, and playtested and it’s a finished pr
     * AI maps intentionally uploaded as human-made will be deleted.
 5. Maps are initially uploaded to your unpublished tab. You must explicitly publish them to make them available to the public.
 
-::: tip NOTE Map files can now be updated on BeatSaver! If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can upload a new version. This will retain your map key and statistics but will reset all leaderboards. :::
+::: tip NOTE
+Map files can now be updated on BeatSaver!
+If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can
+upload a new version. This will retain your map key and statistics but will reset all leaderboards.
+:::
 
 ### BeatSaver Troubleshooting
 Here are solutions for some common errors when uploading a Beatmap.  

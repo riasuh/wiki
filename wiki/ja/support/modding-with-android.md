@@ -4,7 +4,7 @@ sidebar: auto
 
 # AndroidでQuestにModを導入する
 
-:::warning 警告 BMBFをインストールすると公式のマルチプレイモードや公式のリーダーボードへのスコアの送信、リプレイの記録ができなくなります。 もしModが導入された状態でマルチプレイを行いたい場合は`Beat Together`が必要になります。これはPCとQuestのクロスプレイを可能にします。また、両方とものカスタムソングで遊ぶことができます。 ディスコードの[Beat Saber Modding Group](discord.gg/beatsabermods)の`#quest-mods`チャンネルもしくは[Questboard](https://questmodding.com)のサイトで入手できます。
+:::warning 警告 BMBFをインストールすると公式のマルチプレイモードや公式のリーダーボードへのスコアの送信、リプレイの記録ができなくなります。 If you would like to play modded multiplayer, you need the `Beat Together` and `MultiQuestensions` mods, which enables cross-play between PC and modded Quests and allows for custom songs to be played. ディスコードの[Beat Saber Modding Group](discord.gg/beatsabermods)の`#quest-mods`チャンネルもしくは[Questboard](https://questmodding.com)のサイトで入手できます。
 
 ランク付けされた曲からパフォーマンスポイント(PP)を得るためには、 [ScoreSaber](https://new.scoresaber.com/quest) modが必要です。 [このリンク](https://new.scoresaber.com/quest) では、 ScoreSaberのホームページに移動して設定する方法が書いてあります。 Scoresaberは公式のリーダーボードを置き換えるものではなく、カスタム曲のリーダーボードだけが追加されます。
 
@@ -94,7 +94,9 @@ sidebar: auto
     3. USBのデバッグを有効にします
 
 ### 端末にBMBFをインストールする
-:::warning Modを入れる前に、ビートセイバーを一度起動して一つの曲をプレイしてください。そのあとすぐにゲームを終了しても大丈夫です。 :::
+:::warning
+Modを入れる前に、ビートセイバーを一度起動して一つの曲をプレイしてください。そのあとすぐにゲームを終了しても大丈夫です。
+:::
 
 携帯電話でSidequestを開き、USBコードでQuestと接続します。 Questと携帯でUSBのデバッグのポップアップが表示されます 両方のデバイスで許可を選択してください。
 

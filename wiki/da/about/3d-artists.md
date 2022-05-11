@@ -1,5 +1,5 @@
 # 3D Artister
-From sabers to notes, custom models have always been a popular aspect of modded beat saber which wouldn't be possible without them.
+Fra sabers til bloqs, brugerskabte modeller har altid været et populært aspekt af moddet beat saber, hvilket ikke ville være muligt uden dem.
 
 ## AkaRaiden
 **Roller:** 3D Artist
@@ -18,14 +18,21 @@ De har nogle imponerende shaders og de er ikke bange for at bruge dem.
 **Roller:** 3D Artist
 
 ## Ibodan
-Most well known for their incredibly flashy dance platform and space opera sabers, but it's a little known fact that they also make mods!
+Mest kendt for deres utroligt prangende danseplatform og space opera sabers, men det er en lidt kendt faktum, at de også laver mods!
 
 **Roller:** 3D Artist, Modder **Bidrag:** Bloom Mod
 
-## laugexd
-Udvikler af ModelSaber 2.0 og skaber af mange sabers og bloks.
+## JJ | hi
+I’ve been modeling for almost 3 years and make mostly private and collab sabers.
 
 **Roller:** 3D Artist
+
+[ModelSaber](https://modelsaber.com/Profile/?user=366411130962313216)
+
+## laugexd
+Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
+
+**Roles:** 3D Artist
 
 [Twitter](https://twitter.com/laugexd) | [YouTube](https://www.youtube.com/channel/UCr_JES9nBCUaAR9-UbgDMRw) | [ModelSaber](https://modelsaber.com/Profile/?user=146243483898871808)
 
@@ -33,12 +40,12 @@ Udvikler af ModelSaber 2.0 og skaber af mange sabers og bloks.
 **Roller:** 3D Artist
 
 ## Mordred
-En af de første skabere til at masseproducere avatars og dermed få dannet denne rolle.
+One of the first creators to mass produce avatars, and thus give birth to this role.
 
-**Roller:** 3D Artist
+**Roles:** 3D Artist
 
 ## Oshi
-**Roller:** 3D Artist
+**Roles:** 3D Artist
 
 ## RedBrumbler
 "The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019

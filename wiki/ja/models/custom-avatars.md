@@ -2,7 +2,9 @@
 
 ## インストール方法
 
-:::warning　警告 カスタムアバターはPC専用のModです。 :::
+:::warning　警告
+カスタムアバターはPC専用のModです。
+:::
 
 最新のカスタムアバターModはBSMGのDiscordサーバーの[#pc-mods channel](https://discord.gg/beatsabermods)チャンネルか[Mod Assistant](https://github.com/Assistant/ModAssistant)から利用できます。 インストール後、 `Plugins`フォルダ内に CustomAvatar.dll `` というファイルが作成されます。 [インストールファイル](/faq/install-folder.md)内に`CustomAvatars`というフォルダも作成されます。ここに使いたい`*.avatar`ファイルを入れてください。
 

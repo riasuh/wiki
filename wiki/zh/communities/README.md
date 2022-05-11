@@ -1,16 +1,16 @@
 ---
-description: 查看互联网上其他Beat Saber社区的列表！
+description: 看看这些列出的在网上其他的Beat Saber社区！
 ---
 
 # Beat Saber 社区
-查看互联网上其他Beat Saber社区的列表！
+看看这些列出的在网上其他的节奏光剑社区！
 
 ---
 
-## [Community Hub](./community-hub.md)
-Community Hub 包含关注Beat Saber的公共社区名单。
+## [社区中心](./community-hub.md)
+社区中心列出了主要关注节奏光剑的公共社区。
 
 ---
 
-## [Regional Hub](./regional-hub.md)
-Regional Hub 包含特定区域的公共或私营的Beat Saber社区名单。
+## [地域中心](./regional-hub.md)
+地域中心列出了对应地理区域内主要关注节奏光剑的公共或者私有社区。

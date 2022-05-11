@@ -16,7 +16,10 @@ Todos os plugins de custom model foram criados separadamente por pessoas diferen
 ### ModelSaber
 [ModelSaber](https://modelsaber.com/) é o repositório atual para sabres, avatares, notas, e plataformas. Ele inclui imagens e links de instalação OneClick&trade;.
 
-::: tip NOTA Todos os modelos são aprovados manualmente antes de aparecer no site. Por favor, não reenvie nenhum modelo já existente para o site. :::
+::: tip NOTA
+Todos os modelos são aprovados manualmente antes de aparecer no site.
+Por favor, não reenvie nenhum modelo já existente para o site.
+:::
 
 ### Discord
 Você também pode encontrar uma lista sem curadoria _(com potencialmente mais itens)_ no chat `#pc-models` no [Discord do BSMG](https://discord.gg/beatsabermods) para PC e o [Discord do Qosmetics](https://discord.gg/qosmetics) para Quest.

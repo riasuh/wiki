@@ -58,3 +58,15 @@ Wenn du in deiner Sprache mithelfen möchtest, kannst du dich [als Übersetzer b
 * OnderHond
 * RedBrumbler
 * Rusty69
+
+## Japanese | 日本語
+
+### Translators
+
+* azarashinomori
+* Korp13
+* mikuri
+  * [Twitter](https://twitter.com/mikuri_kuri)
+* oxamera
+* Syrayra
+  * [Twitter](https://twitter.com/Syrayra)

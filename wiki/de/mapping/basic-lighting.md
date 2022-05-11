@@ -110,6 +110,8 @@ Die Grundstruktur jeder Umgebung ist meist gleich. Im [Mediocre Map Assistant 2]
 |     ![Image of Skrillex environment](~@images/mapping/skrillex_env.jpg)     | **Skrillex Environment**<br />**Info.dat Name:** `SkrillexEnvironment`<br />**Default Colors:**  Red & Black notes, Pink & Turquoise lights, Neon Red & Neon Green boost lights<br /><br />**Lasers:** :white_check_mark: <br />**Ring Spin:** :white_check_mark: (first ring spin)<br />**Ring Zoom:** :white_check_mark: (second ring spin) <br />**Equalizer:** :x:<br />**Extra Events**: 6 and 7 control extra lights. <br /><br />**Video Preview:** [YouTube](https://youtu.be/Uk0JugoZ3w4)<br /> **Official Showcase & Tutorial**: [YouTube](https://youtu.be/-SD5F3b7Q3g)                                                                                                                                                                       |
 |   ![Image of Billie Eilish environment](~@images/mapping/billie_env.jpg)    | **Billie Eilish Environment**<br />**Info.dat Name:** `BillieEnvironment`<br />**Default Colors:**  Yellow & Light Grey notes, Orange & Cream lights, Red & White Blue boost lights<br /><br />**Lasers:** :white_check_mark: (sun rays)<br />**Ring Spin:** :white_check_mark: (controls rain)<br />**Ring Zoom:** :white_check_mark: (controls sun rays and side beams) <br />**Equalizer:** :x:<br />**Extra Events**: 6, 7, 10, and 11 control extra lights. </br>**Note:** This is the first environment use events 10 and 11 and these events only function on map version `2.5.0` or later.<br /><br />**Video Preview:** [YouTube](https://youtu.be/R53QcGlo80Q)<br /> **Official Showcase & Tutorial**: [YouTube](https://youtu.be/Kgm6Xn7xcNQ) |
 |       ![Image of Spooky environment](~@images/mapping/spooky_env.jpg)       | **Spooky Environment**<br />**Info.dat Name:** `HalloweenEnvironment`<br />**Default Colors:**  Orange & Black notes, Red & Light Blue lights, Green & Light Purple boost lights<br /><br />**Lasers:** :white_check_mark:<br />**Ring Spin:** :x:<br />**Ring Zoom:**:x: <br />**Equalizer:** :x:<br /><br />**Video Preview:** [YouTube](https://youtu.be/TbX3Z3mU2y8)<br />                                                                                                                                                                                                                                                                                                                                                                                     |
+|         ![Image of Gaga environment](~@images/mapping/gaga_env.jpg)         | **Lady Gaga Environment**<br />**Info.dat Name:** `GagaEnvironment`<br />**Default Colors:** Pink & Green notes, Yellow & Magenta lights, Orange & Blue boost lights<br /><br />**Lasers:** :white_check_mark: (electricity) <br />**Ring Spin:** :x:<br />**Ring Zoom:**:x: <br />**Equalizer:** :x:<br />**Extra Events**: 6, 7, 10, and 11 control additional lightning. 16, 17, 18, and 19 control additional tower height control. <br /><br />**Video Preview:** [YouTube](https://youtu.be/FRNLFW4P3RQ)<br /> **Official Showcase & Tutorial**: [YouTube](https://youtu.be/2DJmcQjjCl0)                                                                                                                                                               |
+|        ![Image of Weave environment](~@images/mapping/weave_env.jpg)        | **Weave Environment**<br />**Info.dat Name:** `WeaveEnvironment`<br />**Default Colors:** Red & Blue notes, Red & Blue lights, Magenta & White boost lights<br /><br />**Note** Lights require using the new lighting system in map version `3.0.0` to function.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ![Image of Glass Desert environment](~@images/mapping/glass-desert_env.jpg) | **Glass Desert Environment**<br />**Info.dat Name:** `GlassDesertEnvironment`<br />**Default Colors:**  Yellow & Pink notes, Blue & Light Blue lights<br /><br />**Lasers:** :white_check_mark: <br />**Ring Spin:** :x:<br />**Ring Zoom:** :x:<br />**Equalizer:** :white_check_mark:<br />**Note:** This is the first 360&deg; environment. 360 levels MUST use this and it's not useable for standard levels. Ring Light position controls the horizontal outer rail. Back Top Laser position controls the six rails at the top. <br /><br />**Video Preview:** [YouTube](https://youtu.be/K3rqWNG5pn8)                                                                                                                                                      |
 
 ### Einstellen deiner Umgebung
@@ -149,38 +151,41 @@ In den Zeilen 29-60 und 69-100 dieses [Pastebin-Clips](https://pastebin.com/x9zE
 Diese Werkzeuge hilft PC Beat Saber Spielern, eine genauere Vorschau ihrer Beleuchtung zu erhalten. Die meisten Editoren zeigen keine naturgetreuen Lichteffekte.
 
 ### In-Game mit FPFC
-First Person Flying Controller (FPFC) ist ein Startparameter, der sowohl von Steam- als auch von Oculus-Benutzern verwendet werden kann. FPFC öffnet eine Instanz von Beat Saber auf deinem Desktop und erlaubt dir, es mit deiner Tastatur und Maus zu steuern. Du benötigst die SiraUtil Mod, um während der Wiedergabe einer Karte interagieren zu können.
+First Person Flying Controller (FPFC) ist ein Startparameter, der sowohl von Steam- als auch von Oculus-Benutzern verwendet werden kann. FPFC öffnet eine Instanz von Beat Saber auf deinem Desktop und erlaubt dir, es mit deiner Tastatur und Maus zu steuern.
 
-Damit kannst du mit WASD in der Karte "herumfliegen", mit der Taste <kbd>F2</kbd> das Pausenmenü öffnen oder mit der Taste <kbd>ESC</kbd> das Level verlassen (andernfalls musst du den Song zu Ende spielen).
+While a map is playing, pressing:
 
-Installiere SiraUtil von Mod Assistant und führe Beat Saber aus, um eine config json-Datei zu erstellen. Bearbeite die Datei `SiraUtil.json` in deinem Ordner `UserData` und ändere `"Enabled": false` in `"Enabled": true` unter FPFCToggle und SongControl und folde dann den unten aufgeführten speicherplattenspezifischen Schritten.
+* `P` **P**auses the map
+* `M` Returns to **m**enu if paused
+* `R` **R**estarts the map if paused
+* `C` Unpauses and **c**ontinues playing
 
-![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
+You will need the SiraUtil mod in order move the camera while a map is playing. Without it, the camera is fixed in the floor at an undesirable angle. Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. SiraUtil also adds additional useful features such as camera FOV, sensitivity, and rebindable pause and exit controls. Edit the `SiraUtil.json` file in your `UserData` folder to tweak settings.
 
-**Für Steam User:**
+**For Steam Users:**
 
-Öffne die Spieleigenschaften und füge `fpfc` zu den Steam Startoptionen in den Einstellungen Allgemein hinzu. ![FPFC Startoptionen](~@images/mapping/fpfc.png)
+Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
 
-**Für Oculus Besitzer:**
+**For Oculus Users:**
 
 1. Klicke mit der rechten Maustaste auf Beat Saber.exe und erstelle eine Verknüpfung.
 2. Bearbeite das Ziel, um "fpfc" am Ende hinzuzufügen. Zum Beispiel: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-Nach der Installation der Mods und dem Hinzufügen des Startparameters kannst du dich nun in einer Karte bewegen und pausieren. Die Umschalttaste zum Umschalten zwischen Headset- und Maus-/Tastatursteuerung ist <kbd>G</kbd>.
+After installing the mods and adding the launch parameter you can then now move around and pause in a map. The default toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
 
-:::warning HINWEIS
+:::warning NOTE
 
-* Wenn du zurück in VR gehst und das Spiel auch im Headset nicht geladen wird:
-  * Drücke die Taste <kbd>G</kbd>, bis das Headset das Spiel anzeigt  
-    **==ODER==**
-  * Beende das Spiel, entferne die Startoption, und starte das Spiel neu.
+* If you go back into vr and the game doesn't load in the headset either:
+  * Press the <kbd>G</kbd> key until the headset displays the game  
+    **==OR==**
+  * Quit the game, remove the launch option, and relaunch the game.
 
-* Wenn der Mod nicht zu funktionieren scheint, stelle sicher, dass die Einstellung "Smooth Camera" im Spiel deaktiviert ist.
+* If the mod doesn't seem to be working, make sure the in-game Smooth Camera setting is disabled.
 
-* Bei anderen Schwierigkeitsgraden als Expert+ wird standardmäßig die Option `No Flicker` für die Beleuchtung gewählt, die die Anzahl der angezeigten Blitze und Ringdrehungen reduziert. Vergewissere dich, dass diese `Spieleroption` so eingestellt ist, wie du sie sehen willst! :::
+* For difficulties other than Expert+, the game defaults to a `No Flicker` option for lighting which reduces the amount of strobes and ring spin events shown. Check to make sure this `Player Option` setting is set what you intend to view! :::
 
 ### Online mit BS Viewer
-Der [BS Viewer](https://skystudioapps.com/bs-viewer/) von **+1 Rabbit** ist ein Online-Tool, mit dem du bequem überprüfen kannst, wie deine Karte im Spiel aussehen könnte, ohne das Spiel zu starten. Lade einfach deine Karten ZIP auf die Website hoch und sieh dir die Vorschau an! Leider werden **IOS und Safari derzeit nicht unterstützt.**
+[BS Viewer](https://skystudioapps.com/bs-viewer/) by **+1 Rabbit** is an online tool that is a convenient way to checkout how your map might look in game without the game. Just upload your map zip to the website and preview! Unfortunately **IOS and Safari are currently not supported.**
 
 ## Credits
-Die Inhalte in diesem Abschnitt wurden von [LittleAsi](./mapping-credits.md#littleasi) und [Kolezan](./mapping-credits.md#kolezan) oder von Anleitungen von [Puds](./mapping-credits.md#puds) und [MandyNasty](./mapping-credits.md#mandynasty) abgeleitet. Mit visuellen Medienbeiträgen von [Aeroluna](./mapping-credits.md#aeroluna) und [Bullet](./mapping-credits.md#bullet).
+Content in this section was authored by [LittleAsi](./mapping-credits.md#littleasi) and [Kolezan](./mapping-credits.md#kolezan) or derived from guides by [Puds](./mapping-credits.md#puds) and [MandyNasty](./mapping-credits.md#mandynasty). With visual media contributions from [Aeroluna](./mapping-credits.md#aeroluna) and [Bullet](./mapping-credits.md#bullet).

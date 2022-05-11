@@ -15,7 +15,7 @@ Una community per tutte le discussioni e gli eventi correlati alla precisione. C
 ---
 
 ## Acc Champ Community
-Siamo una community incentrata sull'Acc che pianifica di essere il nuovo hub per Acc correlato a eventi, formazione e un nuovo sistema di ranghi per aiutare a dare info specifiche sulle forze e debolezze di ogni giocatore nelle categorie di Acc.
+We are an Acc focused community that plans to be the new hub for Acc related events, training, and a new ranking system to help give specific info on each player's strengths and weaknesses in Acc categories. We also hold a custom campaign for those wanting to test their acc abilities against difficult requirements.
 
 [Discord](https://discord.gg/zd8W4rr)
 
@@ -75,6 +75,11 @@ Community for the BeatTogether mod. This mod allows crossplay between PC platfor
 [Discord](https://discord.com/invite/gezGrFG4tz)
 
 ---
+
+## ChroMapper
+ChroMapper is a community maintained map editor for Beat Saber. Built from the ground up, ChroMapper brings Beat Saber mapping to the next level with new visuals, graphics, and tools.
+
+[Discord](https://discord.gg/mMzzNSh) | [GitHub](https://www.github.com/Caeden117/ChroMapper)
 
 ## Cube Community
 Beat Saber gameplay spotlights, scoring guides, clip compilations, community events and more!

@@ -9,12 +9,12 @@ Criador do [in-browser map previewer](https://skystudioapps.com/bs-viewer/) e v�
 [GitHub](https://github.com/PlusOneRabbit) | [Twitch](https://www.twitch.tv/plusonerabbit) | [Donate](https://ko-fi.com/plusonerabbit)
 
 ## Bloodcloak
-Um mapeador que realmente está por dentro de música japonesa e EDM com a ocasional música K-pop e adora criar mapas de estilo de dança. *Totalmente* não caiu no buraco de vTuber.
+A guy that is really into Japanese and EDM music with the occasional K-pop song. Loves creating dance style maps and playing rhythm games. _Totally_ hasn't fallen into the Vtuber hole and makes computer code that works! _"Most"_ of the time...
 
-**Cargos:** Staff, Mapping Support, Mapper, Event Winner  
-**Contribuições:** Operações de Servidor, Gerenciamento da Wiki, Mantedor do Mapping Resources
+**Roles:** Staff, Moderator, Mapping Support, Mapper, Event Winner  
+**Contributions:** Server Operations, Event Management, Contact System, Wiki Management, Mapping Resources Maintainer
 
-[BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
+[Github](https://github.com/bloodcloak) | [Twitter](https://twitter.com/B1oodc1oak) | [YouTube](https://www.youtube.com/c/Bloodcloak) | [BeatSaver](https://beatsaver.com/profile/71661) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://ko-fi.com/bloodcloak)
 
 ## Bobbie
 Lembre-o de ver sua glicose.
@@ -51,7 +51,7 @@ Quantas estatísticas poderíamos encaixar em um único contador de mods? Aparen
 
 One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during their time as Staff, and continues to help out when their services are needed.
 
-**Roles:** Modder, Admin (Retired), Staff, Moderator  
+**Roles:** Modder, Admin, Staff, Moderator  
 **Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
 
 [GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [PayPal](https://www.paypal.me/jackbarondev) | [Ko-fi](https://ko-fi.com/lolpants) | [Patreon](https://www.patreon.com/JackBaron) | [Donate](https://monzo.me/jackbaron)
@@ -134,17 +134,6 @@ ScoreSaber Supreme Leader, creator of the custom leaderboards/rank system. Alway
 
 
 
-## williums
-
-Project manager, wiki maintainer, bread baker. Despite what everyone says, I like girls.
-
-**Roles:** Staff, Support  
-**Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
-
-[Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
-
-
-
 ## Assistant (Retired)
 
 Overseeer of core services, including BeatSaver and BeatMods servers. The original Support and creator of the custom avatar guide, Mod Assistant, and ModelSaber.
@@ -187,13 +176,12 @@ Longtime server member and active contributor. She was the server mom!
 
 ## Lillie (Retired)
 
-Makes mods for quest and likes to PP farm in her free time.  
-*Lillie not cutest*
+She was early in the quest modding scene, and helped shape the quest scene.  
+Often active in the quest-modding channel, and liked to experiment with the game.
 
-**Roles:** Staff, Modder, Moderator  
-**Contributions:** QuestSounds, QSettings+, FPSCounter.  
+**Roles:** Staff, Modder, Moderator **Contributions:** QuestSounds, QSettings+, FPSCounter
 
-[GitHub](https://github.com/Rugtveit)
+[GitHub](https://github.com/ilillie)
 
 
 
@@ -204,3 +192,14 @@ He's either talking about Steven or being way too patriotic in chat (BS Nordic A
 **Roles:** Staff, Moderator, Mapper
 
 [Twitch](https://twitch.tv/justsamuelok) | [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850326)
+
+
+
+## williums (Retired)
+
+Project manager, wiki maintainer, bread baker. Despite what everyone says, I like girls.
+
+**Roles:** Staff, Support  
+**Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
+
+[Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)

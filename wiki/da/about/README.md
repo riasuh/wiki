@@ -1,12 +1,12 @@
 # Om os
-Har du nogensinde undret dig over hvem der har lavet din yndlingsmod eller lavet mod installeren? This page tells you a little bit about some of the major Beat Saber modding community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
+Har du nogensinde undret dig over hvem der har lavet din yndlingsmod eller lavet mod installeren? Denne side fortæller dig lidt om nogle af de personer der har haft størst indflydelse på Beat Saber Modding fællesskabet. Dette fællesskab ville ikke kunne eksistere uden de fantastiske frivilliges blod, sved og tårer.
 
 > *Bemærk: Nogle personer kunne gå ind under flere sektioner, så disse sider er sorteret efter bedste evne. Hvis du vil have noget i din sektion ændret, er du velkommen til at kontakte os eller bidrage selv!*
 
 ## Hvem vi er
 
 ### [Staff](./staff.md)
-Det team, der kører showet i forgrunden og bag kulisserne. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+Det team, der kører showet i forgrunden og bag kulisserne. Uanset om det kommer til projektstyring, plugin/mod godkendelse, administration af de centrale tjenester, arrangementskoordination, eller mange af de andre hemmelige projekter, er der altid masser af arbejde, der skal laves. Fællesskabet ville ikke eksistere uden de utallige timer, som disse utrolige individer har bidraget med, så giv dem en virtuel klapsalve (og hjælp med at betale for de tjenester, hvis du kan...)
 
 ### [Moderators](./moderators.md)
 Det kræver meget moderation at holde en så stor server under kontrol. Du kan takke dette team for at holde gaderne rene.

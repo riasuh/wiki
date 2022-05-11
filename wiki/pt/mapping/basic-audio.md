@@ -227,7 +227,10 @@ To check the RMS value in your song do the following:
 ### Modificação de volume
 Before you continue with the next steps with the song editing it highly recommended to save your current progress as a WAVE file as a backup. This is to ensure that you if you need to go back and redo some of the editing you will have a high quality source to use. (Don’t load the OGG you exported as it will have lost a lot of the source quality.) Remove the Click Track if you haven’t already done so, then go to `File menu -> Export -> Export as WAV`, then save the file to a location of your choice.
 
-::: tip NOTE Doing any kind of audio processing on a song will inevitably change its sound, however, it's an important step to give your players the best map and song experience. :::
+::: tip NOTE
+Doing any kind of audio processing on a song will inevitably change its sound, however, it's an important step to give
+your players the best map and song experience.
+:::
 
 #### Making Your Song Louder
 If your song’s chorus has a lower RMS value than the recommended **-11db** then you will need to do Compression and/or Limiting to bring the volume up. (Note: Amplify/Gain is not used for this, as anything above 0db will create an unpleasant distortion.)
@@ -342,7 +345,11 @@ To generate a compatible sound file to use we need to do the following:
 
 The song/audio file is now ready to be used in any map editor. Input the same BPM you got earlier in your map editor of choice and make sure to use 0ms offset for all difficulties (since the song is already synced to the beat).
 
-::: warning NOTE Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord (without Nitro or Server Boost Level 2) for playtesting. :::
+::: warning NOTE
+Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a
+lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord
+(without Nitro or Server Boost Level 2) for playtesting.
+:::
 
 ## Créditos
 Content on this page is derived from guides by [Kolezan](./mapping-credits.md#kolezan) & [Nik](./mapping-credits.md#nik-n3tman).

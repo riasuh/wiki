@@ -16,7 +16,9 @@ Diese Anleitung erfordert Grundwissen über 3D-Modellierung und die Unity Engine
 * Je nachdem, was genau du modellierst, kann eine Bildbearbeitungssoftware wie [Photoshop](https://www.adobe.com/products/photoshop.html) oder[GIMP](https://www.gimp.org/downloads/) erforderlich sein.
 
 ## Unity Projekt
-::: danger DISCLAIMER Stelle sicher, dass du die Unity-Version 2018.1.6f1 verwendest! ::: Öffne das Custom Notes Projekt mit Unity.
+::: danger DISCLAIMER
+Stelle sicher, dass du die Unity-Version 2018.1.6f1 verwendest!
+::: Öffne das Custom Notes Projekt mit Unity.
 
 ![Unity Projekt](~@images/models/notes/unity_window.png)
 
@@ -166,7 +168,10 @@ Setze den `Note Name` auf den Namen, den deine Note im Spiel haben soll. Ich wer
 
 ![Anzeigen des NoteDescriptor](~@images/models/notes/30.png)
 
-::: warning WARNUNG Obwohl es technisch nicht erforderlich ist, wird dringend empfohlen, ein Symbol zu deinen Noten hinzuzufügen, damit sie in der Benutzeroberfläche leichter zu erkennen sind. :::
+::: warning WARNUNG
+Obwohl es technisch nicht erforderlich ist, wird dringend empfohlen, ein Symbol zu deinen Noten hinzuzufügen, damit
+sie in der Benutzeroberfläche leichter zu erkennen sind.
+:::
 
 Importiere das Bild, das du für dein Symbol verwenden willst, indem du auf `Neues Asset importieren` klickst. Ich werde ein von mir erstelltes Dreieckssymbol verwenden.
 
@@ -198,7 +203,9 @@ Nun, da unsere `NoteDescriptor` Optionen vollständig eingestellt sind, können 
 
 Deine Note sollte am Anfang des `Note Exporter` stehen. Wenn du dir sicher bist, dass alle deine `NoteDescriptor` Einstellungen korrekt sind, klicke im `Note Exporter` auf die Schaltfläche Exportieren unter deiner Note. Stelle sicher, dass du es in deinen `Beat Saber/CustomNotes` Ordner exportierst, damit du es im Spiel testen kannst.
 
-::: warning WARNUNG Wenn du eine Notiz erneut exportieren willst, musst du die alte Version löschen. Der Note Exporter exportiert keine Note, wenn sich im selben Ordner bereits eine Notemit demselben Namen befindet. :::
+::: warning WARNUNG
+Wenn du eine Notiz erneut exportieren willst, musst du die alte Version löschen. Der Note Exporter exportiert keine Note, wenn sich im selben Ordner bereits eine Notemit demselben Namen befindet.
+:::
 
 ![Exportiere Note](~@images/models/notes/39.png)
 
@@ -213,83 +220,88 @@ Wähle deine Noten aus und versuche, ein Lied zu spielen.
 ![Zeige Note Ingame](~@images/models/notes/42.png)
 
 ### Mit FPFC eine Vorschau Noten im Spiel anzeigen, ohne das Headset aufzusetzen
-First Person Flying Controller (FPFC) ist ein Startparameter, der sowohl von Steam- als auch von Oculus-Nutzern verwendet werden kann. FPFC öffnet eine Instanz von Beat Saber auf deinem Desktop und erlaubt dir, es mit der Tastatur und Maus zu steuern. Du benötigst die SiraUtil-Mod, um während der Wiedergabe einer Map zu interagieren.
+First Person Flying Controller (FPFC) ist ein Startparameter, der sowohl von Steam- als auch von Oculus-Nutzern verwendet werden kann. FPFC öffnet eine Instanz von Beat Saber auf deinem Desktop und erlaubt dir, es mit der Tastatur und Maus zu steuern.
 
-Mit der WASD-Taste kannst du herumfliegen, mit der <kbd>F2</kbd> Taste das Pausenmenü öffnen oder mit der <kbd>ESC</kbd> Taste das Level verlassen (Ansonsten man den Song zu Ende spielen lassen).
+While a map is playing, pressing:
 
-Installiere SiraUtil aus dem Mod-Assistent und führe Beat Saber aus, um eine config json-Datei zu erstellen. Bearbeite die Datei `SiraUtil.json` in dem Ordner `UserData` und ändere `"Enabled": false` in `"Enabled": true` unter FPFCToggle und SongControl und folge dann den unten aufgeführten Schritten für die Speicherplattform.
+* `P` **P**auses the map
+* `M` Returns to **m**enu if paused
+* `R` **R**estarts the map if paused
+* `C` Unpauses and **c**ontinues playing
 
-![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
+You will need the SiraUtil mod in order move the camera while a map is playing. Without it, the camera is fixed in the floor at an undesirable angle. Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. SiraUtil also adds additional useful features such as camera FOV, sensitivity, and rebindable pause and exit controls. Edit the `SiraUtil.json` file in your `UserData` folder to tweak settings.
 
-**Für Steam User:**
+**For Steam Users:**
 
-Öffne die Spieleigenschaften und füge `fpfc` zu den Steam Startoptionen in den Einstellungen Allgemein hinzu. ![FPFC Startoptionen](~@images/mapping/fpfc.png)
+Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
 
-**Für Oculus Besitzer:**
+**For Oculus Users:**
 
 1. Klicke mit der rechten Maustaste auf Beat Saber.exe und erstelle eine Verknüpfung.
 2. Bearbeite das Ziel, um "fpfc" am Ende hinzuzufügen. Zum Beispiel: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-Nach der Installation der Mods und dem Hinzufügen des Startparameters kannst du dich nun in einer Karte bewegen und pausieren. Die Umschalttaste zum Umschalten zwischen Headset- und Maus-/Tastatursteuerung ist <kbd>G</kbd>.
+After installing the mods and adding the launch parameter you can then now move around and pause in a map. The default toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
 
-:::warning HINWEIS
+:::warning NOTE
 
-* Wenn du zurück in Vr gehst und das Spiel auch im Headset nicht geladen wird:
-  * Drücke die Taste <kbd>G</kbd>, bis das Headset das Spiel anzeigt  
-    **==ODER==**
-  * Beende das Spiel, entferne die Startoption, und starte das Spiel neu.
+* If you go back into vr and the game doesn't load in the headset either:
+  * Press the <kbd>G</kbd> key until the headset displays the game  
+    **==OR==**
+  * Quit the game, remove the launch option, and relaunch the game.
 
-* Wenn der Mod nicht zu funktionieren scheint, stelle sicher, dass die Einstellung "Smooth Camera" im Spiel deaktiviert ist. :::
+* If the mod doesn't seem to be working, make sure the in-game Smooth Camera setting is disabled. :::
 
-Wenn alles im Spiel gut aussieht, solltest du fertig sein! Versuche mindestens einmal, mit deinen Noten mit aufgesetztem Headset zu spielen, bevor du sie freigibst.
+If everything looks good ingame, you should be finished! Make sure to try playing with your notes with your headset on at least once before releasing them.
 
 ## Custom Colors
-In diesem Abschnitt wird davon ausgegangen, dass du bereits eine Custom Note vollständig eingerichtet hast und lediglich die Unterstützung für Custom Colors hinzufügen möchtest, was sehr zu empfehlen ist, da es die Benutzerfreundlichkeit fast immer verbessert.
+This section is assuming you already have a custom note fully set up and simply want to add support for custom colors, which is highly recommended because it will almost always enhance the user experience.
 
-Die Unterstützung von CustomColor funktioniert, indem die Noten in der vom Spieler eingestellten Farbe eingefärbt werden. Wenn dein Material eine Textur hat, werden hellere Farben stärker getönt, während dunklere Farben weniger getönt werden.
+CustomColor support works by tinting the notes to the current player-set color. If your material has a texture, lighter colors will be tinted more, whilst darker colors will be tinted less.
 
-Erstelle nun ein neues Material im Ordner `Materials`. Mit der CustomColor-Unterstützung wirst du in der Regel dasselbe Material für die linke und die rechte Note verwenden, also werde ich mein Material `NoteMaterial` nennen.
+Go ahead and create a new material in the `Materials` folder. With CustomColor support, generally you're going to be using the same material for both the left and right note, so I'm going to name my material `NoteMaterial`.
 
-![Neues Material erstellen](~@images/models/notes/43.png)
+![Creating a new material](~@images/models/notes/43.png)
 
-Wähle nun den Shader aus, den du für deine Note verwenden möchtest. Wenn du dir nicht sicher bist, welchen Shader du verwenden willst, lies dir den Abschnitt `Materialien hinzufügen` in dieser Anleitung durch. Für meine Note werde ich `Unlit Glow` verwenden.
+Now select the shader you want to use for your note. If you're not sure which shader you want to use, refer back to the `Adding Materials` section of this guide. For my note, I'm going to use `Unlit Glow`.
 
-![Shader auswählen](~@images/models/notes/44.png)
+![Selecting shader](~@images/models/notes/44.png)
 
-Wende dieses Material nun sowohl auf dein NoteLeft Mesh als auch auf dein NoteRight Mesh an. Achte darauf, dass du es auf BEIDE anwendest!
+Now apply this material to both your NoteLeft mesh and your NoteRight mesh. Make sure to apply it to BOTH!
 
-![Klicke TriangleMesh](~@images/models/notes/71.png)
+![Clicking TriangleMesh](~@images/models/notes/71.png)
 
-![Material auswählen](~@images/models/notes/46.png)
+![Selecting Material](~@images/models/notes/46.png)
 
 ![Material auswählen](~@images/models/notes/47.png)
 
-Nachdem du nun das Material auf alle Meshes deiner Noten angewendet hast, gehen zurück zum `NoteMaterial` im Inspektor. Um zu überprüfen, ob deine Noten bei der Verwendung von CustomColors gut aussehen, probiere die Eigenschaft `Color` aus; Das ist die Eigenschaft, die geändert wird, wenn die Noten eingefärbt werden.
+Now that you're done applying the material to all of your note's meshes, go back to the `NoteMaterial` in the inspector. To double check that your notes look good when using CustomColors, try messing around with the `Color` property; this is what property will be changed when the notes are tinted.
 
-![Farbe des Materials ändern](~@images/models/notes/48.png)
+![Changing color of material](~@images/models/notes/48.png)
 
 ![Farbe des Materials ändern](~@images/models/notes/49.png)
 
 ![Farbe des Materials ändern](~@images/models/notes/50.png)
 
-Wenn du dich vergewissert hast, dass die Noten ihre Farbe ändern, wenn du die `Farbe` des Materials änderst, gehe zum Hauptobjekt der Note GameObject und gehe zum `NoteDescriptor`. Aktiviere `Uses Note Color` und spiele ruhig mit `Note Color Strength` herum. Wenn die Farbstärke der Note auf 1 steht, wird die Farbe mit 100 % Stärke getönt. Je weiter man sich von einem entfernt, desto subtiler wird es. Für dieses Tutorial belasse ich die `Note Color Strength` bei eins.
+Once you've confirmed that the notes change color when you change the material's `Color` property, go to your note's main GameObject and go to the `NoteDescriptor`. Enable `Uses Note Color` and feel free to mess around with `Note Color Strength`. When Note Color Strength is at 1, it will tint the color with 100% strength. The lower you go from one, the more subtle it will be. For the purposes of this tutorial, I will be leaving `Note Color Strength` at one.
 
-![Aktiviere Uses Note Color](~@images/models/notes/51.png)
+![Enabling uses note color](~@images/models/notes/51.png)
 
-Deine Note sollte nun mit Custom Colors kompatibel sein! Exportiere es wieder. Falls du eine Auffrischung benötigst, lies dir den Abschnitt über das Exportieren weiter oben erneut durch.
+Your note should now be compatible with Custom Colors! Go ahead and re-export it. If you need a refresher, read the section on Exporting up above.
 
 ### Custom Colors bei bestimmten Spielobjekten deaktivieren
 
-In manchen Fällen möchtest du vielleicht, dass CustomColors ein bestimmtes Mesh nicht beeinflusst. Wenn du zum Beispiel einen Teil deines Modells hast, der dieselbe Farbe behalten soll, wie zum Beispiel ein Pfeil, der weiß sein muss. Für dieses Problem gibt es eine einfache Lösung.
+In some cases, you may want CustomColors to not affect a certain mesh. For example, if you have a part of your model that needs to stay the same color, such as an arrow needing to be white. There is a simple solution to this problem.
 
-In diesem Beispiel habe ich zwei Meshes innerhalb meines `LeftNote` Objekts. Ich möchte, dass das `TriangleMesh` von Custom Colors beeinflusst wird, aber nicht das `SmallerTriangleMesh`.
+In this example, I have two meshes inside of my `LeftNote` object. I want the `TriangleMesh` to be affected by custom colors, but not `SmallerTriangleMesh`.
 
-![Doppel Mesh Beispiel](~@images/models/notes/52.png)
+![Double mesh example](~@images/models/notes/52.png)
 
-![Doppel Mesh Hirarchie](~@images/models/notes/53.png)
+![Double mesh hierarchy](~@images/models/notes/53.png)
 
-Alles, was du tun musst ist, in die GameObjects zu gehen, die nicht von Custom Colors betroffen sein sollen, und eine `Disable Note Color On GameObject` Komponente hinzuzufügen. Jedes GameObject mit dieser Komponente behält sein Aussehen und wird nicht von Custom Colors beeinflusst.
+All you have to do is go into the GameObjects that you do not want to be affected by custom colors and add a `Disable Note Color On GameObject` component. Any GameObject with this component will retain how it looks and not be affected by custom colors.
 
-::: warning WARNUNG Denke daran, diese Änderungen auf alle Noten in deiner CustomNotes anzuwenden! :::
+::: warning WARNING
+Remember to apply these changes to all of the notes in your CustomNote!
+:::
 
-![Hinzufügen einer deaktivierten Noten Farbe zur Spielobjektkomponente](~@images/models/notes/54.png)
+![Adding a disable note color on gameobject component](~@images/models/notes/54.png)

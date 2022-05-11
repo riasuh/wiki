@@ -85,17 +85,6 @@ Each swing a player makes leaves their arm in a new position. At hard difficulty
 * Faster songs have less time to see and comprehend the next block, leaving the mapper with more limited options for patterns. Vision blocking notes/walls are risky for this same reason.
 * Counter-clockwise wrist motions are preferred with the right hand and clockwise wrist motions are preferred with the left hand. Try it yourself and feel the difference!
 
-Sorted by how awkward they are for the right hand, left being the most awkward and right being the least. Note that this is mirrored for the left hand (Red Notes).
-
-<!-- markdownlint-disable MD013 -->
-**Awkward Backhands:** ![Blue Note Down-left](~@images/mapping/bndl.png) ![Blue Note Down](~@images/mapping/bnd.png) ![Blue Note Left](~@images/mapping/bnl.png)  
-**Questionable Backhands:** ![Blue Note Down-right](~@images/mapping/bndr.png)  
-**Awkward Forehands:** ![Blue Note Up-right](~@images/mapping/bnur.png) ![Blue Note Up](~@images/mapping/bnu.png) ![Blue Note Right](~@images/mapping/bnr.png)  
-**Questionable Forehands:** ![Blue Note Up-left](~@images/mapping/bnul.png)
-<!-- markdownlint-enable MD013 -->
-
-If you have to make either a double backhand/forehand or one of the awkward backhands/forehands, the result is a DD or a triangle pattern.
-
 ### Suggested vs. Required Motion
 When mapping unusual patterns that break typical conventions for flow, extra motion is suggested to make the pattern work. An example is a scoop:  
 ![Scoop](~@images/mapping/scoop.png)  

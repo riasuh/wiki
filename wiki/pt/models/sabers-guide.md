@@ -77,11 +77,18 @@ I won’t go into detail about making a 3d model. If you don't have already have
 
 Once the saber is done, you can export it by choosing File-Export, choosing the desired file format, and importing it into unity.
 
-::: tip NOTE OBJ is best used for simple sabers. FBX is best used for complex sabers that have rigging or animations. :::
+::: tip NOTE
+OBJ is best used for simple sabers. FBX is best used for complex sabers that have rigging or animations.
+:::
 
 ![Exporting saber as FBX](~@images/models/sabers/09.png)
 
-::: tip NOTE You don't have to export both sabers if they both have the exact same shape. If they're identical, exporting one should be good enough. ::: ::: tip NOTE Merging meshes that share the same color/glowing attributes will help a LOT in the long run. :::
+::: tip NOTE
+You don't have to export both sabers if they both have the exact same shape.
+If they're identical, exporting one should be good enough.
+::: ::: tip NOTE
+Merging meshes that share the same color/glowing attributes will help a LOT in the long run.
+:::
 
 ## Unity
 To import the model into unity, simply drag and drop it into the Assets window. Afterwards, line the saber up with the TemplateSaber. Video example:
@@ -101,7 +108,9 @@ The materials you use will depend on what traits you're looking for.
 
 ::: warning WARNING Make sure you *ONLY* use shaders that are compatible with beat saber. If you use a shader that isn't compatible (the Unity Standard shader, for example) your material will simply show up as white in-game. :::
 
-::: tip NOTE For more information on shader compatibility, visit the Advanced Shaders Properties section of this guide. :::
+::: tip NOTE
+For more information on shader compatibility, visit the Advanced Shaders Properties section of this guide.
+:::
 
 Video example of applying materials:
 

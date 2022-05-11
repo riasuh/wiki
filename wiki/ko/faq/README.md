@@ -21,45 +21,47 @@ The following can be used to help you manage custom songs or playlists.
 ## 어떻게 플레이리스트를 설치할 수 있나요?
 
 ### PC
-You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
+[PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) 모드를 설치하셔야 합니다.
 
-Then you can either:
+그 후, 둘 중 하나의 방법을 선택하세요.
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
+* 모드 어시스턴트에 있는 옵션 탭에서 `Install Playlist` 툴을 사용하시면 됩니다.
 * Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
 
 You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
 
-### Quest
+### 오큘러스 퀘스트
 You can use [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) to manage the playlists on your Quest. Note that a custom level can only appear once in-game due to a limitation with BMBF.
 
-:::warning WARNING for Quest Users Reloading your Custom Songs Folder resets all playlist organization. :::
+:::warning WARNING for Quest Users
+Reloading your Custom Songs Folder resets all playlist organization.
+:::
 
 ## 어떻게 하면 저만의 커스텀 레벨을 만들 수 있나요?
-See [mapping](/mapping/)!
+[매핑](/mapping/) 문서를 참고하세요!
 
-## 어떻게 모드 어시스턴트에 없는 PC 모드들을 로드 하나요?
-See [this section](/pc-modding.md#manual-installation) in the beginners guide.
+## 어떻게 모드 어시스턴트에 없는 PC 모드들을 사용하나요?
+초보자 가이드의 [이 부분](/pc-modding.md#manual-installation)을 확인해주세요.
 
-## 멀티플레이는 크로스플레이를 지원하나요?
-Officially, multiplayer is limited to playing with other people in the store version (Oculus/Steam) you purchased. Additionally, modifying the game on Quest disables official multiplayer.
+## 혹시 멀티플레이가 크로스플레이를 지원하나요?
+Cross-play between Quest and PC versions of the game is now available! All players will need to be on the latest version for this to work. Additionally, modifying the game on Quest disables official multiplayer.
 
 The BeatTogether mod is the current solution for cross-platform play between the modded game versions. Join their [Discord server](https://discord.com/invite/gezGrFG4tz) and check the `#install-instructions` channel for more information.
 
 ## My game updated and now none of my mods are working
-Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!** Please do not drag these mods back into the `Plugins` folder, as it is known to cause issues.
 
 To get mods back, simply **run the installer again.**  
 The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!
 
-If you're confused by any of this, visit [Beginners Guide](/beginners-guide.md).
+만약에 혼란스럽다면, [초보자 가이드](/beginners-guide.md)를 확인해주세요.
 
-## 비트세이버의 점수 시스템은 어떻게 되어있나요? 세계 랭킹은 어떻게 작동하나요?
+## 비트세이버의 점수 시스템은 어떻게 계산되나요? 세계 랭킹은 어떻게 작동하나요?
 We have sections on the [grips and tricks](/grips-and-tricks.md) page dedicated to the scoring and ranking systems, check them out!
 
-## My menus are blank and I have nothing to click on
-If the main window in your game is blank, your save file likely got corrupted.
+## 제 메뉴가 비어있고 누를 수 있는 버튼이 없어져 버렸어요.
+메인 창이 비어있다면, 세이브 파일이 손상된 확률이 높습니다.
 
-To fix it, navigate to: `%AppData%\..\LocalLow\Hyperbolic Magnetism`
+다음 폴더로 가시면 고치실 수 있습니다: `%AppData%\..\LocalLow\Hyperbolic Magnetism`
 
-Delete or rename the Beat Saber folder to something else. When you re-enter the game, it'll recreate the save file and should load the main menu properly.
+그 안에 있는 Beat Saber 폴더를 삭제하거나, 폴더의 이름을 변경해주세요. When you re-enter the game, it'll recreate the save file and should load the main menu properly.

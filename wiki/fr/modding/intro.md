@@ -1,36 +1,36 @@
 # Introduction au modding
-_Apprenez comment débuter à écrire vos propres Mods PC._
+_Apprenez comment débuter à écrire vos propres mods PC._
 
-## Pour commencer
-::: attention Ce guide est pour créer des mods pour la version **PC** de Beat Saber !
+## Premiers pas
+::: attention Ce guide s'applique à la création de mods pour la version **PC** de Beat Saber !
 
-Assurez-vous que votre jeu est moddé avant de commencer à faire un mod.  
-Regardez les instructions pour [modder Beat Saber sur PC.](/pc-modding.md)
+Assurez-vous que votre jeu est moddé avant de commencer à créer un mod.  
+Consultez les instructions pour [modder Beat Saber sur PC.](/pc-modding.md)
 
-Ce quide suppose que vous avez une compréhension basique ou intermédiaire du C# et de Unity.  
-Vous pouvez avoir du mal à comprendre ce qui est expliquer ici si vous n'avez pas cette base. :::
+Ce guide suppose que vous avez une compréhension basique ou intermédiaire du C# et de Unity.  
+Vous pouvez avoir du mal à comprendre ce qui est expliqué ici si vous n'avez pas cette base. :::
 
-Beat Saber est fait avec Unity 2019.3 utilisant du C# avec .NET framework 4.6  
-Vous aurez besoin de télécharger la dernière version de [Visual Studio Community](https://visualstudio.microsoft.com/).
+Beat Saber is made in Unity 2019.3 using C# with .NET framework 4.6  
+You will need to download the latest version of [Visual Studio Community](https://visualstudio.microsoft.com/).
 
-## Configuration des outils de Modding
-We will be using the BeatSaberModdingTools extension in this tutorial, as it comes with modding templates and useful features.  
-BeatSaberModdingTools is maintained by Zingabopp. If you find the tools to be useful, consider throwing some support their way.
+## Configuration des outils de modding
+Nous utiliserons l'extension BeatSaberModdingTools dans ce tutoriel en raison de ses modeles et ses fonctionnalités.  
+BeatSaberModdingTools est tenu par Zingabopp. Si vous trouvez ces outils utiles, n'hésitez pas à leur apporter du soutien.
 
-You can download it on their [GitHub](https://github.com/Zingabopp/BeatSaberTemplates/releases/latest).  
-You will need to download `BeatSaberModdingTools.vsix`. (Ouvrer le menu déroulant des Assets si vous ne pouvez pas le trouver)
+Vous pouvez le télécharger sur leur [GitHub](https://github.com/Zingabopp/BeatSaberTemplates/releases/latest).  
+Vous devrez télécharger `BeatSaberModdingTools.vsix`. (ouvrez le menu déroulant des assets si vous ne le trouvez pas)
 
 Une fois téléchargé, ouvrez le `.vsix` et il s'installera tout seul en tant que plugin Visual Studio.  
 Si vous avez des problèmes, consultez le [README](https://github.com/Zingabopp/BeatSaberModdingTools#readme) et le [WIKI](https://github.com/Zingabopp/BeatSaberModdingTools/wiki) du projet.
 
 ## Configuration du modèle
-First, create a new project using the template.  
-We are going to use the `BSIPA4 Plugin (Core)` template, and we'll be calling our mod `BSPlugin1`. You should change the name to whatever you want to call your mod.
+D'abord, créez un nouveau projet en utilisant le modèle.  
+Nous allons utiliser le modèle de `plugin maître BSIPA4` et nous appellerons notre mod `BSPlugin1`. Vous pouvez changer le nom tel que vous souhaitez appeler votre mod.
 
 ![Modding Template Select](~@images/modding/modding-template-select.png "Modding Template Select")  
 ![Modding Template Name](~@images/modding/modding-template-name.png "Modding Template Name")
 
-You will then need to set your Beat Saber Directory in Visual Studio. Follow the instructions [on the template readme](https://github.com/Zingabopp/BeatSaberModdingTools#how-to-use), or see the screenshot below.
+Vous allez ensuite devoir définir l'emplacement de Beat Saber dans Visual Studio. Suivez les instructions du [README du modele](https://github.com/Zingabopp/BeatSaberModdingTools#how-to-use) ou consultez la capture d'écran ci-dessous.
 
 ![Setup Beat Saber Directory](~@images/modding/setup-bs-directory.png "Setup Beat Saber Directory")
 

@@ -22,6 +22,13 @@ Most well known for their incredibly flashy dance platform and space opera saber
 
 **Roles:** 3D Artist, Modder **Contributions:** Bloom Mod
 
+## JJ | hi
+I’ve been modeling for almost 3 years and make mostly private and collab sabers.
+
+**Roles:** 3D Artist
+
+[ModelSaber](https://modelsaber.com/Profile/?user=366411130962313216)
+
 ## laugexd
 Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
 

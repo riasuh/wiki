@@ -2,81 +2,81 @@
 sidebar: auto
 ---
 
-# Grips And Tricks
-_A compilation of resources to help you to hit bloq._
+# 握法和技巧
+_一些整理过的资源可以帮您更好的击打方块。_
 
-## Ranking Up Mega-Tutorial
-An incredible writeup by TeknozFR to help you get that PP. [Ranking & Scoring Guide](./ranking-guide)
+## 提升排名教程
+由 TeknozFR 写的一篇非常好的教程帮助你获得PP分。 [排名和打分教程](./ranking-guide)
 
-## Scoring
-See this video by the [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) about how the scoring system works.
+## 计分
+观看这个由 [Cube Community YT](https://www.youtube.com/channel/UCdG9zS8jVcQIKl7plwWXUkg) 制作的视频了解计分系统是如何工作的。
 
 <YouTube url='https://www.youtube.com/watch?v=rVbXCGddspA' />
 
-Additionally, here's an image from the game developers about how the [hitboxes](https://twitter.com/Split82/status/979365834324889600) work
+另外，这张由游戏开发者提供的图片显示了[击打区域](https://twitter.com/Split82/status/979365834324889600)。
 
-![Bloq Hitbox](~@images/mapping/hitbox-from-split.jpg)
+![方块击打区](~@images/mapping/hitbox-from-split.jpg)
 
-## Ranking
-*How does global ranking work? What are performance points? What are the numbers in my brackets? Why is my PP so small?*
+## 排名
+*全球排名是如何排名的？ 什么是PP (performance points)分？ 括号里的分数代表了什么？ 为什么我的PP分这么低？*
 
-You can find your global ranking and PP on [ScoreSaber](https://scoresaber.com/global) - here you can search for your name. Your ScoreSaber account is tied to your Steam / Oculus username.
+您可以在 [ScoreSaber](https://scoresaber.com/global) 搜索名字来查看全球排名和PP分。 您的 ScoreSaber 账户是关联到你的 Steam / Oculus 用户名的。
 
-1. Ranked songs are assigned PP (PP = performance points). The exact amount of PP gained is determined by the accuracy you finish a ranked song with. How much PP a ranked song is worth is determined by a secret algorithm developed by Umbranox, our Panda God.
-2. To avoid having skilled players grinding lots of easier songs that are worth less PP, a curve is applied to your plays. This curve is `0.965^(x-1)` where `x` is the position of that score on your song list. e.g. If your top play is a 260 PP play, you will be rewarded 260 weighted PP which is a 100% of the raw PP of that play. If your second top play is 247 raw PP, you will be rewarded 238 weighted PP which is the actual amount of PP you get after the curve applies. Here is a table to illustrate this system:
+1. 排名曲是有一个PP分的 (PP = performance points 表现分)。 你完成排名曲所获得的PP分由准确度决定。 一首排名曲的PP分值是由我们的Panda God (Umbranox) 所开发的一套保密算法决定的。
+2. 为了防止技术高的玩家刷分，简单的曲子的PP分较低。会有一条曲线根据游玩情况生成。 这条曲线的公式是 `0.965^(x-1)`，其中 `x` 代表了该分数在你的游玩情况中的位置。 例如，如果你所有曲目中获得的最佳记录是 260PP分，你将会获得 260PP分，也就是 原PP分(raw PP) 中的 100% (权重)。 如果你第二好的成绩的 原PP分 为247，那么根据曲线，你将会获得 238分的加权PP分。 下面你的表格可以展示系统如何计算的：
 
-| Raw PP | Weighted PP                  |
-| ------ | ---------------------------- |
-| 260pp  | **260pp** (100% of raw PP)   |
-| 247pp  | **238pp** (96.5% of raw PP)  |
-| 246pp  | **229pp** (93.1% of raw PP)  |
-| 244pp  | **219pp**  (89.9% of raw PP) |
+| 原PP   | 加权PP                    |
+| ----- | ----------------------- |
+| 260pp | **260pp** (100% 的原PP)   |
+| 247pp | **238pp** (96.5% 的原PP)  |
+| 246pp | **229pp** (93.1% 的原PP)  |
+| 244pp | **219pp**  (89.9% 的原PP) |
 
-3. To get a better rank, there are quite a few tools you can use to find ranked songs that fit your skill level. First, it’s always good to go see your own [ScoreSaber](https://scoresaber.com/global) profile to see songs that you haven’t played in a while or that you could improve on and to know what your top scores look like. The [ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) or [ScoreSaber Country Leaderboard](https://github.com/motzel/ScoreSaberCountryLeaderboard#readme) browser extension can extend the functionality of your profile. [BaliBilo's ScoreSaber site](https://scoresaber.balibalo.xyz/peepee) and [Beat Savior](https://www.beatsavior.io/) are external sites that can help you find maps to improve on and keep track of your performance.
+3. 为了获得更高的排名，这里有几个工具可以让你找到适合你技术水平的评分曲。 首先，一个比较好的办法是，你可以到自己的 [ScoreSaber](https://scoresaber.com/global) 个人资料里看看你有段时间没玩过的歌曲。有哪些是可以打得更好的，然后你最好的分数大概是什么样的。 [ScoreSaberEnhanced](https://github.com/Splamy/ScoreSaberEnhanced#readme) 或者 [ScoreSaber Country Leaderboard](https://github.com/motzel/ScoreSaberCountryLeaderboard#readme) 浏览器插件可以给你的个人资料上增加些额外功能。 [BaliBilo's ScoreSaber 网站](https://scoresaber.balibalo.xyz/peepee) 和 [Beat Savior](https://www.beatsavior.io/) 是两个外部网站，它们可以帮助你找到谱面来提升并追踪你的表现。
 
-You can find more information in the [Ranking & Scoring Guide](./ranking-guide.md).
+你可以在 [排名和打分指南](./ranking-guide.md) 里找到更多信息。
 
-*This section is adapted from Tek's writeup in the Beat Saber Canadian discord.*
+*这一小结改编自 Tek 写在 Beat Saber Canadian discord 中的内容。*
 
-::: tip Songs are ranked by the team in the [ScoreSaber Discord](https://discord.gg/WpuDMwU). You can follow along in this server to see what changes happen! :::
+::: tip 排名歌曲由 [ScoreSaber Discord](https://discord.gg/WpuDMwU) 审核。 你可以关注服务器看看有什么新变动！ :::
 
-## Grips
-Cube Community made some videos showing off some of the more popular grips for Oculus Touch controllers (CV1) and Vive Wands.
+## 握法
+Cube Community 制作了一些视频，展示了一些适用于 Oculus Touch 控制器 (CV1) 和 Vive 控制器 的比较热门的握法。
 
-### HTC Vive Wands
+### HTC Vive 控制器
 <YouTube url='https://www.youtube.com/watch?v=G7x_wb7RrgU' />
 
-![Vive Grips Guide](~@images/grips-and-tricks/vive-grips-guide.jpg)
+![Vive 握法指南](~@images/grips-and-tricks/vive-grips-guide.jpg)
 
 ### Oculus Rift
 <YouTube url='https://www.youtube.com/watch?v=XFt90q69aEA' />
 
-![Oculus Grips Guide](~@images/grips-and-tricks/oculus-grips-guide.jpg)
+![Oculus 握法指南](~@images/grips-and-tricks/oculus-grips-guide.jpg)
 
-### Oculus Rift S and Quest
-A video has not yet been made for Rift S and Quest controllers, but you can find some examples below! ![Oculus Rift S/Quest Guide](~@images/grips-and-tricks/touch2-grips.jpg)
+### Oculus Rift S 和 Quest
+暂时还没有适用于 Rift S 和 Quest 控制器的视频，但是你可以看看下面的一些示例！ ![Oculus Rift S/Quest 指南](~@images/grips-and-tricks/touch2-grips.jpg)
 
-### Valve Index Controllers
-A video has not yet been made for Index controllers, but you can find some examples in their `#tips-and-grips` channel! [CC Discord](https://discord.gg/dwe8mbC)
+### Valve Index 控制器
+暂时还没有适用于 Index 控制器的视频，但是你可以在 `#tips-and-grips` 频道里看到一些示例！ [CC Discord](https://discord.gg/dwe8mbC)
 
 ### Oculus Quest 2
-A video has not yet been made for the Quest 2's controllers, but you can find some examples below! ![Oculus Quest 2](~@images/grips-and-tricks/touch3-grips.jpg)
+暂时还没有适用于 Quest 2 控制器的视频，但是你可以看看下面的一些示例！ ![Oculus Quest 2](~@images/grips-and-tricks/touch3-grips.jpg)
 
-Check out Cube Community's `#tips-and-grips` channel for more suggestions and examples in their [Discord](https://discord.gg/dwe8mbC). Please remember that everyone's playstyle and body is different; someone else's grip might not work exactly like you need it to. Don't be afraid to experiment and find what's right for you!
+看看 Cube Community [Discord服务器](https://discord.gg/dwe8mbC) 中的 `#tips-and-grips` 频道，里面有一些建议和示例。 请记住，每个人的游玩风格和身体情况是不同的。其他人的握法可能并不适合你。 多尝试体验，总会找到适合你的！
 
-## Improve Vive controller tracking
-Your body may be blocking one lighthouse from seeing one of your controllers. Here are some steps that may help improve tracking.
+## 改进 Vive 控制器追踪
+你的身体可能会阻挡 定位器 看见你其中的一个控制器。 这里有一些可能帮助你改进追踪的步骤。
 
-1. Move into the corner of your playspace.
-2. Rotate your body 45 degrees so that your lighthouses can see both controllers.
-3. Rotate the room within Beat Saber's settings to compensate, so that you appear facing forward within the game.
+1. 移动到游玩空间的角落里。
+2. 旋转你的身体45°，这样你的 定位器 就可以看到你的两个控制器了。
+3. 在节奏光剑的设置项里旋转房间使得你在游戏中也是正面向前。
 
-![Vive Tracking Help](~@images/grips-and-tricks/vive-tracking-help.gif)
+![Vive 追踪帮助](~@images/grips-and-tricks/vive-tracking-help.gif)
 
-This can apply to Oculus sensors too.
+这也适用于 Oculus 的传感器。
 
-## Touch Controller Battery Disconnect
-The force of your swings in Beat Saber can cause the spring in the touch controllers to compress and disconnect the battery for a brief moment. This is what happens when you see your saber lose positional tracking but still rotate in place. To alleviate this, ragesaq recommends adding extra springs inside the battery compartment to decrease the likelihood of battery disconnects happening, explained in this [Reddit post](https://www.reddit.com/r/oculus/comments/a2h7o4/psa_adding_an_additional_spring_to_the_battery/?st=JR9Q7OEZ&sh=a7a3d091)
+## Touch 控制器电池断连
+你在玩节奏光剑的时候，挥动所使的力可能会让 Touch 控制器中的弹簧压缩导致短时断电。 这个情况发生时，你可以看到你的光剑没法追踪但是还在旋转。 为了减少这种情况的发生，ragesaq 建议在电池舱中加入额外的弹簧来减少电池断链情况的发生，详情请见这个 [Reddit 帖子](https://www.reddit.com/r/oculus/comments/a2h7o4/psa_adding_an_additional_spring_to_the_battery/?st=JR9Q7OEZ&sh=a7a3d091)。
 
-## Also Consider
-![Also Consider](~@images/grips-and-tricks/allow-adequate-room-around-you-during-game-play-put-on-27689465.png)
+## 也可以考虑
+![也可以考虑](~@images/grips-and-tricks/allow-adequate-room-around-you-during-game-play-put-on-27689465.png)

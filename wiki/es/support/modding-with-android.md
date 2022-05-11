@@ -4,7 +4,7 @@ sidebar: auto
 
 # Quest Modding with Android
 
-:::warning Installing BMBF and modding your game will disable Official Multiplayer as well as viewing and uploading scores on the base game leaderboards. If you would like to play modded multiplayer, you need the mod, `Beat Together`, which allows for cross-play between pc and quest and allows for custom songs to be used. The mod can be found in the [Beat Saber Modding Group](discord.gg/beatsabermods) in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
+:::warning Installing BMBF and modding your game will disable Official Multiplayer as well as viewing and uploading scores on the base game leaderboards. If you would like to play modded multiplayer, you need the `Beat Together` and `MultiQuestensions` mods, which enables cross-play between PC and modded Quests and allows for custom songs to be played. The mod can be found in the [Beat Saber Modding Group](discord.gg/beatsabermods) in `#quest-mods` or on the [Questboard](https://questmodding.com) site.
 
 To get leaderboards on custom songs and to be able to get Performance Points (PP) from ranked songs you need the [ScoreSaber](https://new.scoresaber.com/quest) mod. [This link](https://new.scoresaber.com/quest) will take you to the ScoreSaber page to set it up. ScoreSaber does not replace the base game leaderboards, it only adds leaderboards for custom songs.
 
@@ -94,7 +94,9 @@ You can now continue to [Setup your Phone](#setup-your-phone)
     3. Activate USB debugging
 
 ### Installing BMBF with your Phone
-:::warning Before modding, run Beat Saber once, play a level and immediately fail! :::
+:::warning
+Before modding, run Beat Saber once, play a level and immediately fail!
+:::
 
 Open Sidequest on your Phone connect and your Quest with your phone via the USB Cord. You should get a USB debugging pop-up in your Quest and on your phone. Select allow on both devices and if you prefer, select always allow.
 

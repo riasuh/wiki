@@ -15,7 +15,10 @@ On this page you will find additional guides and resources for better understand
 ## Checking Audio Quality
 Generally, as a rule, always use **WAV(E) or FLAC (lossless uncompressed or compressed)** files as sources for your songs This is because **lossy formats like MP3, AAC or OGG always lose information when converted to their formats** and cannot be restored by 'un-converting'. This is why you should never use your exported OGG-file to make new edits to your audio. Therefore, always use a lossless source file, if possible. However, some FLAC sources could be 'up-converted' from lossy formats, so using a spectral analyser tool to check your audio file(s) before using them is a recommended practice. For more information on audio formats [this article is recommended](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 
-::: tip Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue editing from without having to redo everything from the start. :::
+::: tip
+Save your own lossless WAV(E) files when doing edits, at each step, so you always have a lossless source to continue
+editing from without having to redo everything from the start.
+:::
 
 The best way to check for source quality and quality loss is using [Spek](http://spek.cc/), a free acoustic spectrum analyser tool:
 
@@ -191,7 +194,9 @@ When they do, you will need to:
 
 Warping your song is simply a matter of repeating this for the whole song. You should start by doing this every 4 beats or so. Most of the time this is good enough to line up the whole song but, keep an eye out for beats in between stretch markers. If they start drifting, use another stretch marker to fix it.
 
-:::warning NOTE Excessive warps could introduce artifacts or significantly alter the song that it is noticeable by listeners/players. :::
+:::warning NOTE
+Excessive warps could introduce artifacts or significantly alter the song that it is noticeable by listeners/players.
+:::
 
 #### Things to Keep in Mind
 There can be many hidden "gochas" when warping a song. Here are some things you might encounter and their possible solutions.

@@ -155,7 +155,11 @@ The `Song Info` page is the first screen you see every time you edit a map.
 #### Whole Map Settings
 On the left side of the `Song Info` page is information that applies to your whole map. See [Beat Saber Metadata Criteria](https://docs.google.com/document/d/1ehotupIYMVlc8x41JldO-24m7Am-oTVYnciF9KCRdNM/edit) for standards on presenting complex song names and multiple artists.
 
-::: warning Special characters such as those found in, Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinese (汉语/漢語), Arabic (اَلْعَرَبِيَّةُ‎), and accented characters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ) are not fully supported by BeatSaver. Using these characters in song metadata or in bookmarks will cause problems. :::
+::: warning
+Special characters such as those found in, Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), Chinese (汉语/漢語),
+Arabic (اَلْعَرَبِيَّةُ‎), and accented characters (Ä/é/õ/Æ/ø/ß/Œ/Ð/ƒ) are not fully supported by BeatSaver.
+Using these characters in song metadata or in bookmarks will cause problems.
+:::
 
 * **Song Name:** The primary name of the song
 * **Song SubName:** Any following tags like (Short Ver.), (SDVX Mix), etc.
@@ -260,7 +264,10 @@ Once you click <kbd>Check for {error of your choice}</kbd> pay attention to the 
 |:--------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Double directional example](~@images/mapping/dd_example.png) | In this example, max time is set to 0.75 beats.<br />There is a set of down notes 1/2 beat apart and then a set of diagonal notes 1/2 beat after that. The first set of blocks isn't flagged but the next two are because they are double directionals within 3/4 (0.75) of a beat after the first set.<br />You have two options:<br />*Change one of the blocks<br />* Force the player to "reset" (return their arms/hands to a neutral position) if there’s enough time. |
 
-::: tip Keep clicking the "Check for Double Directionals" button... sometimes fixing one error can create a new error out of your line of sight. Check early and often! :::
+::: tip
+Keep clicking the "Check for Double Directionals" button... sometimes fixing one error can create a new error out of your
+line of sight. Check early and often!
+:::
 
 **For Vision Blocks:** The highlighted block is being obscured by the blocks immediately in front of it within the specified distance. This guide won’t get into details on vision blocks but mappers should be very selective when placing any blocks in the center two positions as those are at eye-height for the player in-game and are not-so-affectionately referred to as "facenotes." Blocks in other positions can be vision blocks as well but the two center positions are the most likely culprits. Depending on your BPM, 1-2 beats is fine.
 

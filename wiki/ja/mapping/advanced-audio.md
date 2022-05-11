@@ -15,7 +15,9 @@ _音源編集をもっと_
 ## 音源の質の確認
 普通は、ルールとして**WAV(E) やFLAC (ロスレス書き出しや通常の書き出し)**ファイルがマップ音源として使われます。これは**通常MP3やAAC、OGGは書き出しの際に音源情報が失われてしまい、**再編集ができないからです このため書き出されたOGGファイルを使用して音源編集を行わないでください。 可能であればロスレスの音源ファイルを使うようにしてください。 しかし、いくつかのFLACファイルは「アップコンバート」によって情報の復元を行うことができます。スペクトル解析ツールを使用して、音源ファイルを使用する前に確認することをお勧めします。 音源についての詳細は[こちらの記事をお勧めします](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html)
 
-::: tip 編集の際はこまめにロスレスのWAV(E)ファイルを保存しておいて、再編集する際に一からやり直さなくてもよいようにしましょう :::
+::: tip
+編集の際はこまめにロスレスのWAV(E)ファイルを保存しておいて、再編集する際に一からやり直さなくてもよいようにしましょう
+:::
 
 音質を確認するには[Spek](http://spek.cc/)の無料波形解析ソフトが便利です！
 
@@ -191,7 +193,9 @@ When they do, you will need to:
 
 Warping your song is simply a matter of repeating this for the whole song. You should start by doing this every 4 beats or so. Most of the time this is good enough to line up the whole song but, keep an eye out for beats in between stretch markers. If they start drifting, use another stretch marker to fix it.
 
-:::warning NOTE Excessive warps could introduce artifacts or significantly alter the song that it is noticeable by listeners/players. :::
+:::warning NOTE
+Excessive warps could introduce artifacts or significantly alter the song that it is noticeable by listeners/players.
+:::
 
 #### Things to Keep in Mind
 There can be many hidden "gochas" when warping a song. Here are some things you might encounter and their possible solutions.

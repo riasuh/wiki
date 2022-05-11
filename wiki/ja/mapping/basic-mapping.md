@@ -11,13 +11,16 @@ _譜面作成が初めての方は、上から下までこのページをお読�
 * [用語](./glossary.md)
 
 ## 譜面作成の準備はできていますか？
-**Have you...**
+**準備するもの...**
 
 1. [x] [Audacity](https://www.audacityteam.org/) をダウンロードし、 [マップエディター](./#map-editing-resources) を選んでください
 2. [x] [オーディオファイル](./basic-audio.md) を設定して、bpmを確認し、適切なイントロ/アウトロがあることを確認しますか？
 3. [x] .oggファイルとして曲を[エクスポート](./basic-audio.md#exporting) しましたか？
 
-::: tip これらすべてを完了しましたか？ おつかれさまです！ お気に入りのエディタに飛び込んでマッピングを開始する準備が整いました！ そうでない場合は、タスクリストのリンクをクリックして詳細を確認してください。 :::
+::: tip これらすべてを完了しましたか？
+おつかれさまです！ お気に入りのエディタに飛び込んでマッピングを開始する準備が整いました！
+そうでない場合は、タスクリストのリンクをクリックして詳細を確認してください。
+:::
 
 ## 必須項目
 マッピングを考える前に、基本を理解する必要があります。
@@ -32,7 +35,9 @@ _譜面作成が初めての方は、上から下までこのページをお読�
 
 必要に応じて、古いコピーを取得できる `Autosaves` フォルダを自動的に作成するエディタもあります。 曲をアップロードするには、少なくとも以上の4つのファイルが必要です。
 
-::: warning 注意 Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), 中国語 (汉语/漢語), アラビア語 (اَلْعَرَبِيَّةُ‎), アクセント記号 (Ä/é/ó) などの特殊な文字はBeat Saverでサポートされてないことがあります。 情報ファイルやブックマークでこれらの文字を使用すると問題を引き起こす可能性があります。 :::
+::: warning 注意
+Japanese (日本語/にほんご), Kaomoji (٩(◕‿◕｡)۶), 中国語 (汉语/漢語), アラビア語 (اَلْعَرَبِيَّةُ‎), アクセント記号 (Ä/é/ó) などの特殊な文字はBeat Saverでサポートされてないことがあります。 情報ファイルやブックマークでこれらの文字を使用すると問題を引き起こす可能性があります。
+:::
 
 ### ブロックタイプ
 <!-- markdownlint-disable MD013 -->
@@ -51,29 +56,29 @@ _譜面作成が初めての方は、上から下までこのページをお読�
 
 **ボムに関する注意事項:**
 
-* 爆弾の当たり判定は、ブロックの当たり判定よりも小さく、爆弾の見た目よりも小さいです。
-* Bombs are hard to see when there are no lighting events active. Make sure your map isn’t dark when bombs are coming up. See [Basic Lighting](./basic-lighting.md) for more tips.
-* Bombs can still be hit once they have passed the player.
+* ボムの当たり判定は、ブロックの当たり判定よりも小さく、ボムの見た目よりも小さいです。
+* ボムは照明の効果がない時はとても見づらくなります。 爆弾を配置するときは十分に明るいことを確認してください。 詳細は [基本的な照明効果](./basic-lighting.md) を参照してください。
+* ボムはプレイヤーを通過した後でもあたる可能性があります。
 
 ### ブロックの配置
-This varies based on the target difficulty and audience you are mapping for. For example, some players in the lower difficulties might be overwhelmed by a balanced distribution across the three rows compared to a more experienced player that can handle multiple jumps across the rows. Block distribution can also vary between mapping styles at the same difficulty level.
+これは、作成する難易度と、プレイしてもらう対象によって異なります。 例えば、難しい譜面もうまくこなせる経験豊富なプレイヤーにとっては3列を横断するような配置はちょうどいいレベルになるかもしれませんが、レベルの低いプレイヤーにとっては圧倒されてしまうものかもしれない。 ブロックの配置は、同じ難易度でもそれぞれのマッピングスタイルによっても異なります。
 
-For more on row usage in different difficulties, see [Gauging Difficulty](#gauging-difficulty-down-mapping).
+各難易度での列の使い方については、 [難易度の指標](#gauging-difficulty-down-mapping) を参照してください。
 
-::: tip If you’re using [Mediocre Map Assistant 2](./mediocre-map-assistant.md) as your editor you can hit <kbd>SHIFT</kbd>+<kbd>TAB</kbd> to open the error checker then click the <kbd>Stat Panel</kbd> button to see this breakdown. :::
+::: tip エディタで [Mediocre Map Assistant 2](./mediocre-map-assistant.md) を使用している場合は、 <kbd>SHIFT</kbd>+<kbd>TAB</kbd> を押してエラーチェッカーを開き、 <kbd>Stat Panel</kbd> ボタンをクリックしてエラーをチェックできます。 :::
 
 ## タイミング & リズム
-Before you start mapping in earnest you need to think about the rhythm of the song you want to map. You’ll place blocks on one or more of the main instruments in the song: the drum beat, lead instrument, bass, synths, or even vocals.
+マッピングを本格的に開始する前に、曲のリズムについて考える必要があります。 楽曲のひとつかそれ以上の楽器の音に合わせてノーツを置いていきます。例えばドラムやリードメロディ、ベース、シンセ、ボーカルなどです。
 
-To place blocks in time with the rhythm you’ll need to change your cursor precision. Most (but not all) songs will use 1/1, 1/2, or 1/4 cursor precision to get on beat. Some songs may use "triplets" or 1/3 cursor precision which can be hard to tell from 1/4 to an inexperienced ear. You should not need to use less than 1/4 cursor precision for most songs *including* mapping to vocals.
+リズムに合わせてブロックを配置するには、カーソルの拍の間隔を変更する必要があります。 ほとんどの(すべてではない)曲は、ビートに乗るために 1/1、1/2、または1/4の拍の間隔を使用します。 いくつかの曲では1/4でとるが難しい、1/3拍で音をとることもあります。 ほとんどの曲ではボーカルの音を含んでも1/4 以下の拍の間隔を使用する必要はありません。
 
-::: warning  
-90% of the time, mapping with high precision (1/8, 1/16, 1/32, or 1/64) will make your song mistimed. If you need high precision to get your notes to line up then you have an issue with your audio file setup. STOP and review [Basic Audio Setup](./basic-audio.md) to ensure you’re in sync! :::
+::: warning 注意  
+細かい拍でのマッピング(1/8、1/16、1/32、または1/64)は曲のタイミングがずれることがあります。 ノーツを置くのに細かい拍子が必要であるなら音源の設定に問題があります。 一度[音源の設定](./basic-audio.md)を確認して、拍子やオフセットがあっているか確認してください。 :::
 
-|                          1/1 Cursor Precision                          |                          1/2 Cursor Precision                          |                          1/3 Cursor Precision                          |                          1/4 Cursor Precision                          |
+|                                 1/1 拍                                  |                                  1/2拍                                  |                                  1/3拍                                  |                                  1/4拍                                  |
 |:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|:----------------------------------------------------------------------:|
 | ![1/1 Cursor precision screenshot](~@images/mapping/1-1_precision.png) | ![1/2 Cursor precision screenshot](~@images/mapping/1-2_precision.png) | ![1/3 Cursor precision screenshot](~@images/mapping/1-3_precision.jpg) | ![1/4 Cursor precision screenshot](~@images/mapping/1-4_precision.png) |
-|                            1 block per beat                            |                           2 blocks per beat                            |                           3 blocks per beat                            |                           4 blocks per beat                            |
+|                               1拍に1ブロックずつ                               |                              1/2拍に1ブロックずつ                              |                              1/3拍に1ブロックずつ                              |                              1/4拍に1ブロックずつ                              |
 
 When timing out your map you’ll want to double check EARLY that the waveform in your editor is lined up with the major lines of the editor track. If your waveform isn't lined up, revisit the [Basic Audio Setup](./basic-audio.md) page of the wiki for tips.
 
@@ -85,40 +90,40 @@ If your waveform isn’t lined up it will make it **very** difficult to place bl
 | ![Editor view with audio not properly synced](~@images/mapping/audio-broken.png) | ![Editor view with audio synced to the editor track](~@images/mapping/audio-synced.png) |
 |                Needs audio edits, start offset, or has wrong bpm                 |                                  You’re ready to map!                                   |
 
-### Timing Notes
-Consider starting the mapping process with placeholder or "timing" notes. Dropping a "dot note" placeholder can help you figure out whether or not your map is on time and where you should consider using extra emphasis **before** you invest a ton of time creating patterns. Listen to make sure the editor hit sounds are in time with the beat.
+### 音取り
+マッピングはまず「音取り」ノーツを置くことから始めましょう。 「ドットノーツ」を置くことで音取りが適切であるか、どこを強調するべきかがわかりやすくなります。ノーツ配置を考える**前に**行うことをお勧めします。 エディタのヒットサウンドがビートに合っていることを確認してください。
 
 ::: tip  
-Not everyone uses timing notes but they can be a helpful way to ensure your maps are timed correctly as a new mapper. :::
+全員が音取りノーツを使用するわけではありませんが、特にマッピング初心者にとって音の取り方が適切か確かめるのに便利です。 :::
 
-### Overmapping & Undermapping
-Deliberately place blocks that match the music. Don't place more blocks than necessary just for the sake of making the map difficult. Some songs were never meant to be super-dense ExpertPlus maps and that’s ok.
+### オーバーマッピング & アンダーマッピング
+音楽に合ったブロックを配置します。 マップの難易度をあげるためだけに、必要以上のブロックを設置しないでください。 いくつかの曲は超高密度のExpertPlusマップであることを意図したものではありません。
 
-* **Overmapping** is the (bad) practice of placing more blocks than there are sounds. Don’t do it.
-* **Undermapping** is the very acceptable practice of skipping some notes/beats (especially at lower difficulties).
+* **オーバーマッピング** は、音よりも多くのブロックを配置する(よくない)パターンです。 やめておきましょう
+* **アンダーマッピング** は、いくつかの音符/ビートをスキップする非常に受け入れやすいパターンです (特に低い難易度において)
 
-### Emphasis & Consistency
-We’ll go into more detail on this in [Intermediate Mapping](./intermediate-mapping.md) but, as a new mapper you should understand at least the basic ideas of emphasis and consistency and how they impact your map.
+### 強調 & 一貫性
+ここからは[中級者向けマッピング](./intermediate-mapping.md)に書かれていることですが、新しくマッピングする人にも理解しておくべき強調と一貫性の基本的な考え方を紹介します。
 
-**Emphasis** is how much "weight" you give each hit.
+**強調** は、それぞれのヒットの与える”強さ”です。
 
-* Consider the base sound your mapping to to be a single hit (one block), including quiet or chill sections
-* When the sound is "bigger" or you have two different instruments hitting on the same beat you can think about using a double hit or a stack (two blocks).
-* For only the biggest sounds in the song you could use a double tower (four blocks, two for each hand) or other heavyweight pattern, but many songs never need this amount of emphasis.
+* 落ち着いている、静かな音楽を含む、音楽のベースの音を1ヒット（1ノーツ）として考えてみましょう。
+* 音がより大きくなったり、異なる楽器が同じ拍に音が重なったとき2ヒットもしくはスタックノーツ（2ノーツ）を使うとよいでしょう。
+* 曲の中で最も大きな音には、ダブルタワー（タワーノーツを両手に4ノーツ）もしくは強い配置パターンを使います。しかし、多くの曲はこの強調を必要とはしません。
 
-Many new mappers instinctively want to use double hits all the time, but remember that those are heavy emphasis and if *every sound* is emphasized then *nothing* feels like it has extra weight.
+多くの新人マッパーは2ヒットをすべての拍で使おうとしてしまいますが、これは強い強調です。**すべて**を強調するということは**なにも**強調しないということです。
 
-Another way to think about it is that you want the energy and effort of the hit to match the energy and power of the sound. Nobody screams at the top of their lungs on every vocal, or in every instrument note. You want the powerful notes, the powerful vocals, to stand out from the rest of the song. Even if most of the song might sound loud or (you think) emphasized, there's always notes that sound above them. Be it through volume, or through energy. So when mapping, see what is your baseline energy, map that as singles. Anything above that, then do towers/doubles/windows/jumps, whatever best matches that energy.
+もう一つの考え方は、ノーツを切るときのエネルギーやパワーを音楽のエネルギーやパワーに合わせるということです。 すべての音で最大音量のボーカル、最大音量の楽器ということはありません。 強い配置を置くときは曲の他の部分よりも音が強力な場合です。 ほとんどの曲が大きな声で聞こえる、もしくは強調している（と思っている）場合でも、それより強い音があります。 全体の音量、全体のエネルギーを考えてください。 したがって、マッピングするときは、あなたの ベースラインエネルギーは何であるかを確認し、シングルノーツとしてマッピングします。 それより大きい音はタワー/ダブルス/ウィンドウ/ジャンプを配置します。 そのエネルギーと一致するのであればなんでも大丈夫です。
 
 **Consistency** is mapping the same sound with the same weight when it appears.  
 Mapping consistently does NOT always mean to copy/paste/mirror, though there are some times when that is appropriate. If you choose to map a particular big sound as a double, for example, that same sound should always be mapped with a double.
 
-## Pattern Best Practices
-This section details the principles one should follow for a playable and enjoyable map.
+## 配置パターンの例
+このセクションでは、楽しいマップのために、原則に従うべき配置パターンについて説明します。
 
-**Cyrix** has created a summary video, [Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw), of the most common issues that are covered in this section.
+**Cyrix**がまとめたビデオを作成しています。[Patterns to Avoid as a New Mapper](https://www.youtube.com/watch?v=mgGaqZ20Scw)はこのセクションで書かれていることが主な内容になっています。
 
-### Vision Blocks
+### ビジョンブロック
 Vision blocks are any patterns that obscure the player’s vision and make it difficult to sight read a map, if not outright uncomfortable. The primary cause of vision blocks is use of the middle two positions of the track, but there’s risk of a block any time the middle row is used.
 
 **Vision blocks can be avoided by:**
@@ -156,22 +161,31 @@ Many new mappers use DDs to simulate the feel of drumming. While this *feels* li
 ::: warning  
 If you’re using intentional DDs in a dance-style map you’ll need to make your NJS slower and spawn offset longer to give the player enough time to react. :::
 
-::: danger Wrist resets are when you change the forehand/backhand flow of a a pattern mid-stream causing your player to roll their wrist to reset flow. They can break normal human body mechanics and put players at serious risk of joint damage. Do not use wrist resets at high precision! :::
+::: danger
+Wrist resets are when you change the forehand/backhand flow of a a pattern mid-stream causing your player to roll their
+wrist to reset flow. They can break normal human body mechanics and put players at serious risk of joint damage. Do not
+use wrist resets at high precision!
+:::
 
 When long periods of time pass between notes, the player will reset their arm position so it’s often preferable to start the new section with a down block.  In gray areas of time, like 3 seconds without notes, it is up to the mapper to reset the player or to continue the flow.
 
 Want to learn more about resets? Read [Intermediate Mapping](./intermediate-mapping.md)!
 
-### DO: Mapping with Flow
+### マッピングの流れ
 Outside of easy and normal difficulties, mapping with flow is an absolute must. Human bodies are incredible machines but there are certain ways that joints are meant to move and using patterns that violate those mechanics is a recipe for injuring your player.
 
-Parity is the concept that each block direction is played with either a backhand swing or a forehand swing. The black line in the diagram below illustrates this forehand (below the line)/backhand (above the line) divider for the left and right sides.
+Parity is the concept that each block direction is played with either a backhand swing or a forehand swing. Alternating between foreswing and backhand swings with each block gives a smooth motion between each hit:
 
-::: align center ![Parity diagram showing the forehand/backhand line for each block color](~@images/mapping/parity_diagram.jpg) :::
+* A **forehand** swing is the motion where the block is hit with the **palm** of the hand
+* A **backhand** swing is the motion where the block is hit with the **back** of the hand
 
-When mapping with flow you are striving to always cross this parity line with the most natural movement possible. Effectively, your player should always be alternating between forehand and backhand every swing.
+The diagram below illustrates how straining it is playing a note as either swing (mirrored for red). Without proper lead in for harsher swings, the player is likely to reset:
 
-This video demonstrates the basics of parity: [YouTube](https://youtu.be/tLQK4gN3bDc)
+|                     Forehand Swings                      |                     Backhand Swings                      |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|
+| ![Forehand Strain](~@images/mapping/forehand_strain.png) | ![Backhand Strain](~@images/mapping/backhand_strain.png) |
+
+This video illustrates the concept of parity: [YouTube](https://youtu.be/e0YlLwBz7Vk)
 
 A thing important to keep in mind, especially if you are new to the game or mapping, is that the concept of parity is most obvious for wrist players. If you do not play with your palm directly facing the ground, then you might struggle to understand why some parity breaks are uncomfortable. Remember that while it may feel fine to you, players have different grips and styles. Proper parity feels good for everyone, not just some playstyles.
 
@@ -186,11 +200,11 @@ When proper flow is achieved the player should be physically capable of getting 
 **Basic Flow Concepts:**
 
 * The higher your note precision, the more you want to stick to 180° (up/down) and 135° (up/down/diagonal) patterns.
-* 90° transitions that cross the parity line should only be considered with enough time to play smoothy.
+* Larger angle changes should only be considered with enough time to play smoothy.
 * Make sure that you have the right setup (the pattern immediately before) and escape (the pattern immediately after) for a comfortable swing at whatever speed you’re mapping.
-* Be conscious of your timing, you can get away with more at sub-160 BPM tempos with lower note precision than you can in high BPM songs. Map for the style of song you’ve selected.
+* Be conscious of your timing, you can get away with more in slower BPM songs with the same note precision than you can in high BPM songs. Map for the style of song you’ve selected.
 
-### DON’T: Forbidden Patterns
+### 禁止パターン
 These are called forbidden patterns for a reason. There is no reason in the world to use these because they're dangerous to either the player's hardware, the player's joints, or they go against the scoring system. You may have played maps that included these but that doesn't make them ok.
 
 #### Handclaps
@@ -243,7 +257,7 @@ These are called forbidden patterns for a reason. There is no reason in the worl
 |:----------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Illustration of wide precision](~@images/mapping/wide-precision.png) | ![Editor view of wide precision](~@images/mapping/wide-precision-alt.png) | These bombs are incredibly hard to avoid for players with short arms. When the player swings through these blocks, their arms come inward, and hit the bombs. |
 
-### MAYBE: Highly Situational Patterns
+### 状況によっては許されるパターン
 These patterns are OK to use but only in very specific circumstances or with very specific setup. It’s best to steer clear of these until you’re much more comfortable with mapping.
 
 #### Flicks
@@ -252,9 +266,9 @@ These patterns are OK to use but only in very specific circumstances or with ver
 | ![Illustration of a flick](~@images/mapping/flick.png) | ![Editor view of a flick](~@images/mapping/flick-alt.png) | "Flicks" of two or more blocks of the same color at 1/4 precision are a difficulty spike, regardless of song tempo. It is the precision here that is important, not the patterns since these examples follow proper flow techniques. Even though flicks are more easily playable in lower tempo songs, they are incredibly difficult to use appropriately and should be avoided. |
 
 #### Triangle
-|                         Illustration                         |                           Editor View                           | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|:------------------------------------------------------------:|:---------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Illustration of a triangle](~@images/mapping/triangle.png) | ![Editor view of a triangle](~@images/mapping/triangle-alt.png) | Triangles are patterns that cause incredibly uncomfortable wrist resets  when used at high precision and speed. The pattern breaks the forehand/backhand mechanic and can injure your player. See the [Mapping with Flow](#do-mapping-with-flow) to revisit this explanation.<br /><br />**Note 1:** Not all triangle shaped patterns are cursed triangles. Make sure you are always crossing the parity line with each swing.<br /><br />**Note 2:** This sort of pattern plays differently at hard difficulties and below when there are a couple of beats between each swing but stay away at Expert and ExpertPlus. |
+|                         Illustration                         |                           Editor View                           | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|:------------------------------------------------------------:|:---------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Illustration of a triangle](~@images/mapping/triangle.png) | ![Editor view of a triangle](~@images/mapping/triangle-alt.png) | Triangles are patterns that cause incredibly uncomfortable resets due to excession rotation in one direction. The pattern breaks the forehand/backhand mechanic. See the [Mapping with Flow](#do-mapping-with-flow) to revisit this explanation.<br /><br />**Note 1:** Not all triangle shaped patterns are cursed triangles. <br /><br />**Note 2:** This sort of pattern plays differently at Hard difficulties and below when there are a couple of beats between each swing but stay away at Expert and ExpertPlus. |
 
 #### Incorrect Side Hits
 |                                     Illustration                                     |                                       Editor View                                       | Explanation                                                                                                                                                                                                                                                                                                                               |
@@ -316,8 +330,8 @@ These patterns are OK to use but only in very specific circumstances or with ver
 |:---------------------------------------------------------------:|:------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Illustration of arm tangles](~@images/mapping/arm-tangle.png) | ![Editor view of arm tangles](~@images/mapping/arm-tangle-alt.png) | Crossing hands is usually fine, but crossing hands and going in opposite directions vertically causes the player’s arms to hit each other. Reverse these colors and you’re good to go. This is only one example of an arm tangle. Always be aware of where you're leaving your player's arms and how they are going to escape from that position to hit the next pattern. |
 
-#### Face Punchers
-|                              Editor View                               | Exaplanation                                                                                                                                                                                                                                                                                  |
+#### フェイスパンチ
+|                                エディタビュー                                 | 例                                                                                                                                                                                                                                                                                             |
 |:----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Editor view of a face puncher](~@images/mapping/facepuncher-alt.png) | Face punchers are blocks placed in the opposite top corners pointing outwards. This placement requires the player to perform a large crossover in a direction that potentially causes their controllers to smash into their headset. <br></br> **Never** use a double of face punchers. |
 
@@ -337,16 +351,19 @@ For more information on mapping lower difficulties than what is on this page, ch
 
 Maps should always have a progression of complexity from Easy through Expert+. The difficulty of a map is typically rooted in its complexity, with a great deal of attention given to what a player would typically expect at a respective difficulty level.
 
-:::tip Remember You are teaching players different patterns and sight-reading skills with your maps. Make sure you give them time to react before you throw something new at them at each level of difficulty. :::
+:::tip Remember
+You are teaching players different patterns and sight-reading skills with your maps. Make sure you give them time to
+react before you throw something new at them at each level of difficulty.
+:::
 
 <!-- markdownlint-disable MD013 -->
-| Difficulty | Pattern Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Expert+   | &#8227; Welcome to the wild west! You can throw any good mapping practices at your player here.<br />&#8227; Parity is expected at this level, especially for high BPM songs. Lower BPM songs may be more lenient but parity breaks are discouraged.<br />&#8227; Always be mindful of common errors, such as resets and vision blocks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|   Expert   | &#8227; All note directions are viable here in any proportion.<br />&#8227; All note positions viable here in any proportion. For patterns of wider spacing, give them enough reaction time and be mindful of the player’s stamina.<br />&#8227; Any color, any lane is fine. Crossovers should be used wisely and not combined with other weird patterns.<br />&#8227; Flow is critical. Parity will make or break your map.<br />&#8227; All emphasis options are on the table, including stacks and sliders.<br />&#8227; All obstacles are fair game, but be wary about creating vision blocks.                                                                                                                                                                                                                                                         |
-|    Hard    | &#8227; All cardinal directions are viable. Occasional diagonals are fine, but give plenty of time to react and recover.<br />&#8227; All note positions viable here in any proportion. Top row notes are fine, but make sure the spacing is not tiring for the player.<br />&#8227; Any color, any lane is fine. Always provide enough reaction time before a *true* crossover where the player’s arms have to physically cross over each other.<br />&#8227; Flow is critical unless you have an extended break. Try to cross the parity line with every swing.<br />&#8227; Most emphasis options are available, including inverted doubles with sabers going opposite directions. Stacks and sliders are fine, but keep them two notes long and don’t overuse them.<br />&#8227; All obstacles are fair game, but be wary about creating vision blocks. |
-|   Normal   | &#8227; All cardinal directions are viable. Diagonals are not recommended for this level. All side notes should be treated as forehand hits.<br />&#8227; Notes should lie mostly in the bottom row. Use the middle row as a flourish for emphasis. Use the top row sparingly with dot notes only.<br />&#8227; Keep red notes primarily on the left side and blue on the right. Avoid crossovers entirely.<br />&#8227; Players will tend to reset after every hit, but you can introduce flow when the notes are too close together.<br />&#8227; Inverted doubles are manageable, but don't overuse them. Stacks and sliders should be scarce.<br />&#8227; If obstacles are used, they should be easy to avoid. You can sprinkle in notes simultaneously, but give plenty of time to react and recover.                                                 |
-|    Easy    | &#8227; All cardinal directions are viable. Diagonals are not recommended for this level. All side notes should be treated as forehand hits.<br />&#8227; Notes should mostly lie in the bottom row. Use the middle row as a flourish for emphasis. Use the top row sparingly with dot notes only.<br />&#8227; Keep red notes primarily on the left side and blue on the right. Avoid crossovers entirely.<br />&#8227; Knock yourself out with parity breaks. Players will reset after every hit.<br />&#8227; Avoid inverted doubles. Sliders and stacks are not recommended.<br />&#8227; If obstacles are used, they should be easy to avoid with no simultaneous notes.                                                                                                                                                                               |
+| Difficulty | Pattern Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Expert+   | &#8227; Welcome to the wild west! You can throw any good mapping practices at your player here.<br />&#8227; Parity is expected at this level, especially for high BPM songs. Lower BPM songs may be more lenient but parity breaks are discouraged.<br />&#8227; Always be mindful of common errors, such as resets and vision blocks.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|   Expert   | &#8227; All note directions are viable here in any proportion.<br />&#8227; All note positions viable here in any proportion. For patterns of wider spacing, give them enough reaction time and be mindful of the player’s stamina.<br />&#8227; Any color, any lane is fine. Crossovers should be used wisely and not combined with other weird patterns.<br />&#8227; Flow is critical. Parity will make or break your map.<br />&#8227; All emphasis options are on the table, including stacks and sliders.<br />&#8227; All obstacles are fair game, but be wary about creating vision blocks.                                                                                                                                                                                                                                                   |
+|    Hard    | &#8227; All cardinal directions are viable. Occasional diagonals are fine, but give plenty of time to react and recover.<br />&#8227; All note positions viable here in any proportion. Top row notes are fine, but make sure the spacing is not tiring for the player.<br />&#8227; Any color, any lane is fine. Always provide enough reaction time before a *true* crossover where the player’s arms have to physically cross over each other.<br />&#8227; Flow is critical unless you have an extended break. Try to maintain parity with every swing.<br />&#8227; Most emphasis options are available, including inverted doubles with sabers going opposite directions. Stacks and sliders are fine, but keep them two notes long and don’t overuse them.<br />&#8227; All obstacles are fair game, but be wary about creating vision blocks. |
+|   Normal   | &#8227; All cardinal directions are viable. Diagonals are not recommended for this level. All side notes should be treated as forehand hits.<br />&#8227; Notes should lie mostly in the bottom row. Use the middle row as a flourish for emphasis. Use the top row sparingly with dot notes only.<br />&#8227; Keep red notes primarily on the left side and blue on the right. Avoid crossovers entirely.<br />&#8227; Players will tend to reset after every hit, but you can introduce flow when the notes are too close together.<br />&#8227; Inverted doubles are manageable, but don't overuse them. Stacks and sliders should be scarce.<br />&#8227; If obstacles are used, they should be easy to avoid. You can sprinkle in notes simultaneously, but give plenty of time to react and recover.                                           |
+|    Easy    | &#8227; All cardinal directions are viable. Diagonals are not recommended for this level. All side notes should be treated as forehand hits.<br />&#8227; Notes should mostly lie in the bottom row. Use the middle row as a flourish for emphasis. Use the top row sparingly with dot notes only.<br />&#8227; Keep red notes primarily on the left side and blue on the right. Avoid crossovers entirely.<br />&#8227; Knock yourself out with parity breaks. Players will reset after every hit.<br />&#8227; Avoid inverted doubles. Sliders and stacks are not recommended.<br />&#8227; If obstacles are used, they should be easy to avoid with no simultaneous notes.                                                                                                                                                                         |
 <!-- markdownlint-enable MD013 -->
 
 ### Note Density

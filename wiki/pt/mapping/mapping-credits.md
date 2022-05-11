@@ -29,7 +29,7 @@ A mapper that is really into Japanese and EDM music with the occasional K-pop so
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
 
 ## Bullet
-Contributed environment lighting videos in [Basic Lighting](./basic-lighting.md) and Chroma sections in [Intermediate Lighting](./intermediate-lighting.md) and [Advanced Lighting](./advanced-lighting.md). Has an interesting username...  
+Contributed environment lighting videos in [Basic Lighting](./basic-lighting.md), Chroma sections in [Intermediate Lighting](./intermediate-lighting.md) and [Advanced Lighting](./advanced-lighting.md), and various other pages. Has an interesting username...  
 [BeatSaver](https://beatsaver.com/uploader/5e84a9933f476a000645dd88) | [BeastSaber](https://bsaber.com/members/xace1337manx/)
 
 ## Caeden117

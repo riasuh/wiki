@@ -76,6 +76,13 @@ One of many with a very questionable sleep schedule. Creator of MorePrecisePlaye
 
 [GitHub](https://github.com/erisapps) | [Donate with Patreon](https://www.patreon.com/erisapps) | [Donate with Ko-fi](https://ko-fi.com/erisapps)
 
+## Exomanz
+Rainbows? Rainbows.
+
+**Roles:** Modder **Contributions:** UITweaks, MenuSaberColors
+
+[GitHub](https://github.com/Exomanz) | [Donate](https://ko-fi.com/exo_manz)
+
 ## Goobie
 Maintainer of the mods that help you play with friends the right way. Considers herself best girl but thinks that Zenject needs more simps instead.
 
@@ -207,10 +214,19 @@ does things sometimes ????
 
 [GitHub](https://github.com/raftario)
 
-## RedBrumbler
-Ever used Custom sabers for quest? this guy made the mod for that.
+## Raine
+girl who writes weird code, decided to rewrite ModelSaber
 
-**Roles:** Modder, Support, 3D Artists **Contributions:** Qosmetics, Custom Pillows (quest), Inverted arrows, AntiVertigo
+**Roles:** Modder **Contrributions:** ScoreRequirement, updated/rewrote CustomMenuPointers
+
+[GitHub](https://github.com/sponsors/raineio), [Ko-Fi](https://ko-fi.com/rainymods)
+
+## RedBrumbler
+It's pronounced Cosmetics, but spelled with a Q.
+
+Sabers, Bloqs, Walls, you use em, I make em work.
+
+**Roles:** Modder, Support, 3D Artists **Contributions:** Qosmetics, Custom Pillows (quest), Inverted arrows, AntiVertigo, Scribble, Songbrowser
 
 [GitHub](https://github.com/RedBrumbler) | [PayPal](https://paypal.me/RedBrumblerOfficial) | [Patreon](https://www.patreon.com/Qosmetics)
 
@@ -296,6 +312,13 @@ Original creator of SongLoader and CameraPlus, and a major contributor to the cu
 **Roles:** Modder **Contributions:** SongLoader, CameraPlus
 
 [GitHub](https://github.com/xyonico/) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RRQ2MBEEEW63A)
+
+## Zephyr
+Girl who makes AI stuff and streams with her cats. Creator of JDFixer, AccessAbility, Chirality and more.
+
+**Roles:** Modder **Contributions:** JDFixer, AccessAbility, Chirality, PlayFirst(SubmitLater), Caterpillars
+
+[GitHub](https://github.com/zeph-yr) | [Twitch](https://www.twitch.tv/xeph_yr)
 
 ---
 

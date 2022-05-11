@@ -1,14 +1,14 @@
 # Custom Sabers
 
 ## Installation
-:::tip HINWEIS Saber müssen speziell für Quest oder PC angefertigt werden und sind nicht zwischen den beiden austauschbar. Du kannst anhand der Dateierweiterung erkennen, für welche Plattform ein Saber bestimmt ist. `.saber` Dateien sind für PC, während Quest `.zip` Dateien verwendet. :::
+:::tip HINWEIS Saber müssen speziell für Quest oder PC angefertigt werden und sind nicht zwischen den beiden austauschbar. Du kannst anhand der Dateierweiterung erkennen, für welche Plattform ein Saber bestimmt ist. `.saber` files are for PC while Quest uses `.zip` or `.qsaber` files. :::
 
 ### PC Saber
-Die neueste Version des Custom Saber Mod kann im [#pc-mods Channel](https://discord.gg/beatsabermods) im BSMG Discord oder im [Mod Assistant](https://github.com/Assistant/ModAssistant) gefunden werden. Starte Mod Assistant, wähle die Custom Saber Mod aus und klicke auf Installieren. Nach der Installation sehen Sie einen Ordner namens `CustomSabers` in [Ihrem Installationsordner](/faq/install-folder.md). Hier sollten Sie die `*.saber`-Dateien ablegen, die Sie verwenden möchten.
+The latest mod for Custom Sabers is now called Saber Factory, and can be found in the [#pc-mods channel](https://discord.gg/beatsabermods) in the BSMG Discord or in [Mod Assistant](https://github.com/Assistant/ModAssistant). Run Mod Assistant, select the Saber Factory mod, and click Install. Nach der Installation sehen Sie einen Ordner namens `CustomSabers` in [Ihrem Installationsordner](/faq/install-folder.md). Hier sollten Sie die `*.saber`-Dateien ablegen, die Sie verwenden möchten.
 
 Weitere Saber kannst du auf [ModelSaber](https://modelsaber.com/Sabers/) herunterladen.
 
-Für diejenigen, die ihre Schwerter noch weiter anpassen möchten, können mit [Saber Factory](https://github.com/ToniMacaroni/SaberFactory#readme) Ihre eigenen Schwerter im Spiel erstellen oder bearbeiten. Du lädst Teile herunter und kombinierst sie wie Lego-Teile mit der Möglichkeit, die Form, Shader, Materialeigenschaften, Texturen und mehr zu ändern.
+For those who want a simple custom saber mod, the Custom Sabers mod is still being updated by Nalulululuna, and can be found [here](https://twitter.com/nalulululuna/status/1493263219485405184).
 
 ### Quest Saber
 Custom Sabers für Quest wird von der Qosmetics-Mod bereitgestellt. Die neueste Version kann man [#quest-mods Channel](https://discord.gg/beatsabermods) im BSMG Discord finden. Saber werden `qsabers` genannt und sind derzeit im [Qosmetics Community Discord](https://discord.gg/qosmetics) gehostet.
@@ -16,12 +16,10 @@ Custom Sabers für Quest wird von der Qosmetics-Mod bereitgestellt. Die neueste 
 ## Verwendung
 
 ### PC User
-Im Spiel siehst du im Hauptmenü links unter dem Abschnitt `Mods` eine Schaltfläche `CUSTOM SABERS` oder `SABERFACTORY`. Wenn du darauf drückst, öffnet sich das Menü, mit dem du auswählen kannst, welche Schwerter du verwenden möchtest.
-
-::: tip HINWEIS Einmal ausgewählt, werden die Saber nur angezeigt, während ein Song abgespielt wird und nicht, während du dich im Menü befindest. :::
+Inside the game in the main menu you will see on the left a `CUSTOM SABERS` or `SABER FACTORY` button under the `Mods` section. Wenn du darauf drückst, öffnet sich das Menü, mit dem du auswählen kannst, welche Schwerter du verwenden möchtest.
 
 ### Quest User
-Lade die `.qsaber` Datei über das [BMBF Web Interface](/quest-modding.md#installing-mods) auf deine Quest hoch. Du kannst dann im Qosmetics-Menü im Spiel auswählen, welches Saber aktiv ist.
+Upload the `.qsaber` file to your Quest using the [BMBF Web Interface](/quest-modding.md#installing-mods). You can then select which saber is active from the Qosmetics menu in-game.
 
 ## Saber erstellen
-[MissRaynor's Saber Guide](./sabers-guide.md) ist eine ausgezeichnete Quelle, um zu lernen, wie man seine eigenen Saber herstellt.
+[MissRaynor's Saber Guide](./sabers-guide.md) is an excellent resource for learning how to make your own sabers.

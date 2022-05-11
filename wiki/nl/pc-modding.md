@@ -46,7 +46,11 @@ A simple Beat Saber Mod Installer similar to the mod manager, but with additiona
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
 ## Hoe kom ik aan meer nummers
-::: tip Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before good mapping practices were established. Try downloading songs released between late 2019 and now to get the best custom levels experience. :::
+::: tip
+Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before
+good mapping practices were established. Try downloading songs released between late 2019 and now to get the best
+custom levels experience.
+:::
 
 ::: warning It is a good idea to backup your `CustomLevels` folder periodically as there is a small chance it will be reset if the game updates!
 
@@ -115,18 +119,29 @@ If you've downloaded and installed a mod and you get the User Account Control pr
 4. Download de mod(s) die je wilt installeren, of ze nu komen van GitHub, het [BSMG Discord](https://discord.com/invite/beatsabermods) `#pc-mods` kanaal,  [BeatMods](https://beatmods.com/#/mods) of andere bronnen. **Zorg ervoor dat je ook alle afhankelijkheden download die vereist zijn door de mod(s).** ![Directory Plugins](~@images/beginners-guide/directory-plugins.png "Directory Plugins")
 5. Sommige mods hebben installatie-instructies, sommigen niet. Over het algemeen kan je de inhoud van de zip naar je Beat Saber installatiemap slepen en neerzetten, de bestanden in de zip zouden naar de bijbehorende mappen moeten gaan.
 
-## Het de-installeren van mods
+## Downgrading
+
+Check `#modding-announcements` in [BSMG](https://www.discord.gg/beatsabermods) to see if the latest version is moddable. If it is not, you can follow these tutorials to downgrade to a moddable version.
+
+Click on these links corresponding to where you own the game to see the tutorials.
+
+* [Oculus Store](https://computerelite.github.io/tools/Oculus/OculusDowngraderGuide.html)
+* For Steam you have a few options to be able to downgrade. These two are supported by [BSLG](https://discord.gg/MrwMx5e).
+  * [BSLegacyLauncher](https://www.youtube.com/watch?v=qjNU5aENHRU)
+  * [LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller#readme)
+
+## How to uninstall mods
 Either remove the dll from the `Plugins` folder, or click the `Uninstall` button in Mod Assistant.
 
-## Andere interessante pagina's
+## Where to go from here
 
-* [Grepen en Trucs](./grips-and-tricks.md)
-* [Nummers maken](/nl/mapping/)
-* [Custom Sabers](/nl/models/custom-sabers.md)
-* [Custom Avatars](/nl/models/custom-avatars.md)
-* [Custom Platforms](/nl/models/custom-platforms.md)
-* [Custom levels in multiplayer spelen](https://discord.com/invite/gezGrFG4tz)
-* [Het maken van mods](/nl/modding/)
+* [Grips and Tricks](./grips-and-tricks.md)
+* [Making Beatmaps](/mapping/)
+* [Custom Sabers](/models/custom-sabers.md)
+* [Custom Avatars](/models/custom-avatars.md)
+* [Custom Platforms](/models/custom-platforms.md)
+* [Play Customs in Multiplayer](https://discord.com/invite/gezGrFG4tz)
+* [Making Mods](/modding/)
 
-## Heb je vragen?
+## Have questions?
 Visit the support channels in the [BSMG Discord](https://discord.gg/beatsabermods)!

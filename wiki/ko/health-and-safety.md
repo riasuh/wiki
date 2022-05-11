@@ -32,7 +32,9 @@ Dr. Levi has saved the wrist of countless players with his videos, and he's made
 
 ![주위에 적당한 공간을 확보하세요](~@images/health-and-safety/allow-adequate-room-around-you.png "주위에 적당한 공간을 확보하세요")
 
-::: warning 메모 비트 세이버는 Nintendo Wii에서 플레이 할 수 없습니다. 이 이미지는 정보 제공 목적으로만 사용됩니다. :::
+::: warning 메모
+비트 세이버는 Nintendo Wii에서 플레이 할 수 없습니다. 이 이미지는 정보 제공 목적으로만 사용됩니다.
+:::
 
 ## TammyMatty의 짧은 메세지
 육체적 피해를 줄이기 위해, 항상 비트 세이버를 플레이하기 전과 후에 스트레칭을 하는 것을 잊지 말아주세요. 다음을 고려해주세요:

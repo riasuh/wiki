@@ -22,10 +22,17 @@ Most well known for their incredibly flashy dance platform and space opera saber
 
 **Wowez:** 3D Awtyst, Modew **Cwontibuwushons:** Bwoom Mowd
 
+## JJ | hi
+I’ve been modeling for almost 3 years and make mostly private and collab sabers.
+
+**Wowez:** 3D Awtyst
+
+[ModelSaber](https://modelsaber.com/Profile/?user=366411130962313216)
+
 ## laugexd
 Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
 
-**Wowez:** 3D Awtyst
+**Roles:** 3D Artist
 
 [Twitter](https://twitter.com/laugexd) | [YouTube](https://www.youtube.com/channel/UCr_JES9nBCUaAR9-UbgDMRw) | [ModelSaber](https://modelsaber.com/Profile/?user=146243483898871808)
 
@@ -35,10 +42,10 @@ Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
 ## Mordred
 One of the first creators to mass produce avatars, and thus give birth to this role.
 
-**Wowez:** 3D Awtyst
+**Roles:** 3D Artist
 
 ## Oshi
-**Wowez:** 3D Awtyst
+**Roles:** 3D Artist
 
 ## RedBrumbler
 "The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019

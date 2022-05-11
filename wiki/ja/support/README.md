@@ -14,7 +14,7 @@ sidebar: "false"
 5. [まだ問題が解決しませんか？](#_5-still-having-issues)
 
 ## 0. 更新情報
-アップデート後、BSMGのディスコードチャンネル `#server-announcements` は、Modのステータスに関する最新の情報があります。 以下に、最も一般的な手順の詳細な手順を示します。
+After an update, the BSMG discord [#modding-announcements](https://discord.com/channels/441805394323439646/612468002243477505) channel should have the most up to date information on the status of mods. 以下に、最も一般的な手順の詳細な手順を示します。
 
 ### アップデート後、Modが動きません。
 **新しいアップデートで** 一度ゲームを実行します。 次に、Mod アシスタントなど、 [初心者ガイド](/beginners-guide)にリンクされているインストーラを使用して Mod を再インストールします。
@@ -52,7 +52,9 @@ sidebar: "false"
 * `UserData` フォルダのバックアップを作成します(任意)
 * `UserData`を削除する
 
-::: warning　警告 これらの方法はMODのすべての設定をリセットします! :::
+::: warning　警告
+これらの方法はMODのすべての設定をリセットします!
+:::
 
 ##### 解決策4
 
@@ -113,7 +115,9 @@ VRはCPUに負荷がかかります。特にModを導入すると負荷が大き
 #### 3.1 メニューやボタンが表示されない
 ゲームのメインウィンドウが表示されない場合、保存ファイルが破損している可能性があります。 これを修正するためには[AppData内のBeatsaberファイルを削除する](#deleting-your-save-in-appdata)を参照してください。
 
-::: warning ローカルのスコアと統計情報が削除されます。 :::
+::: warning
+ローカルのスコアと統計情報が削除されます。
+:::
 
 #### 3.2 `xxxx` modはどのように使えばいいですか?
 Mod アシスタントを使用している場合は、Modをクリックし、"Mod Info" ボタンを押します。 [BeatMods](http://beatmods.com)ではMore Infoボタンを押すことで詳細のデータが得られます。
@@ -158,64 +162,61 @@ Beat SaberがマザーボードのUSBコントローラーを過負荷にして�
 #### 3.8 楽曲の詳細が無限に読み込みを続けています
 これが特定の譜面でのみ発生した場合、必要な Mod が導入されていないか、曲ファイルが壊れている可能性があります。 すべてのマップにこの問題が発生した場合は、 `Plugins` フォルダを削除し、新しくインストールし直してください。
 
-### CameraPlus
+### Camera2
 
-#### 3.9 CameraPlus が動作しない、スタート画面のままです。
-ゲーム内の設定で「Smooth Camera」がオフになっていることを確認してください。 それがうまくいかない場合は、CameraPlusと関連するModを再インストールしてみてください。
-
-#### 3.10 デスクトップ画面が小さく表示されます
-CameraPlus ディスプレイがキャンバスをいっぱいにしていません。 画面に合うようにウィンドウの角をドラッグするか、 ウィンドウを右クリックして「キャンバスに合わせる」をクリックします。
+#### 3.9 My desktop view only takes up a small section of the screen
+Your Camera2 display isn't filling up your canvas. Either drag the corner to fit the screen, or right click the window and click "Fit to Canvas".
 
 ### BeatSaver Downloader
 
-#### 3.11 BeatSaverのDownloader More Songsボタン
-**ボタンはメインメニューのModテキストの下にあります。** More Songsボタンがグレーになっている場合は、メインメニューにプログレスバーが表示されすべての曲が最初にロードされていることを確認してください。 もしModメニューさえ表示されない場合は関連するModを正しくインストールしていることを確認してください。もしくは[Modがありませんか](#_1-no-mods)を参照してください。
+#### 3.10 BeatSaver Downloader More Songs Button
+**The More Songs button is located in the main menu to the left under the Mods text.** If the button for More Songs is greyed out then make sure all your songs loaded first, as seen in by the rainbow progress bar on the main menu. If your Mods menu isn't there then make sure your mods and dependencies are working and installed properly, refer to the [No Mods?](#_1-no-mods) section.
 
-#### 3.12 More Songsメニューになにも表示されません
-BeatSaverダウンローダが動作していない原因として次の可能性があります
+#### 3.11 Nothing Showing Up In The More Songs Menu
+The probable causes for BeatSaver Downloader not working are:
 
 1. すべての曲が前にロードされていることを確認してください。そうでなければ、「More Song」ボタンがグレー表示されます。
 2. アンチウイルスやファイアウォールで BeatSaver へのアクセスをブロックしている。
 3. Beatsaverのレート制限に達している。もうしばらくおまちください。
 
 ### マルチプレイのエラーコード
-ここでは、既知のエラーコード一覧とその意味、およびそれらを修正するための方法について説明します。
+Here is a list of known error codes, what they mean, and what you can do to fix them.
 
 <!-- Disable line length rule because of table -->
 <!-- markdownlint-disable MD013 -->
-| エラーコード&nbsp; | 説明                                                                                                                                                                                                                                                                                                                                                         |
-|:------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CFR-1        | 不明なエラーが発生しました。 ゲームを再起動してみてください。                                                                                                                                                                                                                                                                                                                            |
-| CFR-2        | マルチプレイの接続がキャンセルされました。                                                                                                                                                                                                                                                                                                                                      |
-| CFR-3        | サーバーに到達できません。 インターネット接続やBeat Saberのリレーサーバーに問題がある可能性があります。 オフラインでないことを再確認し、ファイアウォールでBeat Saberがインターネットに接続できるようにします。 <details><summary>**背景情報**</summary>Beat Saber MultiplayerはP2P方式を利用しており、ロビーにいる各プレイヤーと直接通信を行っています。 これができなかった場合 Beat Saberはデータを送信するために「リレー」サーバーを起動します。 このエラーは、これらの方法の両方が失敗したことを意味します。</details> &nbsp; これは、ユーザー名に絵文字や特殊文字を使用することによっても発生します。 |
-| CFR-4        | このサーバーは既に存在します。                                                                                                                                                                                                                                                                                                                                            |
-| CFR-5        | サーバーが存在しません。 接続していたロビーは参加中に閉鎖された可能性があります。                                                                                                                                                                                                                                                                                                                  |
-| CFR-6        | サーバーが満員です 別のサーバーを選択してください                                                                                                                                                                                                                                                                                                                                  |
-| CFR-7        | サーバーでサポートされていないゲームのバージョンを使用しています。                                                                                                                                                                                                                                                                                                                          |
-| CFR-8        | パスワードが違います 正しいパスワードを入力しているか確認してください。                                                                                                                                                                                                                                                                                                                       |
-| CFR-9        | ロビーの接続を追跡するBeat Gamesのサーバがオフラインです。 後でもう一度お試しください。                                                                                                                                                                                                                                                                                                          |
-| CFR-10       | SteamまたはOculusのセッションキーが無効です。 QuestでプレイしていてゲームにModを導入している場合は、この [FAQ](/faq/README.md#does-multiplayer-have-crossplay) の回答を確認してください。 それ以外の場合は、サポートされていない海賊版のゲームの可能性があります。                                                                                                                                                                                    |
-| CFR-11       | インターネット接続がオフラインです。                                                                                                                                                                                                                                                                                                                                         |
+| Code&nbsp; | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|:---------- |:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CFR-1      | Unknown Error Occurred. Try restarting the game.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| CFR-2      | The multiplayer connection was canceled.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| CFR-3      | Server is not reachable. There may be an issue with your internet connection or with Beat Saber's relay servers. Double check you are not offline and your firewall allows Beat Saber to connect to the internet. <details><summary>**Background Information**</summary>Beat Saber Multiplayer is peer-to-peer where you connect directly with each player in the lobby. When this is not possible Beat Saber starts a "relay" server to send the data. This error means both of these methods failed.</details> &nbsp; This can also be caused by using emojis or special characters in your username. |
+| CFR-4      | The server already exists.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CFR-5      | Server does not exist. The lobby you were connecting to might have closed as you were joining.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-6      | The server is full. Choose a different lobby.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| CFR-7      | You are on a version of the game that is not supported by the servers.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| CFR-8      | Lobby password is incorrect. Double check you are entering the right password.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| CFR-9      | The matchmaking servers Beat Games run, which keeps track of open public and private lobbies, is offline. Try again later.                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CFR-10     | Your session key from Steam or Oculus is not valid. If you are playing on Quest and have modded your game, check out this [FAQ answer](/faq/README.md#does-multiplayer-have-crossplay) to work around this. Otherwise you are on a pirated copy of the game which is not supported.                                                                                                                                                                                                                                                                                                 |
+| CFR-11     | Your internet connection is offline.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 <!-- markdownlint-enable MD013 -->
 
 ## 4. その他のトラブルシューティング
 
 ### ログの読み取り
-Steamを利用している場合は、
+If you're on Steam you can go to
 > Beat Saber > Properties > General > の起動オプションに `--verbose`を追加してください。
 
-Oculusを使用している場合は、Beat Saber.exeを右クリックしてショートカットを作成してください。 そして次のように編集して最後に"--verbose"を追加します。 例: `C:\Program Files\Oculus\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
+If you're on Oculus then you will have to Right click on Beat Saber.exe and create a shortcut. Edit the Target to add "--verbose" to the end of it. e.g. `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" --verbose`
 
-verboseを追加することで、アバター、セイバー、カスタム曲に関するエラーが表示されるようになるでしょう。
+After adding verbose to your game hopefully it will display any errors regarding your avatars, sabers, and songs
 
 * しかしこのエラーは完全ではありません。最終的には原因と考えられるModやモデル、曲を一つずつ取り除いて検証していく必要があります。
 
-エラーメッセージは `Beat Saber/Logs` にも書き込まれます。
+These messages are also written to `Beat Saber/Logs`.
 
-一般的な例外のリストは [こちら](./exceptions.md) にあります。
+A list of common exceptions can be found [here](./exceptions.md).
 
 ### Steam用のゲームファイルの確認
-ゲームファイルの整合性を確認するには、以下の手順に従ってください:
+To verify integrity of game files follow these steps:
 
 1. SteamVRが閉じていることを確認してください。
 2. Steamライブラリに行き、Beat Saberを探してください。
@@ -224,7 +225,7 @@ verboseを追加することで、アバター、セイバー、カスタム曲�
 5. Verify Integrity of Game Fileオプションを選択します。
 6. ファイルが検証され、不足しているファイルがあればどこからインストールできるかが表示されます。
 
-以下は [ビデオガイド](https://www.youtube.com/watch?v=EBFfT4-ZiIc) です。古いSteamUIですが、 ステップは同じです。
+Here is a [Video Guide](https://www.youtube.com/watch?v=EBFfT4-ZiIc) although it is on the old steam UI, the steps are still the same.
 
 ### クリーンインストール
 
@@ -245,23 +246,29 @@ verboseを追加することで、アバター、セイバー、カスタム曲�
 4. **Modを入れる前に、一度ゲームを起動してください**
 5. Mod アシスタントを実行し、Modをインストールしてゲームを起動します。
 
-(必要があれば)以下を参照してください: [AppData内のBeatsaberフォルダの削除](#deleting-your-save-in-appdata)
+(Optional) If you want to take it one step further, refer To: [Deleting The Beatsaber Folder Within Your AppData](#deleting-your-save-in-appdata)
 
 ### AppData 内のデータを削除する。
-ローカルに保存されているスコアデータは削除されますが、カスタム曲のScoreSaberに送信されたデータは削除されません。 以下にファイルがあります。
+This will delete your scores and local data, but not your custom leaderboard/ScoreSaber stats. You can find the folder at
 > `%appdata%/../locallow/hyperbolic magnetism/beat saber`
 
-上のパスをファイルエクスプローラーから検索して、すべてのファイルを削除してください。
+Copy and paste everything from inside the bar above and paste it to your address bar in file explorer and delete it.
 
-次のようにたどることで非表示にされているファイルにも移動できます。
+You can also get to this folder by showing hidden items and navigating to your
 > Users > "USER" > AppData > LocalLow > Hyperbolic Magnetism > beat saber
 
 <YouTube url='https://youtu.be/ONxJcD3Ir3Q' />
 
-::: warning Appdataでこのフォルダを削除すると、ローカルのスコアデータも削除されます。 :::
+::: warning
+Deleting this folder in Appdata will also delete your local scores and statistics.
+:::
 
-#### 最終手段
-::: warning セキュリティソフトをオフにすることにはリスクが伴います。自身で行うことに伴うリスクを理解してください。 （セキュリティソフトを無効にしている間は信頼できないファイルのダウンロードやインストールを行わず、操作の後には有効に戻してください） :::
+#### Desperate Measures
+::: warning
+Disabling your anti-virus involves security risks, be sure to know what you're doing
+(i.e don't download or open suspicious files while it's turned off)
+and don't forget to re-enable it as soon as you finished these steps.
+:::
 
 * 現在のユーザーが **管理者であることを確認してください**
 * ウイルス対策を**オフ** にします。
@@ -271,12 +278,12 @@ verboseを追加することで、アバター、セイバー、カスタム曲�
 * インターネット接続を確認し、BeatSaberのModやSteamに関連する接続がブロックされていないことも確認してください。
 
 ## 5. まだ問題が解決しませんか？
-このページで問題を解決出来ていない場合は、気軽にdiscordで質問してください! あなたの問題をいち早く解決するために次のようなことをチェックしてみましょう
+If this page doesn't cover the bases, then feel free to ask a question in the discord! To increase the chance that you'll have your questions answered, consider the following:
 
 * 正しいチャンネルを使用してください。 PCユーザーのための`#pc-help`とクエストユーザーのための `#quest-help`チャンネルがあります。 **アバター、プラットフォーム、ノーツ作成**に関することは`#pc-3d-modeling`か`#quest-3d-modeling`チャンネルを**譜面作成**にかかわることは`#mapping-discussion`チャンネルでお尋ねください。
 * 礼儀正しく敬意を払って質問しましょう
 * 問題を詳細に説明してください。 「うまくいかなかった」とだけ言うことは簡単ですが、それでは何も進展しません。 なにが動かなかったのか、どのようなことを試したのか。 画面に表示されるメッセージがあったか? 画面全体が明るい紫色に変わりましたか？
 
-::: tip NOTE `Support`の役割を持つ人たちは彼らに時間があるときにサポートをしてくれるボランティアです。 サポートの役割は、彼らの知識と努力がサポートとしてふさわしいものを示すにすぎません。彼らがオンラインだからと言って必ず助けになってくれるとは限りません。 :::
+::: tip NOTE Those with the `Support` role are volunteers that might choose to help out in their free time. The support role is in recognition of the knowledge and effort they have put forth, but it doesn't necessarily mean that they'll be around to help just because they're online. :::
 
 Credit to Saber-Chan for their hard work on this page.

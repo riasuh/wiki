@@ -4,81 +4,81 @@ sidebar: auto
 
 # PC Modding
 
-## Preface
+## Forord
 
 ::: danger DISCLAIMER Når du vælger at benytte mods, forstår du at:
 
 * Du kan opleve problemer, der ikke findes i vanilla-spillet. 99,9% af bugs, crashes og lag skyldes mods.
 * Mods er underlagt af at blive ødelagt af opdateringer, og det er normalt - vær tålmodig og respektfuld når dette sker, eftersom modders er frivillige med et liv ved siden af.
-* Beat Games forsøger ikke med vilje at ødelægge mods. They wish to work on the codebase and sometimes this breaks mods, but they are not out to kill mods.
+* Beat Games forsøger ikke med vilje at ødelægge mods. De ønsker kun at arbejde med programmeringen og nogle gange vil dette ødelægge mods, men det er ikke med vilje.
 
-Do not attack the game developers for issues related to mods, and vice versa - modders and game developers are two separate groups. Bare lad være med at være en idiot. :::
+Angrib ikke udviklerne for problemer relateret til mods eller omvendt - modders og udviklere er to separate grupper. Bare lad være med at være en idiot. :::
 
-:::warning STAY SAFE WHEN INSTALLING MODS Beat Saber will **NEVER** ask you to run it as Administrator.
+:::warning FORBLIV SIKKER NÅR DU INSTALLERER MODS Beat Saber vil **ALDRIG** bede dig om at køre den som administrator.
 
-If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. What you installed is a malicious mod!
+Hvis du har downloadet og installeret en mod og hvis du får User Account Control prompten, så **LAD VÆR** med at clicke accepter, og vær sød at rapportere det. Det du har installeret er en fjendtlig mod!
 
-The only approved case is when activating/deactivating OneClick™ Install in Mod Assistant. Administrator access is required to register the program with your computer to handle OneClick™ Install links.
+Den eneste godkendte sag er, når du aktiverer/deaktiverer OneClick™ Installer i Mod Assistant. Administrator adgang er påkrævet for at registrere programmet med din computer OneClick™ Installerings links.
 
-If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
+Hvis du er usikker på om noget, du har installeret, er malware eller ej, ***så spørg venligst nogen i vores discord***. :::
 
-Beat Saber natively supports custom songs, so if that's all you're looking for, you don't require more mods! It's a wise idea to install `SongCore` though, as this mod expands upon the base game functionality to improve loading times and provide functionality for other mods like the in-game downloader, custom leaderboards, playlists, etc.
+Beat Saber understøtter allerede brugerskabte sange, så hvis det er alt du leder efter, behøver du ikke flere mods! Det er en god idé at installere `SongCore` alligevel, da denne mod udvider spillets grundfunktion til at forbedre indlæsningstiden og levere funktionalitet til andre mods såsom download af sange inde i spillet, ranglister til brugerskabte baner, playlister osv.
 
-::: warning This guide is for PC-modding on Windows.  
-If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
-If you're on Linux, check out the [Linux page](/modding/linux.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
+:::advarsel Denne guide er til PC-modding på Windows.  
+Hvis du har en Quest, se siden [Quest Modding](/da/quest-modding.md).  
+Hvis du er på Linux, så tjek [Linux-siden](/da/modding/linux.md) eller [QBeat](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
-If you run into problems at any point, please head to the [support page](./support) and see if you can identify what went wrong before asking in the Discord server. Chances are, your answer is on that page!
+Hvis du løber ind i problemer på noget tidspunkt, så gå til [supportsiden](./support) og se om du kan identificere, hvad der gik galt, før du spørger inde på Discord serveren. Der er gode muligheder for, at svaret er på den side!
 
-::: warning I watched a video tutorial on YouTube, but I got stuck/it didn't work. What gives? We at BSMG **strongly** suggest against using video tutorials for modding. Often, we find they are outdated or contain a incomplete, erroneous, or straight up incorrect information.
+::: warning ADVARSEL Jeg fulgte en tutorial på YouTube, men jeg sidder fast/det virkede ikke. Hvad skyldes det? Vi her i BSMG anbefaler **kraftigt** imod at bruge nogen tutorials fra YouTube. Ofte finder vi, at de er forældede eller indeholder en ufuldstændig, fejlagtig eller direkte ukorrekt information.
 
-Instead, you should follow the written guides here on the wiki or seek out help in the [BSMG Discord](https://discord.gg/beatsabermods). :::
+I stedet bør du følge de skriftlige vejledninger her på wikisiden eller søge hjælp i [BSMG Discord](https://discord.gg/beatsabermods). :::
 
-## Installers
+## Installatører
 
 ### Mod Assistant
 > **DETTE ER NUVÆRENDE DET ANBEFALEDE INSTALLATIONSPROGRAM TIL MODS.**
 
-__**Run the game at least once**** before trying to mod the game! This applies to reinstalling your game too.
+__**Kør spillet mindst én gang**** før du forsøger at modde spillet! Dette gælder også for geninstallering af dit spil.
 
-A simple Beat Saber Mod Installer similar to the mod manager, but with additional features such as mod removal and version checking! Get it on [Assistant's GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
+Det er et simpelt Beat Saber Mod Installationsprogram som ligner mod manager, men med yderligere funktioner såsom mod-fjernelse og kontrol af din version! Få den fra [Assistentens GitHub](https://github.com/Assistant/ModAssistant/releases/latest)
 
 ![Mod Assistant](~@images/beginners-guide/modassistant.png)
 
-## How to get more songs
-::: tip Most maps in the "Top All", "Rating", "Downloads" or "Plays" sort filters were created before good mapping practices were established. Try downloading songs released between late 2019 and now to get the best custom levels experience. :::
+## Sådan får du flere sange
+De fleste maps i sorteringsfiltrene "Top All", "Rating", "Downloads" eller "Plays" blev oprettet før god mappingspraksis blev etableret. Prøv at downloade sange udgivet mellem slutnignen af 2019 og nu for at få den bedste oplevelse. :::
 
-::: warning It is a good idea to backup your `CustomLevels` folder periodically as there is a small chance it will be reset if the game updates!
+::: advarsel Det er en god idé at sikkerhedskopiere din `CustomLevels` mappe periodevis, da der er en lille chance for at den vil blive nulstillet hvis spillet opdateres!
 
-This folder is located in your game install: `Beat Saber/Beat Saber_Data/CustomLevels` :::
+Denne mappe er placeret i din spil installation: `Beat Saber/Beat Saber_Data/CustomLevels` :::
 
 ### Downloader inde i spillet
-The `BeatSaver Downloader` mod allows you to download maps in-game using the `MORE SONGS` menu button on the `MODS` menu screen. This pulls maps directly from [BeatSaver](https://beatsaver.com)
+Plugin'et `BeatSaver Downloader` giver dig mulighed for at downloade baner inde i spillet ved hjælp af menuknappen `MORE SONGS` på menuskærmen `MODS`. Dette trækker baner direkte fra [BeatSaver](https://beatsaver.com)
 
 ### BeatSaver
-[BeatSaver](https://beatsaver.com) is the master repository of custom songs made by the community. Many other tools and sites enhance the experience of downloading custom songs, but this site is where they are stored. To install songs downloaded from the site, unzip them into a folder and place it into `Beat Saber/Beat Saber_Data/CustomLevels`. You can also use the in-game downloader mod, or Mod Assistant's OneClick™ Install feature.
+[BeatSaver](https://beatsaver.com) er hovedarkivet for brugerskabte baner fra fællesskabet. Mange andre værktøjer og websteder forbedrer oplevelsen af at downloade brugerskabte baner, men dette er stedet, hvor de er opbevaret. For at installere sange, downloadet fra BeatSaver, skal du udpakke zip-filen i en mappe og placere mappen i `Beat Saber/Beat Saber_Data/CustomLevels`. Du kan også bruge in-game downloader modden, eller Mod Assistants OneClick™ Installerings funktion.
 
-To enable and use Mod Assistant's OneClick™ Install see the picture below: ![Mod Assistant](~@images/beginners-guide/modassistant-oneclick.png)
+For at aktivere og bruge Mod Assistants OneClick™ Installatør, så se billedet nedenfor: ![Mod Assistant](~@images/beginners-guide/modassistant-oneclick.png)
 
 ### Beast Saber
-[Beast Saber](https://www.bsaber.com) (bsaber.com) is a site that tries to help make finding fantastic maps to play easier. It does this by categorizing the thousands of songs on BeatSaver and lets you sort by a song's genre and many other attribute tags. It also has a full social feature where players can review songs and comment on them. One of the most used features is the "Curator Recommended" feature where a team plays through most songs released each day and recommends the ones that stand out, letting you [automatically download these in-game](https://bsaber.com/beatsync/).
+[Beast Saber](https://www.bsaber.com) (bsaber.com) er en hjemmeside, der forsøger at hjælpe med at gøre det nemmere at finde fantastiske baner. Det gør den ved at kategorisere de tusindvis af sange fra beatsaver og lader dig sortere efter en sangs genre og mange andre karaktertræk. Den har også en social funktion, hvor spillerne kan gennemgå sange og kommentere dem. En af de mest anvendte funktioner er "Curator Recommended" funktionen, hvor et hold gennemspiller de fleste sange udgivet hver dag og anbefaler dem, der skiller sig ud, og lader dig [automatisk downloade disse sange inde i spillet](https://bsaber.com/beatsync/).
 
 ### Apps til sanghåndtering
 
-There are no working song management apps available at this time.
+Der er ingen fungerende sang management apps tilgængelige på nuværende tidspunkt.
 
 ### Playlister
-You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
+Du skal installere [PlaylistManager](https://github. com/rithik-b/PlaylistManager/releases/latest) modden.
 
-Then you can either:
+Så kan du enten:
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select it in-game, then hit download all songs.
+* Brug værktøjet `Install Playlist` i fanen Indstillinger i Mod Assistant.
+* Placer playlistfilen i `Beat Saber/Playlists`, vælg playlisten inde i spillet, og tryk derefter på "download all songs".
 
-You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
+Du burde se playlisten ved siden af Custom Levels albummet inde i spillet. Modden understøtter også håndtering af playlister inde i spillet.
 
-## Install Folder
-_Where is Beat Saber installed?_
+## Installationsmappe
+_Hvor er Beat Saber installeret?_
 
 ### Standardplacering
 |        |                                                                                      |
@@ -87,22 +87,22 @@ _Where is Beat Saber installed?_
 | Oculus | `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ### Andre Placeringer
-**If you have moved your install folder to a different drive, it might be in the location below.** Replace the drive letter `F` with the drive your game is installed on.
+**Hvis du har flyttet din installationsmappe til et andet drev, kan det være på placeringerne nedenfor.** Erstat drevbogstavet `F` med det drev, dit spil er installeret på.
 |        |                                                                       |
 | ------ | --------------------------------------------------------------------- |
 | Steam  | `F:\SteamLibrary\steamapps\common\Beat Saber\`                 |
 | Oculus | `F:\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\` |
 
 ## Manuel installering
-A mod installer is the recommended way to install mods. See the section [above](#installers). If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+Et mod-installationsprogram er den anbefalede måde at installere mods. Se afsnittet [ovenfor](#installering). Hvis du har opdateret spillet og bare har brug for at installere mods der ikke er tillgængelige i installationsprogrammet, skal du springe til trin 4.
 
-::: warning STAY SAFE WHEN INSTALLING MODS Modding your game with unverified mods such as mods found in the `#pc-mods` channel comes with risks, including the possibility for malicious software that acts like a regular mod.
+::: warning FORBLIV SIKKER NÅR DU INSTALLERER MODS Modding af dit spil med ubekræftede mods, såsom mods fundet i `#pc-mods` kanalen, kommer med ricisi, herunder muligheden for fjendtlig software, der fungerer som en regelmæssig mod.
 
-Beat Saber will **NEVER** ask you to run it as Administrator.
+Beat Saber vil **ALDRIG** bede dig om at den som administrator.
 
-If you've downloaded and installed a mod and you get the User Account Control prompt, **DO NOT** click accept, and please report this. If you're unsure if something you installed is malware or not, ***please ask someone in our discord***. :::
+Hvis du har downloadet og installeret en mod og hvis du får User Account Control prompten, så **LAD VÆR** med at clicke accepter, og vær sød at rapportere det. Hvis du er usikker på om noget, du har installeret, er malware eller ej, ***så spørg venligst nogen i vores discord***. :::
 
-**Run the game at least once** before trying to mod the game! This applies to reinstalling your game too.
+**Kør spillet mindst én gang** før du forsøger at modde spillet! Dette gælder også for geninstallering af dit spil.
 
 ### Installer BSIPA
 
@@ -112,8 +112,19 @@ If you've downloaded and installed a mod and you get the User Account Control pr
 
 ### Installer Mods
 
-4. Download the mod(s) you wish to install, whether it be from GitHub, the [BSMG Discord](https://discord.com/invite/beatsabermods) `#pc-mods` channel,  [BeatMods](https://beatmods.com/#/mods) or other sources. **Sørg for at downloade eventuelle afhængigheder, som bruges af mod'en.** ![Direktions Plugins](~@images/beginners-guide/directory-plugins.png "Direktions Plugins")
-5. Nogle mods har installationsvejledninger, og nogle har ikke. Generally you can just drag and drop the zip contents into your beat saber install folder, and the files should go into the corresponding folders.
+4. Download den mod eller de mods du ønsker at installere, uanset om det er fra GitHub, [BSMG Discorden](https://discord.com/invite/beatsabermods) i `#pc-mods` kanalen, [BeatMods](https://beatmods.com/#/mods) eller andre kilder. **Sørg for at downloade eventuelle afhængigheder, som bruges af mod'en.** ![Direktions Plugins](~@images/beginners-guide/directory-plugins.png "Direktions Plugins")
+5. Nogle mods har installationsvejledninger, og nogle har ikke. Generelt kan du bare trække og slippe zip-indholdet ind i din Beat Saber installationsmappe, og filerne bør selv komme ind i de korrekte mapper.
+
+## Downgrading
+
+Check `#modding-announcements` in [BSMG](https://www.discord.gg/beatsabermods) to see if the latest version is moddable. If it is not, you can follow these tutorials to downgrade to a moddable version.
+
+Click on these links corresponding to where you own the game to see the tutorials.
+
+* [Oculus Store](https://computerelite.github.io/tools/Oculus/OculusDowngraderGuide.html)
+* For Steam you have a few options to be able to downgrade. These two are supported by [BSLG](https://discord.gg/MrwMx5e).
+  * [BSLegacyLauncher](https://www.youtube.com/watch?v=qjNU5aENHRU)
+  * [LegacyInstaller](https://github.com/Goobwabber/LegacyInstaller#readme)
 
 ## How to uninstall mods
 Either remove the dll from the `Plugins` folder, or click the `Uninstall` button in Mod Assistant.

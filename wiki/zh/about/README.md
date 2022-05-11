@@ -1,43 +1,43 @@
-# About Us
-Ever wonder who made your favorite mod or created the mod installer? This page tells you a little bit about some of the major Beat Saber modding community contributors. The community wouldn't exist without the blood, sweat, and tears of these amazing volunteers.
+# 关于我们
+想知道是谁制作了那些你最喜欢的Mod或者编写了Mod 安装器吗？ 本页会告诉你一些节奏光剑Mod社区的主要贡献者。 社区离不开这些付出心血、挥洒汗水和泪水的最棒的志愿者。
 
-> *Note: some people could go under multiple sections, so I tried to sort these pages the best I could. If you'd like anything about your section changed, feel free to contact us or contribute yourself!*
+> *注意：一些人可能会出现在多个部分中，所以我会尽量好的安排在本页中的出现位置。 如果你的部分有任何改动的话，欢迎随时联系我们或者毛遂自荐！*
 
-## Who We Are
+## 我们是谁
 
-### [Staff](./staff.md)
-The team that runs the show at the forefront and behind the scenes. Whether it comes to project management, plugin/mod approval, managing the core services, event coordination, or many of the other secret projects, there's always lots of work to be done. The community wouldn't exist without the countless hours contributed by these incredible individuals, so please give them a virtual round of applause (and help pay for the services if you can...)
+### [工作人员](./staff.md)
+在台前幕后默默付出的团队。 无论是项目管理，插件/Mod的审批，管理核心服务，活动协调，或者其他很多秘密项目，总是会有很多工作要做。 没有这些人无数无私的付出就没有我们这个社区，所以请给他们虚空鼓鼓掌。（如果你能付费帮助我们的话...）
 
-### [Moderators](./moderators.md)
-With a server so large, a lot of moderation is required to keep everything under control. You can thank this team for keeping the streets clean.
+### [管理员](./moderators.md)
+由于服务器很庞大，需要一些管理员来保证所有事都能正常运行。 你们可以感谢这个团队让一切都井然有序。
 
-### [Modders](./modders.md)
-The game as we know it wouldn't exist if people didn't want to add their own spin to it. These are the modders who have spent countless of their own hours to help us personalize the game.
+### [Mod作者](./modders.md)
+如果大家不给游戏加点料的话，可能就不会有现在这样的游戏感觉。 这些是花费无数自己的时间来帮助我们自定义游戏的Mod作者们。
 
-### [Supports](./supports.md)
-The Support role is a symbol of thanks. Thanks for the thousands of messages sent in the support channels to help people sort out their mods, and for building a knowledge of troubleshooting base through macros and the wiki.
+### [支持者](./supports.md)
+支持者是我们表示感谢的角色。 感谢大家在支持频道发送成千上万的消息帮助人们处理mod问题，通过制作宏和完善wiki来疑难解答指南。
 
-### [Mapping Supports](./mapping-supports.md)
-The Mapping Support role is a symbol of thanks. Thanks for the thousands of messages sent in the mapping discussion channel and time spent building and maintaining the mapping resources to help people learn how to make maps.
+### [制谱支持](./mapping-supports.md)
+制谱支持是我们表示感谢的角色。 感谢大家在制谱讨论频道发送成千上万的消息帮助人们了解如何制作谱面以及维护制谱资源。
 
-### [3D Artists](./3d-artists.md)
-From sabers to notes, custom models have always been a popular aspect of modded beat saber which wouldn't be possible without them.
+### [3D艺术家](./3d-artists.md)
+给节奏光剑打Mod最常见的原因一直都是自定义模型，从光剑到方块，不能没有它们。
 
-### Mappers
-Each of your favorite maps is carefully crafted and tested over many hours by a talented mapper. As much as we'd love to include them here too, there are WAY too many of them. If you like someone's maps, give it a thumbs up in game, review it on [BeastSaber](https://bsaber.com), or tell them personally! They'll really appreciate it.
+### 谱师
+每一个你喜欢的谱面都是有才的谱师经过精心制作并经过数个小时测试而来的。 我们非常想要把他们加在这里，但是他们人数实在是太多了。 如果你喜欢某个谱师的谱面，请在游戏里给他点个赞，在 [BeastSaber](https://bsaber.com) 上写评论，或者亲自告诉他们！ 他们会非常感谢你的。
 
-> Furthermore, there is a community run discord to help connect mappers/artists with clients if you would like to commission something. We encourage you to reach out in the [Beat Saber Commissions server.](https://discord.gg/e4f3WBBVnr)
+> 另外，这里有个 Discord 社区，帮助谱师/艺术家和乙方交流委托之类的。 我们鼓励您去 [Beat Saber Commissions 服务器](https://discord.gg/e4f3WBBVnr) 看看。
 
-### [Mapping Resources Contributors](/mapping/mapping-credits.md)
-A group of experienced mappers that took the time to write down and share their knowledge to help others get started or improve. Check out their maps and consider supporting them!
+### [制谱资源贡献者](/mapping/mapping-credits.md)
+一群富有经验的谱师花时间写下并分享他们对于开始制谱或者改进谱面的经验。 看看他们的谱面吧，也考虑支持一下他们！
 
-### [Translators](./translators.md)
-The hardworking people who took the time to translate the wiki content into their own languages. A heartfelt thank you for your time! The ones listed on this page are for languages currently available on the website.
+### [翻译人员](./translators.md)
+他们花时间努力将wiki内容翻译成各种语言。 衷心感谢您所付出的时间！ 该页列出的是目前网站上可用的语言。
 
-If you would like to join for your language, you can [apply to help translate!](https://forms.gle/e3BqA3poMjESARe76)
+如果你想加入翻译队伍，你可以 [申请帮助翻译](https://forms.gle/e3BqA3poMjESARe76) ！
 
-### [Event Winners](./event-winner.md)
-Winners of past contests/events held in the discord. Keep up with `#server-announcements` for such events happening now, or in the future!
+### [活动赢家](./event-winner.md)
+过去在 Discord 举办的比赛/活动里的赢家。 持续关注 `#server-announcements` 看看现在或以后的活动举办情况！
 
-## About This Wiki
-This is a wiki for all things relating to modding the game Beat Saber. It was originally created to replace the `#beginners-guide` and `#faq` channels of the [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods).
+## 关于这个Wiki
+本wiki将会包含很多有关节奏光剑Mod的内容。 一开始这只是为了代替 [Beat Saber Modding Group Discord](https://discord.gg/beatsabermods) 中 `#beginners-guide` 和 `#faq` 频道的内容而建立。

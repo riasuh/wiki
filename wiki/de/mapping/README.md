@@ -34,7 +34,7 @@ Großartige Mapper werden nicht an einem Tag gemacht. Es braucht Hingabe und nie
 
 1. Lade die benötigten Programme für das Mapping herunter: Einen [Audio-Editor](https://www.audacityteam.org/) und einen [Map-Editor](#hilfsmittel-für-mapping).
 2. [Bereite deine Audiodatei vor](#hilfsmittel-für-audiobearbeitung), finde und bestätige die BPM und exportiere die Datei im OGG-Format.
-3. Bereite deinen Song im Map-Editor vor (Abhängig vom Editor, hier findest du das [Handbuch](./mediocre-map-assistant.md) für MMA2).
+3. Set up your song in your [mapping editor](#map-editing-resources) (steps vary by editor).
 4. Fang an zu mappen! Schau dir die vorher die [Mapping-Grundlagen](./basic-mapping.md) an. [Playteste](#playtesting) deine Ergebnisse früh und regelmäßig.
 5. Fang an zu lighten! Schau dir vorher die [Informationen zum Lighting](#lighting-methoden) an. Einfache Beleuchtung ist leichter erstellt als du denkst!
 6. Lass andere Spieler deine Map [playtesten](#playtesting)! Playtesten von anderen über den [BSMG Discord](https://discord.gg/beatsabermods) wird höchst empfohlen, um konstruktive Kritik zu bekommen und deine "Mapper-Blindheit" zu überwinden.
@@ -74,7 +74,9 @@ Eine tiefere Anleitung zum Anpassen deiner Audiodatei, wie zum Beispiel das Erst
 ## Hilfsmittel für Mapping
 
 ### Community-Editoren
-::: warning Community-Editoren verfügen meist über mehr Funktionen und benötigen kein VR-Headset. Diese Editoren können Bugs enthalten, weswegen sie mit Vorsicht benutzt werden sollten. ::: Tastatur-Shortcuts für diese Editoren können in deren Menüs gefunden werden. Eine Querverweisliste kann [hier](./editor-keybinds.md) gefunden werden.
+::: warning
+Community-Editoren verfügen meist über mehr Funktionen und benötigen kein VR-Headset. Diese Editoren können Bugs enthalten, weswegen sie mit Vorsicht benutzt werden sollten.
+::: Tastatur-Shortcuts für diese Editoren können in deren Menüs gefunden werden. Eine Querverweisliste kann [hier](./editor-keybinds.md) gefunden werden.
 
 #### ChroMapper
 **Now in open beta!** A 3D editor that has stellar support for lighting, Chroma, Noodle Extensions, 360/90 mapping, and shares similar assets with Beat Saber, allowing for a more accurate preview. By FAR the most feature-rich editor available to the community.
@@ -82,7 +84,8 @@ Eine tiefere Anleitung zum Anpassen deiner Audiodatei, wie zum Beispiel das Erst
 Joining the [ChroMapper Discord](https://discord.gg/wFjZt4z) is encouraged to access plugins, scripts, and application support (mapping support is available in BSMG).
 
 * [ChroMapper Launcher Download](https://cm.topc.at/dl)
-* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki)
+* [ChroMapper First Time Setup Guide](https://chromapper.atlassian.net/wiki/spaces/UG/pages/917506/First-time+setup)
+* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki/spaces/UG/overview)
 
 #### Mediocre Map Assistant 2
 MMA2 was used by the majority of the mapping community until the ChroMapper open beta.
@@ -356,7 +359,11 @@ Once your song has been mapped, lighted, and playtested and it’s a finished pr
     * AI maps intentionally uploaded as human-made will be deleted.
 5. Maps are initially uploaded to your unpublished tab. You must explicitly publish them to make them available to the public.
 
-::: tip NOTE Map files can now be updated on BeatSaver! If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can upload a new version. This will retain your map key and statistics but will reset all leaderboards. :::
+::: tip NOTE
+Map files can now be updated on BeatSaver!
+If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can
+upload a new version. This will retain your map key and statistics but will reset all leaderboards.
+:::
 
 ### BeatSaver Troubleshooting
 Here are solutions for some common errors when uploading a Beatmap.  

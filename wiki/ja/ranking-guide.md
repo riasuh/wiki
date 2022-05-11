@@ -104,17 +104,23 @@ PPシステムは、恐らくゲーム内のランキングについて、最も
 ここにオプションのリストとスコアやプレイに対する効果を説明します。
 
 <!-- markdownlint-disable MD013 -->
-| オプション             | 効果/内容                                                                      |
-| ----------------- | -------------------------------------------------------------------------- |
-| 失敗なし (0.00/-0.50) | 失敗してもプレイを続けるセーフティネットです。 バージョン1.13.2から、曲に失敗した場合のみスコアペナルティが課されるようになりました。     |
-| 障害物なし (-0.05)     | すべての障害物（壁）をマップから削除します。                                                     |
-| 爆弾なし (-0.10)      | すべてのボムをマップから削除します。                                                         |
-| スローダウン（-0.30）     | 曲を元の速度の85%に減速します。                                                          |
-| ノーミス(0.00)        | １回でもミスするとゲーム失敗になります                                                        |
-| バッテリー (0.00)      | 体力ゲージの回復を停止します。 これは、ミスやBADの判定の上限の回数を制限します。                                 |
-| ノーアロー（+0.07）      | 矢印が近づくにつれてノーツから消えます。 あなたはいつものように正しい方向にカットする必要があるので、どの方向に切るべきが覚えておく必要があります。 |
-| スピードアップ(+0.08)    | 曲を元の速度の120%に加速します。                                                         |
-| ゴーストノーツ (+0.11)   | ノーツが見えなくなり、矢印は当たる直前に消えます。ノーアローと同様です。                                       |
+| オプション                       | 効果/内容                                                                                                                                                          |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 失敗なし (0.00/-0.50)           | 失敗してもプレイを続けるセーフティネットです。 バージョン1.13.2から、曲に失敗した場合のみスコアペナルティが課されるようになりました。                                                                                         |
+| No Walls (-0.05)            | すべての障害物（壁）をマップから削除します。                                                                                                                                         |
+| 爆弾なし (-0.10)                | すべてのボムをマップから削除します。                                                                                                                                             |
+| No Arrows (-0.30)           | All notes become dot notes, meaning you can hit them in any direction!                                                                                         |
+| Slower Song (-0.30)         | Slows down the song to 85% of the original speed.                                                                                                              |
+| 1 Life (0.00)               | Makes you fail on the first miss you make.                                                                                                                     |
+| 4 Lives (0.00)              | Stops the health bar from replenishing. This limits the total amount of misses and bad cuts you can have before failing.                                       |
+| Disappearing Arrows (+0.07) | Makes the arrows disappear from the note as they approach you. You still need to remember the direction as you need to cut in the correct direction as always. |
+| Faster Song (+0.08)         | Speeds up the song to 120% of the original speed.                                                                                                              |
+| Super Fast Song (+0.10)     | Speeds up the song to 150% of the original speed.                                                                                                              |
+| Ghost Notes (+0.11)         | Notes are invisible and the arrows disappear shortly before you hit them, similarly to Disappearing Arrows.                                                    |
+| Pro Mode (0.0)              | Changes the hitboxes to match the notes precisely.                                                                                                             |
+| Strict Angles (0.0)         | Tolarace for a good cut angle is reduced                                                                                                                       |
+| Small Notes (0.0)           | Changes the notes to 50% normal size                                                                                                                           |
+| Zen Mode (-100)             | No notes, walls, or bombs. Just the music and the lights!                                                                                                      |
 <!-- markdownlint-enable MD013 -->
 
 ## 握り方

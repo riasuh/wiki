@@ -33,7 +33,9 @@ You should see the playlist next to the Custom Levels album's in-game. The mod a
 ### Quest
 You can use [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) to manage the playlists on your Quest. Note that a custom level can only appear once in-game due to a limitation with BMBF.
 
-:::warning WARNING for Quest Users Reloading your Custom Songs Folder resets all playlist organization. :::
+:::warning WARNING for Quest Users
+Reloading your Custom Songs Folder resets all playlist organization.
+:::
 
 ## How do I make my own custom levels?
 See [mapping](/mapping/)!
@@ -42,12 +44,12 @@ See [mapping](/mapping/)!
 See [this section](/pc-modding.md#manual-installation) in the beginners guide.
 
 ## Does multiplayer have crossplay?
-Officially, multiplayer is limited to playing with other people in the store version (Oculus/Steam) you purchased. Additionally, modifying the game on Quest disables official multiplayer.
+Cross-play between Quest and PC versions of the game is now available! All players will need to be on the latest version for this to work. Additionally, modifying the game on Quest disables official multiplayer.
 
 The BeatTogether mod is the current solution for cross-platform play between the modded game versions. Join their [Discord server](https://discord.com/invite/gezGrFG4tz) and check the `#install-instructions` channel for more information.
 
 ## My game updated and now none of my mods are working
-Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!** Please do not drag these mods back into the `Plugins` folder, as it is known to cause issues.
 
 To get mods back, simply **run the installer again.**  
 The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!

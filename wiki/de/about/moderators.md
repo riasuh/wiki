@@ -44,24 +44,10 @@ All they can say is that the R in Kuru stands for Rat
 
 **Roles:** Moderator
 
-## Olaf
-Any stroopwafels?
-
-**Roles:** Moderator
-
-[Twitch](https://twitch.tv/olafstad)
-
 ## RangeValley
 > Mein Vater hat jahrelang als Admin gearbeitet aber er wurde entlassen als Bots seinen Job übernommen wurden. Er kam an diesem Abend nach Hause und sagte mir, dass wir in den Van ziehen müssten, da wir uns die Miete nicht mehr leisten könnten. Dann hat er mich mit Überbrückungskabeln verprügelt. Shitposting sollte legal sein.
 
 **Roles:** Moderator
-
-## Razor
-Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
-
-**Roles:** Support, Moderator
-
-[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)
 
 ## Shad
 "Every channel is just #pc-mod-support"
@@ -115,8 +101,15 @@ Can't hit jumps
 
 [Twitch](https://www.twitch.tv/infjager)
 
+## Olaf (Retired)
+Any stroopwafels?
+
+**Roles:** Moderator
+
+[Twitch](https://twitch.tv/olafstad)
+
 ## OneEyed (Retired)
-2 truths and a lie: Pink cute, CMB sentient, OneEyed has good spelling
+:emoji:
 
 **Roles:** Support, Moderator
 
@@ -126,3 +119,10 @@ A BeastSaber admin who wrote the majority of content for [How to Playtest](./how
 **Roles:** Moderator, Mapping Support
 
 [BeatSaver](https://beatsaver.com/uploader/5e99c7df3f476a0006596cdf) | [BeastSaber](https://bsaber.com/members/pyrowarfare/)
+
+## Razor (Retired)
+Literally no clue what he's doing when it comes to coding, at all, but he can fix ploogin.
+
+**Roles:** Support, Moderator
+
+[Twitch](https://www.twitch.tv/sarpest_razor) | [Donate](https://streamelements.com/sarpest_razor/tip)

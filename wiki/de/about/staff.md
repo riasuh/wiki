@@ -9,12 +9,12 @@ Ersteller des [Browser Map-Vorschau](https://skystudioapps.com/bs-viewer/) und v
 [GitHub](https://github.com/PlusOneRabbit) | [Twitch](https://www.twitch.tv/plusonerabbit) | [Spenden](https://ko-fi.com/plusonerabbit)
 
 ## Bloodcloak
-Ein Mapper, der sehr auf japanische und EDM-Musik mit gelegentlichem K-Pop-Song steht und es liebt, Maps im Tanzstil zu erstellen. *Total* nicht in das vTuber-Loch gefallen.
+A guy that is really into Japanese and EDM music with the occasional K-pop song. Loves creating dance style maps and playing rhythm games. _Totally_ hasn't fallen into the Vtuber hole and makes computer code that works! _"Most"_ of the time...
 
-**Rollen:** Staff, Mapping Support, Mapper  
-**Beiträge:** Server Operations, Wiki Management, Mapping Resources Maintainer
+**Roles:** Staff, Moderator, Mapping Support, Mapper, Event Winner  
+**Contributions:** Server Operations, Event Management, Contact System, Wiki Management, Mapping Resources Maintainer
 
-[BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Spenden](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
+[Github](https://github.com/bloodcloak) | [Twitter](https://twitter.com/B1oodc1oak) | [YouTube](https://www.youtube.com/c/Bloodcloak) | [BeatSaver](https://beatsaver.com/profile/71661) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://ko-fi.com/bloodcloak)
 
 ## Bobbie
 Erinner ihn daran, auf seinen Blutzucker zu achten.
@@ -40,7 +40,7 @@ Wie viele Statistiken können wir in einen einzigen Zähler Mod einbauen? Offenb
 ## lolPants
 One hell of a developer and a lover of socks. lolPants laid the groundwork for many of the policies and procedures during their time as Staff, and continues to help out when their services are needed.
 
-**Roles:** Modder, Admin (Retired), Staff, Moderator  
+**Roles:** Modder, Admin, Staff, Moderator  
 **Contributions** CMB, ModSaber, Moderation, BeatSaver Reloaded
 
 [GitHub](https://github.com/lolPants) | [Twitch](https://twitch.tv/lolpants_) | [PayPal](https://www.paypal.me/jackbarondev) | [Ko-fi](https://ko-fi.com/lolpants) | [Patreon](https://www.patreon.com/JackBaron) | [Donate](https://monzo.me/jackbaron)
@@ -100,15 +100,7 @@ ScoreSaber Supreme Leader, creator of the custom leaderboards/rank system. Alway
 
 [Twitch](https://www.twitch.tv/umbranoxius) | [Twitter](https://twitter.com/Umbranoxus) | [Patreon](https://www.patreon.com/scoresaber)
 
-## williums
-Project manager, wiki maintainer, bread baker. Despite what everyone says, I like girls.
-
-**Roles:** Staff, Support  
-**Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
-
-[Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)
-
-## Assistent (Im Ruhestand)
+## Assistant (Retired)
 Overseeer of core services, including BeatSaver and BeatMods servers. The original Support and creator of the custom avatar guide, Mod Assistant, and ModelSaber.
 
 **Roles:** Staff, Support, 3D Artists  
@@ -116,12 +108,12 @@ Overseeer of core services, including BeatSaver and BeatMods servers. The origin
 
 [GitHub](https://github.com/Assistant) | [Donate](https://bs.assistant.moe/Donate) | [Patreon](https://www.patreon.com/AssistantMoe)
 
-## Balsa (Im Ruhestand)
+## Balsa (Retired)
 He's the reason we have somewhere to get our custom songs in the first place. He shows up in once in a while to show off BeatSaver numbers, call us nerds, and present his collection of finely aged memes. He's since stepped down from the staff team, but we wouldn't be here without him.
 
 **Contributions:** BeatSaver Creator.
 
-## elliotttate (Im Ruhestand)
+## elliotttate (Retired)
 Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible without his efforts and networking skills. He also runs BeastSaber to help you find the best curated maps.
 
 **Roles:** Staff, BSMG PR  
@@ -129,21 +121,20 @@ Official BSMG PR Guy. Events like the 100k Contest wouldn't have been possible w
 
 [Patreon](https://www.patreon.com/beastsaber)
 
-## Klouder (Im Ruhestand)
+## Klouder (Retired)
 Longtime server member and active contributor. She was the server mom!
 
 **Contributions:** ScoreSaber Admin, Moderation
 
 [Twitch](https://www.twitch.tv/klouderrr) | [Donate](https://streamlabs.com/klouderrr)
 
-## Lillie (Im Ruhestand)
-Makes mods for quest and likes to PP farm in her free time.  
-*Lillie not cutest*
+## Lillie (Retired)
+She was early in the quest modding scene, and helped shape the quest scene.  
+Often active in the quest-modding channel, and liked to experiment with the game.
 
-**Roles:** Staff, Modder, Moderator  
-**Contributions:** QuestSounds, QSettings+, FPSCounter.
+**Roles:** Staff, Modder, Moderator **Contributions:** QuestSounds, QSettings+, FPSCounter
 
-[GitHub](https://github.com/Rugtveit)
+[GitHub](https://github.com/ilillie)
 
 ## Sam (Retired)
 He's either talking about Steven or being way too patriotic in chat (BS Nordic Admin btw). Don't call him cute, he hates that. He also makes maps, check them out below.
@@ -151,3 +142,11 @@ He's either talking about Steven or being way too patriotic in chat (BS Nordic A
 **Roles:** Staff, Moderator, Mapper
 
 [Twitch](https://twitch.tv/justsamuelok) | [Maps](https://beatsaver.com/uploader/5cff0b7498cc5a672c850326)
+
+## williums (Retired)
+Project manager, wiki maintainer, bread baker. Despite what everyone says, I like girls.
+
+**Roles:** Staff, Support  
+**Contributions:** Wiki Management, Moderation, Contest Management, BeatMods Approvals
+
+[Twitch](https://www.twitch.tv/williums/) | [Donate](https://ko-fi.com/williums)

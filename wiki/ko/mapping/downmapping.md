@@ -32,7 +32,12 @@ When creating lower difficulties, the goal of a *mapper* is to work within the e
 
 The key to downmapping lies in having a solid understanding of what is fun and playable for a typical lower-difficulty player. However, another important aspect to consider is how well you’ve represented the music within your mapping. It’s easy to throw together a map that an inexperienced player can pass, but the magic of your initial difficulty can be lost if you fail to translate those same concepts and ideas. You should know what the “key” moments in your map are and try to highlight them across all the difficulties. This may require creating similar patterns that fit a wider skill range, but this approach is necessary to help keep life within your map.
 
-::: tip The common interpretation of the five difficulty labels may create issues for some spreads. It’s perfectly acceptable to have a difficulty in a spread that is more difficult than what would be expected at that level, but you should consider pushing your labels up using custom difficulty labels if this is the case. A player that finds an Expert+ difficulty when they are expecting to play a Hard level is not going to have a fun time. :::
+::: tip
+The common interpretation of the five difficulty labels may create issues for some spreads. It’s perfectly acceptable to
+have a difficulty in a spread that is more difficult than what would be expected at that level, but you should consider
+pushing your labels up using custom difficulty labels if this is the case. A player that finds an Expert+ difficulty when
+they are expecting to play a Hard level is not going to have a fun time.
+:::
 
 ## Rhythm Choice
 
@@ -78,7 +83,10 @@ Hard players will have a solid understanding of the mechanics of the game, inclu
 
 Your **Expert** difficulty should continue to grow and expand upon the style introduced in Hard. An Expert player can typically handle most patterns at a confident level; they can read simple patterns, keep up with higher precision for longer periods, and can generally play the game at a higher level. However, it is a trade-off. Complicated syncopations or dramatic spikes in complexity can easily overwhelm an Expert player.
 
-:::tip Remember Sight-reading is a skill that is still being developed for most Expert players, and you should make sure you’re giving the player enough time to react to whatever you throw at them. :::
+:::tip Remember
+Sight-reading is a skill that is still being developed for most Expert players, and you should make sure you’re giving
+the player enough time to react to whatever you throw at them.
+:::
 
 #### Spacing & Complexity
 
@@ -125,7 +133,13 @@ While dismissing the concept of parity can provide more freedom in how you could
 
 Remember, these players are still generally developing the fundamental skills of the game, such as timing, basic readability (red on left, blue on right), and/or mobility, so you should always keep these considerations in mind when building these difficulties.
 
-::: tip At the lower difficulty levels, there are plenty of ways to create unique syncopations without using a consistent left-right alternation of up and down swings for the entirety of the map. You have plenty of patterns at your disposal that can help maintain the musicality of your difficulty, including side notes, doubles, and even utilization of the middle row. This variety is what ultimately keeps the player engaged throughout a lower difficulty and can help make up its identity beyond the rhythm choices alone. :::
+::: tip
+At the lower difficulty levels, there are plenty of ways to create unique syncopations without using a consistent
+left-right alternation of up and down swings for the entirety of the map. You have plenty of patterns at your disposal
+that can help maintain the musicality of your difficulty, including side notes, doubles, and even utilization of the middle
+row. This variety is what ultimately keeps the player engaged throughout a lower difficulty and can help make up its
+identity beyond the rhythm choices alone.
+:::
 
 #### Diagonals
 

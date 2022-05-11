@@ -6,7 +6,7 @@ tagline: Bienvenue sur le wiki du Beat Saber Modding Group!
 description: Bienvenue sur le wiki du Beat Saber Modding Group!
 actionText: Guide du Débutant →
 actionLink: ./beginners-guide.md
-footer: Copyright © 2019 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
+footer: Copyright © 2019-2022 Beat Saber Modding Group | Disponible sous licence CC BY-NC-SA 4.0
 tags:
   - bsmg
   - beat saber
@@ -49,14 +49,25 @@ tags:
 ## Liens externes
 
 * [Rejoignez le serveur Discord ! (anglophone)](https://discord.gg/beatsabermods)
-* [Contact Us](https://bsmg.dev/contact) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
+* [Contactez-nous](https://bsmg.dev/contact) - offrez vos compétences, sponsorisez-nous, faites appel d'une décision administrative (ban, mise au silence), signalez un utilisateur, etc.
 * [Patreon BSMG](https://www.patreon.com/beatsabermods) - Soutenez les services BSMG !
+
+---
+
 * [BeatMods](https://beatmods.com) - Dépôt des mods sur PC que l'on retrouve dans les installateurs comme Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Téléchargez les chansons personnalisées ici
+* [BeatSaver](https://beatsaver.com/) - Téléchargez les custom songs ici
 * [BeastSaber](https://bsaber.com/) - Critiques, articles, playlists, et bien plus !
 * [ModelSaber](https://modelsaber.com/) - Téléchargez des sabres personnalisés, des avatars, des bloqs et des plateformes !
+
+---
+
 * [Discord Qosmetics](https://discord.gg/qosmetics) - Téléchargez des sabres, murs et bloqs pour Quest !
+* [Hub QuestBoard](https://discord.gg/d6DyW9v) - le serveur Discord anglophone pour tout ce qui concerne Beat Saber sur Quest !
 * [ScoreSaber](https://scoresaber.com/) - Classements pour les chansons personnalisées
-* [Postulez pour aider à traduire le wiki !](https://forms.gle/e3BqA3poMjESARe76) - Traduisez le wiki dans votre langue !
 * [Page du magasin Steam](https://store.steampowered.com/app/620980/Beat_Saber/)
 * [Page du magasin Oculus](https://www.oculus.com/experiences/rift/1304877726278670/)
+
+---
+
+* [Guide de contribution](https://docs.google.com/document/d/1r6IP6l3uo8rc__GxfLkpaToxheeXotdYaKEj3oWB2js/edit?usp=sharing) - un guide pour apprendre à contribuer à ce wiki
+* [Postulez pour aider à traduire le wiki](https://forms.gle/e3BqA3poMjESARe76) - traduisez le wiki dans votre langue !

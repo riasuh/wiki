@@ -2,7 +2,9 @@
 
 ## Instalação
 
-:::warning Custom Avatars é um mod exclusivo para PC. :::
+:::warning 
+Custom Avatars é um mod exclusivo para PC.
+:::
 
 A ultima versão do mod de Custom Avatar pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [ModAssistant](https://github.com/Assistant/ModAssistant). Uma vez instalado, você deve ver um arquivo chamado `CustomAvatar.dll` dentro da sua pasta `Plugins`. Você também deve ver uma pasta chamada `CustomAvatars` na [sua pasta de instalação](/faq/install-folder.md) — aqui você irá colocar os arquivos `*.avatar` que você deseja usar.
 

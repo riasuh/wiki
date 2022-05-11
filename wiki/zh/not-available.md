@@ -10,7 +10,7 @@ sidebar: false
 
 * 从语言菜单切换到英文版。
 * 等待此页面被翻译。
-* [申请](https://forms.gle/e3BqA3poMjESARe76) 来帮助翻译这个英语页面和其他wiki！
+* [申请加入](https://forms.gle/e3BqA3poMjESARe76)来帮助翻译这个英语页面和其他wiki！
 
 [返回首页](/)
 

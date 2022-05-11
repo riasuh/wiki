@@ -15,7 +15,7 @@ Beat Saber Modding Group以外のコミュニティのリストです。
 ---
 
 ## Acc Champ Community
-私たちは精度（Accurately=Acc）に焦点をあてたコミュニティで、Acc関連のイベント、トレーニングのハブになる予定です。そして精度のカテゴリー内でプレイヤーの強みや弱みに関する情報を提供します。
+私たちは精度（Accurately=Acc）に焦点をあてたコミュニティで、Acc関連のイベント、トレーニングのハブになる予定です。そして精度のカテゴリー内でプレイヤーの強みや弱みに関する情報を提供します。 また、私たちは自身の精度の実力を試したい人のためにカスタムキャンペーンを開催しています。
 
 [Discord](https://discord.gg/zd8W4rr)
 
@@ -24,8 +24,8 @@ Beat Saber Modding Group以外のコミュニティのリストです。
 ## BeatKhana
 私たちはトーナメントを主宰するコミュニティです！ 以下の取り組みを行っています。
 
-* We update and announce upcoming online tournaments, giving you all the information you need
-* Archive old tournaments so you can always find them back
+* 開催予定のオンライントーナメントを告知しています。必要な情報をすべて提供します。
+* 過去のトーナメントはアーカイブになっていて、振り返ることができます。
 * 主催した大会を宣伝する場所です。また、コーディネーターやキャスターを探したりすることができます。
 * トーナメントを主催しています。
 * Beat Saberコミュニティを管理します。
@@ -76,10 +76,15 @@ BeatTogether Modのためのコミュニティ この mod は、PCとQuest間の
 
 ---
 
+## ChroMapper
+ChroMapper は、Beat Saber 用のコミュニティマップエディターです。 一から開発されたChroMapperはBeat Saber のマッピングを次のレベルへと上げてくれます。新しいグラフィック、ツールが利用できます。
+
+[Discord](https://discord.gg/mMzzNSh) | [GitHub](https://www.github.com/Caeden117/ChroMapper)
+
 ## Cube Community
 Beat Saberのプレイハイライト、スコアガイド、クリップ、コミュニティイベントなどがあります。
 
-[ディスコード](https://discord.gg/dwe8mbC) | [YouTube](https://youtube.com/CubeCommunity)
+[Discord](https://discord.gg/dwe8mbC) | [YouTube](https://youtube.com/CubeCommunity)
 
 ---
 
@@ -91,9 +96,9 @@ Beat Saberのプレイハイライト、スコアガイド、クリップ、コ�
 ---
 
 ## Saber Factory
-Saber Factory サーバーへようこそ！ ここでは、Saber Factoryモッド専用のすべてのリソースを見つけることができます。 コンテンツの作成と使用方法があり、アップデートの通知も受けることができ、提案やそのほかコメントを残せます。
+Saber Factory サーバーへようこそ！ ここでは、Saber Factory mod専用のすべてのリソースを見つけることができます。 コンテンツの作成と使用方法があり、アップデートの通知も受けることができ、提案やそのほかコメントを残せます。
 
-[ディスコード](https://discord.gg/PjD7WcChH3)
+[Discord](https://discord.gg/PjD7WcChH3)
 
 ---
 
@@ -105,13 +110,13 @@ Saber Factory サーバーへようこそ！ ここでは、Saber Factoryモッ�
 ---
 
 ## Qosmetics Community
-Qosmetics Communityは、Questにセイバーのブロックや壁を含むカスタムモデルを提供することに焦点を当てたコミュニティです! Questのカスタムコンテンツのコミュニティを発展させ、新たなレベルに引き上げるように努めています 遊びに来てください！
+Qosmetics Communityは、Questプレイヤーにセイバーやブロック、壁を含むカスタムモデルを提供することに焦点を当てたコミュニティです! Questのカスタムコンテンツのコミュニティを発展させ、新たなレベルに引き上げるように努めています 遊びに来てください！
 
-[ディスコード](https://discord.gg/NXnPYEh)
+[Discord](https://discord.gg/NXnPYEh)
 
 ---
 
 ## QuestBoard
-私たちはQuestに焦点を当てたビートセイバーコミュニティサーバーで、できるだけ多くのプレイヤーの経験を向上させることに専念しています。
+私たちはQuestプレイヤーに焦点を当てたビートセイバーコミュニティサーバーで、できるだけ多くのプレイヤーの経験を向上させることに専念しています。
 
-[ディスコード ](https://discord.gg/d6DyW9v) | [Website](https://www.questmodding.com/)
+[Discord](https://discord.gg/d6DyW9v) | [ウェブサイト](https://www.questmodding.com/)

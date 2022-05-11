@@ -7,28 +7,94 @@ Discordで開催された過去のコンテストやイベントの受賞者。 
 
 もっと楽しいイベントを開催したい場合は、 [Patreon](https://www.patreon.com/beatsabermods) でイベントへの寄付をしてみてください!
 
-## Bloodcloakのバースデーパーティー2021
-Bloodcloakの誕生日を祝って`#general`チャンネルで開催された即興クイズ形式のゲームショーです。 賞品はSteamのゲームキー、ウォレットコード、DiscordのFullとClasisicのNitroでした。 資金と賞品は、Pink、Bobbie、Stemistyの寛大な寄付とPatreonのイベント用資金から賄われました。
+---
 
-参加者はBloodcloakによって選ばれたトピックから4つのランダムな質問に答えるというルールです。 トピック
+## 2021 Christmas Competition
+The fourth Christmas competition. Now with 1000% more Padoru!
 
-* 音楽
-* イントロクイズ
-* BSMG
-* ホロライブ
-* 食べ物
-* 運営メンバー
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/924057004618678292)
 
-Bloodcloakの誕生日なので、参加した各競技者は少なくとも一つは賞品を獲得しました。 賞品の価値は参加者のパフォーマンスに応じて決められました。
+### Map Winners
 
-上位5名はステージに戻って、50ドル相当のSteamウォレットコードとロールをかけて対決に向かいます！
+#### バニラ
+
+* **1st:** [Jingle Bells (ft. Scarlett Quinn)](https://beatsaver.com/maps/1ee43) by **Nixie.Korten**
+* **2nd:** [Christmas EveL](https://beatsaver.com/maps/1ee81) by **NotelEvil**
+* **3rd:** [Carol of the Cartels - Bossfight](https://beatsaver.com/maps/1efb3) by **Timeweaver**
+
+#### Mod付き
+
+* **1st:** [Merry Christmas](https://beatsaver.com/maps/1eb49) by **NFaded**
+* **2nd:** [12 Days of Christmas](https://beatsaver.com/maps/1ef8a) by **Duodecillionare**
+* **3rd:** [Carol of the Bells](https://drive.google.com/file/d/1NrU9Hu2uldZ8JFsvFyj3nPG5FCLmCUxM/view?usp=sharing) by **Goodluky**
+
+### Model Winners
+
+* **1st:** PC Saber [T-Winter](https://www.mediafire.com/file/u8ragfzeanjx6ce/T-Winter_.saber/file) by **Tru**
+* **2nd:** PC Saber [Bush Noel](https://drive.google.com/file/d/18JiBXIpdTWY_TEud7OBfllhBDA-X6Dp0/view?usp=sharing) by **ToxicBush**
+
+And for the first time there was a tie for 3rd!
+
+* **3rd:** Quest Saber [Silent Knight](https://drive.google.com/file/d/1OSVWA2DnVwbbIx9rWpF361mCUuAO2dtj/view?usp=sharing) by **Knight** and Platform [Snow Forest](https://tonihub.com/SnowForest.zip) by **Toni Macaroni**
+
+### Grand Prize Winner
+
+**NFaded's** map: [Merry Christmas](https://beatsaver.com/maps/1eb49)
+
+Congrats to all the finalists!
 
 ---
 
-[入賞](https://discord.com/channels/441805394323439646/441807344591044619/858482681993887764)
+## 2021 Halloween Competition
+The fourth Halloween contest. CMB turned into a pumpkin!
 
-### ベスト５
-彼らは役割のためにベスト５をかけ戦いました。（順不同）
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/904113909131247729)
+
+### Map Winners
+
+#### バニラ
+
+* **1st:** [Avantasia - The Haunting](https://beatsaver.com/maps/1d616) by **Cyrix**
+* **2nd:** [t+pazolite - Party in the HOLLOWood (feat. Nanahira)](https://beatsaver.com/maps/1d5f1) by **That_Narwhal**
+* **3rd:** [Nanou - Happy Hollow and the God Club](https://beatsaver.com/maps/1d407) by **Aimedhades16**
+
+#### Mod付き
+
+* **1st:** [Dracula - f(x)](https://beatsaver.com/maps/1d60e) by **aggrogahu**
+* **2nd:** [Ghost Family Living In Graveyard](https://beatsaver.com/maps/1d61a) by **Reddek** and **Atmosophere**
+* **3rd:** [ReeK - Weeaboo Spookfest](https://beatsaver.com/maps/1cbbc) by **Jevk**
+
+### Model Winners
+
+* **1st:** [Curse](https://modelsaber.com/Sabers/?id=1635299789&pc) by **iSmellFood**
+* **2nd:** [Twins of Cthulhu](https://modelsaber.com/Sabers/?id=1635305833&pc) by **Clanps**
+* **3rd:** [T-Midnight](https://www.mediafire.com/file/iygz9cz2jtlkh99/T-Midnight.saber/file) by **Tru**
+
+### Grand Prize
+[Curse](https://modelsaber.com/Sabers/?id=1635299789&pc) by **iSmellFood**
+
+## 2021 Bloodcloak's Birthday Bash
+In celebration of Bloodcloak's Birthday, this was a stage vc triva game show hosted by them based on a small impromptu quiz they held in `#general` chat a few months before. The prize pool consisted of random Steam Game Keys, Steam Wallet Codes, and Full and Classic Discord Nitro. Funding and prizes were generously donated by Pink, Bobbie, and Stemisty with the rest covered by the events tier of our Patreon!
+
+Contestants had to answer 4 random questions from topics selected by Bloodcloak having only 20 seconds to respond. Topics included:
+
+* Music
+* Guess that Song from the audio clip
+* BSMG
+* Hololive
+* Food
+* Random Stuff Other Staff Came Up With
+
+Since it was celebrating Bloodcloak's Birthday, each contestant who participated got at least something from the prize pool. The value of what they got depended on their overall performance.
+
+The top 5 were brought back on stage for a head to head showdown for the role and grand prize of a Steam Wallet Code worth $50 USD!
+
+---
+
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/858482681993887764)
+
+### Top 5
+In no particular order... these people made it to the top 5 to battle for the role
 
 * Minicoot
 * Skeelie
@@ -36,18 +102,18 @@ Bloodcloakの誕生日なので、参加した各競技者は少なくとも一�
 * Amankins
 * 3Stans
 
-### トリビアマスター
-誰よりも素早く回答したひとり Amankins
+### Trivia Master
+The one person who stood above the rest with their fast answers... Amankins
 
-## バトルロワイアル2021
-*The Culling*と題されたこのイベントはエイプリルフールの終わりまで5時間ほど開催されたイベントで、スカイリムをテーマにしたバトルロワイヤルでした。 100名を超える参加があり、賞品はBobbieとSam、aftarioからの多くの寄付とPatreonから賄われ、たくさんのゲームキーでした。 さらに、10人が残った決勝では、Zyxiより50個のギフトが追加され勝者には追加のゲームが提供されました。
+## 2021 Battle Royale
+Also known as *The Culling* this event was a Skyrim themed Battle Royale held during on the tail end of April Fools that went on for 5 hours. With over 100 participants, the prize pool of many game keys were generously donated by Bobbie, Sam, and raftario with the events tier of our Patreon funding the winner's copy of Skyrim. Additionally, during the 10 person finals stream a whopping 50 gift subs were dropped by Zyxi which allowed us to provide the winner with a game of their choice on top of Skyrim!
 
 ---
 
-[入賞](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
+[Victory Announcement](https://discord.com/channels/441805394323439646/441807344591044619/827678349122863144)
 
-### ファイナリスト
-彼らがロールを獲得したベスト6です。（順不同）
+### Finalists
+In no particular order... these people made it to the top 6 and earned themselves the role!
 
 * DaNike
 * Pink
@@ -56,75 +122,75 @@ Bloodcloakの誕生日なので、参加した各競技者は少なくとも一�
 * Kaoplo
 * Raemien
 
-### バトルマスター
+### Battle Master
 GLHolmstroff is honored with the event role for leading the Whiterun Guard into glorious battle and debate on whether a hotdog is a sandwich.
 
-### ビクトリーロイヤル
+### Victory Royale
 The one person who stood above all the rest... Caeden117
 
-## クリスマスコンテスト2021
+## 2020 Christmas Contest
 The third Holiday/Winter contest, Christmas 2: Electric Padoru.
 
 ---
 
-[入賞](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/791761312807911424)
 
-### マップ部門
+### Map Winners
 
-#### バニラ
+#### Vanilla
 
 * **1st:** [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 * **2nd:** [Majestica - Ghost of Christmas Present](https://beatsaver.com/beatmap/11c53) by **Cyrix**
 * **3rd:** [BTS - Dynamite (Holiday Remix)](https://beatsaver.com/beatmap/11c07) by **Alekcake**
 
-#### Mod付き
+#### Modded
 
-* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) 制作：**SpecVR & Tall_Chilis_Boi**
+* **1st:** [Billie Eilish - Come Out and Play](https://beatsaver.com/beatmap/11bbc) by **SpecVR & Tall_Chilis_Boi**
 
-### モデル部門
+### Model Winners
 
-* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform 制作：**AkaRaiden**
+* **1st:** [Christmas Light Show](https://modelsaber.com/files/platform/1608165443/Christams%20LightShow.plat) Platform by **AkaRaiden**
 
-### 大賞
+### Grand Prize
 [PENTATONIX - Sleigh Ride](https://beatsaver.com/beatmap/11c10) by **ETAN**
 
-## ハロウィンコンテスト2020
+## 2020 Halloween Contest
 The third Halloween contest. This time with celebrity judges, LostVint, Protostar, Ikeiwa, C418, TougeVR, Mawntee, and PHIABunny. Also **a _whole pumpkin_** was given as part of the Grand Prize courtesy of **Steven 🎀**.
 
 ---
 
-[入賞](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/772231511557799946)
 
-### マップ部門
+### Map Winners
 
-#### バニラ
+#### Vanilla
 
 * **1st:** [Marnik - Hocus Pocus (Original Mix)](https://beatsaver.com/beatmap/10377) by **ETAN**
 * **2nd:** [Tim Ismag - VEDMA](https://beatsaver.com/beatmap/104a0) by **Jamman360**
 * **3rd:** [TryHardNinja - It's Me](https://beatsaver.com/beatmap/10353) by **FireStrike**
 
-#### Mod付き
+#### Modded
 
 * **1st:** [水樹奈々(Nana Mizuki) - Dancing in the Velvet Moon](https://beatsaver.com/beatmap/10586) by **aggrogahu**
 
-### モデル部門
+### Model Winners
 
-* **1st:** [ditCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
+* **1st:** [dotCorrupt](https://drive.google.com/file/d/1Mry4kifnzbW1C8yD9aIjk2RzCYwRv24U/view?usp=sharing) Saber by **Mdot**
 * **2nd:** [Spookscalibur](https://modelsaber.com/Sabers/?id=1603252667) Saber by **JJ | hi**
 * **3rd:** [O-Shadow](https://modelsaber.com/Sabers/?id=1603237380) Saber by **Okachamie**
 
-### 大賞
+### Grand Prize
 [Code:Pandorum, Figure - RedRum](https://beatsaver.com/beatmap/1021f) by **nitronik.exe**
 
-## バトルロワイアル2020
+## 2020 Battle Royale
 An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challengers faced a variety of challenges both related and unrelated to Beat Saber. The final one being an extreme round of Connect 4.
 
 ---
 
 [Victory Royale Announcement](https://discord.com/channels/441805394323439646/441807344591044619/695297076669448203)
 
-### トップ 7
-順不同
+### Top 7
+In no particular order...
 
 * **Alzaraf**
 * **Bobbie**
@@ -137,7 +203,7 @@ An all out Battle Royale managed by Reaxt that went for almost 9 hours. Challeng
 ### Victory Royale
 **Arti** also known as **ratsby**
 
-## クリスマスコンテスト2021
+## 2019 Christmas Contest
 The second Holiday/Winter contest. This time throwing the holidays out of the window for Christmas, Padoru, and a Grand Prize.
 
 ---
@@ -174,7 +240,7 @@ The second Halloween contest, Halloween 2: Electric Boogaloo.
 
 ---
 
-[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/640998855046856724)
+[入賞](https://discord.com/channels/441805394323439646/441807344591044619/640998855046856724)
 
 ### Map Winners
 
@@ -223,15 +289,15 @@ The very first Holiday/Winter contest hosted by BSMG. Some submissions have been
 ### Platform Winner
 [Christmas Platform](https://cdn.discordapp.com/attachments/452948292641488897/522475725610024965/Christmas_Platform.plat) by **AkaRaiden** | [Preview Video](https://www.youtube.com/watch?v=HihTOipgE18)
 
-## ハロウィンコンテスト2018
-BSMGが主催した最初のハロウィンコンテスト。 一部の作品は失われてしまいましたが、入賞者の名前と作品はここに記録されています。
+## 2018 Halloween Contest
+The very first Halloween contest hosted by BSMG. Some submissions have been lost in the attic, but the names of the winners and their submissions will continue on here.
 
 ---
 
-[入賞](https://discord.com/channels/441805394323439646/441807344591044619/505105038985920515)
+[Winners Announcement](https://discord.com/channels/441805394323439646/441807344591044619/505105038985920515)
 
-### マップ部門
-[Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) 制作：**Ruckus**
+### Map Winner
+[Two Steps From Hell - Professor Pumplestickle](https://beatsaver.com/beatmap/18df) by **Ruckus**
 
 ### Saber Winner
 Spoopy Hands by **Assistant**

@@ -9,7 +9,10 @@ description: Emma's Guide to making Custom Platforms!
 _カスタムプラットフォームを作成するためのEmmaのガイドです。_
 
 ## プロジェクト
-[Custom Platforms Project](https://github.com/affederaffe/CustomPlatforms/releases/latest)のプロジェクトを [Unity 2018.1.6f1](https://download.unity3d.com/download_unity/57cc34175ccf/Windows64EditorInstaller/UnitySetup64-2018.1.6f1.exe)で開いてください。
+Open the current [Custom Platforms Project](https://github.com/affederaffe/CustomPlatforms/releases/latest) with Unity [2019.3.15f1](https://unity3d.com/get-unity/download/archive)
+
+* You need to go to the tab that says `Unity 2019.x` and scroll down to 2019.3.15. This has to be installed with [Unity Hub](https://unity3d.com/get-unity/download).
+* Need a guide on how to install? [Check out this Unity guide to Unity Hub.](https://docs.unity3d.com/Manual/LicensesAndActivation.html)
 
 ## はじめに
 ![Custom Platform Script](~@images/models/platforms/CustomPlatformScript.png)

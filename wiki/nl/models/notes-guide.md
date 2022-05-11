@@ -16,7 +16,9 @@ Deze handleiding vereist basiskennis over 3d modelleren en de Unity Engine. Er z
 * Afhankelijk van wat je precies maakt, is een fotobewerkingssoftware zoals [Photoshop](https://www.adobe.com/products/photoshop.html) of [GIMP](https://www.gimp.org/downloads/) mogelijk nodig.
 
 ## Unity Project
-::: danger WAARSCHUWING Zorg ervoor dat je Unity versie 2018.1.6f1 gebruikt! ::: Open de custom notes project met Unity.
+::: danger WAARSCHUWING
+Zorg ervoor dat je Unity versie 2018.1.6f1 gebruikt!
+::: Open de custom notes project met Unity.
 
 ![Unity Project](~@images/models/notes/unity_window.png)
 
@@ -166,7 +168,9 @@ Stel `Note Name` in op hoe je wilt hoe jouw blok in het spel heet. Ik zet die va
 
 ![De NoteDescriptor laten zien](~@images/models/notes/30.png)
 
-::: warning WAARSCHUWING Hoewel het technisch gezien niet nodig is wordt het sterk aanbevolen dat je een pictogram aan jouw blokken toevoegt, zodat ze gemakkelijker te identificeren zijn in de UI. :::
+::: warning WAARSCHUWING
+Hoewel het technisch gezien niet nodig is wordt het sterk aanbevolen dat je een pictogram aan jouw blokken toevoegt, zodat ze gemakkelijker te identificeren zijn in de UI.
+:::
 
 Importeer de afbeelding die je gaat gebruiken voor het pictogram door op `Import New Asset` te klikken. Ik ga een driehoekig icoon gebruiken dat ik heb gemaakt.
 
@@ -198,7 +202,9 @@ Nu onze `NoteDescriptor` opties volledig zijn ingesteld, kunnen we onze blokken 
 
 Jouw blok zou bovenaan de `Note Exporter` moeten staan. Zodra je zeker weet dat al je `NoteDescriptor` instellingen correct zijn. klik op de export knop onder jouw blok in de `Note Exporter`. Zorg ervoor dat je het exporteert in jouw `Beat Saber/CustomNotes` map zodat je het in het spel kan testen.
 
-::: warning WAARSCHUWING Als je nog een blok nog een keer wilt exporteren, zorg er dan voor dat je de oude versie verwijdert. De Note Exporter zal geen blok exporteren als er al een blok in de map is met dezelfde naam. :::
+::: warning WAARSCHUWING
+Als je nog een blok nog een keer wilt exporteren, zorg er dan voor dat je de oude versie verwijdert. De Note Exporter zal geen blok exporteren als er al een blok in de map is met dezelfde naam.
+:::
 
 ![Op export note klikken](~@images/models/notes/39.png)
 
@@ -213,83 +219,88 @@ Selecteer je blokken en probeer een level te spelen.
 ![Het blok in het spel laten zien](~@images/models/notes/42.png)
 
 ### Bekijk jouw blok in het spel zonder je bril op te zetten met FPFC
-First Person Flying Controller (FPFC) is een startparameter wat gebruikt kan worden door Steam of Oculus gebruikers. FPFC opent Beat Saber op je computer en laat je het besturen met je toetsenbord en muis. Je hebt de SiraUtil mod nodig om te kunnen bewegen terwijl een level speelt.
+First Person Flying Controller (FPFC) is een startparameter wat gebruikt kan worden door Steam of Oculus gebruikers. FPFC opent Beat Saber op je computer en laat je het besturen met je toetsenbord en muis.
 
-Hiermee kun je WASD gebruiken om rond te "vliegen", het pauzemenu openen door op de <kbd>F2</kbd> toets te drukken, of verlaat je level door op de <kbd>ESC</kbd> toets te drukken (anders moet je wachten tot het eind van het nummer).
+While a map is playing, pressing:
 
-Installeer SiraUtil met Mod Assistant en start Beat Saber om een configuratie .json bestand aan te maken. Bewerk het `SiraUtil.json` bestand in jouw `UserData` map en verander `"Enabled": false` naar `"Enabled": true` onder FPFCToggle en SongControl en volg vervolgens de platform specifieke stappen hieronder.
+* `P` **P**auses the map
+* `M` Returns to **m**enu if paused
+* `R` **R**estarts the map if paused
+* `C` Unpauses and **c**ontinues playing
 
-![SiraUtil JSON instelling](~@images/mapping/sirautil-FPFC.png)
+You will need the SiraUtil mod in order move the camera while a map is playing. Without it, the camera is fixed in the floor at an undesirable angle. Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. SiraUtil also adds additional useful features such as camera FOV, sensitivity, and rebindable pause and exit controls. Edit the `SiraUtil.json` file in your `UserData` folder to tweak settings.
 
-**Voor Steam gebruikers:**
+**For Steam Users:**
 
-Open de spel eigenschappen en voeg `fpfc` toe aan de Steam start opties in het "Algemeen" tabblad. ![FPFC lanceringeninstellingen](~@images/mapping/fpfc.png)
+Open the game properties and add `fpfc` to the Steam launch options in the General tab. ![Fpfc launch options](~@images/mapping/fpfc.png)
 
-**Voor Oculus gebruikers:**
+**For Oculus Users:**
 
 1. Rechtsklik op Beat Saber.exe en maak een snelkoppeling.
 2. Bewerk het doel en voeg "fpfc" toe aan het einde ervan. Bijv: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-Na het installeren van de mods en het toevoegen van het startparameter kan je nu bewegen en pauzeren in een level. De knop om te wisselen tussen bril- en muis/toetsenbord bediening is <kbd>G</kbd>.
+After installing the mods and adding the launch parameter you can then now move around and pause in a map. The default toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
 
-:::warning OPMERKING
+:::warning NOTE
 
-* Als je weer in vr gaat en het spel niet laadt in de bril:
-  * Druk op de <kbd>G</kbd> toets totdat de bril het spel weergeeft.   
-    **==OF==**
-  * Sluit het spel, verwijder de startparameter en start het spel opnieuw.
+* If you go back into vr and the game doesn't load in the headset either:
+  * Press the <kbd>G</kbd> key until the headset displays the game  
+    **==OR==**
+  * Quit the game, remove the launch option, and relaunch the game.
 
-* Als de mod niet lijkt te werken, zorg er dan voor dat de in-game Smooth camera instelling is uitgeschakeld. :::
+* If the mod doesn't seem to be working, make sure the in-game Smooth Camera setting is disabled. :::
 
-Als alles goed lijkt in het spel, dan zou moet je klaar zijn! Zorg ervoor dat je met je blokken tenminste één keer met de bril op speelt voordat je ze publiceert.
+If everything looks good ingame, you should be finished! Make sure to try playing with your notes with your headset on at least once before releasing them.
 
 ## Custom Colors
-Deze sectie gaat ervan uit dat je al een custom blok hebt ingesteld en je ondersteuning voor custom colors wilt toevoegen, wat sterk wordt aanbevolen omdat het bijna altijd de gebruikerservaring zal verbeteren.
+This section is assuming you already have a custom note fully set up and simply want to add support for custom colors, which is highly recommended because it will almost always enhance the user experience.
 
-CustomColor ondersteuning werkt door de kleur van de blokken te veranderen naar de kleuren die de speler heeft ingesteld. Als je material een texture heeft, zullen de lichtere kleuren meer getint worden, terwijl de donkere kleuren minder getint worden.
+CustomColor support works by tinting the notes to the current player-set color. If your material has a texture, lighter colors will be tinted more, whilst darker colors will be tinted less.
 
-Maak een nieuw material in de `Materials` map. Met CustomColor ondersteuning, zal je over het algemeen hetzelfde material gebruiken voor zowel de linker- als het rechter blok. dus ik ga mijn material `NoteMaterial` noemen.
+Go ahead and create a new material in the `Materials` folder. With CustomColor support, generally you're going to be using the same material for both the left and right note, so I'm going to name my material `NoteMaterial`.
 
-![Het maken van een nieuw material](~@images/models/notes/43.png)
+![Creating a new material](~@images/models/notes/43.png)
 
-Selecteer nu de shader die je wilt gebruiken voor jouw blok. Als je niet zeker weet welke shader je wilt gebruiken, ga dan terug naar het `Materials toevoegen` gedeelte van deze handleiding. Voor mijn blok ga ik `Unlit Glow` gebruiken.
+Now select the shader you want to use for your note. If you're not sure which shader you want to use, refer back to the `Adding Materials` section of this guide. For my note, I'm going to use `Unlit Glow`.
 
-![Een shader selecteren](~@images/models/notes/44.png)
+![Selecting shader](~@images/models/notes/44.png)
 
-Pas dit material nu toe op zowel de mesh van jouw `NoteLeft` als de mesh van jouw `NoteRight`. Zorg ervoor dat je het toepast op ALLEBEI!
+Now apply this material to both your NoteLeft mesh and your NoteRight mesh. Make sure to apply it to BOTH!
 
-![Op TriangleMesh klikken](~@images/models/notes/71.png)
+![Clicking TriangleMesh](~@images/models/notes/71.png)
 
-![Material selecteren](~@images/models/notes/46.png)
+![Selecting Material](~@images/models/notes/46.png)
 
 ![Material selecteren](~@images/models/notes/47.png)
 
-Nu je klaar bent met het toepassen van het material op het mesh van al je blokken, ga je terug naar het `NoteMaterial` in het scherm. Om te controleren of jouw blokken er goed uitzien wanneer je CustomColors gebruikt, rommel dan met het `Color` eigenschap; dit is het eigenschap dat zal veranderen wanneer de blokken getint zijn.
+Now that you're done applying the material to all of your note's meshes, go back to the `NoteMaterial` in the inspector. To double check that your notes look good when using CustomColors, try messing around with the `Color` property; this is what property will be changed when the notes are tinted.
 
-![De kleur van het material veranderen](~@images/models/notes/48.png)
+![Changing color of material](~@images/models/notes/48.png)
 
 ![De kleur van het material veranderen](~@images/models/notes/49.png)
 
 ![De kleur van het material veranderen](~@images/models/notes/50.png)
 
-Zodra je hebt bevestigd dat de blokken van kleur veranderen wanneer je de `Color` eigenschap van het material wijzigt, ga je naar het hoofd GameObject van jouw blok en naar de `NoteDescriptor`. Schakel `Uses Note Color` in en voel je vrij om te rommelen met `Note Color Strength`. Als Note Color Strength 1 is, zal het de kleur met 100% kracht tinten. Hoe verder je onder 1 gaat, hoe subtieler het zal zijn. Voel het doel van deze gids laat ik `Note Color Strength` op 1.
+Once you've confirmed that the notes change color when you change the material's `Color` property, go to your note's main GameObject and go to the `NoteDescriptor`. Enable `Uses Note Color` and feel free to mess around with `Note Color Strength`. When Note Color Strength is at 1, it will tint the color with 100% strength. The lower you go from one, the more subtle it will be. For the purposes of this tutorial, I will be leaving `Note Color Strength` at one.
 
-![Uses note color inschakelen](~@images/models/notes/51.png)
+![Enabling uses note color](~@images/models/notes/51.png)
 
-Jouw blok zou nu compatibel moeten zijn met Custom Colors! Exporteer het opnieuw. Als je een opfrisser nodig hebt, lees je de sectie over exporteren hierboven.
+Your note should now be compatible with Custom Colors! Go ahead and re-export it. If you need a refresher, read the section on Exporting up above.
 
 ### Custom Colors uitschakelen op specifieke GameObjecten
 
-In sommige gevallen kan het zijn dat je CustomColors geen invloed wilt geven op een bepaalde mesh. Als je bijvoorbeeld een deel van je model hebt wat dezelfde kleur moet blijven, zoals een pijl die wit moet zijn. Er is een eenvoudige oplossing voor dit probleem.
+In some cases, you may want CustomColors to not affect a certain mesh. For example, if you have a part of your model that needs to stay the same color, such as an arrow needing to be white. There is a simple solution to this problem.
 
-In dit voorbeeld heb ik twee meshes in mijn `LeftNote` object. Ik wil dat de `TriangleMesh` beïnvloed wordt door custom colors, maar `SmallerTriangleMesh` niet.
+In this example, I have two meshes inside of my `LeftNote` object. I want the `TriangleMesh` to be affected by custom colors, but not `SmallerTriangleMesh`.
 
-![Voorbeeld van twee meshes](~@images/models/notes/52.png)
+![Double mesh example](~@images/models/notes/52.png)
 
-![Dubbele mesh hiërarchie](~@images/models/notes/53.png)
+![Double mesh hierarchy](~@images/models/notes/53.png)
 
-Het enige wat je hoeft te doen is in de GameObjecten te gaan waarvan je niet wilt dat deze worden beïnvloed door custom colors, en voeg er een `Disable Note Color On GameObject` component aan toe. Elk GameObject met dit component zal zo blijven als het eruit ziet en zal niet worden beïnvloed door custom colors.
+All you have to do is go into the GameObjects that you do not want to be affected by custom colors and add a `Disable Note Color On GameObject` component. Any GameObject with this component will retain how it looks and not be affected by custom colors.
 
-::: warning WAARSCHUWING: Vergeet niet om deze wijzigingen toe te passen op alle blokken in jouw CustomNote! :::
+::: warning WARNING
+Remember to apply these changes to all of the notes in your CustomNote!
+:::
 
-![Een disable note color on gameobject component toevoegen](~@images/models/notes/54.png)
+![Adding a disable note color on gameobject component](~@images/models/notes/54.png)

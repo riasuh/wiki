@@ -78,7 +78,9 @@ Option 2:
    * **Precision Rotation** - Allows blocks to be angled at any angle instead of the default 45-degree increments.
 3. Enable the desired features by clicking the checkboxes. For example, wall mapping needs 6 Lane and Precision Placement.
 4. Select the level you want to map in and click on the ExtraFields tab to the right of the difficulty select.
-5. Click the Requirements tab and then type in `Mapping Extensions`. :::warning The text you enter in the requirements has to be exact or else the features will not enable in editor. :::
+5. Click the Requirements tab and then type in `Mapping Extensions`. :::warning
+The text you enter in the requirements has to be exact or else the features will not enable in editor.
+:::
 6. Click the Add button to add it to the requirements.
 7. Click Save song infos in the bottom left corner.
 8. Click Edit Level and you are good to go!
@@ -161,7 +163,10 @@ Wall mapping allows the mapper to get incredibly creative with wall placement we
   * **Warzone** - Boom Kitty mapped by Spooky Ghost  
     [YouTube](https://www.youtube.com/watch?v=6UwEjc6VGyM) | [BeatSaver](https://beatsaver.com/beatmap/7702)
 
-:::warning NOTE Too many walls will create heavy lag. Especially for players that do not have powerful computers. Test frequently and try to keep the wall-count down to keep your experience accessible for most players. :::
+:::warning NOTE
+Too many walls will create heavy lag. Especially for players that do not have powerful computers.
+Test frequently and try to keep the wall-count down to keep your experience accessible for most players.
+:::
 
 #### Wall Mapping using MMA2
 After [editor setup](#set-up), check that you have at least 6 Lane Mode and Precision Placement enabled. When editing your map, if you select the wall placement tool the grid will expand, allowing you to place walls anywhere on the track similar to regular wall placement. To make smaller walls, you need to change the precision. Go into the editor menu by pressing <kbd>ESC</kbd> or clicking the hamburger in the top right and change the `Precision Snap` value. This is a similar to the `Cursor Precision` setting.
@@ -178,13 +183,15 @@ Walls that zoom by the player are called Fast and Hyper walls. They are created 
 * **MMA2/ChroMapper:** You can create fast/hyper walls by pressing <kbd>CTRL + F</kbd> while your cursor is on a wall until it is yellow. The length of the wall is the duration, see the [negative walls document](https://docs.google.com/spreadsheets/d/1hCbsWwfThH23xVmWk4B-HUKPoZNrsQUeHUHyfNO-yAU) for the appropriate length.
 * **Beatwalls:** Fast/hyper walls are created by overwriting the duration property with `changeDuration: -3`.
 
-:::tip Remember! Too many walls will create heavy lag. Especially for players that do not have powerful computers. Test frequently and try to keep the wall-count down to keep your experience accessible for most players. :::
+:::tip Remember!
+Too many walls will create heavy lag. Especially for players that do not have powerful computers.
+Test frequently and try to keep the wall-count down to keep your experience accessible for most players.
+:::
 
 ### Testing your map
 While you could playtest your map ingame every time you make changes, this will be unpractically in the long run. Luckily there are some mods to help you out.
 
-* [FPFCToggle](https://github.com/DeadlyKitten/FPFCToggle) - lets you fly around the map without vr
-* [MusicEscape](https://github.com/DeadlyKitten/MusicEscape) - lets you quit to menu and pause-menu with your keyboard
+* **SiraUtil** - Allows camera movement while a map is playing when using FPFC. See [In-game with FPFC](./basic-lighting#in-game-with-fpfc) for setup and usage.
 * [ReLoader](https://github.com/Kylemc1413/ReLoader) - hot reloads the map
 * [PracticePlugin](https://github.com/Kylemc1413/PracticePlugin) - change Song time, playback speed and more from the pause menu
 

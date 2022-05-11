@@ -22,10 +22,17 @@ Più noti per la loro piattaforma di danza incredibilmente appariscente e le sci
 
 **Ruoli:** Artista 3D, Modder **Contributi:** Bloom Mod
 
-## laugexd
-Sviluppatore di ModelSaber 2.0 e creatore di molte sciabole e bloq.
+## JJ | hi
+I’ve been modeling for almost 3 years and make mostly private and collab sabers.
 
 **Ruoli:** Artista 3D
+
+[ModelSaber](https://modelsaber.com/Profile/?user=366411130962313216)
+
+## laugexd
+Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
+
+**Roles:** 3D Artist
 
 [Twitter](https://twitter.com/laugexd) | [YouTube](https://www.youtube.com/channel/UCr_JES9nBCUaAR9-UbgDMRw) | [ModelSaber](https://modelsaber.com/Profile/?user=146243483898871808)
 
@@ -33,36 +40,36 @@ Sviluppatore di ModelSaber 2.0 e creatore di molte sciabole e bloq.
 **Ruoli:** Artista 3D
 
 ## Mordred
-Uno dei primi creatori a produrre in massa gli avatar, dando dunque vita a questo ruolo.
+One of the first creators to mass produce avatars, and thus give birth to this role.
 
-**Ruoli:** Artista 3D
+**Roles:** 3D Artist
 
 ## Oshi
-**Ruoli:** Artista 3D
+**Roles:** 3D Artist
 
 ## RedBrumbler
-"Il ragazzo che fece giganti cazzi incandescenti in Beat Saber" ~Emulamer 12 luglio 2019
+"The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019
 
-Come potete leggere faccio sciabole per Quest, ma in generale sono stato attivo nel modding delle risorse di Beat Saber, ho anche fatto altri giochi, ma Beat Saber è il mio amore principale. Se dovesse mai servirvi aiuto nello specifico per le sciabole per Quest, potete sempre chiedermelo nel canale di modding di Quest (finché comunque non avremo la mod qsaber), continua a sciabolare quella carne finché non è davvero tenera!
+As you can read I make sabers for quest, but generally I've been active in the asset modding part of beat saber, I've also done some for other games but Beat saber is my main love. If you ever need help making sabers specifically for quest you can always ask me over in the quest modeling channel (until we get that qsaber mod anyways) keep on sabering that meat till it's real tender!
 
-**Ruoli:** Artista 3D, Supporto
+**Roles:** 3D Artist, Support
 
 [PayPal](https://paypal.me/RedBrumblerOfficial?locale.x=nl_NL) | [Patreon](https://www.patreon.com/RedBrumbler) | [Ko-Fi](https://ko-fi.com/redbrumbler) | [YouTube](https://www.youtube.com/channel/UCYmzlDob8BQYWrOQWkHtCpQ) | [Facebook](https://www.facebook.com/red.brumbler.7) | [Twitter](https://twitter.com/RedBrumbler) | [GitHub](https://github.com/RedBrumbler/BeatOnCustomSabers) | [Reddit](https://www.reddit.com/user/RedBrumbler/)
 
 ## SeventyTwo
-Tonnellate di supporto al Monitoraggio Completo del Corpo!
+Tons and tons of Full Body Tracking support!
 
-**Ruoli:** Artista 3D
+**Roles:** 3D Artist
 
-[Dona](https://paypal.me/theseventytwo)
+[Donate](https://paypal.me/theseventytwo)
 
 ## Tachrayonic
-**Ruoli:** Artista 3D
+**Roles:** 3D Artist
 
 ## Yuuki
-Artista 3D e Modder di Quest. Supporto la community VR in ogni modo possibile! Mi concentro principalmente sull'offrire mod di nicchia di Beat Saber per Quest e ad aiutare a migliorare il gameplay tramite i modelli 3D.
+3D Artist and Quest Modder. Supporting the VR community in any way that I can! Primarily focusing on offering niche Beat Saber mods for the Quest and helping enhance gameplay through 3D models.
 
-**Ruoli:** Artista 3D
+**Roles:** 3D Artist
 
 [YouTube](https://www.youtube.com/channel/UCIH4NTKdVNjnJpfuMrk71Fw) | [Patreon](https://www.patreon.com/yuukisaves) | [Ko-Fi](https://ko-fi.com/supportyuuki)
 

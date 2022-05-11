@@ -71,7 +71,9 @@ For both `LeftHand` and `RightHand`, you want to position them on your Avatar's 
 
 ![Gameobjects](~@images/models/avatars/gameobjects.png)
 
-::: danger IMPORTANT Make sure you have your GameObjects where you want them, after the next step their position is final. :::
+::: danger IMPORTANT
+Make sure you have your GameObjects where you want them, after the next step their position is final.
+:::
 
 We're ready to start the fun! Navigate the hierarchy of the Armature until you reach the Head, select it and right-click and Create Empty, then drag it into the `Head` we created and name it `HeadTarget`. That process will make sure that it's in the correct place.
 
@@ -118,7 +120,9 @@ The last thing to do is export the avatar. Go to `Window` -> `Avatar Exporter`, 
 
 ![Exporter](~@images/models/avatars/exporter.png)
 
-::: danger IMPORTANT If you're re-exporting an avatar make sure to delete the previous file, it will not overwrite it. :::
+::: danger IMPORTANT
+If you're re-exporting an avatar make sure to delete the previous file, it will not overwrite it.
+:::
 
 ::: tip NOTE Once you've got your avatar exported, [upload them to ModelSaber](https://modelsaber.com) if you want to share it with the world. :::
 
@@ -213,7 +217,10 @@ Here is a video of me making an avatar, narrated by Megalon. [5:57]
 
 <YouTube url='https://www.youtube.com/watch?v=iBEfl_v71Nw' />
 
-::: warning DISCLAIMER I know nothing about making avatars or using either Unity or Blender, I just threw shit at the wall blindly for 3 days and this is what stuck. But until someone who actually knows what they're doing makes a guide, this is all there is. :::
+::: warning DISCLAIMER
+I know nothing about making avatars or using either Unity or Blender, I just threw shit at the wall blindly for 3 days
+and this is what stuck. But until someone who actually knows what they're doing makes a guide, this is all there is.
+:::
 
 ## ♥ Special Thanks
 

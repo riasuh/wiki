@@ -74,7 +74,9 @@ The exact starting and ending intervals (on the interval change between events) 
 How to generate logs to get all the data in an environment:
 
 1. Open `Beat Saber/UserData/Beat Saber IPA.json` in a text editor and set `"CreateModLogs": true`.
-2. Open `Beat Saber/UserData/Chroma.json` and set `"PrintEnvironmentEnhancementDebug": true`. :::warning NOTE Now when you open any Chroma map in game, it will generate a log of its environment. :::
+2. Open `Beat Saber/UserData/Chroma.json` and set `"PrintEnvironmentEnhancementDebug": true`. :::warning NOTE
+Now when you open any Chroma map in game, it will generate a log of its environment.
+:::
 3. Open ChroMapper, select the environment you want to use and save the song info.
 4. Place a single light event in the map and change the light to a chroma color.
 5. Load Beat Saber and play the map for a second. The log is located in `Beat Saber/Logs/Chroma`.
@@ -94,7 +96,9 @@ A one way converter to 2.0 is available for use before releasing your map. [Chro
 3. Select the level you want to map in and click on the ExtraFields tab to the right of the difficulty select.
 4. Click on the Suggestions tab and then type in `Chroma`.
 
-:::warning NOTE The text you enter in the suggestions has to be exact or the Chroma lighting effects will not appear in game :::
+:::warning NOTE
+The text you enter in the suggestions has to be exact or the Chroma lighting effects will not appear in game
+:::
 
 5. Click the Add button to add it to the suggestions.
 6. Click Save song infos in the bottom left corner.
@@ -121,7 +125,10 @@ Chroma events don’t do anything on its own. Chroma events function by acting a
 
 ::: align center ![Screenshot of the MMA2 lighting track with Chroma events](~@images/mapping/mma2-chroma.png) :::
 
-:::warning Do not place chroma events inside another event. It can cause issues when copy pasting and MMA2’s shoddy rounding can even place the chroma after the actual event and it won’t change colour. Completely avoid it. ~Halcyon12 :::
+:::warning
+Do not place chroma events inside another event. It can cause issues when copy pasting and MMA2’s shoddy rounding can even
+place the chroma after the actual event and it won’t change colour. Completely avoid it. ~Halcyon12
+:::
 
 ### Gradients
 How to place a gradient using Chroma events:

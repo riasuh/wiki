@@ -32,7 +32,9 @@ Mantem o teu espaço de jogo livre de obstruções, permite um espaço adequado 
 
 ![Permitir espaço adequado ao teu redor](~@images/health-and-safety/allow-adequate-room-around-you.png "Permitir espaço adequado ao teu redor")
 
-::: warning NOTA O Beat Saber não está disponível para a Nintendo Wii, esta imagem é usada apenas para fins informativos. :::
+::: warning NOTA
+O Beat Saber não está disponível para a Nintendo Wii, esta imagem é usada apenas para fins informativos.
+:::
 
 ## Uma breve mensagem de TammyMatty
 Para reduzir o risco de ferimentos físicos, lembra-te sempre de alongar antes e depois de jogar Beat Saber. Por favor, observa o seguinte:

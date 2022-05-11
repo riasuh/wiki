@@ -33,7 +33,9 @@ Je zou in het spel de afspeellijst naast de custom levels albums moeten kunnen z
 ### Quest
 Je kan [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) gebruiken om afspeellijsten te beheren op je Quest. Houd er rekening mee dat een zelfgemaakt nummer slechts éénmaling in het spel kan worden weergegeven vanwege een beperking met BMBF.
 
-:::warning WAARSCHUWING voor Quest Gebruikers Het herladen van de custom levels, reset alle afspeellijsten. :::
+:::warning WAARSCHUWING voor Quest Gebruikers
+Het herladen van de custom levels, reset alle afspeellijsten.
+:::
 
 ## Hoe maak ik mijn eigen levels?
 Zie [Levels maken](/nl/mapping/)!
@@ -42,12 +44,12 @@ Zie [Levels maken](/nl/mapping/)!
 Zie [deze sectie](/pc-modding.md#handmatige-installatie) in de Beginners Gids.
 
 ## Heeft Multiplayer Crossplay?
-Officieel is multiplayer gelimiteerd tot het spelen met mensen die het spel via dezelfde winkel hebben gekocht (Oculus/Steam). Bovendien zorgt het modden van het spel op Quest er voor dat de officiële multiplayer niet meer werkt.
+Cross-play between Quest and PC versions of the game is now available! All players will need to be on the latest version for this to work. Additionally, modifying the game on Quest disables official multiplayer.
 
 De BeatTogether mod is de huidige oplossing voor multiplayer tussen verschillende platformen en gemodde versies. Word lid van hun [Discord server](https://discord.com/invite/gezGrFG4tz) en bekijk het `#install-instructions` kanaal voor meer informatie.
 
 ## Mijn game is geüpdatet en nu werken de mods niet meer
-Elke keer als het spel update is het mogelijk *(en zeer waarschijnlijk)* dat je bestaande mods niet meer werken en ook moeten worden geüpdatet. Om er voor te zorgen dat je installatie niet breekt als het spel voor het eerst na een nieuwe update word gestart, word alles automatisch uit de `Plugins` map verplaatst naar een nieuwe map met een naam als `Old 1.xx.x Plugins`. **Laat die plugins/mods daar staan!**
+Elke keer als het spel update is het mogelijk *(en zeer waarschijnlijk)* dat je bestaande mods niet meer werken en ook moeten worden geüpdatet. Om er voor te zorgen dat je installatie niet breekt als het spel voor het eerst na een nieuwe update word gestart, word alles automatisch uit de `Plugins` map verplaatst naar een nieuwe map met een naam als `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!** Please do not drag these mods back into the `Plugins` folder, as it is known to cause issues.
 
 Om mods terug te krijgen, hoef je simpelweg **de installer opnieuw uit te voeren.**  
 De BeatMods database bevat enkel mods waarvan gecontroleerd is dat ze werken op de nieuwste versie van het spel!

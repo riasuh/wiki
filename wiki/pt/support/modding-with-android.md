@@ -4,7 +4,7 @@ sidebar: auto
 
 # Modding de Quest com Android
 
-BMBF apk:::warning Instalar o BMBF e instalar mods ao seu jogo desativará o Multiplayer oficial, assim como ver e enviar scores para os placares base do jogo. Se você gostaria de jogar multiplayer modded, você precisa do mod, `Beat Together`, que permite cross-play entre pc e quest e permite que custom songs sejam usadas. O mod pode ser encontrado no [Beat Saber Modding Group](discord.gg/beatsabermods) em `#quest-mods` ou no site [Questboard](https://questmodding.com).
+BMBF apk:::warning Instalar o BMBF e instalar mods ao seu jogo desativará o Multiplayer oficial, assim como ver e enviar scores para os placares base do jogo. If you would like to play modded multiplayer, you need the `Beat Together` and `MultiQuestensions` mods, which enables cross-play between PC and modded Quests and allows for custom songs to be played. O mod pode ser encontrado no [Beat Saber Modding Group](discord.gg/beatsabermods) em `#quest-mods` ou no site [Questboard](https://questmodding.com).
 
 Para obter rankings em custom songs e ser capaz de obter Pontos de Performance (PP) de músicas ranqueadas você precisa do mod [ScoreSaber](https://new.scoresaber.com/quest). [Este link](https://new.scoresaber.com/quest) vai te levar à página de ScoreSaber para configurá-lo. O ScoreSaber não substitui o ranking base do jogo, apenas adiciona rankings para custom songs.
 
@@ -94,7 +94,9 @@ Agora você pode continuar em [Configurando seu Celular](#setup-your-phone)
     3. Ative a depuração USB
 
 ### Instalando o BMBF com seu Celular
-:::warning Antes de instalar os mods, abra o Beat Saber uma vez, jogue um level e falhe imediatamente! :::
+:::warning
+Antes de instalar os mods, abra o Beat Saber uma vez, jogue um level e falhe imediatamente!
+:::
 
 Abra a Sidequest no seu Celular e conecte seu Quest com o seu celular via cabo USB. Você deve receber um pop-up de depuração USB em seu Quest e no seu celular. Selecione permitir em ambos os dispositivos e, se preferir, selecione sempre permitir.
 

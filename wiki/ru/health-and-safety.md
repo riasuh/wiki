@@ -32,7 +32,9 @@ Dr. Levi has saved the wrist of countless players with his videos, and he's made
 
 ![Allow Adequate Room Around You](~@images/health-and-safety/allow-adequate-room-around-you.png "Allow Adequate Room Around You")
 
-::: warning NOTE Beat Saber не доступен для Nintendo Wii, это изображение используется только для информации. :::
+::: warning NOTE
+Beat Saber не доступен для Nintendo Wii, это изображение используется только для информации.
+:::
 
 ## Короткое сообщение от TammyMatty
 Чтобы уменьшить риск повреждений, не забывайте проводить растяжку до и после игры в Beat Saber. Пожалуйста, ознакомьтесь с обучающим изображением:

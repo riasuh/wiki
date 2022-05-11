@@ -22,10 +22,17 @@ Más conocido por su plataforma de baile increíblemente ostentosa y sables de �
 
 **Roles:** Artista 3D, Modder **Contribuciones:** Mod de Bloom
 
-## laugexd
-Desarrollador de ModelSaber 2.0 y diseñador de muchos sables y bloques.
+## JJ | hi
+I’ve been modeling for almost 3 years and make mostly private and collab sabers.
 
 **Roles:** Artista 3D
+
+[ModelSaber](https://modelsaber.com/Profile/?user=366411130962313216)
+
+## laugexd
+Developer of ModelSaber 2.0 and crafter of many sabers and bloqs.
+
+**Roles:** 3D Artist
 
 [Twitter](https://twitter.com/laugexd) | [YouTube](https://www.youtube.com/channel/UCr_JES9nBCUaAR9-UbgDMRw) | [ModelSaber](https://modelsaber.com/Profile/?user=146243483898871808)
 
@@ -33,42 +40,42 @@ Desarrollador de ModelSaber 2.0 y diseñador de muchos sables y bloques.
 **Roles:** Artista 3D
 
 ## Mordred
-Uno de los primeros creadores en producir avatares en masa y así dar a luz este rol.
+One of the first creators to mass produce avatars, and thus give birth to this role.
 
-**Roles:** Artista 3D
+**Roles:** 3D Artist
 
 ## Oshi
-**Roles:** Artista 3D
+**Roles:** 3D Artist
 
 ## RedBrumbler
-"El tío que hizo penes gigantes brillantes en beat saber" ~Emulamer 12 de julio de 2019
+"The guy who made giant glowing dicks in beat saber" ~Emulamer 12th of July 2019
 
-Como puedes leer hago sables para quest, pero generalmente he estado activo en la parte de modding de bienes de beat saber, también he hecho algunos para otros juegos, pero Beat saber es mi amor principal. Si alguna vez necesitas ayuda para hacer sables específicamente para quest, siempre puedes preguntarme en el canal de modelado de quest (hasta que consigamos ese mod qsaber de todos modos) ¡sigue saboreando esa carne hasta que este realmente tierna!
+As you can read I make sabers for quest, but generally I've been active in the asset modding part of beat saber, I've also done some for other games but Beat saber is my main love. If you ever need help making sabers specifically for quest you can always ask me over in the quest modeling channel (until we get that qsaber mod anyways) keep on sabering that meat till it's real tender!
 
-**Roles:** Artista 3D, Soporte
+**Roles:** 3D Artist, Support
 
 [PayPal](https://paypal.me/RedBrumblerOfficial?locale.x=nl_NL) | [Patreon](https://www.patreon.com/RedBrumbler) | [Ko-Fi](https://ko-fi.com/redbrumbler) | [YouTube](https://www.youtube.com/channel/UCYmzlDob8BQYWrOQWkHtCpQ) | [Facebook](https://www.facebook.com/red.brumbler.7) | [Twitter](https://twitter.com/RedBrumbler) | [GitHub](https://github.com/RedBrumbler/BeatOnCustomSabers) | [Reddit](https://www.reddit.com/user/RedBrumbler/)
 
 ## SeventyTwo
-¡Toneladas y toneladas de soporte pare el seguimiento de cuerpo completo!
+Tons and tons of Full Body Tracking support!
 
-**Roles:** Artista 3D
+**Roles:** 3D Artist
 
-[Dona](https://paypal.me/theseventytwo)
+[Donate](https://paypal.me/theseventytwo)
 
 ## Tachrayonic
-**Roles:** Artista 3D
+**Roles:** 3D Artist
 
 ## Yuuki
-Artista 3D y Modder de Quest. ¡Apoyando a la comunidad VR de cualquier forma que puedo! Principalmente enfocándome en ofrecer mods convenientes de Beat Saber para las Quest y ayudando a mejorar la jugabilidad a través de modelos 3D.
+3D Artist and Quest Modder. Supporting the VR community in any way that I can! Primarily focusing on offering niche Beat Saber mods for the Quest and helping enhance gameplay through 3D models.
 
-**Roles:** Artista 3D
+**Roles:** 3D Artist
 
 [YouTube](https://www.youtube.com/channel/UCIH4NTKdVNjnJpfuMrk71Fw) | [Patreon](https://www.patreon.com/yuukisaves) | [Ko-Fi](https://ko-fi.com/supportyuuki)
 
 ---
 
 <!-- markdownlint-disable MD013 -->
-::: tip Ver también **Soporte:** [Emma](./supports.md#emma)  
-**Moderadores:** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
-**Personal:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) | [Pink](./staff.md#pink) :::
+::: tip See Also **Support:** [Emma](./supports.md#emma)  
+**Moderators:** [DeeJay](./moderators.md#deejay) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer) | [Pink](./moderators.md#pink)  
+**Staff:** [Assistant](./staff.md#assistant) | [Bobbie](./staff.md#bobbie) | [Pink](./staff.md#pink) :::

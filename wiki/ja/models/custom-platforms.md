@@ -2,7 +2,9 @@
 
 ## はじめに
 
-:::warning　警告 カスタムプラットフォームはPC専用のModです。 :::
+:::warning　警告
+カスタムプラットフォームはPC専用のModです。
+:::
 
 最新のカスタムプラットフォームModはBSMGのDiscordサーバーの[#pc-mods channel](https://discord.gg/beatsabermods)チャンネルか[Mod Assistant](https://github.com/Assistant/ModAssistant)から利用できます。 Modをインストールすると[インストールフォルダ](/faq/install-folder.md)内に`CustomPlatforms`というフルだが作成されます。 ここに使いたい`*.plat`ファイル形式のプラットフォームを入れてください。
 

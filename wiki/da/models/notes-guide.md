@@ -16,7 +16,9 @@ This guide requires basic knowledge on 3d modeling and the Unity Engine. A few t
 * Depending on what exactly you're modeling, photo editing software such as [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/downloads/) may be required.
 
 ## Unity Project
-::: danger DISCLAIMER Make sure you're using Unity version 2018.1.6f1! ::: Open the custom notes project with Unity.
+::: danger DISCLAIMER
+Make sure you're using Unity version 2018.1.6f1!
+::: Open the custom notes project with Unity.
 
 ![Unity Project](~@images/models/notes/unity_window.png)
 
@@ -166,7 +168,10 @@ Set the `Note Name` to what you want your note to be called ingame. I'll set min
 
 ![Showing the NoteDescriptor](~@images/models/notes/30.png)
 
-::: warning WARNING Although it's not technically required, it is highly recommended you add an icon to your notes so that they are easier to identify in the UI. :::
+::: warning WARNING
+Although it's not technically required, it is highly recommended you add an icon to your notes so that
+they are easier to identify in the UI.
+:::
 
 Import the image you're going to use for your icon by clicking `Import New Asset`. I'll be using a triangle icon I made.
 
@@ -198,7 +203,10 @@ Now that our `NoteDescriptor` options are completely set, we can export our note
 
 Your note should be at the top of the `Note Exporter`. Once you're sure that all of your `NoteDescriptor` settings are correct, click the export button below your note in the `Note Exporter`. Make sure to export it into your `Beat Saber/CustomNotes` folder so you can test it ingame.
 
-::: warning WARNING If you're going to export a note again, make sure to delete the old version. The Note Exporter won't export a note if there's already a note with an identical name in the same folder. :::
+::: warning WARNING
+If you're going to export a note again, make sure to delete the old version. The Note Exporter won't export a note if there's
+already a note with an identical name in the same folder.
+:::
 
 ![Cllicking export note](~@images/models/notes/39.png)
 
@@ -213,13 +221,16 @@ Select your notes and try playing a song.
 ![Showing note ingame](~@images/models/notes/42.png)
 
 ### Preview Your Note In-game without putting on your headset using FPFC
-First Person Flying Controller (FPFC) is a launch parameter that can be used by either Steam or Oculus users. FPFC will open an instance of Beat Saber on your desktop and allow you to control it with your keyboard and mouse. You will need the SiraUtil mod in order to interact while a map is playing.
+First Person Flying Controller (FPFC) is a launch parameter that can be used by either Steam or Oculus users. FPFC will open an instance of Beat Saber on your desktop and allow you to control it with your keyboard and mouse.
 
-It allows you to use WASD to "fly" around, open the pause menu by hitting the <kbd>F2</kbd> key, or exit your level by hitting the <kbd>ESC</kbd> key (otherwise you must play your song to completion).
+While a map is playing, pressing:
 
-Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. Edit the `SiraUtil.json` file in your `UserData` folder and change `"Enabled": false` to `"Enabled": true` under FPFCToggle and SongControl then follow the store platform specific steps below.
+* `P` **P**auses the map
+* `M` Returns to **m**enu if paused
+* `R` **R**estarts the map if paused
+* `C` Unpauses and **c**ontinues playing
 
-![SiraUtil JSON Setting](~@images/mapping/sirautil-FPFC.png)
+You will need the SiraUtil mod in order move the camera while a map is playing. Without it, the camera is fixed in the floor at an undesirable angle. Install SiraUtil from Mod Assistant and run Beat Saber to create a config json file. SiraUtil also adds additional useful features such as camera FOV, sensitivity, and rebindable pause and exit controls. Edit the `SiraUtil.json` file in your `UserData` folder to tweak settings.
 
 **For Steam Users:**
 
@@ -230,7 +241,7 @@ Open the game properties and add `fpfc` to the Steam launch options in the Gener
 1. Right click on Beat Saber.exe and create a shortcut.
 2. Edit the Target to add "fpfc" to the end of it. For example: `C:\Program Files\Oculus\Software\Software\hyperbolic-magnetism-beat-saber\Beat Saber.exe" fpfc`
 
-After installing the mods and adding the launch parameter you can then now move around and pause in a map. The toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
+After installing the mods and adding the launch parameter you can then now move around and pause in a map. The default toggle key to switch between headset and mouse/keyboard control is <kbd>G</kbd>.
 
 :::warning NOTE
 
@@ -290,6 +301,8 @@ In this example, I have two meshes inside of my `LeftNote` object. I want the `T
 
 All you have to do is go into the GameObjects that you do not want to be affected by custom colors and add a `Disable Note Color On GameObject` component. Any GameObject with this component will retain how it looks and not be affected by custom colors.
 
-::: warning WARNING Remember to apply these changes to all of the notes in your CustomNote! :::
+::: warning WARNING
+Remember to apply these changes to all of the notes in your CustomNote!
+:::
 
 ![Adding a disable note color on gameobject component](~@images/models/notes/54.png)

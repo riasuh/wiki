@@ -25,8 +25,8 @@ Gældende hardware omfatter:
 
 * Oculus Quest/Quest 2
 
-## Creating content
-Er en a dine yndlingsasange ikke tilgængelig? Har du en mod-idé, du vil implementere? Vil du have en tilpasset model, du vil bruge i Beat Saber? Det kan du gøre på en af to måder.
+## Oprettelse af indhold
+Er en af dine yndlingsasange ikke tilgængelig? Har du en mod-idé, du vil implementere? Vil du have en tilpasset model, du vil bruge i Beat Saber? Det kan du gøre på en af to måder.
 
 * Commission nogen i [Commissions Discord](https://discord.gg/e4f3WBBVnr), som er kørt af communitien
 * Lær hvordan du selv gør ved hjælp af ressourcerne nedenfor!
@@ -43,5 +43,5 @@ Lær hvordan du laver 3D modeller til spillet!
 * [Sabers](./models/sabers-guide.md)
 * [Avatarer](./models/avatars-guide.md)
 * [Platforme](./models/platforms-guide.md)
-* [Notes](./models/notes-guide.md)
+* [Noter](./models/notes-guide.md)
 * **Walls** Ingen guide er tilgængelig på dette tidspunkt, men der arbejdes på én.

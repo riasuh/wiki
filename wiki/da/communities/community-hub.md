@@ -2,20 +2,20 @@
 sidebar: auto
 ---
 
-# Community Hub
-A list of other communities outside of the Beat Saber Modding Group.
+# Fællesskabs Hub
+En liste over andre fællesskaber udenfor Beat Saber Modding Group.
 
 ---
 
 ## 115 Guild
-A community for all accuracy related discussions and events. Whether you want to show off and compare your skills or seek to improve and learn, everyone is welcome! We also have an accuracy campaign for earning ranks in the server, how far can you get?
+Et fællesskab for alle accuracy-relaterede diskussioner og begivenheder. Uanset om du ønsker at vise og sammenligne dine færdigheder eller forsøge at forbedre og lære, er alle velkomne! Vi har også en accuracy kampagne for få ranks på serveren, hvor langt kan du nå?
 
 [Discord](https://discord.gg/j8m8cxr)
 
 ---
 
 ## Acc Champ Community
-We are an Acc focused community that plans to be the new hub for Acc related events, training, and a new ranking system to help give specific info on each player's strengths and weaknesses in Acc categories.
+We are an Acc focused community that plans to be the new hub for Acc related events, training, and a new ranking system to help give specific info on each player's strengths and weaknesses in Acc categories. We also hold a custom campaign for those wanting to test their acc abilities against difficult requirements.
 
 [Discord](https://discord.gg/zd8W4rr)
 
@@ -75,6 +75,11 @@ Community for the BeatTogether mod. This mod allows crossplay between PC platfor
 [Discord](https://discord.com/invite/gezGrFG4tz)
 
 ---
+
+## ChroMapper
+ChroMapper is a community maintained map editor for Beat Saber. Built from the ground up, ChroMapper brings Beat Saber mapping to the next level with new visuals, graphics, and tools.
+
+[Discord](https://discord.gg/mMzzNSh) | [GitHub](https://www.github.com/Caeden117/ChroMapper)
 
 ## Cube Community
 Beat Saber gameplay spotlights, scoring guides, clip compilations, community events and more!

@@ -2,7 +2,9 @@
 
 ## Instalação
 
-:::warning Custom Platforms é um mod exclusivo para um PC. :::
+:::warning 
+Custom Platforms é um mod exclusivo para um PC.
+:::
 
 A última versão do mod Custom Platforms pode ser encontrado no [chat #pc-mods](https://discord.gg/beatsabermods) no Discord do BSMG ou no [Mod Assistant](https://github.com/Assistant/ModAssistant). Uma vez instalado, você verá uma pasta chamada `CustomPlatforms` na [sua pasta de instalação](/faq/install-folder.md). Aqui é onde você deve colocar o arquivo `*.plat` que você deseja usar.
 

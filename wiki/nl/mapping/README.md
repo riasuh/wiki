@@ -34,7 +34,7 @@ Goede level makers zijn niet in een dag gemaakt. Er is toewijding voor nodig zon
 
 1. Download de nodige hulpmiddelen voor het maken van levels: een [audiobewerker](https://www.audacityteam.org/) en een [levelbewerker](#map-editing-resources).
 2. [Stel je audiobestand in](#Audio-bewerkingsmaterialen), vind en bevestig de BPM, en exporteer het als .OGG bestandstype.
-3. Stel je nummer in in de leveleditor (stappen variëren per editor, maar hier is de [gebruikershandleiding](./mediocre-map-assistant.md) voor MMA2).
+3. Set up your song in your [mapping editor](#map-editing-resources) (steps vary by editor).
 4. Maak levels! Bekijk [standaard mapping praktijken](./basic-mapping.md) voordat je start. [Test](#playtesting) je eigen werk vroeg en vaak tijdens het maken van het level.
 5. Krijg verlichting! Bekijk [basis verlichting informatie](#lighting-practices). Eenvoudige handmatige verlichting is makkelijker dan je denkt!
 6. Zorg ervoor dat je level [getest](#playtesting) word! Het testen door anderen via de [BSMG Discord](https://discord.gg/beatsabermods) is sterk aanbevolen om constructieve feedback te krijgen en om je eigen "level blindheid" tegen te gaan.
@@ -74,7 +74,9 @@ Een dieper duik in het aanpassen van audiobestanden zoals kortere versies maken 
 ## Level bewerkingsmaterialen
 
 ### Community editors
-::: warning Community editors hebben vaak meer functies en hebben geen VR headset nodig, maar er kunnen ook bugs zijn, dus gebruik ze met dit in gedachten. :::: Toetsenbord snelkoppelingen voor deze editors zijn beschikbaar binnen hun respectievelijke in-editor menu's, met een kruisverwijzing tussen alle editors, die [hier](./editor-keybinds.md) beschikbaar zijn.
+::: warning
+Community editors hebben vaak meer functies en hebben geen VR headset nodig, maar er kunnen ook bugs zijn, dus gebruik ze met dit in gedachten.
+:::: Toetsenbord snelkoppelingen voor deze editors zijn beschikbaar binnen hun respectievelijke in-editor menu's, met een kruisverwijzing tussen alle editors, die [hier](./editor-keybinds.md) beschikbaar zijn.
 
 #### ChroMapper
 **Now in open beta!** A 3D editor that has stellar support for lighting, Chroma, Noodle Extensions, 360/90 mapping, and shares similar assets with Beat Saber, allowing for a more accurate preview. By FAR the most feature-rich editor available to the community.
@@ -82,7 +84,8 @@ Een dieper duik in het aanpassen van audiobestanden zoals kortere versies maken 
 Joining the [ChroMapper Discord](https://discord.gg/wFjZt4z) is encouraged to access plugins, scripts, and application support (mapping support is available in BSMG).
 
 * [ChroMapper Launcher Download](https://cm.topc.at/dl)
-* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki)
+* [ChroMapper First Time Setup Guide](https://chromapper.atlassian.net/wiki/spaces/UG/pages/917506/First-time+setup)
+* [ChroMapper Wiki](https://chromapper.atlassian.net/wiki/spaces/UG/overview)
 
 #### Mediocre Map Assistant 2
 MMA2 was used by the majority of the mapping community until the ChroMapper open beta.
@@ -356,7 +359,11 @@ Once your song has been mapped, lighted, and playtested and it’s a finished pr
     * AI maps intentionally uploaded as human-made will be deleted.
 5. Maps are initially uploaded to your unpublished tab. You must explicitly publish them to make them available to the public.
 
-::: tip NOTE Map files can now be updated on BeatSaver! If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can upload a new version. This will retain your map key and statistics but will reset all leaderboards. :::
+::: tip NOTE
+Map files can now be updated on BeatSaver!
+If you need to upload a new version of your map you must first recall the map to your unpublished tab before you can
+upload a new version. This will retain your map key and statistics but will reset all leaderboards.
+:::
 
 ### BeatSaver Troubleshooting
 Here are solutions for some common errors when uploading a Beatmap.  

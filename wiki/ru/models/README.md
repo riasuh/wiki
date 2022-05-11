@@ -16,7 +16,10 @@ All custom model mods were created separately by different people. Each mod has 
 ### ModelSaber
 [ModelSaber](https://modelsaber.com/) is the current repository for sabers, avatars, bloqs, and platforms. Он включает в себя предпросмотр изображений и ссылки для использовании функции OneClick&trade;.
 
-::: tip ПРИМЕЧАНИЕ Все модели вручную утверждаются перед их появлением на сайте. Please do not reupload any already existing models to the website. :::
+::: tip ПРИМЕЧАНИЕ
+Все модели вручную утверждаются перед их появлением на сайте.
+Please do not reupload any already existing models to the website.
+:::
 
 ### Discord
 You can also find an uncurated list _(with potentially more items)_ in the `#pc-models` channel on the [BSMG Discord](https://discord.gg/beatsabermods) for PC and [Qosmetics Discord](https://discord.gg/qosmetics) for Quest.

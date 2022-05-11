@@ -2,39 +2,41 @@
 sidebar: auto
 ---
 
-# Health and Safety
-_Can't hit bloq with vegetable arms!_
+# 健康和安全
+_脆弱的手臂可打不中方框的！_
 
-## General Tips
-Beat Saber can be a pretty physically demanding game and it is important to treat play sessions just like a workout. We strongly recommend that you stretch and warm up before each play session to avoid physical injury, including damage to the wrist and shoulders. Common injuries include repetitive strain injury (RSI) to the wrist and shoulders.
+## 一般提示
+节奏光剑可能对体能需求有较高要求，重要的是你可以把每一次游玩都当成是一次身体锻炼。 我们强烈建议你在每次游玩前进行伸展和热身运动以避免受伤。像手腕或者手臂会容易受伤。 比较普遍的情况是手腕和肩膀的重复性使力伤害。
 
-Stretching isn't just limited to people playing crazy custom songs either, you can injure yourself even if a map seems short or simple.
+伸展运动并不只适合那些玩超难自定义歌曲的玩家，有些看起来很短或者简单的谱面也会让你受伤。
 
-> _Remember to stay hydrated, and breathe!_
+> _别忘了注意补充水分并且调整呼吸！_
 
-## Tino's Guide to Warm Up and Recovery
-Tino is a top 10 player in Canada who kindly wrote a very detailed guide covering proper warm up, recovery, and injury relief. [Check it out here!](https://docs.google.com/document/d/122rd-eU0mkwQ6fXUwSmo1_XAh73Jyqd1u6ncrUjtkD0/)
+## Tino 的热身和恢复训练指南
+Tino 是加拿大前十的玩家，他写了一份详细的指南，教你如何热身，恢复以及缓解疼痛。 [在这里查看！](https://docs.google.com/document/d/122rd-eU0mkwQ6fXUwSmo1_XAh73Jyqd1u6ncrUjtkD0/)
 
-## Wrist Care
+## 保护手腕
 
-### Weights?
-Generally, we **do not recommend** using weights for this game. Beat Saber is already a workout and people hurt themselves all the time without weights. You're basically subjecting your wrists to constant whiplash, and adding weights is only going to make things worse.
+### 配重？
+一般我们**不推荐**在玩游戏时加配重。 节奏光剑已经是一种锻炼了，而且大家经常在没有配重的情况下受伤。 基本上来说，你在玩的时候已经让手腕持续磨损，增加配重只会让情况更糟。
 
-If you insist on using weights then please at least check out [this guide](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) by VR Fitness Insider to minimize the risk of injury.
+如果你坚持要加配重，请您至少阅读一下 [这篇由VR Fitness 写的指南](https://www.vrfitnessinsider.com/beat-saber-weighted-gear/) 来将受伤的风险最小化。
 
-### Dr Levi Harrison's Tips
-Dr. Levi has saved the wrist of countless players with his videos, and he's made a video specifically covering some exercises to help prevent injury from playing Beat Saber! We **highly** recommend his tips!
+### Levi Harrison 博士的建议
+Levi 博士在他的视频里已经保护了无数玩家的手腕。他制作了一个视频展示了一些热身运动来防止您在游玩节奏光剑时受伤！ 我们 **非常** 推荐他的建议！
 
 <YouTube url='https://www.youtube.com/watch?v=IoL1NOKUmoU' />
 
-## Safety
-Keep your playspace clear of obstructions, allow adequate room around during gameplay, and always wear your wrist straps.
+## 安全
+请保持您的游玩空间中没有障碍物，留有足够的预留空间，并且一直戴好腕带。
 
-![Allow Adequate Room Around You](~@images/health-and-safety/allow-adequate-room-around-you.png "Allow Adequate Room Around You")
+![保持身边有足够的预留空间](~@images/health-and-safety/allow-adequate-room-around-you.png "保持身边有足够的预留空间")
 
-::: warning NOTE Beat Saber is not available for the Nintendo Wii, this image is used for informative purposes only. :::
+::: warning 备注
+节奏光剑不支持Nintendo Wii，这张图只是让你更好地理解我们所想要表达的意思而已。
+:::
 
-## A Short Message from TammyMatty
-To reduce the risk of physical injury, always remember to stretch before and after playing Beat Saber. Please consider the following:
+## 来自 TammyMatty 的小提示
+在游玩节奏光剑的前后一定要做伸展运动来减小受伤的风险。 请注意以下事项：
 
 ![Wammy](~@images/health-and-safety/wammy.gif "Wammy")

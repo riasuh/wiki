@@ -1,7 +1,7 @@
 # Modを作る
 
 ## Modの導入
-Beat Saber _**does not**_ have built in mod support.
+ビートセイバーはmodを_**サポートしていません**_。
 
 ほとんどのModは[BSIPA (Beat Saber Illusion Plugin Architecture)](https://github.com/nike4613/BeatSaber-IPA-Reloaded/)を利用してゲームにModを導入しています。そのほかのツールなどもこのソフトを利用しています。
 

@@ -33,7 +33,9 @@ Deberías ver la lista de reproducción junto al álbum de niveles personalizado
 ### Quest
 Puedes usar [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) para administrar las listas de tus Quest. Ten en cuenta que un nivel personalizado sólo puede aparecer sólo una vez dentro del juego debido a una limitación con BMBF.
 
-:::warning ADVERTENCIA para usuarios de Quest Volver a cargar tu carpeta Custom Songs restablece toda la organización de la lista de reproducción. :::
+:::warning ADVERTENCIA para usuarios de Quest
+Volver a cargar tu carpeta Custom Songs restablece toda la organización de la lista de reproducción.
+:::
 
 ## ¿Cómo creo mis propios niveles personalizados?
 ¡Echa un vistazo a [Mapping](/mapping/)!
@@ -42,12 +44,12 @@ Puedes usar [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playl
 Mira [esta sección](/pc-modding.md#manual-installation) en la guía de principiantes.
 
 ## ¿El multijugador tiene crossplay?
-Oficialmente, el multijugador se limita a jugar con otras personas en la versión de la tienda (Oculus/Steam) que hayas comprado. Además, modificar el juego en Quest desactiva el multijugador oficial.
+Cross-play between Quest and PC versions of the game is now available! All players will need to be on the latest version for this to work. Additionally, modifying the game on Quest disables official multiplayer.
 
 El mod BeatTogether es la solución actual para el juego multiplataforma entre las versiones del juego modificadas. Únete a su [servidor de Discord](https://discord.com/invite/gezGrFG4tz) y revisa el canal `#install-instructions` para más información.
 
 ## ¡Mi juego se actualizó y ahora ninguno de mis mods está funcionando!
-Cada vez que el juego se actualiza es posible *(y muy probablemente)* que tus mods actuales dejen de funcionar y necesiten ser actualizados. Para asegurarte de que tu instalación no se rompe cuando el juego se ejecute en una nueva actualización por primera vez, todo lo que hay en la carpeta `Plugins` es movido automáticamente a una nueva carpeta llamada `Old 1.xx.x Plugins`. **¡Deja esos plugins/mods ahí!**
+Cada vez que el juego se actualiza es posible *(y muy probablemente)* que tus mods actuales dejen de funcionar y necesiten ser actualizados. Para asegurarte de que tu instalación no se rompe cuando el juego se ejecute en una nueva actualización por primera vez, todo lo que hay en la carpeta `Plugins` es movido automáticamente a una nueva carpeta llamada `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!** Please do not drag these mods back into the `Plugins` folder, as it is known to cause issues.
 
 Para recuperar tus mods simplemente **ejecuta el instalador de nuevo.**  
 ¡El repositorio de BeatMods sólo incluye mods que han sido confirmados para trabajar en la última versión del juego!

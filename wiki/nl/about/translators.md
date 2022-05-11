@@ -58,3 +58,15 @@ Als je mee wilt doen met jouw taal, kan je [soliciteren voor het helpen met vert
 * OnderHond
 * RedBrumbler
 * Rusty69
+
+## Japanese | 日本語
+
+### Translators
+
+* azarashinomori
+* Korp13
+* mikuri
+  * [Twitter](https://twitter.com/mikuri_kuri)
+* oxamera
+* Syrayra
+  * [Twitter](https://twitter.com/Syrayra)

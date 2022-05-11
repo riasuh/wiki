@@ -2,33 +2,33 @@
 sidebar: auto
 ---
 
-# Regional Hub
-A list of other regional communities outside of the Beat Saber Modding Group.
+# Regionale Hub
+En liste over andre regionale fællesskaber udenfor Beat Saber Modding Group.
 
 ---
 
-## Africa
-*None yet.*
+## Afrika
+*Ingen endnu.*
 
 ---
 
-## Americas
+## Amerika
 
 ### Canada
 
 #### Beat Saber Canada
-The official Discord for the Canadian Beat Saber community!
+Den officielle Discord for det canadiske Beat Saber fællesskab!
 
 [Discord](https://discord.gg/vvq7wX3)
 
 ---
 
-## Asia
+## Asien
 
-### Beat Saber Asia
-Community for Asian players and VR organizations. We have a limited quota for International members depending on our server size.
+### Beat Saber Asien
+Fællesskab for asiatiske spillere og VR-organisationer. Vi har en begrænset kvote for internationale medlemmer afhængigt af vores serverstørrelse.
 
-[Application](https://forms.gle/Ga3jWoCkugPBD6BZ6)
+[Applikation](https://forms.gle/Ga3jWoCkugPBD6BZ6)
 
 ---
 

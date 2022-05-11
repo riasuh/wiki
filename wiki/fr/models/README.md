@@ -16,7 +16,10 @@ Tous les mods permettant l'utilisation de modèles personnalisés ont été cré
 ### ModelSaber
 [ModelSaber](https://modelsaber.com/) est la source actuelle pour les sabres, avatars, bloqs et plateformes. Le site inclut la prévisualisation d'images et les liens d'installation OneClick&trade;.
 
-::: tip NOTE Tous les modèles sont approuvés manuellement avant leur apparition sur le site. Veuillez ne pas republier des modèles déjà existants sur le site. :::
+::: tip NOTE
+Tous les modèles sont approuvés manuellement avant leur apparition sur le site.
+Veuillez ne pas republier des modèles déjà existants sur le site.
+:::
 
 ### Discord
 Vous pouvez également trouver une liste désorganisée _(avec potentiellement plus de modèles)_ dans le canal `#pc-models` du [Discord BSMG](https://discord.gg/beatsabermods) pour PC et dans le [Discord Qosmetics](https://discord.gg/qosmetics) pour Quest.

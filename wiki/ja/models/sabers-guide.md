@@ -77,11 +77,18 @@ I won’t go into detail about making a 3d model. If you don't have already have
 
 Once the saber is done, you can export it by choosing File-Export, choosing the desired file format, and importing it into unity.
 
-::: tip NOTE OBJ is best used for simple sabers. FBX is best used for complex sabers that have rigging or animations. :::
+::: tip NOTE
+OBJ is best used for simple sabers. FBX is best used for complex sabers that have rigging or animations.
+:::
 
 ![Exporting saber as FBX](~@images/models/sabers/09.png)
 
-::: tip NOTE You don't have to export both sabers if they both have the exact same shape. If they're identical, exporting one should be good enough. ::: ::: tip NOTE Merging meshes that share the same color/glowing attributes will help a LOT in the long run. :::
+::: tip NOTE
+You don't have to export both sabers if they both have the exact same shape.
+If they're identical, exporting one should be good enough.
+::: ::: tip NOTE
+Merging meshes that share the same color/glowing attributes will help a LOT in the long run.
+:::
 
 ## Unityでの操作
 モデルをUnityへインポートする方法は、アセットウィンドウにモデルをドラッグアンドドロップするだけです。 その後、モデルをテンプレートセイバーの横に並べます。 動画：
@@ -101,7 +108,9 @@ Once the saber is done, you can export it by choosing File-Export, choosing the 
 
 ::: warning 警告 ビートセイバーと互換性のあるシェーダー*のみ*使用してください。 互換性のないシェーダー(Unity標準シェーダーなど)を使用すると、ゲーム内で白として表示されます。 :::
 
-::: tip 補足 シェーダーの互換性の詳細については、このガイドの高度なシェーダーのプロパティセクションをご覧ください。 :::
+::: tip 補足
+シェーダーの互換性の詳細については、このガイドの高度なシェーダーのプロパティセクションをご覧ください。
+:::
 
 マテリアルを適用するビデオ例:
 

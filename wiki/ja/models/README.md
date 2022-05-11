@@ -16,7 +16,10 @@ description: 3DモデルMODのインストール、使用方法、作成ガイ�
 ### ModelSaber
 [ModelSaber](https://modelsaber.com/) - PCのカスタムセーバー、アバター、ブロック、およびプラットフォームがダウンロードできます！ プレビューがみれたりOneClick&trade; があったりします。
 
-::: tip NOTE 全てのモデルは、サイト掲載前に手動で承認されます。 既存モデルの再アップロードはご遠慮ください。 :::
+::: tip NOTE
+全てのモデルは、サイト掲載前に手動で承認されます。
+既存モデルの再アップロードはご遠慮ください。
+:::
 
 ### ディスコード
 PCでは[BSMG Discord](https://discord.gg/beatsabermods) の`#pc-models`チャンネル、クエストでは[Qosmetics Discord](https://discord.gg/qosmetics)で精錬されていないモデルも（それでも多くの）見つけることができます。

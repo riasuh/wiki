@@ -34,7 +34,9 @@ Vous devriez maintenant voir la playlist à côté de l'album des niveaux person
 **Pour les utilisateurs de Quest :**  
 Vous pouvez utiliser [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) pour gérer les playlists sur votre Quest. Notez qu'un niveau personnalisé ne peut apparaître qu'une seule fois en jeu en raison d'une limitation avec BMBF.
 
-:::warning ATTENTION pour les utilisateurs de Quest Recharger votre dossier des chansons personnalisées réinitialise toute organisation de playlist. :::
+:::warning ATTENTION pour les utilisateurs de Quest
+Recharger votre dossier des chansons personnalisées réinitialise toute organisation de playlist.
+:::
 
 ## Comment faire mes propres niveaux personnalisés ?
 Rendez-vous dans la [catégorie mapping](/fr/mapping/) !
@@ -43,12 +45,12 @@ Rendez-vous dans la [catégorie mapping](/fr/mapping/) !
 Voir [cette section](/fr/pc-modding.md#installation-manuelle) dans le Guide de modding PC.
 
 ## Est-ce que le multijoueur est multiplateforme ?
-Officiellement, le multijoueur se limite aux joueurs de la même version du jeu selon le magasin (Oculus / Steam) dans lequel vous l'avez acheté. De plus, modifier le jeu sur Quest désactive le multijoueur officiel.
+Cross-play between Quest and PC versions of the game is now available! All players will need to be on the latest version for this to work. Additionally, modifying the game on Quest disables official multiplayer.
 
 Le mod BeatTogether est la solution actuelle permettant le multiplateforme entre les versions moddées du jeu. Rejoignez leur [serveur Discord](https://discord.com/invite/gezGrFG4tz) (anglophone) et consultez le salon `#install-instructions` pour plus d'informations.
 
 ## Mon jeu a été mis à jour et mes mods ne fonctionnent plus !
-À chaque fois que le jeu est mis à jour, il est possible *(et très probable)* que vos mods ne fonctionnent plus et doivent être mis à jour. Afin de ne pas casser votre installation du jeu après une mise à jour, le contenu du dossier `Plugins` existant est déplacé dans un nouveau dossier nommé `Old 1.xx.x Plugins` lors du premier lancement. **Laissez-les à cet emplacement !**
+À chaque fois que le jeu est mis à jour, il est possible *(et très probable)* que vos mods ne fonctionnent plus et doivent être mis à jour. Afin de ne pas casser votre installation du jeu après une mise à jour, le contenu du dossier `Plugins` existant est déplacé dans un nouveau dossier nommé `Old 1.xx.x Plugins` lors du premier lancement. **Leave those plugins/mods in there!** Please do not drag these mods back into the `Plugins` folder, as it is known to cause issues.
 
 Pour récupérer vos mods, **lancez simplement l'installateur de mods.**  
 Vous y trouverez les mods qui fonctionnent pour la dernière version du jeu, qui sont inclus dans le dépôt BeatMods !

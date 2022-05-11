@@ -1,7 +1,7 @@
 # Ofte Stillede Spørgsmål
 
 ## Jeg har lige fået spillet. Hvordan kommer jeg i gang?
-Check out our [beginner's guide](/beginners-guide.md)!
+Tjek vores [begynders guide](/beginners-guide.md)!
 
 ## Hvordan får jeg flere baner?
 > [BeatSaver](https://beatsaver.com) er hovedarkivet for brugerskabte baner fra fællesskabet. Mange andre værktøjer og websteder forbedrer oplevelsen af at downloade brugerskabte baner, men dette er stedet, hvor de er opbevaret.
@@ -9,57 +9,59 @@ Check out our [beginner's guide](/beginners-guide.md)!
 Hvis du henter baner manuelt fra BeatSaver, så udpak dem i en mappe og placér filerne i `Beat Saber/Beat Saber_Data/CustomLevels`. Dette er den mappe, som spillet indbygget læser brugerskabte baner fra.
 
 ### BeastSaber
-[Beast Saber](https://www.bsaber.com) is a review site that aims to curate all of the songs on BeatSaver. You can also download playlists, follow mappers, find songs using advanced sorting methods and more.
+[Beast Saber](https://www.bsaber.com) er en anmeldelses side, der har til formål at kuratere alle sangene på BeatSaver. Du kan også downloade playlister, følge mappers, finde sange ved hjælp af avancerede sorteringsmetoder og meget mere.
 
 ### Sangstyringsværktøjer
 
-The following can be used to help you manage custom songs or playlists.
+Følgende kan bruges til at hjælpe dig med at administere custom sange eller playlister.
 
-* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) is a desktop app to manage custom songs and playlists, maintained by **ranmd9a**.
-* [BeaterList](https://syltaris.github.io/beaterlist) is a browser based service by **zexurge** to manage playlists.
+* [BeatList](https://github.com/ranmd9a/beatlist/releases/latest) er en desktop app der administerer custom sange og playlister, vedligeholdt af **ranmd9a**.
+* [BeaterList](https://syltaris.github.io/beaterlist) er en browser baseret tjeneste lavet af **zexurge** for at administere playlister.
 
-## Hvordan installere jeg playlister?
+## Hvordan installerer jeg playlister?
 
 ### PC
-You need to install the [PlaylistManager](https://github.com/rithik-b/PlaylistManager/releases/latest) mod.
+Du skal installere [PlaylistManager](https://github. com/rithik-b/PlaylistManager/releases/latest) modden.
 
-Then you can either:
+Så kan du enten:
 
-* Use the `Install Playlist` tool in the Options tab of Mod Assistant.
-* Place the playlist file into `Beat Saber/Playlists`, select the playlist title header in-game, then hit download all songs.
+* Bruge værktøjet `Install Playlist` i fanen Indstillinger i Mod Assistant.
+* Placer playlistfilen i `Beat Saber/Playlists`, vælg playlisten inde i spillet, og tryk derefter på "download all songs".
 
-You should see the playlist next to the Custom Levels album's in-game. The mod also supports managing playlists in-game.
+Du burde se playlisten ved siden af Custom Levels albummet inde i spillet. Modden understøtter også håndtering af playlister inde i spillet.
 
 ### Quest
-You can use [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) to manage the playlists on your Quest. Note that a custom level can only appear once in-game due to a limitation with BMBF.
+Du kan bruge [Playlist Editor Pro](https://beatsaberquest.com/bmbf/my-tools/playlist-editor-pro/) til at administrere playlisterne på din Quest. Bemærk, at en custom bane kun kan vises én gang inde i spillet på grund af en begrænsning med BMBF.
 
-:::warning WARNING for Quest Users Reloading your Custom Songs Folder resets all playlist organization. :::
+:::advarsel ADVARSEL til Quest brugere
+Genindlæsning af dine Custom Sange Mappe nulstiller alt playlist organisering.
+:::
 
-## How do I make my own custom levels?
-See [mapping](/mapping/)!
+## Hvordan laver jeg mine egen baner?
+Se [mapping](/mapping/)!
 
-## How do I load PC mods that aren't in Mod Assistant?
-See [this section](/pc-modding.md#manual-installation) in the beginners guide.
+## Hvordan kan jeg få PC mods, der ikke er i Mod Assistant?
+Se [denne sektion](/pc-modding.md#manual-installation) i begynderguiden.
 
-## Does multiplayer have crossplay?
-Officially, multiplayer is limited to playing with other people in the store version (Oculus/Steam) you purchased. Additionally, modifying the game on Quest disables official multiplayer.
+## Har multiplayer crossplay?
+Cross-play between Quest and PC versions of the game is now available! All players will need to be on the latest version for this to work. Additionally, modifying the game on Quest disables official multiplayer.
 
-The BeatTogether mod is the current solution for cross-platform play between the modded game versions. Join their [Discord server](https://discord.com/invite/gezGrFG4tz) and check the `#install-instructions` channel for more information.
+BeatTogether modden er den aktuelle løsning for at spille cross-platform mellem de moddede spilversioner. Tilslut deres [Discord server](https://discord.com/invite/gezGrFG4tz) og tjek `#install-instructions` kanalen for mere information.
 
-## My game updated and now none of my mods are working
-Each time the game updates it is possible *(and very likely)* that your existing mods will stop working and need to be updated. To make sure your install will not break when the game runs on a new update for the first time, everything in the `Plugins` folder is automatically moved into a new folder called `Old 1.xx.x Plugins`. **Leave those plugins/mods in there!**
+## Mit spil opdaterede og nu virker ingen af mine mods
+Hver gang spillet opdateres, er det muligt *(og meget sandsynligt)* at dine eksisterende mods vil stoppe med at virke og skal opdateres. For at sikre, at din installation ikke går i stykker, når spillet kører på en ny opdatering for første gang alt i `Plugins` mappen flyttes automatisk til en ny mappe kaldet `Old 1.x.x plugins`. **Leave those plugins/mods in there!** Please do not drag these mods back into the `Plugins` folder, as it is known to cause issues.
 
-To get mods back, simply **run the installer again.**  
-The BeatMods repository only includes mods that have been confirmed to work on the latest version of the game!
+For at få mods tilbage, skal du blot **køre installationsprogrammet igen.**  
+BeatMods repositoriet indeholder kun mods, der er blevet bekræftet til at virke på den seneste version af spillet!
 
-If you're confused by any of this, visit [Beginners Guide](/beginners-guide.md).
+Hvis noget af dette forvirrer dig, så besøg [Beginners Guide](/beginners-guide.md).
 
-## How does the scoring system work in Beat Saber? How does global ranking work?
-We have sections on the [grips and tricks](/grips-and-tricks.md) page dedicated to the scoring and ranking systems, check them out!
+## Hvordan fungerer pointsystemet i Beat Saber? Hvordan fungerer global ranking?
+Vi har sektioner på [grips and tricks](/grips-and-tricks.md) siden dedikeret til scorings- og ranking systemerne, tjek dem ud!
 
-## My menus are blank and I have nothing to click on
-If the main window in your game is blank, your save file likely got corrupted.
+## Mine menuer er blanke, og jeg har intet at klikke på
+Hvis hovedvinduet i dit spil er tom, blev din save fil sandsynligvis beskadiget.
 
-To fix it, navigate to: `%AppData%\..\LocalLow\Hyperbolic Magnetism`
+For at ordne det, så naviger til: `%AppData%\..\LocalLow\Hyperbolic Magnetism`
 
-Delete or rename the Beat Saber folder to something else. When you re-enter the game, it'll recreate the save file and should load the main menu properly.
+Slet eller omdøb Beat Saber-mappen til noget andet. Når du går ind i spillet igen, vil den genskabe save filen og burde indlese hovedmenuen korrekt.
