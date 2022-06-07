@@ -77,11 +77,18 @@ Ich werde nicht ins Detail gehen, um ein 3D-Modell zu erstellen. Wenn du noch ke
 
 Sobald das Saber fertig ist, kannst du ihn exportieren, indem du beim Datei-Export das gewünschte Dateiformat auswählst und die Datei bei Unity importieren.
 
-::: tip HINWEIS OBJ wird am besten für einfache Saber benutzt. FBX eignet sich am besten für komplexe Saber, die Rigging oder Animationen haben. :::
+::: tip HINWEIS
+OBJ wird am besten für einfache Saber benutzt. FBX eignet sich am besten für komplexe Saber, die Rigging oder Animationen haben.
+:::
 
 ![Exportiere die Saber als FBX Datei](~@images/models/sabers/09.png)
 
-::: tip HINWEIS Du musst nicht beide Saber exportieren, wenn sie die gleiche Form haben. Wenn sie identisch sind, sollte es reichen, eins zu exportieren. ::: ::: tip HINWEIS Das Zusammenfassen von Meshes, die dieselben Farb-/Leuchtattribute haben, wird auf Dauer sehr hilfreich sein. :::
+::: tip HINWEIS
+Du musst nicht beide Saber exportieren, wenn sie die gleiche Form haben.
+Wenn sie identisch sind, sollte es reichen, eins zu exportieren.
+::: ::: tip HINWEIS
+Das Zusammenfassen von Meshes, die dieselben Farb-/Leuchtattribute haben, wird auf Dauer sehr hilfreich sein.
+:::
 
 ## Unity
 Um das Modell in Unity zu importieren, ziehe es einfach per Drag & Drop in das Assets-Fenster. Richte das Saber anschließend mit dem TemplateSaber aus. Video Beispiel:
@@ -101,7 +108,9 @@ Das Material, das du benutzen willst hängt von den Eigenschaften ab, die du hab
 
 ::: warning WARNUNG Stelle sicher, dass du *EXKLUSIV* Shader benutzt, die kompatibel mit Beat Saber sind. Falls du einen Shader benutzt der nicht kompatibel ist (z. B. der Unity Standard Shader), wird das Material im Spiel nur als Weiß angezeigt. :::
 
-::: tip HINWEIS Weitere Informationen zur Shader-Kompatibilität findest du im Abschnitt "Erweiterte Shader-Eigenschaften" in diesem Handbuch. :::
+::: tip HINWEIS
+Weitere Informationen zur Shader-Kompatibilität findest du im Abschnitt "Erweiterte Shader-Eigenschaften" in diesem Handbuch.
+:::
 
 Video Beispiel der Anwendung von Materialien:
 

@@ -8,17 +8,22 @@ Eu boto código Java junto e funciona a maior parte do tempo. Fellow crippling M
 
 [Twitter](https://twitter.com/24Kings_Rock) | [Twitch](https://twitch.tv/24Kings) | [GitHub](https://github.com/The24Kings)
 
-## Burrito
-Ironicamente não gosta de burritos, pensa que tacos são melhores (fatos verdadeiros)
+## BlueRay
+"Tired at all times"
 
-**Cargos:** Moderador, Support
+**Roles:** Moderator
+
+## Burrito
+Ironically doesn't like burritos, thinks tacos are better (true facts)
+
+**Roles:** Moderator, Support
 
 [Twitter](https://twitter.com/BurritoSOFTWARE) | [GitHub Sponsors](https://github.com/sponsors/burritosoftware) | [Tip](https://streamelements.com/burritosoft/tip)
 
 ## Chara_
 crippling destiny addiction
 
-**Cargos:** Support, 3D Artists, Moderador
+**Roles:** Support, 3D Artists, Moderator
 
 [Qosmetics Community](https://discord.gg/qosmetics) | [YouTube](https://www.youtube.com/c/CharaHere) | [Twitter](https://twitter.com/ItsCharaHere)
 
@@ -28,11 +33,6 @@ Camellia is SourPls
 **Roles:** Mapper, Moderator
 
 [Twitch](https://www.twitch.tv/hydrandvr)
-
-## John
-"Tired at all times"
-
-**Roles:** Moderator
 
 ## Kuru
 All they can say is that the R in Kuru stands for Rat

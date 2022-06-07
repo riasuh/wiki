@@ -69,21 +69,21 @@ Option 2:
 6. Go to the `Plugins` folder you made, and drop the latest `MappingExtensions.dll` inside which can be found on [BeatMods](https://beatmods.com/).
 7. You are now ready to do [map setup!](#map-setup-in-mediocre-map-assistant-2)
 
-#### Map Setup in Mediocre Map Assistant 2
+#### Mediocre Map Assistant 2の設定
 
-1. [Open Mediocre Map Assistant 2](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
-2. In the Settings bar on the right, 3 new tick box options should be available under the Beta section:
-   * **6 Lane Mode** - Extends the number of lanes available to map blocks to from 4 to 6. Also enables placement of walls outside of the lanes.
-   * **Precision Placement** - Allows blocks, walls, and bombs to be placed at a finer resolution than the current grid.
-   * **Precision Rotation** - Allows blocks to be angled at any angle instead of the default 45-degree increments.
-3. Enable the desired features by clicking the checkboxes. For example, wall mapping needs 6 Lane and Precision Placement.
-4. Select the level you want to map in and click on the ExtraFields tab to the right of the difficulty select.
-5. Click the Requirements tab and then type in `Mapping Extensions`. :::warning
-The text you enter in the requirements has to be exact or else the features will not enable in editor.
+1. [Mediocre Map Assistant 2を開く](https://git.bsmg.wiki/Top_Cat/MediocreMapAssistant2/releases/latest)
+2. 右側の設定項目のベータ版セクションの下に3つの新しいチェックボックスが表示されます。
+   * **6 レーンモード** - ブロックを4レーンから6レーンまでおけるように拡張します。 また、レーン買いに壁を置くこともできます。
+   * **Precision Placement** -細かく位置調整ができます。
+   * **Precision Rotation** - デフォルトの45度単位ではなく、任意の角度でブロックを傾けることができます。
+3. チェックボックスをクリックして目的の機能を有効にします。 例えば、ウォールマッピングには6レーンとプレシジョンプレイスメントが必要です。
+4. マッピングするレベルを選択し、難易度選択の右側にあるExtraFieldsタブをクリックします。
+5. Requirementsタブをクリックし`Mapping Extensions`を追加します。 :::warning
+Requirementsに入力するテキストは正確でなければ、機能が有効になりません。
 :::
-6. Click the Add button to add it to the requirements.
-7. Click Save song infos in the bottom left corner.
-8. Click Edit Level and you are good to go!
+6. Addボタンをおして追加します。
+7. 左下のSave songをクリックします。
+8. Edit Levelをクリックしたら準備完了です。
 
 ### Multi-Lane Mapping
 ::: tip NOTE MMA2 only supports up to 6 lanes. If you wish to use more than 6 lanes, consider using other map editors like **ChroMapper**. :::

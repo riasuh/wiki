@@ -1,11 +1,13 @@
 ---
 home: true
-title: BSMG Wiki
 heroText: BSMG Wiki
-tagline: Velkommen til Beat Saber Modding Group Wiki!
+tagline: Welcome to the Beat Saber Modding Group Wiki!
 description: Velkommen til Beat Saber Modding Group Wiki!
-actionText: Begynderguide →
-actionLink: ./beginners-guide.md
+actions:
+  - 
+    text: Beginners Guide →
+    link: ./beginners-guide.md
+    type: secondary
 footer: Copyright © 2019-2022 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
   - bsmg
@@ -13,10 +15,11 @@ tags:
   - modding
   - wiki
   - support
-  - hjælp
-  - hvordan er beat saber baner lavet?
+  - help
+  - how are beat maps make?
 ---
 
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
@@ -42,11 +45,11 @@ tags:
 :::
 
 </div>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-## Eksterne links
+<h2 class='noborder'>External Links</h2>
+<!-- markdownlint-enable MD033 -->
 
 * [Tilmeld dig Discord-serveren!](https://discord.gg/beatsabermods)
 * [Kontakt Os](https://bsmg.dev/contact) - Tilbyd dine færdigheder, sponsorere os, appellere en server mute/ban, rapporter en bruger, osv.

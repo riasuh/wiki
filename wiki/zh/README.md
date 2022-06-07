@@ -1,11 +1,13 @@
 ---
 home: true
-title: BSMG Wiki
 heroText: BSMG Wiki
-tagline: 欢迎来到 Beat Saber Modding Group Wiki ！
+tagline: Welcome to the Beat Saber Modding Group Wiki!
 description: 欢迎来到 Beat Saber Modding Group Wiki ！
-actionText: 新手指南 →
-actionLink: ./beginners-guide.md
+actions:
+  - 
+    text: Beginners Guide →
+    link: ./beginners-guide.md
+    type: secondary
 footer: Copyright © 2019-2022 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
   - bsmg
@@ -17,6 +19,7 @@ tags:
   - how are beat maps make?
 ---
 
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
@@ -45,11 +48,11 @@ tags:
 :::
 
 </div>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-## 相关链接
+<h2 class='noborder'>External Links</h2>
+<!-- markdownlint-enable MD033 -->
 
 * [加入 Discord 服务器！](https://discord.gg/beatsabermods)
 * [联系我们](https://bsmg.dev/contact) - 为你提供支持、赞助我们、 申诉 Discord 禁言或黑名单、 举报用户等。

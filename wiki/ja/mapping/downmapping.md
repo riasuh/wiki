@@ -1,30 +1,30 @@
 ---
 sidebar: auto
 tags:
-  - full spread
-  - lower difficulties
-  - lower difficulty
+  - フルスプレッド
+  - 低難易度
+  - 低難易度
 description: |
   A robust guide on mapping lower difficulties.
 ---
 
-# Downmapping
+# ダウンマッピング
 
-**Downmapping** is the process of taking your initial difficulty, breaking it down into its core ideas and motifs, and then translating those ideas as appropriate for other respective skill levels.
+**ダウンマッピング**はあなたが最初に作った難易度の核となるアイデアやコンセプトをそれぞれのスキル帯に応じて配置しなおすことを言います。
 
-While the process of downmapping may look daunting to the average mapper as opposed to releasing just a single difficulty, there are a variety of benefits that draw many to the process.
+ダウンマッピングは普通マッパーにすると、一つの難易度を作ることよりも難しいことに見えるかもしれません。しかし、ダウンマッピングにはいくつかのメリットがあります。
 
-* Having multiple difficulties can make your map more enticing for a greater audience of players, regardless of their skill level and experience with the game.
-* A solid difficulty curve keeps players coming back to your maps over and over again as they improve, and allows you to build a reputation among all levels of players that will stick with them for all your future maps.
-* The process can also reinforce fundamental mapping skills with greater consideration for musical representation, body mechanics, and accessibility to the wider playerbase.
+* 複数の難易度があることでプレイヤーのスキルや経験にかかわらず多くの人があなたの譜面を楽しむことができるようになります。
+* 難易度が徐々に上がる譜面であれば、プレイヤーのスキルが上達するに従いさまざまな難易度に挑戦することができます。さらに、幅広いスキルレベルのプレイヤーからの評判を獲得することで、将来あなたの譜面を遊んでくれる機会が多くなります。
+* この過程では、音楽表現や体の動き、幅広いプレイヤーが快適に遊べる配置などの基本的なマッピングスキルを強化することができます。
 
-While some mappers may not be concerned with big download numbers or cultivating a larger playerbase, downmapping is still something to consider at any point in a mapper’s journey.
+一部のマッパーはダウンロード数やプレイヤー数を気にしないでしょうが、ダウンマッピングはマッパー道には必要不可欠です。
 
-There are no finite rules when it comes to downmapping, as there is no correct way to create a spread of difficulties. In fact, most mappers can neglect some of these guidelines and still manage to make a quality spread of difficulties. Instead, we will provide a robust series of guidelines on how to spice up your lower difficulties, with explanations for why downmappers have come to adopt these insights as well as other tips that can help you make engaging lower difficulties that anyone, regardless of skill level or experience, can enjoy.
+複数の難易度をつくる正しい方法はないので、ダウンマッピングに決まったルールは多くはいです。 実際には、ほとんどのマッパーはこのガイドラインを無視し、マップのクオリティを維持したままダウンマッピングを行っています ここでは、低難易度をいかに楽しく作るかについて確かなガイドラインを提供するとともに、ダウンマッピングに必要な着眼点や役立つヒントを紹介します。経験やスキルにかかわらず楽しむことができるでしょう。
 
 For a more simplified explanation on the basics of downmapping, you can check out in [Basic Mapping: Gauging Difficulty & Down-Mapping](./basic-mapping.md#gauging-difficulty-down-mapping).
 
-## Know Your Demographic
+## 統計を学ぶ
 
 Truthfully, the guidelines you will want to incorporate when building lower difficulties will depend on the demographic of players you tailor your map for. Most mappers will rely on methodologies that are directed towards *accessibility*, modeled after a community interpretation of conventional mapping practices from the base game. While some of these guidelines may not be adopted by the official mapping team verbatim, they were formed from observations of various players, watching as they play through a wide range of lower difficulties and taking into account their natural tendencies for a wide range of patterns.
 
@@ -111,13 +111,13 @@ Do not expect a player at this level to be able to maneuver their hands behind e
 
 From there, players will eventually work their way up to the **Normal** difficulty. You can expect the Normal player to be less distracted and have a larger grasp of Beat Saber’s core premise as a game. They are more likely to understand obstacles and read notes as opposed to just swinging for them. That said, they still need a good amount of time to properly react and recover, especially at any memorable moments in a map, and they will still try to reset at any given opportunity. Big, flashy movements with a lot of time before and after are a great way to win a normal player’s heart.
 
-#### Breaking Parity
+#### パリティを破る
 
-I already know what you’re thinking. Why build a lower difficulty around a design philosophy which abandons the very concept that is required to progress to the higher difficulties? It seems counterintuitive, but this approach proves to be more effective when you take into consideration the general limitations of players at this level of skill.
+あなたが考えていることがわかります。 なぜ高い難易度では必要な基本的な概念を捨てて低い難易度を作らなければいけないのですか。 直感に反するようですが、この方法は、対象とするのプレイヤーのスキルからの制限を考えると効果的な方法であることがわかります。
 
-Remember, Easy and Normal players will generally be inexperienced to Beat Saber, to VR, and possibly to rhythm games in general. With this lack of experience, they will likely neglect to grasp the nuances of higher-level mechanics and concepts, such as the very nature of “flow” that more experienced players will have a greater understanding of. By this expectation, it may be better to anchor the mapping style to play into those natural tendencies and build the difficulty around their limited experience with the game.
+EasyやNormalをプレイするプレイヤーはBeatSaberやVRゲーム、リズムゲームそのものの経験がないことがあることを想像してください。 この経験がないことにより、より高いレベルで求められる譜面の構造やコンセプトを無視してしまうでしょう。例えば経験豊富なプレイヤーならよく理解する「フロー」の仕組みについてです。 このように考えると マッピングのスタイルもそのような自然な傾向を考慮したものにし、難易度も限られた経験に合わせて設定したほうがいいかもしれないということです。
 
-Some mappers may likely neglect to see the appeal for this process, as the approach ultimately goes against the fundamental nature of the game’s mechanics that would be required to advance to the higher levels of difficulty. From a design perspective, this relies on two primary reasons:
+Some mappers may likely neglect to see the appeal for this process, as the approach ultimately goes against the fundamental nature of the game’s mechanics that would be required to advance to the higher levels of difficulty. デザインの観点からは、理由が二つあります。
 
 1. **Limiting Factors**. These will be described in more detail below, but refer to the indirect “rules” for pattern creation that you should account for when making accessible lower difficulties. Grounding the mapping style to a perfect flow state as you would typically do in the upper difficulties may limit the potential in how you can build a lower difficulty, especially when limiting factors and rhythm choice already impose enough restrictions on their own. By using parity breaks as a tool for representation, you will have more options to preserve the map’s identity across the spread and make each difficulty feel more like a “progression” of the same core ideas. For some, this proves to be more beneficial for reception than trying to impress a concept that a new player may not be able to easily grasp.
 
@@ -193,13 +193,13 @@ In addition, it may be ill-advised to incorporate any dodge or crouch walls that
 
 The NJS of your map will affect both the spacing between notes and the timing windows provided for the player. A larger value will make your map more readable at the cost of being more timing-dependent for the player. The best way to determine the ideal NJS value for your map is to aim for the *lowest possible value* that would ensure a balance between the readability and playability of your map. Make sure the NJS value you choose can provide a clear line of sight for notes in the densest sections of your map, while also giving the player a fair and lenient timing window to comfortably and accurately swing for.
 
-For **Expert+**, the maximum NJS that has been used in an official capacity within the base game is **23**, so you shouldn’t need to go higher than this in most cases.
+**Expert+**に関しては公式では最大**23**に設定されています。ほとんどのケースで必要以上にこの値を超えないのが望ましいでしょう。
 
-For **Easy** and **Normal**, you will typically find the NJS to be anchored to **10** to make the transition into customs as smooth and familiar as possible for players coming off of the base game maps. Some mappers like to bump the NJS slightly higher or lower for these difficulties for personal preference or even better readability in some cases. This is acceptable, but be wary about putting the NJS too high where the map would be too fast for typical expectations. In most cases, **12** would be an acceptable upper limit for these difficulty levels.
+**Easy**や**Normal**では**10** あたりが標準的な数字です。公式曲からカスタムソングに移行してきたプレイヤーはスムーズに遊ぶことができます。 一部のマッパーは好みや譜面を読みやすくするために微調整することがあります。 それは受け入れられますが、一般的に譜面に期待されるNJSより大きくなることに関しては注意が必要です。 ほとんどの場合 **12** がこれらの難易度に対して許容される上限になります。
 
-For **Hard** and **Expert**, the NJS will vary depending on what values are established at the higher and lower end of the spread. Some mappers have found it effective to find values that would create a linear curve of values between the highest and lowest ends of the difficulty spread, but you should always be aiming for the lowest possible value where applicable.
+**Hard**と**Expert**はどこまで難易度を作成するのかによって大きく幅があります。 一部のマップパーは、最高難易度と最低難易度のNJSに直線的に比例させ値を決定するのが最適だというかもしれません。しかし、許容されるもっとも低い数値を目指したほうが良いです。
 
-For more information on the NJS ranges across all maps within the base game, check out the [Beat Saber Map Analysis](https://docs.google.com/spreadsheets/d/13wyoviJAplYOrsMocOA7YNXJxVRHd74G7z4U2jhCZa4) spreadsheet.
+公式の全マップのNJS範囲については [Beat Saber Map Analysis](https://docs.google.com/spreadsheets/d/13wyoviJAplYOrsMocOA7YNXJxVRHd74G7z4U2jhCZa4) スプレッドシートを参照してください。
 
 ::: warning NOTE For **Hard**, the typical NJS per OST conventions is locked to **10**, but for the standards of community maps this may not provide enough spacing between notes for readability purposes. :::
 

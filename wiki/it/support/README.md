@@ -157,7 +157,7 @@ Assicurati che le tue canzoni siano nella tua cartella `CustomLevels`, situata i
 Altrimenti, puoi convertirli manualmente usando [Song Converter](https://github.com/lolPants/songe-converter), tuttavia, non riceverai alcun aiuto con questo metodo e dovrai compilare da solo il programma.
 
 #### 3.7 Pulsante di Gioco Ingrigito
-Clicca il pulsante del punto interrogativo blu lucido (?) in alto a destra. Questo dovrebbe dirti che mod sono necessarie per riprodurre la canzone, quali sono mancanti e dovresti installare. Se ancora non funziona, prova a reinstallare la mod necessaria. Altrimenti, prova un'[Installazione Pulita](#clean-installation).
+Clicca il pulsante del punto interrogativo blu lucido (?) in alto a destra. This should tell you what mods are required to play the song, which you are missing and should install. Se ancora non funziona, prova a reinstallare la mod necessaria. Altrimenti, prova un'[Installazione Pulita](#clean-installation).
 
 #### 3.8 I dettagli della mappa caricano all'infinito
 Se questo si verifica solo su certe mappe, potresti mancare delle mod necessarie o quei file di canzoni sono corrotti. Se si verifica su tutte le tue mappe, elimina la tua cartella dei `Plugins` e reinstallali.

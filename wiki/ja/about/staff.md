@@ -9,7 +9,7 @@ _プロジェクトの管理、プラグインの承認、中枢サービスの�
 [GitHub](https://github.com/PlusOneRabbit) | [Twitch](https://www.twitch.tv/plusonerabbit) | [Donate](https://ko-fi.com/plusonerabbit)
 
 ## Bloodcloak
-A guy that is really into Japanese and EDM music with the occasional K-pop song. Loves creating dance style maps and playing rhythm games. _Totally_ hasn't fallen into the Vtuber hole and makes computer code that works! _"Most"_ of the time...
+邦楽とEDMが好きで、たまにK-POPを聴く人。 Loves creating dance style maps and playing rhythm games. _Totally_ hasn't fallen into the Vtuber hole and makes computer code that works! _"Most"_ of the time...
 
 **Roles:** Staff, Moderator, Mapping Support, Mapper, Event Winner  
 **Contributions:** Server Operations, Event Management, Contact System, Wiki Management, Mapping Resources Maintainer

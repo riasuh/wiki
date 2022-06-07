@@ -24,11 +24,11 @@ sidebar: auto
 
 Beat Saber уже поддерживает пользовательские песни, так что если вы не ищете большего, вам не нужны дополнительные моды! Не лишним будет установить `SongCore`, так как этот мод расширяет функционал основной игры, улучшая время загрузки и обеспечивая функциональность других модов, таких как внутриигровой загрузчик песен, пользовательские списки лидеров и т. д.
 
-::: warning Это руководство предназначено для модификации PC-версии (на Windows).  
-Если у вас есть Quest, посмотрите [страницу модификации для него](/ru/quest-modding.md).  
-Если вы на Linux, посмотрите [страницу модификации для Linux](/ru/modding/linux.md) или [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme). :::
+::: warning This guide is for PC-modding on Windows.  
+If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
+If you're on Linux, check out the [Linux page](./linux-modding.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
-Если у вас возникнут проблемы, пожалуйста, зайдите на [страницу поддержки](./support) и попробуйте определить, что именно пошло не так, прежде чем спрашивать в Discord. Скорее всего, там уже есть решение!
+If you run into problems at any point, please head to the [support page](./support/) and see if you can identify what went wrong before asking in the Discord server. Скорее всего, там уже есть решение!
 
 ::: warning Я посмотрел видео-туториал на YouTube, но что-то не получилось или я запутался. В чём дело? Мы в BSMG **категорически** рекомендуем избегать любые видео-туториалы по модифицированию. Часто случается, что они устарели, содержат неполную или неверную информацию.
 

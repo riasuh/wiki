@@ -107,12 +107,12 @@ PPシステムは、恐らくゲーム内のランキングについて、最も
 | オプション                       | 効果/内容                                                                                                                                                          |
 | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 失敗なし (0.00/-0.50)           | 失敗してもプレイを続けるセーフティネットです。 バージョン1.13.2から、曲に失敗した場合のみスコアペナルティが課されるようになりました。                                                                                         |
-| No Walls (-0.05)            | すべての障害物（壁）をマップから削除します。                                                                                                                                         |
+| 障害物なし (-0.05)               | すべての障害物（壁）をマップから削除します。                                                                                                                                         |
 | 爆弾なし (-0.10)                | すべてのボムをマップから削除します。                                                                                                                                             |
-| No Arrows (-0.30)           | All notes become dot notes, meaning you can hit them in any direction!                                                                                         |
-| Slower Song (-0.30)         | Slows down the song to 85% of the original speed.                                                                                                              |
-| 1 Life (0.00)               | Makes you fail on the first miss you make.                                                                                                                     |
-| 4 Lives (0.00)              | Stops the health bar from replenishing. This limits the total amount of misses and bad cuts you can have before failing.                                       |
+| 矢印なし (-0.30)                | すべてのノートはドットノートになります。どの方向からでもカットできます。                                                                                                                           |
+| スローダウン（-0.30）               | Slows down the song to 85% of the original speed.                                                                                                              |
+| 1ライフ（0.00）                  | Makes you fail on the first miss you make.                                                                                                                     |
+| 4ライフ（0.00）                  | Stops the health bar from replenishing. This limits the total amount of misses and bad cuts you can have before failing.                                       |
 | Disappearing Arrows (+0.07) | Makes the arrows disappear from the note as they approach you. You still need to remember the direction as you need to cut in the correct direction as always. |
 | Faster Song (+0.08)         | Speeds up the song to 120% of the original speed.                                                                                                              |
 | Super Fast Song (+0.10)     | Speeds up the song to 150% of the original speed.                                                                                                              |

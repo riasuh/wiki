@@ -1,28 +1,28 @@
 ---
 sidebar: "false"
 prev: ./platforms-guide.md
-description: Bobbie's guide to making Custom Notes!
+description: Bobbieのカスタムノーツ作成ガイド
 ---
 
-# Custom Notes Guide
-_Bobbie's guide to making Custom Notes._
+# カスタムノーツ作成ガイド
+_Bobbieのカスタムノーツ作成ガイド_
 
-## Intro
-This guide requires basic knowledge on 3d modeling and the Unity Engine. A few things are needed:
+## はじめに
+このガイドでは、3DモデリングとUnityエンジンに関する基本的な知識が必要です。 次のものが必要です
 
 * refer to the [original English version](../../models/notes-guide.md),
-* wait for a translation to be done,
-* If you don't already have a mesh you want to use, you'll need a 3d modeling program. I personally suggest [Blender](https://www.blender.org/)
-* Depending on what exactly you're modeling, photo editing software such as [Photoshop](https://www.adobe.com/products/photoshop.html) or [GIMP](https://www.gimp.org/downloads/) may be required.
+* カスタムノーツ用の[Unityプロジェクト](https://github.com/legoandmars/CustomNotesUnityProject/archive/master.zip)
+* あまたが使いたいメッシュをまだ持っていない場合は、3Dモデルエディタが必要です。 個人的には [ブレンダー](https://www.blender.org/)が良いと思います。
+* モデリングに応じて、 [Photoshop](https://www.adobe.com/products/photoshop.html) や [GIMP](https://www.gimp.org/downloads/) などの写真編集ソフトウェアが必要になる場合があります。
 
-## Unity Project
-::: danger DISCLAIMER
-Make sure you're using Unity version 2018.1.6f1!
-::: Open the custom notes project with Unity.
+## Unityプロジェクト
+::: disclaimer
+Unityのバージョンが2018.1.6f1であることを確認してください!
+::: Unityでカスタムノーツのプロジェクトを開きます。
 
 ![Unity Project](~@images/models/notes/unity_window.png)
 
-In the hierarchy window on the left, there are a few example notes.
+左側のhierarchyウィンドウには、いくつかサンプルノーツがあります。
 
 ![Object Hierarchy](~@images/models/notes/02.png)
 
@@ -30,18 +30,18 @@ When you click on one of these example notes, you'll see that it has a `NoteDesc
 
 ![NoteDescriptor](~@images/models/notes/03.png)
 
-Let's briefly go over what each of these settings do.
+それぞれの設定について簡単に説明しましょう。
 
 ### Note Name & Author Name
-This one is simple enough. Whatever the note and author name is set to is what will appear in the Custom Notes note selection UI, as shown in the image below.
+ノーツの名前と作者名です。 カスタムノーツ選択画面でノーツのイメージ画像の下にノーツの名前と作者名が表示されます。
 
 ![Ingame example of note name and author name](~@images/models/notes/04.png)
 
 ### Icon
-This setting takes an image that will be used as an icon. The icon will display in the Custom Notes note selection UI, as seen in the image above.
+この設定は、アイコンとして使用される画像です 上の画像のように、 のカスタムノーツ選択UIにアイコンが表示されます。
 
 ### Disable Base Note Arrows
-When enabled, this setting will make the default arrows present on notes invisible. Note: you must have `NoteDotLeft` and `NoteDotRight` gameobjects in your note if you want to enable this option.
+この設定を有効にすると、標準のノーツ矢印が非表示になります。 注意: このオプションを有効にしたい場合は、ノーツにに `NoteDotLeft` と `NoteDotRight` のゲームオブジェクトが必要です。
 
 ### Uses Note Color
 When this option is enabled, it uses the player's currently set note colors to tint your notes appropriately. This allows your notes to support `CustomColors`. If you want to use this properly, be sure to read the section dedicated to making your notes work with Custom Colors.
@@ -49,7 +49,7 @@ When this option is enabled, it uses the player's currently set note colors to t
 ### Note Color Strength
 This option is only used if `Uses Note Color` is enabled. Note Color Strength defines how strong the tint applied upon your notes is and is one by default. The lower you make this number, the more subtle the tint will be.
 
-## Creating a note
+## ノーツの作成
 You should already have a 3d model that you're going to use for your note. For this tutorial I'm going to be using a simple triangle mesh I made in blender. Go ahead and import your model into the project.
 
 ![Importing into the unity project](~@images/models/notes/05.png)

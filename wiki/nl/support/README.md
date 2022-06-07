@@ -157,7 +157,7 @@ Zorg ervoor dat je levels zich in je`CustomLevels` map bevinden, deze kan je ter
 Als alternatief kan je ze handmatig omzetten met [Song Converter](https://github.com/lolPants/songe-converter), maar je zal geen hulp ontvangen bij het gebruiken van deze methode en je moet het programma zelf compileren.
 
 #### 3.7 Uitgeschakelde afspeelknop
-Klik op het glimmende blauwe vraagteken (?) knop rechts bovenin. Dit zou je moeten vertellen welke mods je mist, en dus moet installeren, om het level te kunnen spelen. Als het nog steeds niet werkt, probeer dan de vereiste mod opnieuw te installeren. Als het daarna nog niet lukt, kan je altijd een [Nieuwe Installatie](#nieuwe-installatie) proberen.
+Klik op het glimmende blauwe vraagteken (?) knop rechts bovenin. This should tell you what mods are required to play the song, which you are missing and should install. Als het nog steeds niet werkt, probeer dan de vereiste mod opnieuw te installeren. Als het daarna nog niet lukt, kan je altijd een [Nieuwe Installatie](#nieuwe-installatie) proberen.
 
 #### 3.8 Level details blijven oneindig laden
 Als dit alleen gebeurt bij bepaalde levels, missen ze mogelijks vereiste mods of zijn de bestanden kapot. Als het met al je nummers gebeurt, verwijder dan de `Plugins` map en installeer de mods opnieuw.

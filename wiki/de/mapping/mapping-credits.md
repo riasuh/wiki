@@ -25,8 +25,8 @@ Ein großartiger Dance-Mapper, der eine [Video Tutorial Serie](https://bsaber.co
 [BeatSaver](https://beatsaver.com/uploader/5cff0b7298cc5a672c84e98d) | [BeastSaber](https://bsaber.com/members/bennydabeast/)
 
 ## Bloodcloak
-Ein Mapper, der sehr auf japanische und EDM-Musik mit gelegentlichem K-Pop-Song steht und es liebt, Maps im Tanzstil zu erstellen. Außerdem ist er ein Staff-Mitglied, der bei der Wartung und Verbesserung der Ressourcen hilft.  
-[BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Spenden](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
+Ein Mapper, der sehr auf japanische und EDM-Musik mit gelegentlichem K-Pop-Song steht und es liebt, Maps im Tanzstil zu erstellen. Also is a staff member that helps maintain and improve the resources.  
+[BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://ko-fi.com/bloodcloak) | [Staff Page](/about/staff.md#bloodcloak)
 
 ## Bullet
 Contributed environment lighting videos in [Basic Lighting](./basic-lighting.md), Chroma sections in [Intermediate Lighting](./intermediate-lighting.md) and [Advanced Lighting](./advanced-lighting.md), and various other pages. Hat einen interessanten Benutzernamen...  

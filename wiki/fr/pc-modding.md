@@ -24,10 +24,11 @@ Si vous n'êtes pas sûr que ce que vous avez installé est un malware ou non, *
 
 Beat Saber supporte les chansons personnalisées de façon native, donc vous n'avez pas besoin de mods si c'est tout ce que vous cherchez ! Cela dit, il est judicieux d'installer `SongCore` puisque ce mod étend les fonctionnalités de base afin de raccourcir les temps de chargement et de fournir une base pour d'autres mods tels que le téléchargeur en jeu, les classements personnalisés, les playlists, etc.
 
-::: warning ATTENTION Ce guide est pour le modding sur un PC Windows.  
-Si vous êtes sur Quest, voyez plutôt le [guide de modding Quest](/fr/quest-modding.md) Si vous êtes sur Linux, dirigez vous vers le [guide pour Linux](/fr/modding/linux.md) ou [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme). :::
+::: warning This guide is for PC-modding on Windows.  
+If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
+If you're on Linux, check out the [Linux page](./linux-modding.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
-Si à tout moment vous rencontrez des problèmes, veuillez vous rendre sur la [page d'aide](./support) pour essayez d'identifier ce qui ne va pas avant de demander dans le serveur Discord. Avec un peu de chance, la réponse que vous cherchez est déjà sur cette page !
+If you run into problems at any point, please head to the [support page](./support/) and see if you can identify what went wrong before asking in the Discord server. Avec un peu de chance, la réponse que vous cherchez est déjà sur cette page !
 
 ::: warning J'ai suivi un tutoriel vidéo sur Youtube, mais ça coince/ne marche pas. Pourquoi ? Ici, nous recommandons **fortement** d'évviter les tutoriels vidéos pour modder le jeu. Nous remarquons souvent que ces vidéos sont obsolètes ou fournissent des informations incomplètes, erronées voire complètement fausses.
 

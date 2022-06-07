@@ -220,7 +220,7 @@ With these steps done, you can now start modding your game!
 
 * [Qosmetics Community](https://discord.gg/qosmetics) - Server dedicated to making and using sabers, bloqs, walls, and more for Quest.
 * [Qosmetics Creation Guides](https://github.com/RedBrumbler/Qosmetics/wiki) - Guides to create your own custom sabers, bloqs, and walls for Quest.
-* [Beat Saber Quest Modding Guide](https://bsqmg.cal117.me/) - Guías para crear tus propios mods para Quest.
+* [Quest Mod Development Guide](./modding/README.md#quest-mod-development) - Guides to create your own mods for Quest.
 * [Sitio web de QuestBoard](https://questmodding.com) - Un lugar para obtener noticias e información relacionada con Beat Saber junto con los últimos lanzamientos de los mods.
 * [QuestBoard Discord server](https://discord.gg/P7sUKVnP) - A quest community to hangout and talk about Beat Saber related stuff, you can also get a role to get notified when a new mod gets released!
 * [Fixing Out of Sync Audio](https://bsaber.com/quest-out-of-sync/)

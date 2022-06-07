@@ -1,22 +1,25 @@
 ---
 home: true
-title: BSMG Wiki
 heroText: BSMG Wiki
-tagline: Willkommen zu der Beat Saber Modding Group Wiki!
+tagline: Welcome to the Beat Saber Modding Group Wiki!
 description: Willkommen zu der Beat Saber Modding Group Wiki!
-actionText: Anfänger Guide →
-actionLink: ./beginners-guide.md
+actions:
+  - 
+    text: Beginners Guide →
+    link: ./beginners-guide.md
+    type: secondary
 footer: Copyright © 2019-2022 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
   - bsmg
-  - Beat Saber
-  - Modding
-  - Wiki
-  - Support
-  - hilfe
-  - Wie werden Beat Maps gemacht?
+  - beat saber
+  - modding
+  - wiki
+  - support
+  - help
+  - how are beat maps make?
 ---
 
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
@@ -44,22 +47,22 @@ tags:
 :::
 
 </div>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-## Externe Links
+<h2 class='noborder'>Externe Links</h2>
+<!-- markdownlint-enable MD033 -->
 
 * [Tritt unserem Discord Server bei!](https://discord.gg/beatsabermods)
-* [Contact Us](https://bsmg.dev/contact) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.
+* [Kontaktiere uns](https://bsmg.dev/contact) - Biete uns deine Fähigkeiten an, sponser uns, lege Einspruch gegen einen Server-Mute/Ban ein, melde einen Benutzer usw.
 * [BSMG Patreon](https://www.patreon.com/beatsabermods) - Unterstütze die BSMG Services!
 
 ---
 
-* [BeatMods](https://beatmods.com) - Repository of PC mods that are reflected in installers like Mod Assistant
-* [BeatSaver](https://beatsaver.com/) - Download custom songs here
+* [BeatMods](https://beatmods.com) - Repository für alle PC Mods die in Installern wie Mod Assistant angezeigt werden
+* [BeatSaver](https://beatsaver.com/) - Lade eigene Songs hier herunter
 * [BeastSaber](https://bsaber.com/) - Reviews, articles, playlists, and more!
-* [ModelSaber](https://modelsaber.com/) - Download PC custom sabers, avatars, bloqs, and platforms!
+* [ModelSaber](https://modelsaber.com/) - Lade eigene Saber, Avatare, Bloqs und Plattformen herunter!
 
 ---
 
@@ -71,5 +74,5 @@ tags:
 
 ---
 
-* [Contribution Page](https://docs.google.com/document/d/1r6IP6l3uo8rc__GxfLkpaToxheeXotdYaKEj3oWB2js/edit?usp=sharing) - A how-to guide on contributing to the wiki.
-* [Apply to Help Translate the Wiki!](https://forms.gle/e3BqA3poMjESARe76) - Localize the wiki to your language!
+* [Beitragsseite](https://docs.google.com/document/d/1r6IP6l3uo8rc__GxfLkpaToxheeXotdYaKEj3oWB2js/edit?usp=sharing) - Eine Anleitung zum Beitrag im Wiki.
+* [Bewerbe dich hier mitzuhelfen um das BSMG Wiki zu übersetzen!](https://forms.gle/e3BqA3poMjESARe76) - Lokalisiere die Wiki in deine Sprache!

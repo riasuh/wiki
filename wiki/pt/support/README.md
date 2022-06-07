@@ -157,7 +157,7 @@ Verifique se suas músicas estão na sua pasta </code>CustomLevels`, localizada 
 Como alternativa, você pode convertê-las manualmente usando o [Song Converter](https://github.com/lolPants/songe-converter) no entanto, você não vai obter ajuda com este método e precisa compilar o programa você mesmo.
 
 #### 3.7 Botão Play Acinzentado
-Clique no botão de interrogação azul brilhante (?) no canto superior direito. Isso deve dizer quais mods são necessários para jogar a música, que estão faltando. Se ainda não estiver funcionando, tente reinstalar o mod necessário. Ou realize uma [Instalação Limpa](#clean-installation).
+Clique no botão de interrogação azul brilhante (?) no canto superior direito. This should tell you what mods are required to play the song, which you are missing and should install. Se ainda não estiver funcionando, tente reinstalar o mod necessário. Ou realize uma [Instalação Limpa](#clean-installation).
 
 #### 3.8 Detalhes dos mapas estão sendo carregados infinitamente
 Se isso só acontecer em mapas específicos, você pode estar sem mods necessários ou os arquivos de música estão quebrados. Se isso acontecer com todos os seus mapas, exclua a sua pasta `Plugins` e reinstale novos.

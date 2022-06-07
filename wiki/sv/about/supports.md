@@ -44,10 +44,6 @@ is too uncreative to think of a bio
 
 **Roles:** Support
 
-## Meivyn
-
-A very helpful individual
-
 ## Pespiri
 He'll give me his bio later today, or so he says.
 
@@ -91,13 +87,6 @@ He has no life and he's pretty dumb but he can help with your bmbf and that's al
 
 **Roles:** Support
 
-## SirSpam
-"Professional gamer, cat girl enjoyer, and adequate supporter"
-
-**Roles:** Support
-
-[GitHub](https://www.github.com/Sirspam) | [Twitch](https://www.twitch.tv/sirspam_) | [Twitter](https://www.twitter.com/Sirspamalot555)
-
 ## Squares
 SirSpam likes steak between two slices of bread!
 
@@ -122,9 +111,13 @@ The bot that holds it all together. Created by Megalon, recreated by lolPants, a
 
 [Merch!](https://www.redbubble.com/people/megalon-gaming/portfolio)
 
+## Meivyn (Retired)
+
+A very helpful individual
+
 ---
 
 ::: tip See Also **3D Artists:** [RedBrumbler](./3d-artists.md#redbrumbler)  
-**Modders:** [Kyle1413](./modders.md#kyle1413)  
+**Modders:** [Kyle1413](./modders.md#kyle1413) | [Sirspam](./modders.md#sirspam)  
 **Moderators:** [Razor](./moderators.md#razor) | [𝔍𝔢𝔫𝔫𝔦𝔣𝔢𝔯](./moderators.md#jennifer-retired) | [Chara_](./moderators.md#chara) | [Burrito](./moderators.md#burrito) | [OneEyed](./moderators.md#oneeyed-retired)  
 **Staff:** [Assistant](./staff.md#assistant-retired) | [Eradawn](./staff.md#eradawn) | [Klouder](./staff.md#klouder-retired) | [Megalon](./staff.md#megalon) | [Pink](./staff.md#pink) | [Steven](./staff.md#steven-🎀) | [williums](./staff.md#williums) | [Melopod ƸӜƷ](./staff.md#melopod-ƹжʒ) :::

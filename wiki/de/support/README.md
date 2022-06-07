@@ -157,7 +157,7 @@ Platziere die Songs **nicht** im alten `Beat Saber/CustomSongs` Ordner. Dieser S
 Alternativ kannst du sie auch manuell konvertieren, indem du [Song Converter](https://github.com/lolPants/songe-converter) benutzt. Jedoch wirst du bei der Methode keine Hilfe bekommen und du musst das Programm selbst compilen.
 
 #### 3.7 Ausgegrauter Play Button
-Klicke auf den glänzenden (?) Knopf oben rechts im Menü. Dieser sollte dir sagen welche Mods benötigt sind um den Song zu spielen, welche fehlen und installiert werden sollten. Wenn es immer noch nicht funktioniert, versuche die benötigte Mod neu zu installieren. Sonst probiere eine [Neuinstallation](#Saubere-Installation).
+Klicke auf den glänzenden (?) Knopf oben rechts im Menü. This should tell you what mods are required to play the song, which you are missing and should install. Wenn es immer noch nicht funktioniert, versuche die benötigte Mod neu zu installieren. Sonst probiere eine [Neuinstallation](#Saubere-Installation).
 
 #### 3.8 Map Details werden unendlich geladen
 Falls das nur bei ein paar bestimmten Maps auftritt, kann es sein, das manche Mods fehlen oder das die Songdatei kaputt ist. Falls es bei all deinen Maps passiert, lösche deinen `Plugins` Ordner und installiere deine Mods noch einmal.

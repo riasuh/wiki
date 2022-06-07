@@ -24,11 +24,11 @@ sidebar: auto
 
 节奏光剑原生支持自定义歌曲，如果你只是想要这个功能的话并不需要安装Mod！ 安装 `SongCore (歌曲核心)` Mod是不错的选择，因为这个 Mod 不仅为原生游戏增加了一些额外功能并降低了加载时间，还作为游戏内下载 (in-game downloader)，自定义排行榜 (custom leaderboards)，歌曲列表 (playlists) 等 Mod 的依赖项。
 
-::: warning 该指南只针对Windows上的PC端Mod。  
-如果你有Quest设备，请见 [Quest 端 Mod 页](/quest-modding.md)。  
-如果你使用Linux系统，请见 [Linux 页](/modding/linux.md) 或[Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
+::: warning This guide is for PC-modding on Windows.  
+If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
+If you're on Linux, check out the [Linux page](./linux-modding.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
-如果你在任何时候遇到困难，在Discord社区提问前可以试试在 [支持页](./support) 看看是否可以自行解决一些问题， 很有可能你遇到的问题就在那页里！
+If you run into problems at any point, please head to the [support page](./support/) and see if you can identify what went wrong before asking in the Discord server. 很有可能你遇到的问题就在那页里！
 
 ::: warning 我在YouTube上看了教程视频，但是还是没法运行。 这些视频教了您什么？ 我们 BSMG **非常** 反对使用 Mod 视频教程。 我们经常发现过时的，不完整的，误导性的或者不正确的信息。
 

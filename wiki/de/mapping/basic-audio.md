@@ -227,7 +227,9 @@ Um den RMS-Wert in deinem Song zu prüfen, gehe wie folgt vor:
 ### Volumen Modifikation
 Bevor du mit den nächsten Schritten der Songbearbeitung fortfährst, wird dringend empfohlen, den aktuellen Fortschritt als WAVE-Datei als Backup zu speichern. So stellst du sicher, dass du eine qualitativ hochwertige Quelle verwenden kannst, wenn du zurückgehst und einige der Bearbeitungen wiederholen musst. (Lade nicht das OGG, das du vorher exportiert hast, da es viel von der Qualität der Quelle verloren hat). Entferne die Klickspur, falls noch nicht geschehen, gehe dann ins Menü `Datei -> Exportieren -> Als WAV exportieren`, und speichere die Datei
 
-::: tip HINWEIS Jede Art von Audiobearbeitung eines Songs verändert unweigerlich seinen Klang, ist aber ein wichtiger Schritt, um jedem Spieler das beste Map- und Song-Erlebnis zu bieten. :::
+::: tip HINWEIS
+Jede Art von Audiobearbeitung eines Songs verändert unweigerlich seinen Klang, ist aber ein wichtiger Schritt, um jedem Spieler das beste Map- und Song-Erlebnis zu bieten.
+:::
 
 #### Mach deinen Song Lauter
 Wenn der Chorus des Songs einen niedrigeren RMS-Wert als den empfohlenen **-11db** hat, musst du die Lautstärke durch Kompression und/oder Limiting erhöhen. (Hinweis: Amplify/Gain wird hierfür nicht verwendet, da alles über 0db zu einer unangenehmen Verzerrung erzeugt.)
@@ -342,7 +344,11 @@ Um eine kompatible Ton Datei zu erzeugen, die du verwenden kannst, musst du wie 
 
 Die Song-/Audiodatei ist nun bereit, in einem beliebigen Map-Editor verwendet zu werden. Gib die gleichen BPM, die du zuvor erhalten hast, in den Map-Editor deiner Wahl ein und stelle sicher, dass du für alle Schwierigkeiten einen Offset von 0ms verwendest (da der Song bereits auf den Beat synchronisiert ist).
 
-::: warning NOTE Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord (without Nitro or Server Boost Level 2) for playtesting. :::
+::: warning NOTE
+Audio file should not be larger than ~14 MB due to the BeatSaver 15 MB ZIP file limit. If this is the case export at a
+lower quality until the file meets the file size limit. ZIP files over 8 MB cannot be shared directly on Discord
+(without Nitro or Server Boost Level 2) for playtesting.
+:::
 
 ## Credits
 Der Inhalt dieser Seite stammt aus Anleitungen von [Kolezan](./mapping-credits.md#kolezan) & [Nik](./mapping-credits.md#nik-n3tman).

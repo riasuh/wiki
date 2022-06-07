@@ -26,7 +26,7 @@ An awesome dance mapper who created a [video tutorial series](https://bsaber.com
 
 ## Bloodcloak
 A mapper that is really into Japanese and EDM music with the occasional K-pop song and loves creating dance style maps. Also is a staff member that helps maintain and improve the resources.  
-[BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://www.paypal.me/bloodcloak) | [Ko-Fi](https://ko-fi.com/bloodcloak)
+[BeatSaver](https://beatsaver.com/uploader/5cff0b7698cc5a672c8551d3) | [BeastSaber](https://bsaber.com/members/bloodcloak/) | [Donate](https://ko-fi.com/bloodcloak) | [Staff Page](/about/staff.md#bloodcloak)
 
 ## Bullet
 Contributed environment lighting videos in [Basic Lighting](./basic-lighting.md), Chroma sections in [Intermediate Lighting](./intermediate-lighting.md) and [Advanced Lighting](./advanced-lighting.md), and various other pages. Has an interesting username...  

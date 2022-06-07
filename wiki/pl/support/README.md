@@ -158,7 +158,7 @@ Make sure your songs are in your `CustomLevels` folder, located at `Beat Saber/B
 Alternatively you can manually convert them using [Song Converter](https://github.com/lolPants/songe-converter) however, you will not get any help with this method and need to compile the program yourself.
 
 #### 3.7 Grayed Out Play Button
-Click the shiny blue question mark (?) button in the top right corner. This should tell you what mods are required to y the song, which you are missing and should install. If it is still not working, try re-installing the required mod. Otherwise try a [Clean Install](#clean-installation).
+Click the shiny blue question mark (?) button in the top right corner. This should tell you what mods are required to play the song, which you are missing and should install. If it is still not working, try re-installing the required mod. Otherwise try a [Clean Install](#clean-installation).
 
 #### 3.8 Map details are infinitely loading
 If this only happens on particular maps, you may be missing required mods or those song files are broken. If it happens to all of your maps, delete your `Plugins` folder and reinstall fresh ones.

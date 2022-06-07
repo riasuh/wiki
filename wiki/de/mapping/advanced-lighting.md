@@ -75,7 +75,9 @@ Die genauen Start- und Endintervalle (beim Intervallwechsel zwischen den Ereigni
 How to generate logs to get all the data in an environment:
 
 1. Open `Beat Saber/UserData/Beat Saber IPA.json` in a text editor and set `"CreateModLogs": true`.
-2. Open `Beat Saber/UserData/Chroma.json` and set `"PrintEnvironmentEnhancementDebug": true`. :::warning NOTE Now when you open any Chroma map in game, it will generate a log of its environment. :::
+2. Open `Beat Saber/UserData/Chroma.json` and set `"PrintEnvironmentEnhancementDebug": true`. :::warning NOTE
+Now when you open any Chroma map in game, it will generate a log of its environment.
+:::
 3. Open ChroMapper, select the environment you want to use and save the song info.
 4. Place a single light event in the map and change the light to a chroma color.
 5. Load Beat Saber and play the map for a second. The log is located in `Beat Saber/Logs/Chroma`.
@@ -95,7 +97,9 @@ Ein One-Way Konverter zu Chroma 2.0 steht für deine Map zur Verfügung. [Chroma
 3. Select the level you want to map in and click on the ExtraFields tab to the right of the difficulty select.
 4. Click on the Suggestions tab and then type in `Chroma`.
 
-:::warning HINWEIS Der Text, den du in die Vorschläge eingibst, muss exakt sein, sonst werden die Chroma Lichteffekte nicht im Spiel angezeigt :::
+:::warning HINWEIS
+Der Text, den du in die Vorschläge eingibst, muss exakt sein, sonst werden die Chroma Lichteffekte nicht im Spiel angezeigt
+:::
 
 5. Click the Add button to add it to the suggestions.
 6. Click Save song infos in the bottom left corner.
@@ -122,7 +126,9 @@ Chroma-Events bewirken nichts von selbst. Chroma-Events fungieren als Lichtfilte
 
 ::: align center ![Screenshot of the MMA2 lighting track with Chroma events](~@images/mapping/mma2-chroma.png) :::
 
-:::warning Platziere keine Chroma-Events innerhalb eines anderen Events. Es kann zu Problemen beim Kopieren und Einfügen kommen und MMs schlampige Rundung kann sogar das Chroma nach dem eigentlichen Ereignis platzieren und die Farbe wird nicht geändert. Vermeide dies komplett. ~Halcyon12 :::
+:::warning
+Platziere keine Chroma-Events innerhalb eines anderen Events. Es kann zu Problemen beim Kopieren und Einfügen kommen und MMs schlampige Rundung kann sogar das Chroma nach dem eigentlichen Ereignis platzieren und die Farbe wird nicht geändert. Vermeide dies komplett. ~Halcyon12
+:::
 
 ### Gradients
 Wie man einen Farbverlauf mit Chroma-Events platziert:

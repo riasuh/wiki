@@ -39,7 +39,9 @@ While no one is going to ask you to write a 500 word essay on triangles, you sho
 
 As for including a video on your playthrough, there are many different ways to go about it. Some people use [Shadowplay](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/), some use Windows’ built-in screen recorder, and others use [OBS: Open Broadcaster Software](https://obsproject.com/). All are good options and choosing one depends on your own workflow and in the case of Shadowplay, if you have the appropriate hardware.
 
-::: tip TIP Audio not working? Double check Windows Sonic (spatial sound) is on/off. Try turning it on if it's off, and vice versa. :::
+::: tip TIP
+Audio not working? Double check Windows Sonic (spatial sound) is on/off. Try turning it on if it's off, and vice versa.
+:::
 
 ### Using Shadowplay
 ::: tip NOTE This is a stub section. If you’d like to contribute, submit suggestions via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfVS6_EMZOujxthR3lTa2eEwHg5C3x1INouLgnbHhBDpv1M5A/viewform) or contribute via GitHub! :::
@@ -68,7 +70,10 @@ With this setup, and real time voice commentary, you can easily cut your playtes
 ## What to Look For
 So you’re all set up, you’ve learnt the steps to posting a testplay, and you’re familiar with all of the mapping basics. If you’re still not sure what exactly to look for while testplaying a map, don’t sweat it! General feedback of, ‘this doesn’t feel good’, or ‘I found this too hard’, is perfectly acceptable. While it’s nice to be able to give specific reasoning as to why you feel the way you do, that will come with time and experience.
 
-::: tip Beware of the Testplayer Bias! Try to view things objectively; just because you don’t like sliders, doesn’t mean the mapper used them incorrectly. If a map is full of things you don’t like, considering leaving it for someone else! :::
+::: tip Beware of the Testplayer Bias!
+Try to view things objectively; just because you don’t like sliders, doesn’t mean the mapper used them incorrectly. If a
+map is full of things you don’t like, considering leaving it for someone else!
+:::
 
 If you feel more comfortable going into it with a checklist, consider these:
 

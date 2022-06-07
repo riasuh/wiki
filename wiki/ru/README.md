@@ -1,22 +1,25 @@
 ---
 home: true
-title: BSMG Вики
-heroText: BSMG Wiki
-tagline: Добро пожаловать в Beat Saber Modding Group вики!
+heroText: BSMG Вики
+tagline: Welcome to the Beat Saber Modding Group Wiki!
 description: Добро пожаловать в Beat Saber Modding Group вики!
-actionText: Руководство для начинающих
-actionLink: ./beginners-guide.md
+actions:
+  - 
+    text: Beginners Guide →
+    link: ./beginners-guide.md
+    type: secondary
 footer: Copyright © 2019-2022 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
   - bsmg
   - beat saber
-  - модифицирование
-  - вики
-  - поддержка
-  - справка
-  - как создать карту?
+  - modding
+  - wiki
+  - support
+  - help
+  - how are beat maps make?
 ---
 
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
@@ -45,11 +48,11 @@ tags:
 :::
 
 </div>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-## Внешние ссылки
+<h2 class='noborder'>External Links</h2>
+<!-- markdownlint-enable MD033 -->
 
 * [Заходите на наш сервер Discord!](https://discord.gg/beatsabermods)
 * [Contact Us](https://bsmg.dev/contact) - Offer your skills, sponsor us, appeal a server mute/ban, report a user, etc.

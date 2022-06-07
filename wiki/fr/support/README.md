@@ -157,7 +157,7 @@ Assurez-vous que vos chansons sont dans votre dossier `CustomLevels`, situé dan
 Alternativement, vous pouvez manuellement les convertir en utilisant [Song Converter](https://github.com/lolPants/songe-converter), mais vous n'obtiendrez aucune aide en suivant cette méthode, et vous devrez compiler le programme vous-même.
 
 #### 3.7 Bouton Play/Jouer grisé
-Cliquez sur le point d'interrogation (?) bleu dans le coin en haut à droite. Cela devrait vous indiquer quels mods sont nécessaires pour jouer la chanson, ceux que vous n'avez pas et que vous devrez installer. Si cela ne fonctionne toujours pas, essayez de réinstaller les mods nécessaires. Sinon, essayez une [réinstallation propre](#installation-propre).
+Cliquez sur le point d'interrogation (?) bleu dans le coin en haut à droite. This should tell you what mods are required to play the song, which you are missing and should install. Si cela ne fonctionne toujours pas, essayez de réinstaller les mods nécessaires. Sinon, essayez une [réinstallation propre](#installation-propre).
 
 #### 3.8 Les détails de la map chargent indéfiniment
 Si cela ne se produit que sur certaines maps, vous n'avez peut-être pas les mods nécessaires, ou cette map peut être corrompue. Si cela se produit sur toutes vos maps, supprimez votre dossier `Plugins` et réinstallez vos mods.

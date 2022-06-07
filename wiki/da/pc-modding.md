@@ -24,11 +24,11 @@ Hvis du er usikker på om noget, du har installeret, er malware eller ej, ***så
 
 Beat Saber understøtter allerede brugerskabte sange, så hvis det er alt du leder efter, behøver du ikke flere mods! Det er en god idé at installere `SongCore` alligevel, da denne mod udvider spillets grundfunktion til at forbedre indlæsningstiden og levere funktionalitet til andre mods såsom download af sange inde i spillet, ranglister til brugerskabte baner, playlister osv.
 
-:::advarsel Denne guide er til PC-modding på Windows.  
-Hvis du har en Quest, se siden [Quest Modding](/da/quest-modding.md).  
-Hvis du er på Linux, så tjek [Linux-siden](/da/modding/linux.md) eller [QBeat](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
+::: warning This guide is for PC-modding on Windows.  
+If you have a Quest, see the [Quest Modding page](/quest-modding.md).  
+If you're on Linux, check out the [Linux page](./linux-modding.md) or [Beataroni](https://github.com/geefr/beatsaber-linux-goodies/#readme) :::
 
-Hvis du løber ind i problemer på noget tidspunkt, så gå til [supportsiden](./support) og se om du kan identificere, hvad der gik galt, før du spørger inde på Discord serveren. Der er gode muligheder for, at svaret er på den side!
+If you run into problems at any point, please head to the [support page](./support/) and see if you can identify what went wrong before asking in the Discord server. Der er gode muligheder for, at svaret er på den side!
 
 ::: warning ADVARSEL Jeg fulgte en tutorial på YouTube, men jeg sidder fast/det virkede ikke. Hvad skyldes det? Vi her i BSMG anbefaler **kraftigt** imod at bruge nogen tutorials fra YouTube. Ofte finder vi, at de er forældede eller indeholder en ufuldstændig, fejlagtig eller direkte ukorrekt information.
 

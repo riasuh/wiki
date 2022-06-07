@@ -15,7 +15,10 @@ Auf dieser Seite findest du zusätzliche Anleitungen und Ressourcen zum besseren
 ## Audio Qualität überprüfen
 Generell sollte man immer **WAV(E)- oder FLAC (verlustfrei unkomprimiert oder komprimiert)** Dateien als Quelle für deine Songs verwenden. Das liegt daran, dass **verlustbehaftete Formate wie MP3, AAC oder OGG bei der Konvertierung in ihre Formate immer Informationen verlieren** und nicht durch "Rückkonvertierung" wiederhergestellt werden. Aus diesem Grund sollte man exportierte OGG-Datei niemals dazu verwenden, neue Bearbeitungen am Audiomaterial vorzunehmen. Verwende daher wenn möglich, immer eine verlustfreie Quelldatei. Einige FLAC Quellen können jedoch aus verlustbehafteten Formaten "hochkonvertiert" werden. Es empfiehlt sich daher, Audiodatei(en) vor der Verwendung mit einem Spektralanalysetool zu überprüfen. Für weitere Informationen über Audioformate [wird dieser Artikel empfohlen](https://opentrackers.org/whatinterviewprep.com/prepare-for-the-interview/audio-formats/index.html).
 
-::: tip Speicher deine eigenen verlustfreien WAV(E)-Dateien bei jedem Bearbeitungsschritt, so dass du immer eine verlustfreie Quelle hast, mit der du die Bearbeitung fortsetzen kannst ohne alles von vorn beginnen zu müssen. So hast du immer eine verlustfreie Quelle, mit der du die Bearbeitung fortsetzen kannst, ohne alles von Anfang an neu machen zu müssen. :::
+::: tip
+Speicher deine eigenen verlustfreien WAV(E)-Dateien bei jedem Bearbeitungsschritt, so dass du immer eine verlustfreie Quelle hast, mit der du die Bearbeitung fortsetzen kannst ohne alles von vorn beginnen zu müssen.
+So hast du immer eine verlustfreie Quelle, mit der du die Bearbeitung fortsetzen kannst, ohne alles von Anfang an neu machen zu müssen.
+:::
 
 Die beste Möglichkeit die Qualität der Quelle und den Qualitätsverlust zu überprüfen, ist die Verwendung von [Spek](http://spek.cc/), ein kostenloses akustisches Spektrum-Analyse-Tool:
 
@@ -191,7 +194,9 @@ Wenn dies der Fall ist, musst du folgendes tun:
 
 Das Warpen deines Songs ist einfach eine Sache der Wiederholung dieses Vorgangs für den gesamten Song. Du solltest damit beginnen, dies etwa alle 4 Schläge oder so zu tun. Meistens ist dies gut genug, um den ganzen Song aufzustellen, aber achte auf die Beats zwischen den Stretch Markierungen. Wenn sie zu driften beginnen, verwende einen weiteren Stretchmarker, um sie zu fixieren.
 
-:::warning HINWEIS Übermäßige Warps könnten Artefakte einführen oder den Song so stark verändern, dass er für den Hörer/Spieler wahrnehmbar ist. :::
+:::warning HINWEIS
+Übermäßige Warps könnten Artefakte einführen oder den Song so stark verändern, dass er für den Hörer/Spieler wahrnehmbar ist.
+:::
 
 #### Dinge im Hinterkopf behalten
 Beim Warpen eines Songs kann es viele versteckte "Gochas" geben. Hier sind einige Dinge, die dir begegnen könnten, und mögliche Lösungen.

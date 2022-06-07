@@ -57,24 +57,31 @@ Criador de CustomEnergyBars e SpectroSaber! Modificar o jogo funny de música de
 
 [GitHub](https://github.com/ckosmic) | [Donate](https://paypal.me/ckosmic)
 
-## DaNike
-Criador da versão personalizada do IPA (illusion plugin architecture) BSIPA, um injetor de mods para permitir que o Beat Saber use mods. Uma ferramenta incrível que facilita o modding no Beat Saber da maneira como é.
+## Cubic
+Does server-side code for BeatTogether multiplayer servers and quest modding. Mainly multiplayer stuff.
 
-**Cargos:** Modder **Contribuições:** BSIPA
+**Roles:** Modder **Contributions:** MultiplayerCore (quest), MultiplayerQuestensions, BeatTogether servers
+
+[GitHub](https://github.com/cubicgraphics) | [Donate](https://ko-fi.com/cubicgraphics)
+
+## DaNike
+Creator of the custom-tailored version of IPA (illusion plugin architecture) BSIPA, a mod injector to allow Beat Saber to use mods. An incredible tool that makes modding beat saber as easy as it is.
+
+**Roles:** Modder **Contributions:** BSIPA
 
 [GitHub](https://github.com/nike4613) | [Donate](https://ko-fi.com/danike)
 
 ## emulamer
-Um contribuidor em tanto para o desenvolvimento dos mods de Quest.
+A massive contributor to the development of quest mods.
 
-**Cargos:** Modder
+**Roles:** Modder
 
 ## Eris
-Um dos muitos que têm um horário de sono muito questionável. Criador do MorePrecisePlayerHeight. Terminou mantendo uma variedade vasta de mods após adotá-los de seus criadores originais. E também, Pink cute.
+One of many with a very questionable sleep schedule. Creator of MorePrecisePlayerHeight. Ended up maintaining a wild variety of mods after adopting them from their original creators. Also Pink cute.
 
-**Cargos:** Modder **Contribuições:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
+**Roles:** Modder **Contributions:** MorePrecisePlayerHeight, HitScoreVisualizer, ChatCore, EnhancedStreamChat, ...
 
-[Github](https://github.com/erisapps) [Doe com Patreon](https://www.patreon.com/erisapps) 'y [Doe com Ko-fi](https://ko-fi.com/erisapps)
+[GitHub](https://github.com/erisapps) | [Donate with Patreon](https://www.patreon.com/erisapps) | [Donate with Ko-fi](https://ko-fi.com/erisapps)
 
 ## Exomanz
 Rainbows? Rainbows.
@@ -217,9 +224,9 @@ does things sometimes ????
 ## Raine
 girl who writes weird code, decided to rewrite ModelSaber
 
-**Roles:** Modder **Contrributions:** ScoreRequirement, updated/rewrote CustomMenuPointers
+**Roles:** Modder **Contributions:** AccSaber and Quest LeaderboardCore
 
-[GitHub](https://github.com/sponsors/raineio), [Ko-Fi](https://ko-fi.com/rainymods)
+[GitHub](https://github.com/raineio) | [Ko-Fi](https://ko-fi.com/rainymods)
 
 ## RedBrumbler
 It's pronounced Cosmetics, but spelled with a Q.
@@ -264,6 +271,13 @@ Making sure we're all nice and hydrated after cutting the blocks.
 **Roles:** Modder **Contributions:** Custom Exit, Drink Water Mod
 
 [GitHub](https://github.com/Shoko84) | [Twitch](https://www.twitch.tv/shoko84) | [Donate](https://streamlabs.com/shoko84)
+
+## Sirspam
+Cat girl enthusiast *(a little bit goofy)* ❤️
+
+**Roles:** Modder, Support **Contributions:** Nya, Greetings, MenuPillars, MultiCode-inator
+
+[GitHub](https://www.github.com/Sirspam) | [Twitch](https://www.twitch.tv/sirspam_) | [Twitter](https://www.twitter.com/Sirspamalot555)
 
 ## SkyKiwi
 The madman who started Chroma and Chromatoggle. He added things to the game that suggests that his head isn't screwed on right, as well as created RGB lighting for mappers to use.

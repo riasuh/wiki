@@ -1,11 +1,13 @@
 ---
 home: true
-title: BSMG Wiki
 heroText: BSMG Wiki
 tagline: Beat Saber Modding Group Wiki へようこそ!
 description: Beat Saber Modding Group Wiki へようこそ!
-actionText: 初心者向けガイド →
-actionLink: ./beginners-guide.md
+actions:
+  - 
+    text: 初めての方はこちら →
+    link: ./beginners-guide.md
+    type: secondary
 footer: Copyright © 2019-2022 Beat Saber Modding Group | Licensed under CC BY-NC-SA 4.0
 tags:
   - bsmg
@@ -17,6 +19,7 @@ tags:
   - 譜面の作り方
 ---
 
+<!-- markdownlint-disable MD041 -->
 <!-- markdownlint-disable MD033 -->
 <div class='features'>
 
@@ -45,11 +48,11 @@ tags:
 :::
 
 </div>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
-## 外部リンク
+<h2 class='noborder'>外部リンク</h2>
+<!-- markdownlint-enable MD033 -->
 
 * [Discordサーバーに参加する](https://discord.gg/beatsabermods)
 * [お問い合わせ](https://bsmg.dev/contact) スキルを提供したい、スポンサーになりたい、サーバー内のユーザーのミュート、Ban、報告など、その他問い合わせ

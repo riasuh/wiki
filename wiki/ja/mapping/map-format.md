@@ -2,13 +2,13 @@
 sidebar: auto
 prev: ./intermediate-mapping.md
 next: false
-description: Take a deep dive into the format for a Beat Saber map.
+description: Beat Saberマップのフォーマットについて深く掘り下げてみましょう。
 ---
 
-# Map Format
-There's some cases where, available tools and map editors do not provide some functionality that you want. You might also feel inspired to create a tool or map editor for the fun of it.
+# 譜面のフォーマット
+利用可能なツールやマップエディタが必要な機能を提供していない場合があります。 また、ツールやマップエディタを作成することもできます。
 
-One problem, though. What *exactly* goes into a map file? This is important to understand when developing new tools, scripts, and editors.
+One problem, though. What *exactly* goes into a map file? これは、 の新しいツール、スクリプト、エディタを開発する際に重要になります。
 
 This page will help you understand the internal workings of a full Beat Saber map, and provide information about what each property and value represents.
 
@@ -29,7 +29,7 @@ You can read through the BeatSaver Schema to get a deeper understanding of what 
 
 or contribute to translation effort [here](https://github.com/bsmg/wiki). :::
 
-### Base Object
+### ベースオブジェクト
 Here is the basic format for an `Info.dat` file. Notice how difficulty beatmap sets are ommitted; they'll be explained later down this page.
 
 ```json
@@ -50,12 +50,12 @@ Here is the basic format for an `Info.dat` file. Notice how difficulty beatmap s
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_songTimeOffset": 0,
   "_customData": {
-    // Any custom data will go here.
-    // If empty, this should be removed entirely.
+    // カスタムデータはここに入ります
+    // 空欄の場合は、消しておく必要があります。
   },
   "_difficultyBeatmapSets": [
-    // Difficulty beatmap sets (and difficulty beatmaps) are explained later down the page.
-    // Check the sidebar!
+    // それぞれの難易度については別のページで説明します。
+    // サイドバーを確認してください。
   ]
 }
 ```
@@ -986,19 +986,25 @@ Depending on the aforementioned [`_type`](#type) of the event, the `_value` of i
 ##### Controlling Lights
 It's default behavior is controlling brightness and color of lights, and follows this table:
 
-| `_value` | Result                                                                                      |
-|:--------:| ------------------------------------------------------------------------------------------- |
-|   `0`    | Turns the light group off.                                                                  |
-|   `1`    | Changes the lights to blue, and turns the lights on.                                        |
-|   `2`    | Changes the lights to blue, and flashes brightly before returning to normal.                |
-|   `3`    | Changes the lights to blue, and flashes brightly before fading to black.                    |
-|   `4`    | (Previously Unused.)<br/>Changes the lights to blue by fading from the current state. |
-|   `5`    | Changes the lights to red, and turns the lights on.                                         |
-|   `6`    | Changes the lights to red, and flashes brightly before returning to normal.                 |
-|   `7`    | Changes the lights to red, and flashes brightly before fading to black.                     |
-|   `8`    | Changes the lights to red by fading from the current state.                                 |
+| `_value` | Type       | Result                                                                                      |
+|:--------:|:---------- | ------------------------------------------------------------------------------------------- |
+|   `0`    | Off        | Turns the light group off.                                                                  |
+|   `1`    | On         | Changes the lights to blue, and turns the lights on.                                        |
+|   `2`    | Flash      | Changes the lights to blue, and flashes brightly before returning to normal.                |
+|   `3`    | Fade       | Changes the lights to blue, and flashes brightly before fading to black.                    |
+|   `4`    | Transition | (Previously Unused.)<br/>Changes the lights to blue by fading from the current state. |
+|   `5`    | On         | Changes the lights to red, and turns the lights on.                                         |
+|   `6`    | Flash      | Changes the lights to red, and flashes brightly before returning to normal.                 |
+|   `7`    | Fade       | Changes the lights to red, and flashes brightly before fading to black.                     |
+|   `8`    | Transition | Changes the lights to red by fading from the current state.                                 |
+|   `9`    | On         | Changes the lights to white, and turns the lights on.                                       |
+|   `10`   | Flash      | Changes the lights to white, and flashes brightly before returning to normal.               |
+|   `11`   | Fade       | Changes the lights to white, and flashes brightly before fading to black.                   |
+|   `12`   | Transition | Changes the lights to white by fading from the current state.                               |
 
-`_value` 4 and 8 were introduced in Beat Saber version `1.18.0` (Billie Eilish patch). These events will only transition from Off and On (0, 1, and 4 )events. They will do nothing if transitions fade and flash events (2, 3, 6, and 7).
+`_value` 4 and 8 were introduced in Beat Saber version `1.18.0` (Billie Eilish patch). These transition events will only transition from off, on, or other transition events. They will do nothing if the previous event is a fade or flash event.
+
+`_value` 9, 10, 11, and 12 were introduced in Beat Saver version `1.22.0` (Electronic Mixtape patch).
 
 ##### Controlling Boost Colors
 | `_value` | Result                                                            |
